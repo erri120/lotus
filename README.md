@@ -40,7 +40,7 @@ Mod: [Quick Light SE](https://www.nexusmods.com/skyrimspecialedition/mods/12633)
 
 ### Nemesis PCEA
 
-This menu lets you enable/disable player only animations. The _1Female_ and _2Male_ are from the [Realistic Animation Project - Movement](https://www.nexusmods.com/skyrim/mods/77343) mod which I ported to SSE. I highly recommend you check the animations for whatever gender your character is.
+This menu lets you enable/disable player only animations. The _0Female_ and _1Male_ are from the [Realistic Animation Project - Movement](https://www.nexusmods.com/skyrim/mods/77343) mod which I ported to SSE. I highly recommend you check the animations for whatever gender your character is.
 
 Mod: [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667)
 
@@ -100,6 +100,10 @@ This Modlist uses [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mod
 If you want to add _Player only_ animations, checkout [Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667).
 
 ## Removing the Modlist from your System
+
+Since we are using MO2 as our Mod Manager the removal of this Modlist is very simple. Remove the MO2 folder and you're done. Of course there are still your save files in the documents folder and your game folder still contains SKSE and the ENB. I recommend using the [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) to remove the enb leftovers from your game folder.
+
+To uninstall SKSE, remove all files starting with `skse64_*`.
 
 ## Contact
 
