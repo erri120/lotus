@@ -28,6 +28,12 @@ I compile this Modlist not from the latest release but from the latest commit on
 
 ## Updating
 
+If this Modlist receives an update than you should always check the Changelog for that release before doing anything. Always backup your saves in case anything happens or start anew with the update depending on the changes made.
+
+**Wabbajack will delete all files that are not part of the Modlist when updating!**
+
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
 ## In-Game MCM Options
 
 Once you're in the actual game, there are still some MCM options you should configure before starting your playthrough. This is entirely optional but highly recommended since some options can change your game substantially.
