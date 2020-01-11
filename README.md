@@ -12,6 +12,7 @@
   - [CBBE](#cbbe)
   - [Nemesis](#nemesis)
 - [Adding more mods](#adding-more-mods)
+  - [Textures](#textures)
   - [Outfits](#outfits)
   - [Animations](#animations)
 - [Removing the Modlist from your System](#removing-the-modlist-from-your-system)
@@ -88,6 +89,10 @@ Links:
 **Read the [Important Mods you should know about](#important-mods-you-should-know-about) sections first**
 
 If you want to add more mods to this setup than I'm glad you have found your way here. Do note that adding mods to any Modlist, not marked as **modular** or **expandable**, requires decent enough knowledge about modding and working with tools like [xEdit](https://github.com/TES5Edit/TES5Edit), [zEdit](https://github.com/z-edit/zedit) and [Mator Smash](https://www.nexusmods.com/skyrim/mods/90987).
+
+### Textures
+
+Probably the most easiest type of mods you can add to any setup. The only thing you need to look out for are LODs.
 
 ### Outfits
 
