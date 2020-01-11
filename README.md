@@ -28,9 +28,13 @@ I compile this Modlist not from the latest release but from the latest commit on
 ## Main focus of this Modlist
 
 "_Is this Modlist the most graphical intense and beautiful Modlist?_" No.
+
 "_Is it the most realistic?_" Hell no!
+
 "_Does it fix everything?_" Maybe?
+
 "_Is this a base for adding more mods?_" Kinda...
+
 "_What the hell is this and why does this exists?_" Let me explain:
 
 This is a medium Modlist. _What is medium_ you may ask. It is not heavy but also not light. It has re-textures for most but not all textures. It fixes a lot but not all bugs. It can be expanded upon but not with everything you see on the Nexus.
