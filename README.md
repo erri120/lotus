@@ -3,6 +3,8 @@
 - [Preamble](#preamble)
 - [Main focus of this Modlist](#main-focus-of-this-modlist)
 - [Installation](#installation)
+  - [Pre-Installation](#pre-installation)
+  - [Wabbajack](#wabbajack)
 - [Updating](#updating)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [Quick Light](#quick-light)
@@ -40,6 +42,59 @@ I compile this Modlist not from the latest release but from the latest commit on
 This is a medium Modlist. _What is medium_ you may ask. It is not heavy but also not light. It has re-textures for most but not all textures. It fixes a lot but not all bugs. It can be expanded upon but not with everything you see on the Nexus.
 
 ## Installation
+
+### Pre-Installation
+
+Before you can go and start Wabbajack, there is still some stuff you need to do:
+
+**Have a clean Skyrim Special Edition Installation available**:
+
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/`.
+
+**Disable Steam Overlay**:
+
+The Steam Overlay can cause issues with ENB and is recommended to be turned off.
+
+Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
+
+**Change Steams automatic updates config**:
+
+SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
+
+To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+
+**Play the game in English**:
+
+Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
+
+Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
+
+**Change the base Skyrim settings**:
+
+After you have done everything above and now have a clean SSE installation you can start the Launcher and open the _Options_ menu.
+
+1) Click on _Ultra_
+2) Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
+3) Set _Antialiasing_ to _Off_
+4) Uncheck _Windowed Mode_ and _Borderless_
+
+### Wabbajack
+
+Let's get to the actual installation. Grab the latest release from [GitHub](https://github.com/erri120/lotus/releases). Since I'm part of the Wabbajack Team and actively developing the program, I include the exact build used to create the Modlist in the release. This means you will download Wabbajack from here and **not** from the Wabbajack release page.
+
+Download the release to a _working folder_. This folder **must not** be in _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder at `C:/Wabbajack` or on any other drive.
+
+The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+
+**Installation**:
+
+1) Open Wabbajack
+2) Load the Modlist from Disk
+3) Check that the paths are correctly set
+4) Click Begin
+5) Wait a long time for Wabbajack to finish
+
+Check [In-Game MCM Options](#in-game-mcm-options) once you have started the game.
 
 ## Updating
 
