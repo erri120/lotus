@@ -16,6 +16,7 @@
   - [Textures](#textures)
   - [Outfits](#outfits)
   - [Animations](#animations)
+  - [ENB](#enb)
 - [Removing the Modlist from your System](#removing-the-modlist-from-your-system)
 - [Contact](#contact)
 
@@ -134,6 +135,10 @@ This Modlist uses [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mod
 5) Click _Launch Nemesis Behavior Engine_ (may also take some time)
 
 If you want to add _Player only_ animations, checkout [Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667).
+
+### ENB
+
+The weather mod used in this Modlist is [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791) and the lighting mod is [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830) (see [Cathedral Mods](#cathedral-mods)). If you want to swap out the ENB, make sure that it is compatible with Cathedral Weathers and looks somewhat decent with Luminosity. You could try and swap the those two mods with any other weather + lighting mod but this may disrupt the visual consistency that the entire Cathedral lineup has.
 
 ## Removing the Modlist from your System
 
