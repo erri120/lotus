@@ -11,6 +11,7 @@
 - [Important Mods you should know about](#important-mods-you-should-know-about)
   - [CBBE](#cbbe)
   - [Nemesis](#nemesis)
+  - [Cathedral Mods](#cathedral-mods)
 - [Adding more mods](#adding-more-mods)
   - [Textures](#textures)
   - [Outfits](#outfits)
@@ -91,6 +92,22 @@ Links:
 
 - [Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
 - [Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667)
+
+### Cathedral Mods
+
+"_The [Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/19515) is a comprehensive visual overhaul for Skyrim. It is performance friendly, consisting mostly of re-textures, improved models, and lighting modifications, so that you can use it as a foundation without having to worry extensively about compatibility_". - Introduction for the Cathedral mods
+
+I choose to use most of the Cathedral mods in this Modlist for the reasons above. The most important one you need to watch out for is [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791). This is the weather mod for the Modlist and if you want to swap out the ENB, than you need one that is compatible with this weather mod.
+
+Links:
+
+- [Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/19515)(unreleased)
+- [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
+- [Majestic Mountains - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
+- [Landscapes - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/21954)
+- [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830)
+- [8K Night Skies - Stars and Galaxies - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/20301)
+- [Cathedral Water Overhaul - Includes Water Edge Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/22962)
 
 ## Adding more mods
 
