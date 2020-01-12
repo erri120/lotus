@@ -15,6 +15,7 @@
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
   - [Engarde MCM](#engarde-mcm)
+  - [FNIS PCEA2](#fnis-pcea2)
   - [Quick Light](#quick-light)
   - [SSSO](#ssso)
   - [Wildcat Combat](#wildcat-combat)
@@ -156,15 +157,6 @@ Links:
 - [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
 - [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224)
 
-<!--### Nemesis
-
-[Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main) and [Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667) got added pretty late into this Modlist. In case you have no idea what Nemesis is: Nemesis is, in a nut shell, a replacement for [FNIS](https://www.nexusmods.com/skyrimspecialedition/mods/3038) and Nemesis PCEA is a direct replacement for [FNIS PCEA2](https://www.nexusmods.com/skyrimspecialedition/mods/13281). This means that you can't have both installed.
-
-Links:
-
-- [Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
-- [Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667)-->
-
 ### Cathedral Mods
 
 "_The [Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/19515) is a comprehensive visual overhaul for Skyrim. It is performance friendly, consisting mostly of re-textures, improved models, and lighting modifications, so that you can use it as a foundation without having to worry extensively about compatibility_". - Introduction for the Cathedral mods
@@ -242,17 +234,19 @@ Use `Save settings to disk` after you're done so you can load those settings on 
 
 Mod: [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673)
 
+### FNIS PCEA2
+
+PCEA2 or _Player Character Exclusive Animations, 2nd generation_ lets you define and use animations that only the player has access to.
+
+You I have ported the [Realistic Animation Project - Movement](https://www.nexusmods.com/skyrim/mods/77343) mod to SE and added the _Female_ and _Male_ running/sprinting animations to PCEA2. Simply select the gender of your character and click the refresh button.
+
+Mod: [FNIS PCEA2 - Player Exclusive Animations (dynamic) SE](https://www.nexusmods.com/skyrimspecialedition/mods/13281)
+
 ### Quick Light
 
 Change _Set light key_ to whatever you prefer. Pressing this key for the time specified at _Long press time for activate key_ will give you a light source to illuminate the darkness.
 
 Mod: [Quick Light SE](https://www.nexusmods.com/skyrimspecialedition/mods/12633)
-
-<!--### Nemesis PCEA
-
-This menu lets you enable/disable player only animations. The _0Female_ and _1Male_ are from the [Realistic Animation Project - Movement](https://www.nexusmods.com/skyrim/mods/77343) mod which I ported to SSE. I highly recommend you check the animations for whatever gender your character is.
-
-Mod: [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667)-->
 
 ### SSSO
 
