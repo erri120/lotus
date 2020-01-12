@@ -6,17 +6,17 @@
   - [Pre-Installation](#pre-installation)
   - [Wabbajack](#wabbajack)
 - [Updating](#updating)
-- [In-Game MCM Options](#in-game-mcm-options)
-  - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
-  - [Engarde MCM](#engarde-mcm)
-  - [Quick Light](#quick-light)
-  - [SSSO](#ssso)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
   - [Melee Combat](#melee-combat)
   - [3PCO](#3pco)
   - [CBBE](#cbbe)
   - [Cathedral Mods](#cathedral-mods)
   - [ENB: Ljoss](#enb-ljoss)
+- [In-Game MCM Options](#in-game-mcm-options)
+  - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
+  - [Engarde MCM](#engarde-mcm)
+  - [Quick Light](#quick-light)
+  - [SSSO](#ssso)
 - [Adding more mods](#adding-more-mods)
   - [Textures](#textures)
   - [Outfits](#outfits)
@@ -110,75 +110,6 @@ If this Modlist receives an update than you should always check the Changelog fo
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-## In-Game MCM Options
-
-Once you're in the actual game, there are still some MCM options you should configure before starting your playthrough. This is entirely optional but highly recommended since some options can change your game substantially.
-
-### 3PCO - 3rd Person Camera Overhaul
-
-This mod is very customizable and you should tweak it to your liking. I can't tell you what you like but I can tell you what settings you might wanna change:
-
-**General Settings**:
-
-- `Default FOV`
-- `Camera speed`
-- `Min zoom`
-- `Max zoom`
-- `Gamepad` (I really don't recommend playing with a control, but whatever)
-  
-**Sheathed, Melee, Ranged, Sneak**:
-
-Those 4 sections change the camera depending on your current state. The important values are the `Offsets`. A higher `Offset` will let the camera be able to move more on the specific axis. If you want the camera stiff and not swing out that much, use a lower `Offset`. If you want it to sway out than use a higher `Offset`.
-
-Mod: [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515)
-
-### Engarde MCM
-
-The core gameplay mod of this Modlist. The base values are fine but you can tweak it to your liking. Since the MCM is very detailed and you can change a lot of _small_ values, I only list options that will have drastically change your gameplay.
-
-**stamina**:
-
-- `No stamina regen while running`
-
-**PowerAttacks**:
-
-- `Slow time`: Incoming power attacks will slow time so you can dodge
-- `Injury`: Power attacks can cause injuries
-
-**KeyButton**:
-
-- `Dodge key`: This is your dodge key will be used **a lot** during combat. I highly recommend you find something that feels good, I like to have it on `V` because, the default, `LAlt` is my run key which can sometimes make you dodge during running.
-
-**Others**:
-
-- `Enable dodging`: The entire combat mod is made around dodging. If you still think that the dodging is total garbage than disable it.
-- `Dodges while stationary`: The animation played when being stationary and wanting to dodge, I recommend `Roll`
-- `Dodges while moving`: The animation played when moving and wanting to dodge, I like `Roll` more than `Hop` but you should test both and see what feels best for you
-
-The _Combat Focus_ subsection can be adjusted how you like. You can make the combat easier by setting it to always active or harder with the daily power. Make it hardcore by straight up disabling the entire thing.
-
-Use `Save settings to disk` after you're done so you can load those settings on a new playthrough.
-
-Mod: [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673)
-
-### Quick Light
-
-Change _Set light key_ to whatever you prefer. Pressing this key for the time specified at _Long press time for activate key_ will give you a light source to illuminate the darkness.
-
-Mod: [Quick Light SE](https://www.nexusmods.com/skyrimspecialedition/mods/12633)
-
-<!--### Nemesis PCEA
-
-This menu lets you enable/disable player only animations. The _0Female_ and _1Male_ are from the [Realistic Animation Project - Movement](https://www.nexusmods.com/skyrim/mods/77343) mod which I ported to SSE. I highly recommend you check the animations for whatever gender your character is.
-
-Mod: [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667)-->
-
-### SSSO
-
-SSSO aka _Skyrim SafeSave System Overhaul_ lets you change the way autosaves work. Do note that the _Manual Save key_ is set to _ESC_ meaning _none_ at the start. The default values are fine but you can spice up your playthrough with the _Enable hardcore Mode_ and _Enforced hardcore mode_ if you want.
-
-Mod: [Skyrim SafeSave System Overhaul - Rotating save and optional Hardcore mode](https://www.nexusmods.com/skyrimspecialedition/mods/19399)
-
 ## Important Mods you should know about
 
 This section contains information about some of the most important mods in this Modlist. If you want to add more mods (see [Adding more mods](#adding-more-mods)) than take a look at this section for maximum compatibility.
@@ -257,6 +188,75 @@ If you have a Titan V and more FPS than you need, check the [ENB](#enb) section 
 Links:
 
 - [Ljoss - Semi-realistic performance preset with Nighteye and ENB Light support](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
+
+## In-Game MCM Options
+
+Once you're in the actual game, there are still some MCM options you should configure before starting your playthrough. This is entirely optional but highly recommended since some options can change your game substantially.
+
+### 3PCO - 3rd Person Camera Overhaul
+
+This mod is very customizable and you should tweak it to your liking. I can't tell you what you like but I can tell you what settings you might wanna change:
+
+**General Settings**:
+
+- `Default FOV`
+- `Camera speed`
+- `Min zoom`
+- `Max zoom`
+- `Gamepad` (I really don't recommend playing with a control, but whatever)
+  
+**Sheathed, Melee, Ranged, Sneak**:
+
+Those 4 sections change the camera depending on your current state. The important values are the `Offsets`. A higher `Offset` will let the camera be able to move more on the specific axis. If you want the camera stiff and not swing out that much, use a lower `Offset`. If you want it to sway out than use a higher `Offset`.
+
+Mod: [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515)
+
+### Engarde MCM
+
+The core gameplay mod of this Modlist. The base values are fine but you can tweak it to your liking. Since the MCM is very detailed and you can change a lot of _small_ values, I only list options that will have drastically change your gameplay.
+
+**stamina**:
+
+- `No stamina regen while running`
+
+**PowerAttacks**:
+
+- `Slow time`: Incoming power attacks will slow time so you can dodge
+- `Injury`: Power attacks can cause injuries
+
+**KeyButton**:
+
+- `Dodge key`: This is your dodge key will be used **a lot** during combat. I highly recommend you find something that feels good, I like to have it on `V` because, the default, `LAlt` is my run key which can sometimes make you dodge during running.
+
+**Others**:
+
+- `Enable dodging`: The entire combat mod is made around dodging. If you still think that the dodging is total garbage than disable it.
+- `Dodges while stationary`: The animation played when being stationary and wanting to dodge, I recommend `Roll`
+- `Dodges while moving`: The animation played when moving and wanting to dodge, I like `Roll` more than `Hop` but you should test both and see what feels best for you
+
+The _Combat Focus_ subsection can be adjusted how you like. You can make the combat easier by setting it to always active or harder with the daily power. Make it hardcore by straight up disabling the entire thing.
+
+Use `Save settings to disk` after you're done so you can load those settings on a new playthrough.
+
+Mod: [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673)
+
+### Quick Light
+
+Change _Set light key_ to whatever you prefer. Pressing this key for the time specified at _Long press time for activate key_ will give you a light source to illuminate the darkness.
+
+Mod: [Quick Light SE](https://www.nexusmods.com/skyrimspecialedition/mods/12633)
+
+<!--### Nemesis PCEA
+
+This menu lets you enable/disable player only animations. The _0Female_ and _1Male_ are from the [Realistic Animation Project - Movement](https://www.nexusmods.com/skyrim/mods/77343) mod which I ported to SSE. I highly recommend you check the animations for whatever gender your character is.
+
+Mod: [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667)-->
+
+### SSSO
+
+SSSO aka _Skyrim SafeSave System Overhaul_ lets you change the way autosaves work. Do note that the _Manual Save key_ is set to _ESC_ meaning _none_ at the start. The default values are fine but you can spice up your playthrough with the _Enable hardcore Mode_ and _Enforced hardcore mode_ if you want.
+
+Mod: [Skyrim SafeSave System Overhaul - Rotating save and optional Hardcore mode](https://www.nexusmods.com/skyrimspecialedition/mods/19399)
 
 ## Adding more mods
 
