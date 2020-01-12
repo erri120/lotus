@@ -8,6 +8,7 @@
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
   - [Melee Combat](#melee-combat)
+  - [Archery](#archery)
   - [3PCO](#3pco)
   - [CBBE](#cbbe)
   - [Cathedral Mods](#cathedral-mods)
@@ -20,6 +21,7 @@
   - [Quick Light](#quick-light)
   - [SSSO](#ssso)
   - [Wildcat Combat](#wildcat-combat)
+  - [XPMSE](#xpmse)
 - [Adding more mods](#adding-more-mods)
   - [Textures](#textures)
   - [Outfits](#outfits)
@@ -133,6 +135,16 @@ This subsection was only for melee, below you will find the mods that change ran
 Links:
 
 - [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673)
+- [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
+- [Know Your Enemy - Trait-based resistances and weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/13807)
+
+### Archery
+
+For archery I used [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296).
+
+Links:
+
+- [Archery Gameplay Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/24296)
 - [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
 - [Know Your Enemy - Trait-based resistances and weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/13807)
 
@@ -273,6 +285,12 @@ Since we use [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673
 Something you might wanna consider is `Allow Wildcat to Manage Difficulty`. If you think that the game is too easy and want more of a challenge, try this. This option only increases the damage taken and decreases the damage dealt but you can still adjust this to your liking.
 
 Mod: [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
+
+### XPMSE
+
+**Styles**:
+
+Change the Quiver Style to `Frostfall XP32`.
 
 ## Adding more mods
 
