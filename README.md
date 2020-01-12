@@ -14,6 +14,7 @@
   - [ENB: Ljoss](#enb-ljoss)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
+  - [AGO](#ago)
   - [Engarde MCM](#engarde-mcm)
   - [FNIS PCEA2](#fnis-pcea2)
   - [Quick Light](#quick-light)
@@ -204,6 +205,12 @@ This mod is very customizable and you should tweak it to your liking. I can't te
 Those 4 sections change the camera depending on your current state. The important values are the `Offsets`. A higher `Offset` will let the camera be able to move more on the specific axis. If you want the camera stiff and not swing out that much, use a lower `Offset`. If you want it to sway out than use a higher `Offset`.
 
 Mod: [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515)
+
+### AGO
+
+The [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296) can be left alone for most its settings. What you maybe wanna change is the `Persistent Arrows` option. If you have it `on`, assign a hotkey for removing the arrows. I like to have it set to `off`.
+
+Mod: [Archery Gameplay Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/24296)
 
 ### Engarde MCM
 
