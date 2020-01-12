@@ -8,6 +8,7 @@
 - [Updating](#updating)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
+  - [Engarde MCM](#engarde-mcm)
   - [Quick Light](#quick-light)
   - [SSSO](#ssso)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
@@ -131,6 +132,35 @@ Those 4 sections change the camera depending on your current state. The importan
 
 Mod: [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515)
 
+### Engarde MCM
+
+The core gameplay mod of this Modlist. The base values are fine but you can tweak it to your liking. Since the MCM is very detailed and you can change a lot of _small_ values, I only list options that will have drastically change your gameplay.
+
+**stamina**:
+
+- `No stamina regen while running`
+
+**PowerAttacks**:
+
+- `Slow time`: Incoming power attacks will slow time so you can dodge
+- `Injury`: Power attacks can cause injuries
+
+**KeyButton**:
+
+- `Dodge key`: This is your dodge key will be used **a lot** during combat. I highly recommend you find something that feels good, I like to have it on `V` because, the default, `LAlt` is my run key which can sometimes make you dodge during running.
+
+**Others**:
+
+- `Enable dodging`: The entire combat mod is made around dodging. If you still think that the dodging is total garbage than disable it.
+- `Dodges while stationary`: The animation played when being stationary and wanting to dodge, I recommend `Roll`
+- `Dodges while moving`: The animation played when moving and wanting to dodge, I like `Roll` more than `Hop` but you should test both and see what feels best for you
+
+The _Combat Focus_ subsection can be adjusted how you like. You can make the combat easier by setting it to always active or harder with the daily power. Make it hardcore by straight up disabling the entire thing.
+
+Use `Save settings to disk` after you're done so you can load those settings on a new playthrough.
+
+Mod: [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673)
+
 ### Quick Light
 
 Change _Set light key_ to whatever you prefer. Pressing this key for the time specified at _Long press time for activate key_ will give you a light source to illuminate the darkness.
@@ -155,7 +185,7 @@ This section contains information about some of the most important mods in this 
 
 ### Engarde
 
-Is the core combat mod of this Modlist.
+[Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) is the the core combat mod of this Modlist. Engarde and [3PCO](#3pco) will kinda force you into 3rd person. I recommend playing most of the combat in 3rd person when you have a melee weapon equipped. If you have a ranged weapon or use magic than continue in 1st person.
 
 Links:
 
