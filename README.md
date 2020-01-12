@@ -272,6 +272,8 @@ Probably the most easiest type of mods you can add to any setup. The only thing 
 
 This Modlist uses [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174) as its body so make sure you download outfits made for CBBE. Since [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872) and [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224) are both installed, you can also install and use outfits marked with _Physics_.
 
+Since this Modlist uses [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807), you will need to rebuilt the `KnowYourArmorPatcher` in zEdit.
+
 ### Animations
 
 <!--[Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main) has a similar workflow like [FNIS](https://www.nexusmods.com/skyrimspecialedition/mods/3038):
