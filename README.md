@@ -9,12 +9,11 @@
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
   - [Quick Light](#quick-light)
-  - [Nemesis PCEA](#nemesis-pcea)
   - [SSSO](#ssso)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
+  - [Engarde](#engarde)
   - [3PCO](#3pco)
   - [CBBE](#cbbe)
-  - [Nemesis](#nemesis)
   - [Cathedral Mods](#cathedral-mods)
   - [ENB: Ljoss](#enb-ljoss)
 - [Adding more mods](#adding-more-mods)
@@ -138,11 +137,11 @@ Change _Set light key_ to whatever you prefer. Pressing this key for the time sp
 
 Mod: [Quick Light SE](https://www.nexusmods.com/skyrimspecialedition/mods/12633)
 
-### Nemesis PCEA
+<!--### Nemesis PCEA
 
 This menu lets you enable/disable player only animations. The _0Female_ and _1Male_ are from the [Realistic Animation Project - Movement](https://www.nexusmods.com/skyrim/mods/77343) mod which I ported to SSE. I highly recommend you check the animations for whatever gender your character is.
 
-Mod: [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667)
+Mod: [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667)-->
 
 ### SSSO
 
@@ -153,6 +152,14 @@ Mod: [Skyrim SafeSave System Overhaul - Rotating save and optional Hardcore mode
 ## Important Mods you should know about
 
 This section contains information about some of the most important mods in this Modlist. If you want to add more mods (see [Adding more mods](#adding-more-mods)) than take a look at this section for maximum compatibility.
+
+### Engarde
+
+Is the core combat mod of this Modlist.
+
+Links:
+
+- [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673)
 
 ### 3PCO
 
@@ -176,14 +183,14 @@ Links:
 - [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
 - [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224)
 
-### Nemesis
+<!--### Nemesis
 
 [Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main) and [Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667) got added pretty late into this Modlist. In case you have no idea what Nemesis is: Nemesis is, in a nut shell, a replacement for [FNIS](https://www.nexusmods.com/skyrimspecialedition/mods/3038) and Nemesis PCEA is a direct replacement for [FNIS PCEA2](https://www.nexusmods.com/skyrimspecialedition/mods/13281). This means that you can't have both installed.
 
 Links:
 
 - [Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
-- [Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667)
+- [Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667)-->
 
 ### Cathedral Mods
 
@@ -227,7 +234,7 @@ This Modlist uses [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mod
 
 ### Animations
 
-[Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main) has a similar workflow like [FNIS](https://www.nexusmods.com/skyrimspecialedition/mods/3038):
+<!--[Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main) has a similar workflow like [FNIS](https://www.nexusmods.com/skyrimspecialedition/mods/3038):
 
 1) Install the mod with new Animations
 2) Open Nemesis
@@ -235,7 +242,15 @@ This Modlist uses [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mod
 4) Click _Update Engine_ (may take a while)
 5) Click _Launch Nemesis Behavior Engine_ (may also take some time)
 
-If you want to add _Player only_ animations, checkout [Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667).
+If you want to add _Player only_ animations, checkout [Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667).-->
+
+Since we use [FNIS](https://www.nexusmods.com/skyrimspecialedition/mods/3038) in this Modlist, adding new animations is straight forward:
+
+1) Install the mod
+2) Open FNIS
+3) Generate FNIS
+
+If you want to add _Player only_ animations, checkout [FNIS PCEA2](https://www.nexusmods.com/skyrimspecialedition/mods/13281) which is also included in this setup.
 
 ### ENB
 
