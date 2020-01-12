@@ -20,6 +20,9 @@
   - [Outfits](#outfits)
   - [Animations](#animations)
   - [ENB](#enb)
+- [Tweaking Performance](#tweaking-performance)
+  - [Tweaking the ENB](#tweaking-the-enb)
+  - [Tweaking the Game Settings](#tweaking-the-game-settings)
 - [Removing the Modlist from your System](#removing-the-modlist-from-your-system)
 - [Contact](#contact)
 
@@ -222,6 +225,44 @@ ENBs that maybe work with Cathedral Weathers:
 - [NVT](https://www.nexusmods.com/skyrimspecialedition/mods/11203)
 - [PRT](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
 - [Apex](https://www.nexusmods.com/skyrimspecialedition/mods/18042)
+
+## Tweaking Performance
+
+My Setup:
+
+- i7-7700k running at ~4.6GHz
+- 1060 6GB overclocked to ~1800MHz
+- 16GB of DDR4-3200 RAM
+- Game and MO2 running on an SSD
+
+My FPS:
+
+- Outside in a dense forest: 50-65
+- Inside (anywhere): 60-120 (depending on the amount of particles)
+- During combat (no magic): 70
+- During combat (mage vs non mage): 65
+- During combat (mage vs mage): 50
+
+You may or may not have more or less FPS somewhere depending on your specific specs. Here are some tips on how to get more:
+
+### Tweaking the ENB
+
+This should always be the first thing you tweak. Disabling the ENB entirely can give you up to anything from 20 to >70 FPS. The ENB this Modlist comes with (see [ENB: Ljoss](#enb-ljoss)) is very performance friendly. Open the ENB GUI using `Right Shift + Enter` (`Right Shift` is under the `Enter` key). This will open up the ENB GUI where you can enable and disable certain effects in the left panel.
+
+- `Bloom`: Can give you up to 3 FPS, will make light sources less bright
+- `DepthOfField`: Can give you up to 10 FPS, disabled by default and not really suited for gameplay
+- `Ambient Occlusion`: This one is a big hitter. You can get up to 20 FPS by disabling this but the effect is very noticeable
+- `Distant/DetailedShadow`: Those two can really give you a lot of FPS back depending on your shader settings (game settings). They are very noticeable.
+- `ComplexFire/ParticleLights`: You won't see a lot of difference at first when disabling those two, but when particles are on screen (eg using magic or near light sources such as fires), they can _burn_ through your FPS
+
+### Tweaking the Game Settings
+
+I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
+
+- `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
+- `Ambient Occlusion`: Highly recommended to leave this at `None`. The ENB this Modlist comes with, uses the ENB SAO which is 10x better and performance friendly than base game SAO.
+- `Detailed Draw Distance`: Maybe try `2000` instead of `2800` but you won't notice a lot of FPS gain (maybe 1-3)
+- `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
 
 ## Removing the Modlist from your System
 
