@@ -7,10 +7,12 @@
   - [Wabbajack](#wabbajack)
 - [Updating](#updating)
 - [In-Game MCM Options](#in-game-mcm-options)
+  - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
   - [Quick Light](#quick-light)
   - [Nemesis PCEA](#nemesis-pcea)
   - [SSSO](#ssso)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
+  - [3PCO](#3pco)
   - [CBBE](#cbbe)
   - [Nemesis](#nemesis)
   - [Cathedral Mods](#cathedral-mods)
@@ -112,6 +114,24 @@ Updating is like installing. You only have to make sure that you select the same
 
 Once you're in the actual game, there are still some MCM options you should configure before starting your playthrough. This is entirely optional but highly recommended since some options can change your game substantially.
 
+### 3PCO - 3rd Person Camera Overhaul
+
+This mod is very customizable and you should tweak it to your liking. I can't tell you what you like but I can tell you what settings you might wanna change:
+
+**General Settings**:
+
+- `Default FOV`
+- `Camera speed`
+- `Min zoom`
+- `Max zoom`
+- `Gamepad` (I really don't recommend playing with a control, but whatever)
+  
+**Sheathed, Melee, Ranged, Sneak**:
+
+Those 4 sections change the camera depending on your current state. The important values are the `Offsets`. A higher `Offset` will let the camera be able to move more on the specific axis. If you want the camera stiff and not swing out that much, use a lower `Offset`. If you want it to sway out than use a higher `Offset`.
+
+Mod: [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515)
+
 ### Quick Light
 
 Change _Set light key_ to whatever you prefer. Pressing this key for the time specified at _Long press time for activate key_ will give you a light source to illuminate the darkness.
@@ -133,6 +153,14 @@ Mod: [Skyrim SafeSave System Overhaul - Rotating save and optional Hardcore mode
 ## Important Mods you should know about
 
 This section contains information about some of the most important mods in this Modlist. If you want to add more mods (see [Adding more mods](#adding-more-mods)) than take a look at this section for maximum compatibility.
+
+### 3PCO
+
+3rd Person Camera Overhaul aka [3PCO](https://www.nexusmods.com/skyrimspecialedition/mods/18515) does exactly what the name implies. The reason I am included this in the _important mods_ section is due to its extensive MCM (see [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)) and impact on gameplay.
+
+Links:
+
+- [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515)
 
 ### CBBE
 
