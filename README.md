@@ -17,6 +17,7 @@
   - [Engarde MCM](#engarde-mcm)
   - [Quick Light](#quick-light)
   - [SSSO](#ssso)
+  - [Wildcat Combat](#wildcat-combat)
 - [Adding more mods](#adding-more-mods)
   - [Textures](#textures)
   - [Outfits](#outfits)
@@ -257,6 +258,19 @@ Mod: [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspeciale
 SSSO aka _Skyrim SafeSave System Overhaul_ lets you change the way autosaves work. Do note that the _Manual Save key_ is set to _ESC_ meaning _none_ at the start. The default values are fine but you can spice up your playthrough with the _Enable hardcore Mode_ and _Enforced hardcore mode_ if you want.
 
 Mod: [Skyrim SafeSave System Overhaul - Rotating save and optional Hardcore mode](https://www.nexusmods.com/skyrimspecialedition/mods/19399)
+
+### Wildcat Combat
+
+Since we use [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) for combat and only use Wildcat for the AI, you can disable pretty much everything in the MCM:
+
+- `Disable Combat`: disable everything
+- `Attacks of Opportunity`: disable everything
+- `Injuries`: disable everything
+- `Timed Block`: disable everything
+
+Something you might wanna consider is `Allow Wildcat to Manage Difficulty`. If you think that the game is too easy and want more of a challenge, try this. This option only increases the damage taken and decreases the damage dealt but you can still adjust this to your liking.
+
+Mod: [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
 
 ## Adding more mods
 
