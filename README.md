@@ -12,7 +12,7 @@
   - [Quick Light](#quick-light)
   - [SSSO](#ssso)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
-  - [Engarde](#engarde)
+  - [Melee Combat](#melee-combat)
   - [3PCO](#3pco)
   - [CBBE](#cbbe)
   - [Cathedral Mods](#cathedral-mods)
@@ -183,13 +183,23 @@ Mod: [Skyrim SafeSave System Overhaul - Rotating save and optional Hardcore mode
 
 This section contains information about some of the most important mods in this Modlist. If you want to add more mods (see [Adding more mods](#adding-more-mods)) than take a look at this section for maximum compatibility.
 
-### Engarde
+### Melee Combat
+
+Combat is essential in Skyrim is boring as hell. When you play a melee character the only thing you need to do is attack until the enemy is dead. I tried to put the least amount of combat mods in this Modlist to create a fast and responsive combat experience.
 
 [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) is the the core combat mod of this Modlist. Engarde and [3PCO](#3pco) will kinda force you into 3rd person. I recommend playing most of the combat in 3rd person when you have a melee weapon equipped. If you have a ranged weapon or use magic than continue in 1st person.
+
+For AI I used [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368). You will have to disable a lot of options in the MCM of Wildcat because we will only need the AI changes from Wildcat.
+
+To make you start thinking during combat and not only use your dexterity, [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807) will add trait-based resistances and weaknesses so you need to have to choose the right tool for the job.
+
+This subsection was only for melee, below you will find the mods that change ranged (archery and magic) combat.
 
 Links:
 
 - [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673)
+- [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
+- [Know Your Enemy - Trait-based resistances and weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/13807)
 
 ### 3PCO
 
