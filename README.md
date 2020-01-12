@@ -14,6 +14,7 @@
   - [CBBE](#cbbe)
   - [Nemesis](#nemesis)
   - [Cathedral Mods](#cathedral-mods)
+  - [ENB: Ljoss](#enb-ljoss)
 - [Adding more mods](#adding-more-mods)
   - [Textures](#textures)
   - [Outfits](#outfits)
@@ -169,6 +170,16 @@ Links:
 - [8K Night Skies - Stars and Galaxies - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/20301)
 - [Cathedral Water Overhaul - Includes Water Edge Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/22962)
 
+### ENB: Ljoss
+
+ENBs for Special Edition never really convinced me. [SnowFall Weathers](https://www.nexusmods.com/skyrim/mods/79335) singlehandedly made me stay with Oldrim for 3 years since it came out. I choose [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971) for this Modlist, mainly because of its performance and set of features. It is also compatible with [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791), the weather mod of this list.
+
+If you have a Titan V and more FPS than you need, check the [ENB](#enb) section for ENBs you can swap to.
+
+Links:
+
+- [Ljoss - Semi-realistic performance preset with Nighteye and ENB Light support](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
+
 ## Adding more mods
 
 **Read the [Important Mods you should know about](#important-mods-you-should-know-about) sections first**
@@ -197,7 +208,20 @@ If you want to add _Player only_ animations, checkout [Nemesis PCEA](https://www
 
 ### ENB
 
-The weather mod used in this Modlist is [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791) and the lighting mod is [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830) (see [Cathedral Mods](#cathedral-mods)). If you want to swap out the ENB, make sure that it is compatible with Cathedral Weathers and looks somewhat decent with Luminosity. You could try and swap the those two mods with any other weather + lighting mod but this may disrupt the visual consistency that the entire Cathedral lineup has.
+The weather mod used in this Modlist is [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791) and the lighting mods are [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830) (see [Cathedral Mods](#cathedral-mods)) and [Enhanced Lighting for ENB (ELE)](https://www.nexusmods.com/skyrimspecialedition/mods/1377). If you want to swap out the ENB, make sure that it is compatible with Cathedral Weathers and looks somewhat decent with Luminosity and ELE. You could try and swap the those two mods with any other weather + lighting mod but this may disrupt the visual consistency that the entire Cathedral lineup has.
+
+Other ENBs you can use (not tested, experience may vary):
+
+ENBs that work with Cathedral Weathers:
+
+- [Silent Horizon](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
+
+ENBs that maybe work with Cathedral Weathers:
+
+- [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
+- [NVT](https://www.nexusmods.com/skyrimspecialedition/mods/11203)
+- [PRT](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
+- [Apex](https://www.nexusmods.com/skyrimspecialedition/mods/18042)
 
 ## Removing the Modlist from your System
 
