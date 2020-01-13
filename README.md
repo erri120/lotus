@@ -9,8 +9,10 @@
 - [Important Mods you should know about](#important-mods-you-should-know-about)
   - [Melee Combat](#melee-combat)
   - [Archery](#archery)
+  - [Perks, Leveling, Races, Standing Stones and a lot of Enai](#perks-leveling-races-standing-stones-and-a-lot-of-enai)
   - [3PCO](#3pco)
   - [CBBE](#cbbe)
+  - [SOS](#sos)
   - [Cathedral Mods](#cathedral-mods)
   - [ENB: Silent Horizon](#enb-silent-horizon)
 - [In-Game MCM Options](#in-game-mcm-options)
@@ -154,13 +156,48 @@ Links:
 
 ### Archery
 
-For archery I used [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296). This spices the archery gameplay up and gives you enchanted arrows, bleeding when hit by an arrow, new animations an much more.
+For archery I used [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296). This spices the archery gameplay up and gives you enchanted arrows, bleeding when hit by an arrow, new animations an much more. [ABT](https://www.nexusmods.com/skyrimspecialedition/mods/4683) for more speed.
 
 Links:
 
 - [Archery Gameplay Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/24296)
+- [ABT SE - Arrows and Bolts Tweaks Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4683)
 - [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
 - [Know Your Enemy - Trait-based resistances and weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/13807)
+
+### Perks, Leveling, Races, Standing Stones and a lot of Enai
+
+Enai on [Patreon](https://www.patreon.com/EnaiSiaion) and [Nexus](https://www.nexusmods.com/skyrimspecialedition/users/3959191).
+
+For Race changes its [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) vs [Morningstar](https://www.nexusmods.com/skyrimspecialedition/mods/22298) and I choose the latter because it's light weight and other mods already add a ton of features to combat and new mechanics.
+
+Standing Stones was easy, [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910) was and is a must in all my setups.
+
+Perks was a very difficult topic. Enai recently uploaded [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176), a light weight perk overhaul with high compatibility. A lot of the perks convinced me but I still choose [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137). The reason being the Restoration tree. If you have never played a holy Exorcist using Ordinator, than you should do that immediately. I thought about using Vokrii and [Path of Sorcery](https://www.nexusmods.com/skyrimspecialedition/mods/6660) but I missed the _holy_ aspect.
+
+Werwolf and Vampire perks were also very straight forward: the new [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) for Werebeasts and [Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928) for all those thirsty bois out there.
+
+[Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460) and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) so you can rp as any character you want. I highly recommend you checkout the Wintersun Nexus page and read the description of it, it's very fun worshipping _questionable_ things.
+
+[But wait, there is more!](https://forwardsandbookwords.files.wordpress.com/2015/09/but-wait-theres-more.jpg)
+
+[Special Perks from Questing](https://www.nexusmods.com/skyrimspecialedition/mods/29402) will give you cool effects after completing important quests and [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) will bring the good old XP system to Skyrim. What is _the good old XP system_? You get XP (which contribute to your level progress) when discovering locations, clearing locations and completing quests.
+
+This is a big section and if you have never heard of them than this might all be a ton of information up front. I recommend just playing the game and checking whatever mod out you find interesting. If you don't play as a Werewolf or Vampire than you won't really need to check up on Growl and Sacrosanct. You also don't need to know every Perk from Ordinator or every condition for Wintersun.
+
+Links:
+
+- [Enai Siaion Patreon](https://www.patreon.com/EnaiSiaion)
+- [EnaiSiaion Nexusmods](https://www.nexusmods.com/skyrimspecialedition/users/3959191)
+- [Morningstar - Minimalistic Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22298)
+- [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910)
+- [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
+- [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245)
+- [Sacrosanct - Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928)
+- [Thunderchild - Epic Shouts and Immersion](https://www.nexusmods.com/skyrimspecialedition/mods/1460)
+- [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506)
+- [Special Perks from Questing (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/29402)
+- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
 
 ### 3PCO
 
@@ -183,6 +220,17 @@ Links:
 - [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)
 - [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
 - [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224)
+
+### SOS
+
+[Schlongs of Skyrim]((https://www.loverslab.com/files/file/498-sos-schlongs-of-skyrim/)) aka SOS is the male counterpart to CBBE/UNP. You often see beautiful women in modded Skyrim, where every race has custom textures 4k and CBBE/UNP meshes while the males look like complete dog shit. SOS + [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902) + [Male Dragonic Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/1443) make the dudes in Skyrim look somewhat decent.
+
+Links:
+
+- [SOS - Schlongs of Skyrim 3.00.004](https://www.loverslab.com/files/file/498-sos-schlongs-of-skyrim/)
+- [Schlongs of Skyrim SE 1.1.4](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
+- [Tempered Skins for Males - Vanilla and SOS versions](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
+- [Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)](https://www.nexusmods.com/skyrimspecialedition/mods/1443)
 
 ### Cathedral Mods
 
@@ -292,7 +340,7 @@ Mod: [Skyrim SafeSave System Overhaul - Rotating save and optional Hardcore mode
 Since we use [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) for combat and only use Wildcat for the AI, you can disable pretty much everything in the MCM:
 
 - `Disable Combat`: disable everything
-- `Attacks of Opportunity`: disable everything
+- `Attacks of Opportunity`: disable everything except backstabbing
 - `Injuries`: disable everything
 - `Timed Block`: disable everything
 
