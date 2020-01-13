@@ -12,7 +12,7 @@
   - [3PCO](#3pco)
   - [CBBE](#cbbe)
   - [Cathedral Mods](#cathedral-mods)
-  - [ENB: Ljoss](#enb-ljoss)
+  - [ENB: Silent Horizon](#enb-silent-horizon)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
   - [AGO](#ago)
@@ -140,7 +140,7 @@ Links:
 
 ### Archery
 
-For archery I used [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296).
+For archery I used [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296). This spices the archery gameplay up and gives you enchanted arrows, bleeding when hit by an arrow, new animations an much more.
 
 Links:
 
@@ -186,15 +186,15 @@ Links:
 - [8K Night Skies - Stars and Galaxies - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/20301)
 - [Cathedral Water Overhaul - Includes Water Edge Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/22962)
 
-### ENB: Ljoss
+### ENB: Silent Horizon
 
-ENBs for Special Edition never really convinced me. [SnowFall Weathers](https://www.nexusmods.com/skyrim/mods/79335) singlehandedly made me stay with Oldrim for 3 years since it came out. I choose [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971) for this Modlist, mainly because of its performance and set of features. It is also compatible with [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791), the weather mod of this list.
+ENBs for Special Edition never really convinced me. [SnowFall Weathers](https://www.nexusmods.com/skyrim/mods/79335) singlehandedly made me stay with Oldrim for 3 years since it came out. I choose [Silent Horizon](https://www.nexusmods.com/skyrimspecialedition/mods/21543) for this Modlist, mainly because of its performance and set of features. It is also compatible with [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791), the weather mod of this list.
 
 If you have a Titan V and more FPS than you need, check the [ENB](#enb) section for ENBs you can swap to.
 
 Links:
 
-- [Ljoss - Semi-realistic performance preset with Nighteye and ENB Light support](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
+- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 
 ## In-Game MCM Options
 
@@ -310,16 +310,6 @@ Since this Modlist uses [Know Your Enemy](https://www.nexusmods.com/skyrimspecia
 
 ### Animations
 
-<!--[Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main) has a similar workflow like [FNIS](https://www.nexusmods.com/skyrimspecialedition/mods/3038):
-
-1) Install the mod with new Animations
-2) Open Nemesis
-3) Check for any Patches you might need to add
-4) Click _Update Engine_ (may take a while)
-5) Click _Launch Nemesis Behavior Engine_ (may also take some time)
-
-If you want to add _Player only_ animations, checkout [Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667).-->
-
 Since we use [FNIS](https://www.nexusmods.com/skyrimspecialedition/mods/3038) in this Modlist, adding new animations is straight forward:
 
 1) Install the mod
@@ -337,6 +327,7 @@ Other ENBs you can use (not tested, experience may vary):
 ENBs that work with Cathedral Weathers:
 
 - [Silent Horizon](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
+- [Ljoss - Semi-realistic performance preset with Nighteye and ENB Light support](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
 
 ENBs that maybe work with Cathedral Weathers:
 
@@ -358,15 +349,12 @@ My FPS:
 
 - Outside in a dense forest: 50-65
 - Inside (anywhere): 60-120 (depending on the amount of particles)
-- During combat (no magic): 70
-- During combat (mage vs non mage): 65
-- During combat (mage vs mage): 50
 
 You may or may not have more or less FPS somewhere depending on your specific specs. Here are some tips on how to get more:
 
 ### Tweaking the ENB
 
-This should always be the first thing you tweak. Disabling the ENB entirely can give you up to anything from 20 to >70 FPS. The ENB this Modlist comes with (see [ENB: Ljoss](#enb-ljoss)) is very performance friendly. Open the ENB GUI using `Right Shift + Enter` (`Right Shift` is under the `Enter` key). This will open up the ENB GUI where you can enable and disable certain effects in the left panel.
+This should always be the first thing you tweak. Disabling the ENB entirely can give you up to anything from 20 to >70 FPS. The ENB this Modlist comes with (see [ENB: Silent Horizon](#enb-silent-horizon)) is very performance friendly. Open the ENB GUI using `Right Shift + Enter` (`Right Shift` is under the `Enter` key). This will open up the ENB GUI where you can enable and disable certain effects in the left panel.
 
 - `Bloom`: Can give you up to 3 FPS, will make light sources less bright
 - `DepthOfField`: Can give you up to 10 FPS, disabled by default and not really suited for gameplay
