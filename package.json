@@ -1,0 +1,15 @@
+{
+  "name": "Lotus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/erri120/lotus.git",
+  "author": "erri120 <erri120@protonmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+      "build": "node index.js"
+  },
+  "dependencies": {
+    "markdown-pdf": "^10.0.0"
+  }
+}
