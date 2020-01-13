@@ -52,7 +52,20 @@ I compile this Modlist not from the latest release but from the latest commit on
 
 "_What the hell is this and why does this exists?_" Let me explain:
 
-This is a medium Modlist. _What is medium_ you may ask. It is not heavy but also not light. It has re-textures for most but not all textures. It fixes a lot but not all bugs. It can be expanded upon but not with everything you see on the Nexus.
+Lets take a look at what Modlists currently exists for Wabbajack:
+
+- Lexy's LotD Unofficial Modlist, this is a complete overhaul with a bazillion mods for everything. The emphasis on the _complete_
+- Ultimate VR, its a VR Modlist for VR Skyrim when you have a VR headset
+- Nice Overall Improvement SE aka N.O.I.S.E, has something from everything meaning it covers a lot of things and is a good _jack of all trades, master of none_
+- Total Skyrim Overhaul aka TSO, this one has Requiem as its core and should be played if you want a _Prepare to Die_ experience
+
+As you can see from the list, we have a good mix and (props to Timbo) even got a VR list. This Modlist expands on NOISE while still being very customizable. This does not mean I started with NOISE and installed more stuff on top of it, this is 100% made from scratch using mods and fixes included in NOISE and other Modlists.
+
+What I wanted to get right in this Modlist is Combat. Combat in base Skyrim is boring as hell. I don't like Requiem and mods that give Skyrim more _realism_ where you need to take care of your needs before doing anything.
+
+Combat in this Modlist is fast, tight and requires dexterity and your brain while not being overly difficult. Don't expect to defeat a level 50 Draugr Death Overlord on level 1. Do expect to be able to challenge yourself to try and defeat a level 50 Draugr Death Overlord on level 30/35 using your skills and knowledge.
+
+Be sure to check the [Important Mods you should know about](#important-mods-you-should-know-about) section before jumping in to the installation to get a feel for the setup and if you really want this.
 
 ## Installation
 
