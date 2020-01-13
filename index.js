@@ -4,7 +4,8 @@ const path = require('path');
 
 const buildDir = path.join(__dirname, 'build');
 const inPath = path.join(__dirname, 'README.md');
-const outPath = path.join(buildDir, 'README.pdf')
+const outPath = path.join(buildDir, 'README.pdf');
+const cssPath = path.join(__dirname, 'css.css');
 
 if(!fs.existsSync(buildDir))
     fs.mkdirSync(buildDir);
@@ -13,5 +14,7 @@ if(fs.existsSync(outPath))
     fs.unlinkSync(outPath);
 
 fs.createReadStream(inPath)
-  .pipe(markdownpdf())
+  .pipe(markdownpdf({
+      cssPath: cssPath
+  }))
   .pipe(fs.createWriteStream(outPath));
