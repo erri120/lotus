@@ -2,9 +2,16 @@ const markdownpdf = require('markdown-pdf');
 const fs = require('fs');
 const path = require('path');
 
-if(!fs.existsSync(path.join(__dirname, 'built')))
-    fs.mkdirSync(path.join(__dirname, 'build'));
+const buildDir = path.join(__dirname, 'build');
+const inPath = path.join(__dirname, 'README.md');
+const outPath = path.join(buildDir, 'README.pdf')
 
-fs.createReadStream(path.join(__dirname, 'README.md'))
+if(!fs.existsSync(buildDir))
+    fs.mkdirSync(buildDir);
+
+if(fs.existsSync(outPath))
+    fs.unlinkSync(outPath);
+
+fs.createReadStream(inPath)
   .pipe(markdownpdf())
-  .pipe(fs.createWriteStream(path.join(__dirname, 'build', 'README.pdf')));
+  .pipe(fs.createWriteStream(outPath));
