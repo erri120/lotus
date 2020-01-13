@@ -36,7 +36,7 @@
 
 ## Preamble
 
-I'm [erri120](https://github.com/erri120), one of the [Developers](https://github.com/wabbajack-tools/wabbajack/contributors) who work on [Wabbajack](https://https://github.com/wabbajack-tools/wabbajack). This is both a good and bad reason for having a Modlist up and running:</br>
+I'm [erri120](https://github.com/erri120), one of the [Developers](https://github.com/wabbajack-tools/wabbajack/contributors) who work on [Wabbajack](https://github.com/wabbajack-tools/wabbajack). This is both a good and bad reason for having a Modlist up and running:</br>
 I compile this Modlist not from the latest release but from the latest commit on the master branch of Wabbajack. This means that you will get pretty fast updates but updates using a Wabbajack that is not even publicly available.
 
 ## Main focus of this Modlist
