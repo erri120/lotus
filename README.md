@@ -379,7 +379,7 @@ To uninstall SKSE, remove all files starting with `skse64_*`.
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord]([https://](https://discord.gg/wabbajack)), I would advise checking the [Issues](https://github.com/erri120/lotus/issues) on GitHub first if you have any problems. Since messages in Discord can get buried very quickly, you should also post _Enhancements_ or _Feature Requests_ in the [Issues](https://github.com/erri120/lotus/issues) tracker.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/erri120/lotus/issues) on GitHub first if you have any problems. Since messages in Discord can get buried very quickly, you should also post _Enhancements_ or _Feature Requests_ in the [Issues](https://github.com/erri120/lotus/issues) tracker.
 
 ## Changelog
 
