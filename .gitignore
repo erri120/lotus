@@ -1,6 +1,9 @@
 # Build artifacts
 
 build/*
+in/*
+out/*
+temp/*
 
 # Logs
 logs
