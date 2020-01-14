@@ -7,9 +7,13 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "node index.js"
+    "build": "gulp build"
   },
   "dependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-markdown-pdf": "^8.0.0",
+    "gulp-zip": "^5.0.1",
     "markdown-pdf": "^10.0.0",
     "underscore": "^1.9.2"
   }
