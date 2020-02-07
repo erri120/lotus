@@ -1,447 +1,182 @@
 # Lotus
 
 - [Preamble](#preamble)
-- [Main focus of this Modlist](#main-focus-of-this-modlist)
+- [Requirements](#requirements)
+  - [System Specs](#system-specs)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
-  - [Wabbajack](#wabbajack)
+    - [Steam Config](#steam-config)
+      - [Disable the Steam Overlay](#disable-the-steam-overlay)
+    - [Change Steams Update Behavior](#change-steams-update-behavior)
+    - [Set the Game language to English](#set-the-game-language-to-english)
+    - [Clean Skyrim](#clean-skyrim)
+    - [Start Skyrim](#start-skyrim)
+  - [Using Wabbajack](#using-wabbajack)
+    - [Preparations](#preparations)
+    - [Downloading and Installing](#downloading-and-installing)
+      - [Problems with Wabbajack](#problems-with-wabbajack)
+  - [Post-Installation](#post-installation)
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
-  - [Melee Combat](#melee-combat)
-  - [Archery](#archery)
-  - [Perks, Leveling, Races, Standing Stones and a lot of Enai](#perks-leveling-races-standing-stones-and-a-lot-of-enai)
-  - [3PCO](#3pco)
-  - [CBBE](#cbbe)
-  - [SOS](#sos)
-  - [Cathedral Mods](#cathedral-mods)
-  - [ENB: Silent Horizon](#enb-silent-horizon)
+  - [SexLab - Frameworks](#sexlab---frameworks)
 - [In-Game MCM Options](#in-game-mcm-options)
-  - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
-  - [AGO](#ago)
-  - [Engarde MCM](#engarde-mcm)
-  - [FNIS PCEA2](#fnis-pcea2)
-  - [Quick Light](#quick-light)
-  - [SSSO](#ssso)
-  - [Wildcat Combat](#wildcat-combat)
-  - [XPMSE](#xpmse)
-- [Adding more mods](#adding-more-mods)
-  - [Textures](#textures)
-  - [Outfits](#outfits)
-  - [Animations](#animations)
+- [Adding more Mods](#adding-more-mods)
   - [ENB](#enb)
 - [Tweaking Performance](#tweaking-performance)
   - [Tweaking the ENB](#tweaking-the-enb)
   - [Tweaking the Game Settings](#tweaking-the-game-settings)
-- [Removing the Modlist from your System](#removing-the-modlist-from-your-system)
+- [Removing the Modlist](#removing-the-modlist)
 - [Contact](#contact)
 - [Changelog](#changelog)
 
 ## Preamble
 
-I'm [erri120](https://github.com/erri120), one of the [Developers](https://github.com/wabbajack-tools/wabbajack/contributors) who work on [Wabbajack](https://github.com/wabbajack-tools/wabbajack). This is both a good and bad reason for having a Modlist up and running:
+**This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-I compile this Modlist not from the latest release but from the latest commit on the master branch of Wabbajack. This means that you will get pretty fast updates but updates using a Wabbajack that is not even publicly available.
+I'm [erri120](https://github.com/erri120), one of the [Developers](https://github.com/wabbajack-tools/wabbajack/contributors) behind [Wabbajack](https://github.com/wabbajack-tools/wabbajack) and a modding veteran for ~[7 years](https://www.nexusmods.com/users/6672467).
+As a professional scientist in the field of extreme indulgence in bodily pleasures and the manifestation thereof in video games, I have decided to create a Modlist involving said sinful acts of debauchery.
 
-## Main focus of this Modlist
+Now for real: If you want a fully featured and functional Modlist that is playable from start to finish, containing multiple quest, overhauls and sexual mods than you've come to the right GitHub repository.
 
-"_Is this Modlist the most graphical intense and beautiful Modlist?_" No.
+## Requirements
 
-"_Is it the most realistic?_" Hell no!
+- [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
+- [LoversLab Account](https://www.loverslab.com/)
+- A brain, eyes and time to read through this README
 
-"_Does it fix everything?_" Maybe?
+### System Specs
 
-"_Is this a base for adding more mods?_" Kinda...
+CPU: >= 7th gen Intel processor OR >= AMD Ryzen 3000 series processor
+GPU: >= 1060, you need at least 6GB of VRAM
+RAM: >= DDR4 with at least 16GBs
 
-"_What the hell is this and why does this exists?_" Let me explain:
-
-Lets take a look at what Modlists currently exists for Wabbajack:
-
-- Lexy's LotD Unofficial Modlist, this is a complete overhaul with a bazillion mods for everything. The emphasis on the _complete_
-- Ultimate VR, its a VR Modlist for VR Skyrim when you have a VR headset
-- Nice Overall Improvement SE aka N.O.I.S.E, has something from everything meaning it covers a lot of things and is a good _jack of all trades, master of none_
-- Total Skyrim Overhaul aka TSO, this one has Requiem as its core and should be played if you want a _Prepare to Die_ experience
-
-As you can see from the list, we have a good mix and (props to Timbo) even got a VR list. This Modlist expands on NOISE while still being very customizable. This does not mean I started with NOISE and installed more stuff on top of it, this is 100% made from scratch using mods and fixes included in NOISE and other Modlists.
-
-What I wanted to get right in this Modlist is Combat. Combat in base Skyrim is boring as hell. I don't like Requiem and mods that give Skyrim more _realism_ where you need to take care of your needs before doing anything.
-
-Combat in this Modlist is fast, tight and requires dexterity and your brain while not being overly difficult. Don't expect to defeat a level 50 Draugr Death Overlord on level 1. Do expect to be able to challenge yourself to try and defeat a level 50 Draugr Death Overlord on level 30/35 using your skills and knowledge.
-
-Be sure to check the [Important Mods you should know about](#important-mods-you-should-know-about) section before jumping in to the installation to get a feel for the setup and if you really want this.
+Everything should be installed on an SSD that has at least 256GB of space available.
 
 ## Installation
 
 ### Pre-Installation
 
-Before you can go and start Wabbajack, there is still some stuff you need to do:
+These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
-**Have a clean Skyrim Special Edition Installation available**:
+#### Steam Config
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/`.
-
-**Disable Steam Overlay**:
+##### Disable the Steam Overlay
 
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
-**Change Steams automatic updates config**:
+#### Change Steams Update Behavior
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
 To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
-**Play the game in English**:
+#### Set the Game language to English
 
 Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
-**Change the base Skyrim settings**:
+#### Clean Skyrim
 
-After you have done everything above and now have a clean SSE installation you can start the Launcher and open the _Options_ menu.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/`.
+
+#### Start Skyrim
+
+After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
 
 1) Click on _Ultra_
 2) Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
 3) Set _Antialiasing_ to _Off_
 4) Uncheck _Windowed Mode_ and _Borderless_
 
-### Wabbajack
+Start the game and exit once you're in the main menu.
 
-Let's get to the actual installation. Grab the latest release from [GitHub](https://github.com/erri120/lotus/releases). Since I'm part of the Wabbajack Team and actively developing the program, I include the exact build used to create the Modlist in the release. This means you will download Wabbajack from here and **not** from the Wabbajack release page.
+### Using Wabbajack
 
-Download the release to a _working folder_. This folder **must not** be in _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder at `C:/Wabbajack` or on any other drive.
+#### Preparations
+
+Let's get to the actual installation. Grab the latest release from [GitHub](https://github.com/erri120/lotus/releases). You will find `Lotus.wabbajack`, `CHANGELOG.pdf` and `README.pdf`.
+
+Download the release to a _working folder_. This folder **must not** be in _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
+
+#### Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-**Installation**:
-
 1) Open Wabbajack
 2) Load the Modlist from Disk
-3) Check that the paths are correctly set
-4) Click Begin
-5) Wait a long time for Wabbajack to finish
+3) Adjust the download and installation paths
+4) Click the Go/Begin button
+5) Wait for Wabbajack to finish
 
-Check [In-Game MCM Options](#in-game-mcm-options) once you have started the game.
+##### Problems with Wabbajack
+
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you loose no progress.
+
+**Could not download x**:
+
+If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait till I update the Modlist.
+
+**Wabbajack could not find my game folder**:
+
+Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
+
+### Post-Installation
 
 ## Updating
 
-If this Modlist receives an update than you should always check the Changelog for that release before doing anything. Always backup your saves in case anything happens or start anew with the update depending on the changes made.
+If this Modlist receives an update, than you should check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
+
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
 ## Important Mods you should know about
 
-This section contains information about some of the most important mods in this Modlist. If you want to add more mods (see [Adding more mods](#adding-more-mods)) than take a look at this section for maximum compatibility.
+This section contains information about some of the most important mods in this setup. I made this section so end-users know exactly what mods change what and can read-up on stuff they find interesting as well as give props to the mod authors.
 
-### Melee Combat
+### SexLab - Frameworks
 
-Combat is essential in Skyrim is boring as hell. When you play a melee character the only thing you need to do is attack until the enemy is dead. I tried to put the least amount of combat mods in this Modlist to create a fast and responsive combat experience.
+You know this would be first, didn't you...
+[SexLab Framework](https://www.loverslab.com/topic/91861-sexlab-framework-se-163-beta-8-november-22nd-2019/) is the core of all installed LL mods. Do note that this is a **beta build**. [SLAL](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/) or _SexLab Animation Loader_ and [SexLab Aroused Redux](https://www.loverslab.com/files/file/5482-sexlab-aroused-redux-sse-version-29/) are included as well.
 
-[Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) is the the core combat mod of this Modlist. Engarde and [3PCO](#3pco) will kinda force you into 3rd person. I recommend playing most of the combat in 3rd person when you have a melee weapon equipped. If you have a ranged weapon or use magic than continue in 1st person.
+Since we don't judge your fetishes, I have included [Creature Framework](https://www.loverslab.com/files/file/5462-creature-framework-se/) and [More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/).
 
-For AI I used [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368). You will have to disable a lot of options in the MCM of Wildcat because we will only need the AI changes from Wildcat.
-
-To make you start thinking during combat and not only use your dexterity, [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807) will add trait-based resistances and weaknesses so you need to have to choose the right tool for the job.
-
-This subsection was only for melee, below you will find the mods that change ranged (archery and magic) combat.
+[Devious Devices](https://www.loverslab.com/files/file/5878-devious-devices-se-beta/) sadly does not work for SSE **yet**, but once that is around, it will of course be included.
 
 Links:
 
-- [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673)
-- [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
-- [Know Your Enemy - Trait-based resistances and weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/13807)
-
-### Archery
-
-For archery I used [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296). This spices the archery gameplay up and gives you enchanted arrows, bleeding when hit by an arrow, new animations an much more. [ABT](https://www.nexusmods.com/skyrimspecialedition/mods/4683) for more speed.
-
-Links:
-
-- [Archery Gameplay Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/24296)
-- [ABT SE - Arrows and Bolts Tweaks Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4683)
-- [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
-- [Know Your Enemy - Trait-based resistances and weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/13807)
-
-### Perks, Leveling, Races, Standing Stones and a lot of Enai
-
-Enai on [Patreon](https://www.patreon.com/EnaiSiaion) and [Nexus](https://www.nexusmods.com/skyrimspecialedition/users/3959191).
-
-For Race changes its [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) vs [Morningstar](https://www.nexusmods.com/skyrimspecialedition/mods/22298) and I choose the latter because it's light weight and other mods already add a ton of features to combat and new mechanics.
-
-Standing Stones was easy, [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910) was and is a must in all my setups.
-
-Perks was a very difficult topic. Enai recently uploaded [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176), a light weight perk overhaul with high compatibility. A lot of the perks convinced me but I still choose [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137). The reason being the Restoration tree. If you have never played a holy Exorcist using Ordinator, than you should do that immediately. I thought about using Vokrii and [Path of Sorcery](https://www.nexusmods.com/skyrimspecialedition/mods/6660) but I missed the _holy_ aspect.
-
-Werwolf and Vampire perks were also very straight forward: the new [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) for Werebeasts and [Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928) for all those thirsty bois out there.
-
-[Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460) and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) so you can rp as any character you want. I highly recommend you checkout the Wintersun Nexus page and read the description of it, it's very fun worshipping _questionable_ things.
-
-[But wait, there is more!](https://forwardsandbookwords.files.wordpress.com/2015/09/but-wait-theres-more.jpg)
-
-[Special Perks from Questing](https://www.nexusmods.com/skyrimspecialedition/mods/29402) will give you cool effects after completing important quests and [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) will bring the good old XP system to Skyrim. What is _the good old XP system_? You get XP (which contribute to your level progress) when discovering locations, clearing locations and completing quests.
-
-This is a big section and if you have never heard of them than this might all be a ton of information up front. I recommend just playing the game and checking whatever mod out you find interesting. If you don't play as a Werewolf or Vampire than you won't really need to check up on Growl and Sacrosanct. You also don't need to know every Perk from Ordinator or every condition for Wintersun.
-
-Links:
-
-- [Enai Siaion Patreon](https://www.patreon.com/EnaiSiaion)
-- [EnaiSiaion Nexusmods](https://www.nexusmods.com/skyrimspecialedition/users/3959191)
-- [Morningstar - Minimalistic Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22298)
-- [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910)
-- [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
-- [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245)
-- [Sacrosanct - Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928)
-- [Thunderchild - Epic Shouts and Immersion](https://www.nexusmods.com/skyrimspecialedition/mods/1460)
-- [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506)
-- [Special Perks from Questing (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/29402)
-- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
-
-### 3PCO
-
-3rd Person Camera Overhaul aka [3PCO](https://www.nexusmods.com/skyrimspecialedition/mods/18515) does exactly what the name implies. The reason I am included this in the _important mods_ section is due to its extensive MCM (see [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)) and impact on gameplay.
-
-Links:
-
-- [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515)
-
-### CBBE
-
-Since the dawn of mankind, we asked the question _CBBE or UNP?_. This Modlist utilizes the newest addition to the Skyrim Special Edition Modding Community: [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174). As you can probably guess from the name, this is built upon CBBE and can be categorized as a CBBE mod. If you want to add any mod and can choose between different body types, make sure you select CBBE.
-
-CBBE 3BBB has the ability to swap between HDT-SMP and CBPC physics on the fly using a power. I have installed CBBE 3BBB with the _Full SMP_ option meaning that you will get _the most physics_ when using HDT-SMP. Do note that HDT-SMP can be resource hungry (especially on the CPU) so compare the FPS of both options to see what works best for you.
-
-Links:
-
-- [CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/198)
-- [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174)
-- [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)
-- [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
-- [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224)
-
-### SOS
-
-[Schlongs of Skyrim]((https://www.loverslab.com/files/file/498-sos-schlongs-of-skyrim/)) aka SOS is the male counterpart to CBBE/UNP. You often see beautiful women in modded Skyrim, where every race has custom textures 4k and CBBE/UNP meshes while the males look like complete dog shit. SOS + [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902) + [Male Dragonic Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/1443) make the dudes in Skyrim look somewhat decent.
-
-Links:
-
-- [SOS - Schlongs of Skyrim 3.00.004](https://www.loverslab.com/files/file/498-sos-schlongs-of-skyrim/)
-- [Schlongs of Skyrim SE 1.1.4](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
-- [Tempered Skins for Males - Vanilla and SOS versions](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
-- [Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)](https://www.nexusmods.com/skyrimspecialedition/mods/1443)
-
-### Cathedral Mods
-
-"_The [Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/19515) is a comprehensive visual overhaul for Skyrim. It is performance friendly, consisting mostly of re-textures, improved models, and lighting modifications, so that you can use it as a foundation without having to worry extensively about compatibility_". - Introduction for the Cathedral mods
-
-I choose to use most of the Cathedral mods in this Modlist for the reasons above. The most important one you need to watch out for is [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791). This is the weather mod for the Modlist and if you want to swap out the ENB, than you need one that is compatible with this weather mod.
-
-Links:
-
-- [Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/19515)(unreleased)
-- [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
-- [Majestic Mountains - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
-- [Landscapes - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/21954)
-- [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830)
-- [8K Night Skies - Stars and Galaxies - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/20301)
-- [Cathedral Water Overhaul - Includes Water Edge Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/22962)
-
-### ENB: Silent Horizon
-
-ENBs for Special Edition never really convinced me. [SnowFall Weathers](https://www.nexusmods.com/skyrim/mods/79335) singlehandedly made me stay with Oldrim for 3 years since it came out. I choose [Silent Horizon](https://www.nexusmods.com/skyrimspecialedition/mods/21543) for this Modlist, mainly because of its performance and set of features. It is also compatible with [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791), the weather mod of this list.
-
-If you have a Titan V and more FPS than you need, check the [ENB](#enb) section for ENBs you can swap to.
-
-Links:
-
-- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
+- [SexLab Framework SE 1.63 - BETA 8 - November 22nd, 2019](https://www.loverslab.com/topic/91861-sexlab-framework-se-163-beta-8-november-22nd-2019/)
+- [SexLab Animation Loader SSE 1.0.0](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/)
+- [SexLab Aroused Redux SSE Version 29 2.9](https://www.loverslab.com/files/file/5482-sexlab-aroused-redux-sse-version-29/)
+- [Creature Framework SE 1.0.1](https://www.loverslab.com/files/file/5462-creature-framework-se/)
+- [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
 
 ## In-Game MCM Options
 
-Once you're in the actual game, there are still some MCM options you should configure before starting your playthrough. This is entirely optional but highly recommended since some options can change your game substantially.
-
-### 3PCO - 3rd Person Camera Overhaul
-
-This mod is very customizable and you should tweak it to your liking. I can't tell you what you like but I can tell you what settings you might wanna change:
-
-**General Settings**:
-
-- `Default FOV`
-- `Camera speed`
-- `Min zoom`
-- `Max zoom`
-- `Gamepad` (I really don't recommend playing with a control, but whatever)
-  
-**Sheathed, Melee, Ranged, Sneak**:
-
-Those 4 sections change the camera depending on your current state. The important values are the `Offsets`. A higher `Offset` will let the camera be able to move more on the specific axis. If you want the camera stiff and not swing out that much, use a lower `Offset`. If you want it to sway out than use a higher `Offset`.
-
-Mod: [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515)
-
-### AGO
-
-The [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296) can be left alone for most its settings. What you maybe wanna change is the `Persistent Arrows` option. If you have it `on`, assign a hotkey for removing the arrows. I like to have it set to `off`.
-
-Mod: [Archery Gameplay Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/24296)
-
-### Engarde MCM
-
-The core gameplay mod of this Modlist. The base values are fine but you can tweak it to your liking. Since the MCM is very detailed and you can change a lot of _small_ values, I only list options that will have drastically change your gameplay.
-
-**stamina**:
-
-- `No stamina regen while running`
-
-**PowerAttacks**:
-
-- `Slow time`: Incoming power attacks will slow time so you can dodge
-- `Injury`: Power attacks can cause injuries
-
-**KeyButton**:
-
-- `Dodge key`: This is your dodge key will be used **a lot** during combat. I highly recommend you find something that feels good, I like to have it on `V` because, the default, `LAlt` is my run key which can sometimes make you dodge during running.
-
-**Others**:
-
-- `Enable dodging`: The entire combat mod is made around dodging. If you still think that the dodging is total garbage than disable it.
-- `Dodges while stationary`: The animation played when being stationary and wanting to dodge, I recommend `Roll`
-- `Dodges while moving`: The animation played when moving and wanting to dodge, I like `Roll` more than `Hop` but you should test both and see what feels best for you
-
-The _Combat Focus_ subsection can be adjusted how you like. You can make the combat easier by setting it to always active or harder with the daily power. Make it hardcore by straight up disabling the entire thing.
-
-Use `Save settings to disk` after you're done so you can load those settings on a new playthrough.
-
-Mod: [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673)
-
-### FNIS PCEA2
-
-PCEA2 or _Player Character Exclusive Animations, 2nd generation_ lets you define and use animations that only the player has access to.
-
-You I have ported the [Realistic Animation Project - Movement](https://www.nexusmods.com/skyrim/mods/77343) mod to SE and added the _Female_ and _Male_ running/sprinting animations to PCEA2. Simply select the gender of your character and click the refresh button.
-
-Mod: [FNIS PCEA2 - Player Exclusive Animations (dynamic) SE](https://www.nexusmods.com/skyrimspecialedition/mods/13281)
-
-### Quick Light
-
-Change _Set light key_ to whatever you prefer. Pressing this key for the time specified at _Long press time for activate key_ will give you a light source to illuminate the darkness.
-
-Mod: [Quick Light SE](https://www.nexusmods.com/skyrimspecialedition/mods/12633)
-
-### SSSO
-
-SSSO aka _Skyrim SafeSave System Overhaul_ lets you change the way autosaves work. Do note that the _Manual Save key_ is set to _ESC_ meaning _none_ at the start. The default values are fine but you can spice up your playthrough with the _Enable hardcore Mode_ and _Enforced hardcore mode_ if you want.
-
-Mod: [Skyrim SafeSave System Overhaul - Rotating save and optional Hardcore mode](https://www.nexusmods.com/skyrimspecialedition/mods/19399)
-
-### Wildcat Combat
-
-Since we use [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) for combat and only use Wildcat for the AI, you can disable pretty much everything in the MCM:
-
-- `Disable Combat`: disable everything
-- `Attacks of Opportunity`: disable everything except backstabbing
-- `Injuries`: disable everything
-- `Timed Block`: disable everything
-
-Something you might wanna consider is `Allow Wildcat to Manage Difficulty`. If you think that the game is too easy and want more of a challenge, try this. This option only increases the damage taken and decreases the damage dealt but you can still adjust this to your liking.
-
-Mod: [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
-
-### XPMSE
-
-**Styles**:
-
-Change the Quiver Style to `Frostfall XP32`.
-
-## Adding more mods
-
-**Read the [Important Mods you should know about](#important-mods-you-should-know-about) sections first**
-
-If you want to add more mods to this setup than I'm glad you have found your way here. Do note that adding mods to any Modlist, not marked as **modular** or **expandable**, requires decent enough knowledge about modding and working with tools like [xEdit](https://github.com/TES5Edit/TES5Edit), [zEdit](https://github.com/z-edit/zedit) and [Mator Smash](https://www.nexusmods.com/skyrim/mods/90987).
-
-### Textures
-
-Probably the most easiest type of mods you can add to any setup. The only thing you need to look out for are LODs.
-
-### Outfits
-
-This Modlist uses [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174) as its body so make sure you download outfits made for CBBE. Since [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872) and [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224) are both installed, you can also install and use outfits marked with _Physics_.
-
-Since this Modlist uses [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807), you will need to rebuilt the `KnowYourArmorPatcher` in zEdit.
-
-### Animations
-
-Since we use [FNIS](https://www.nexusmods.com/skyrimspecialedition/mods/3038) in this Modlist, adding new animations is straight forward:
-
-1) Install the mod
-2) Open FNIS
-3) Generate FNIS
-
-If you want to add _Player only_ animations, checkout [FNIS PCEA2](https://www.nexusmods.com/skyrimspecialedition/mods/13281) which is also included in this setup.
+## Adding more Mods
 
 ### ENB
 
-The weather mod used in this Modlist is [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791) and the lighting mods are [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830) (see [Cathedral Mods](#cathedral-mods)) and [Enhanced Lighting for ENB (ELE)](https://www.nexusmods.com/skyrimspecialedition/mods/1377). If you want to swap out the ENB, make sure that it is compatible with Cathedral Weathers and looks somewhat decent with Luminosity and ELE. You could try and swap the those two mods with any other weather + lighting mod but this may disrupt the visual consistency that the entire Cathedral lineup has.
-
-Other ENBs you can use (not tested, experience may vary):
-
-ENBs that work with Cathedral Weathers:
-
-- [Silent Horizon](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
-- [Ljoss - Semi-realistic performance preset with Nighteye and ENB Light support](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
-
-ENBs that maybe work with Cathedral Weathers:
-
-- [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
-- [NVT](https://www.nexusmods.com/skyrimspecialedition/mods/11203)
-- [PRT](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
-- [Apex](https://www.nexusmods.com/skyrimspecialedition/mods/18042)
-
 ## Tweaking Performance
-
-My Setup:
-
-- i7-7700k running at ~4.6GHz
-- 1060 6GB overclocked to ~1800MHz
-- 16GB of DDR4-3200 RAM
-- Game and MO2 running on an SSD
-
-My FPS:
-
-- Outside in a dense forest: 50-65
-- Inside (anywhere): 60-120 (depending on the amount of particles)
-
-You may or may not have more or less FPS somewhere depending on your specific specs. Here are some tips on how to get more:
 
 ### Tweaking the ENB
 
-This should always be the first thing you tweak. Disabling the ENB entirely can give you up to anything from 20 to >70 FPS. The ENB this Modlist comes with (see [ENB: Silent Horizon](#enb-silent-horizon)) is very performance friendly. Open the ENB GUI using `Right Shift + Enter` (`Right Shift` is under the `Enter` key). This will open up the ENB GUI where you can enable and disable certain effects in the left panel.
-
-- `Bloom`: Can give you up to 3 FPS, will make light sources less bright
-- `DepthOfField`: Can give you up to 10 FPS, disabled by default and not really suited for gameplay
-- `Ambient Occlusion`: This one is a big hitter. You can get up to 20 FPS by disabling this but the effect is very noticeable
-- `Distant/DetailedShadow`: Those two can really give you a lot of FPS back depending on your shader settings (game settings). They are very noticeable.
-- `ComplexFire/ParticleLights`: You won't see a lot of difference at first when disabling those two, but when particles are on screen (eg using magic or near light sources such as fires), they can _burn_ through your FPS
-
 ### Tweaking the Game Settings
 
-I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
+## Removing the Modlist
 
-- `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
-- `Ambient Occlusion`: Highly recommended to leave this at `None`. The ENB this Modlist comes with, uses the ENB SAO which is 10x better and performance friendly than base game SAO.
-- `Detailed Draw Distance`: Maybe try `2000` instead of `2800` but you won't notice a lot of FPS gain (maybe 1-3)
-- `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
-
-## Removing the Modlist from your System
-
-Since we are using MO2 as our Mod Manager the removal of this Modlist is very simple. Remove the MO2 folder and you're done. Of course there are still your save files in the documents folder and your game folder still contains SKSE and the ENB. I recommend using the [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) to remove the enb leftovers from your game folder.
-
-To uninstall SKSE, remove all files starting with `skse64_*`.
+You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/erri120/lotus/issues) on GitHub first if you have any problems. Since messages in Discord can get buried very quickly, you should also post _Enhancements_ or _Feature Requests_ in the [Issues](https://github.com/erri120/lotus/issues) tracker.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/erri120/lotus/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_.
 
 ## Changelog
 
