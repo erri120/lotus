@@ -16,6 +16,12 @@ function makePDF(cb) {
     .pipe(gulp.dest('temp'));
 }
 
+function zipUserContent(cb) {
+    return gulp.src('user-submitted-content/*')
+    .pipe(zip('Lotus - User Submitted Content.zip'))
+    .pipe(gulp.dest('out'));
+}
+
 function zipAll(cb) {
     return gulp.src('temp/*')
     .pipe(gulp.src('in/*', {allowEmpty: true}))
@@ -27,4 +33,4 @@ function cleanup(cb) {
     return del('temp');
 }
 
-exports.build = series(makePDF, zipAll, cleanup);
+exports.build = series(makePDF, zipUserContent, zipAll, cleanup);
