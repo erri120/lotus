@@ -2,7 +2,10 @@
 
 ## Updating the README
 
-Recommended Editor: [Visual Studio Code](https://code.visualstudio.com/)
+Requirements:
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/)
 
 Use the recommended extensions (VS Code will automatically tell you). Can also be found [here](.vscode/extensions.json).
 
