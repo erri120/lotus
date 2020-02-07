@@ -1,34 +1,112 @@
 # Lotus
 
-- [Preamble](#preamble)
-- [Requirements](#requirements)
-  - [System Specs](#system-specs)
-- [Installation](#installation)
-  - [Pre-Installation](#pre-installation)
-    - [Steam Config](#steam-config)
-      - [Disable the Steam Overlay](#disable-the-steam-overlay)
-    - [Change Steams Update Behavior](#change-steams-update-behavior)
-    - [Set the Game language to English](#set-the-game-language-to-english)
-    - [Clean Skyrim](#clean-skyrim)
-    - [Start Skyrim](#start-skyrim)
-  - [Using Wabbajack](#using-wabbajack)
-    - [Preparations](#preparations)
-    - [Downloading and Installing](#downloading-and-installing)
-      - [Problems with Wabbajack](#problems-with-wabbajack)
-  - [Post-Installation](#post-installation)
-- [Updating](#updating)
-- [Important Mods you should know about](#important-mods-you-should-know-about)
-  - [SexLab - Frameworks](#sexlab---frameworks)
-- [In-Game MCM Options](#in-game-mcm-options)
-- [Adding more Mods](#adding-more-mods)
-  - [ENB](#enb)
-- [Tweaking Performance](#tweaking-performance)
-  - [Tweaking the ENB](#tweaking-the-enb)
-  - [Tweaking the Game Settings](#tweaking-the-game-settings)
-- [Removing the Modlist](#removing-the-modlist)
-- [Contact](#contact)
-- [Contributing](#contributing)
-- [Changelog](#changelog)
+- [Lotus](#lotus)
+  - [Preamble](#preamble)
+  - [Requirements](#requirements)
+    - [System Specs](#system-specs)
+  - [Installation](#installation)
+    - [Pre-Installation](#pre-installation)
+      - [Steam Config](#steam-config)
+        - [Disable the Steam Overlay](#disable-the-steam-overlay)
+      - [Change Steams Update Behavior](#change-steams-update-behavior)
+      - [Set the Game language to English](#set-the-game-language-to-english)
+      - [Clean Skyrim](#clean-skyrim)
+      - [Start Skyrim](#start-skyrim)
+    - [Using Wabbajack](#using-wabbajack)
+      - [Preparations](#preparations)
+      - [Downloading and Installing](#downloading-and-installing)
+        - [Problems with Wabbajack](#problems-with-wabbajack)
+    - [Post-Installation](#post-installation)
+  - [Updating](#updating)
+  - [Important Mods you should know about](#important-mods-you-should-know-about)
+    - [SexLab - Frameworks](#sexlab---frameworks)
+  - [In-Game MCM Options](#in-game-mcm-options)
+    - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
+      - [Melee](#melee)
+    - [AGO](#ago)
+      - [Settings](#settings)
+        - [Enable/Disable](#enabledisable)
+    - [Follower Framework](#follower-framework)
+      - [Activity](#activity)
+        - [Sandboxing](#sandboxing)
+    - [Growl Werebeasts](#growl-werebeasts)
+      - [Features](#features)
+    - [Nemesis PCEA](#nemesis-pcea)
+      - [Animation Pack(s)](#animation-packs)
+    - [Quick Light](#quick-light)
+    - [Storm Lightning](#storm-lightning)
+      - [Presets](#presets)
+      - [Advanced](#advanced)
+    - [Ultimate Combat](#ultimate-combat)
+      - [General](#general)
+        - [Stagger](#stagger)
+        - [Locational Damage](#locational-damage)
+      - [NPC Setting](#npc-setting)
+        - [NPC](#npc)
+    - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
+      - [Player Settings](#player-settings)
+      - [NPC Settings](#npc-settings)
+    - [Wildcat Combat](#wildcat-combat)
+      - [Dynamic Combat](#dynamic-combat)
+      - [Stamina Costs](#stamina-costs)
+      - [Timed Block](#timed-block)
+      - [Difficulty](#difficulty)
+    - [XPMSE](#xpmse)
+      - [Styles](#styles)
+        - [Quiver Style](#quiver-style)
+    - [SexLab](#sexlab)
+      - [Install](#install)
+        - [SexLab v.163 SE dev Beta 8 by Ashal@LoversLab.com](#sexlab-v163-se-dev-beta-8-by-ashalloverslabcom)
+      - [Animation Settings](#animation-settings)
+      - [Animation Settings](#animation-settings-1)
+        - [Player Settings](#player-settings-1)
+        - [Extra Effects](#extra-effects)
+        - [Animation Handling](#animation-handling)
+      - [Player Hotkeys](#player-hotkeys)
+        - [Alignment Adjustments](#alignment-adjustments)
+    - [SL Anim Loader](#sl-anim-loader)
+      - [Babo Creature](#babo-creature)
+      - [Babo Human](#babo-human)
+    - [General](#general-1)
+    - [Schlongs of Skyrim](#schlongs-of-skyrim)
+      - [General Settings](#general-settings)
+    - [SexLab Aroused](#sexlab-aroused)
+      - [Settings](#settings-1)
+        - [General](#general-2)
+    - [Sacrosanct Vampires](#sacrosanct-vampires)
+      - [Vampire Spells, Powers, and Abilities](#vampire-spells-powers-and-abilities)
+    - [Sexlab Approach Redux](#sexlab-approach-redux)
+      - [General Settings](#general-settings-1)
+        - [Arousal](#arousal)
+    - [Blush When Aroused](#blush-when-aroused)
+      - [GENERAL](#general-3)
+        - [Compatibility](#compatibility)
+      - [Cause and Effect](#cause-and-effect)
+        - [Player](#player)
+        - [NPCs](#npcs)
+    - [Defeat](#defeat)
+      - [General Settings](#general-settings-2)
+      - [General Settings](#general-settings-3)
+    - [SSSO](#ssso)
+    - [Forgotten Wenches](#forgotten-wenches)
+      - [Forgotten Configuration](#forgotten-configuration)
+    - [Hateful Wenches](#hateful-wenches)
+      - [Hateful Configuration](#hateful-configuration)
+    - [Judgment Wenches](#judgment-wenches)
+      - [Judgment Configuration](#judgment-configuration)
+    - [Beastess](#beastess)
+      - [Beastess Setup](#beastess-setup)
+    - [Bestial Essence](#bestial-essence)
+      - [Settings](#settings-2)
+  - [Adding more Mods](#adding-more-mods)
+    - [ENB](#enb)
+  - [Tweaking Performance](#tweaking-performance)
+    - [Tweaking the ENB](#tweaking-the-enb)
+    - [Tweaking the Game Settings](#tweaking-the-game-settings)
+  - [Removing the Modlist](#removing-the-modlist)
+  - [Contact](#contact)
+  - [Contributing](#contributing)
+  - [Changelog](#changelog)
 
 ## Preamble
 
@@ -160,6 +238,316 @@ Links:
 - [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
 
 ## In-Game MCM Options
+
+### 3PCO - 3rd Person Camera Overhaul
+
+#### Melee
+
+Positive X Offset - 60
+
+Negative X Offset - 60
+
+### AGO
+
+#### Settings
+
+##### Enable/Disable
+
+Persistent Arrows - Disabled
+
+### Follower Framework
+
+#### Activity
+
+##### Sandboxing
+
+Ignore Special Furniture - Enabled
+
+Stop During Player Dialogue - Enabled
+
+Only Sandbox in Town - Enabled
+
+Only Sandbox in Non-Dungeon - Enabled
+
+### Growl Werebeasts
+
+#### Features
+
+Invulnerable During Transformation - Enabled
+
+### Nemesis PCEA
+
+#### Animation Pack(s)
+
+0Female - Enable if player character is female
+
+1Male - Enable if player character is male
+
+### Quick Light
+
+Long press time for activate key - 2.0s
+
+### Storm Lightning
+
+#### Presets
+
+Click "Realistic"
+
+#### Advanced
+
+Compatibility Mode - Enabled
+
+### Ultimate Combat
+
+#### General
+
+##### Stagger
+
+Enemy Poise - Disabled
+
+Player Stagger - Disabled
+
+##### Locational Damage
+
+Locational Damage Sound - Disabled
+
+#### NPC Setting
+
+##### NPC
+
+Dodge - Disable
+
+### The Ultimate Dodge Mod
+
+#### Player Settings
+
+Sneak Key - V
+
+#### NPC Settings
+
+NPC Dodging Frequency - Moderate
+
+### Wildcat Combat
+
+#### Dynamic Combat
+
+Disable Slow at 0 Stamina - Enabled
+
+Disable Swimming Stamina Cost - Enabled
+
+Disable Bow Interrupts - Enabled
+
+#### Stamina Costs
+
+Bow Attacks Cost - 0 Stamina
+
+Disable Pulled / Held Bow Stamina Cost - Enabled
+
+#### Timed Block
+
+Disable Timed Block - Enabled
+
+#### Difficulty
+
+Allow Wildcat to Manage Difficulty - Enabled
+Expert - Damage Dealt: x1.75
+Expert - Damage Taken: x1.50
+
+### XPMSE
+
+#### Styles
+
+##### Quiver Style
+
+Player - Frostfall Quiver (XP32)
+
+Non-Player - Frostfall Quiver (XP32)
+
+### SexLab
+
+#### Install
+
+##### SexLab v.163 SE dev Beta 8 by Ashal@LoversLab.com
+
+Click "INSTALL/UPDATE SEXLAB 1.63 SE DEV BETA 8"
+
+Close the MCM and wait until you receive the message 
+
+"SexLab - SexLab v1.63 SE dev beta 8 - Ready!"
+
+Reopen the MCM and continue configuration of SexLab
+
+#### Animation Settings
+
+Allow Creature Animations (Top Right, Under Animation Profile) - Enabled
+
+Close the MCM and wait until you reseach the message
+
+"SexLab Creature Animations Installed"
+
+Reopen the MCM and continue configuration of SexLab
+
+#### Animation Settings
+
+##### Player Settings
+
+Automatic Free Camera - Enabled
+
+Free Camera Speed - 4
+
+##### Extra Effects
+
+Apply Facial Expressions - Enabled
+
+NPCs Use Beds - Sometimes
+
+##### Animation Handling
+
+Pre-Sex Foreplay - Enabled
+
+Clear High Heels Height - Enabled
+
+#### Player Hotkeys
+
+##### Alignment Adjustments
+
+Adjust Schlong - Upward/Downward - Page Up
+
+### SL Anim Loader
+
+#### Babo Creature
+
+Click "Enable All"
+
+#### Babo Human
+
+Click "Enable All"
+
+### General
+
+Click "Register Animations"
+
+### Schlongs of Skyrim
+
+#### General Settings
+
+Global Settings
+
+SOS Potions - Disabled
+
+### SexLab Aroused
+
+#### Settings
+
+##### General
+
+Purge Dead Actors Every 10 Game Days - Enabled
+
+Enable SOS - Enabled
+
+Default Exposure Rate - 1.7
+
+Decay Rate - 1.5
+
+### Sacrosanct Vampires
+
+#### Vampire Spells, Powers, and Abilities
+
+Fortitude: Disable - Enabled
+
+### Sexlab Approach Redux
+
+#### General Settings
+
+##### Arousal
+
+NPCs Lowest Arousal - 15
+
+### Blush When Aroused
+
+#### GENERAL
+
+##### Compatibility
+
+Sexlab Aroused Redux - Enabled
+
+#### Cause and Effect
+
+##### Player
+
+Nakedness - Enabled
+
+##### NPCs
+
+Nakedness - Enabled
+
+### Defeat
+
+#### General Settings
+
+Click "Mod Status - Disabled"
+
+Close the MCM and wait for the message "Defeat: Installed"
+
+QuickSave and QuickLoad the game
+
+Open the MCM Menu and resume configuring Defeat
+
+#### General Settings
+
+Click "Import Settings" and then click "Accept"
+
+Close and reopen the MCM Menu
+
+### SSSO
+
+Rotating Automatic Save - Enabled
+
+Auto Save Count - 5 Slots
+
+Delay Before Exit Game - 7 Seconds
+
+### Forgotten Wenches
+
+#### Forgotten Configuration
+
+Ondeath Summon Chance
+
+Forgotten Wench Spawn - 25% Chance
+
+### Hateful Wenches
+
+#### Hateful Configuration
+
+Summon Undead Wench Spell
+
+Draugrs - 20%
+
+### Judgment Wenches
+
+#### Judgment Configuration
+
+Judgment Wenches spawn chance.
+
+Judgment Wench. - 25%
+
+### Beastess
+
+#### Beastess Setup
+
+Enable or Disable Mod
+
+Click "Enable or Disable Mod" then click "Accept"
+
+Close the MCM and wait for a message that begins "You feel a dark power..."
+
+Click "Ok"
+
+### Bestial Essence
+
+#### Settings
+
+Controller Vibration During Sex - Disabled
 
 ## Adding more Mods
 
