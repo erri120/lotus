@@ -261,8 +261,11 @@ Persistent Arrows - Disabled
 #### Sandboxing
 
 Ignore Special Furniture - Enabled
+
 Stop During Player Dialogue - Enabled
+
 Only Sandbox in Town - Enabled
+
 Only Sandbox in Non-Dungeon - Enabled
 
 ## Growl Werebeasts
