@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a bug report
 title: ''
-labels: in investigation
+labels: possible bug
 assignees: erri120
 
 ---
