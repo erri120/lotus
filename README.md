@@ -161,6 +161,267 @@ Links:
 
 ## In-Game MCM Options
 
+# 3PCO - 3rd Person Camera Overhaul
+
+Melee
+
+Positive X Offset - 60
+Negative X Offset - 60
+
+# AGO
+
+Settings
+Enable/Disable
+
+Persistent Arrows - Disabled
+
+# Follower Framework
+
+Activity
+Sandboxing
+
+Ignore Special Furniture - Enabled
+Stop During Player Dialogue - Enabled
+Only Sandbox in Town - Enabled
+Only Sandbox in Non-Dungeon - Enabled
+
+# Growl Werebeasts
+
+Features
+Invulnerable During Transformation - Enabled
+
+# Nemesis PCEA
+
+Animation Pack(s)
+0Female - Enable if player character is female
+1Male - Enable if player character is male
+
+# Quick Light
+
+Long press time for activate key - 2.0s
+
+# Storm Lightning
+
+Presets
+Click "Realistic"
+
+Advanced
+Compatibility Mode - Enabled
+
+# Ultimate Combat
+
+GENERAL
+
+Stagger
+
+Enemy Poise - Disabled
+Player Stagger - Disabled
+
+Locational Damage
+
+Locational Damage Sound - Disabled
+
+NPC SETTING
+
+NPC
+Dodge - Disable
+
+# The Ultimate Dodge Mod
+
+Player Settings
+Sneak Key - V
+
+NPC Settings
+NPC Dodging Frequency - Moderate
+
+# Wildcat Combat
+
+DYNAMIC COMBAT
+
+Disable Slow at 0 Stamina - Enabled
+Disable Swimming Stamina Cost - Enabled
+Disable Bow Interrupts - Enabled
+
+STAMINA COSTS
+
+Bow Attacks Cost - 0 Stamina
+Disable Pulled / Held Bow Stamina Cost - Enabled
+
+TIMED BLOCK
+
+Disable Timed Block - Enabled
+
+DIFFICULTY
+
+Allow Wildcat to Manage Difficulty - Enabled
+Expert - Damage Dealt: x1.75
+Expert - Damage Taken: x1.50
+
+# XPMSE
+
+Styles
+
+Quiver Style
+Player - Frostfall Quiver (XP32)
+Non-Player - Frostfall Quiver (XP32)
+# SexLab
+
+INSTALL
+
+SexLab v.163 SE dev Beta 8 by Ashal@LoversLab.com
+Click "INSTALL/UPDATE SEXLAB 1.63 SE DEV BETA 8"
+
+Close the MCM and wait until you receive the message 
+"SexLab - SexLab v1.63 SE dev beta 8 - Ready!"
+Reopen the MCM and continue configuration of SexLab
+
+ANIMATION SETTINGS
+
+Allow Creature Animations (Top Right, Under Animation Profile) - Enabled
+
+Close the MCM and wait until you reseach the message
+"SexLab Creature Animations Installed"
+Reopen the MCM and continue configuration of SexLab
+
+ANIMATION SETTINGS
+
+Player Settings
+
+Automatic Free Camera - Enabled
+Free Camera Speed - 4
+
+Extra Effects
+
+Apply Facial Expressions - Enabled
+NPCs Use Beds - Sometimes
+
+Animation Handling
+
+Pre-Sex Foreplay - Enabled
+Clear High Heels Height - Enabled
+
+PLAYER HOTKEYS
+
+Alignment Adjustments
+
+Adjust Schlong - Upward/Downward - Page Up
+
+# SL Anim Loader
+
+BABO CREATURE
+
+Click "Enable All"
+
+BABO HUMAN
+
+Click "Enable All"
+
+GENERAL OPTIONS
+
+Click "Register Animations"
+
+!
+
+# Schlongs of Skyrim
+
+GENERAL SETTINGS
+
+Global Settings
+SOS Potions - Disabled
+
+# SexLab Aroused
+
+SETTINGS
+
+General
+Purge Dead Actors Every 10 Game Days - Enabled
+Enable SOS - Enabled
+Default Exposure Rate - 1.7
+Decay Rate - 1.5
+
+# Sacrosanct Vampires
+
+VAMPIRE SPELLS, POWERS AND ABILITIES
+Fortitude: Disable - Enabled
+
+# Sexlab Approach Redux
+
+GENERAL SETTING
+
+Arousal
+NPCs Lowest Arousal - 15
+
+# Blush When Aroused
+
+GENERAL
+
+Compatibility
+Sexlab Aroused Redux - Enabled
+
+CAUSE AND EFFECT
+
+Player
+Nakedness - Enabled
+
+NPCs
+Nakedness - Enabled
+
+# Defeat
+
+GENERAL SETTINGS
+
+Click "Mod Status - Disabled"
+Close the MCM and wait for the message "Defeat: Installed"
+QuickSave and QuickLoad the game
+Open the MCM Menu and resume configuring Defeat
+
+GENERAL SETTINGS
+
+Click "Import Settings" and then click "Accept"
+Close and reopen the MCM Menu
+
+# SSSO
+
+Rotating Automatic Save - Enabled
+Auto Save Count - 5 Slots
+Delay Before Exit Game - 7 Seconds
+
+# Forgotten Wenches
+
+FORGOTTEN CONFIGURATION
+
+Ondeath Summon Chance
+Forgotten Wench Spawn - 25% Chance
+
+# Hateful Wenches
+
+HATEFUL CONFIGURATION
+
+Summon Undead Wench Spell
+Draugrs - 20%
+
+# Judgment Wenches
+
+JUDGMENT CONFIGURATION
+
+Judgment Wenches spawn chance.
+Judgment Wench. - 25%
+
+# Beastess
+
+BEASTESS SETUP
+
+Enable or Disable Mod
+Click "Enable or Disable Mod" then click "Accept"
+Close the MCM and wait for a message that begins "You feel a dark power..."
+Click "Ok"
+Reopen the MCM and resume configuring Beastess
+
+# Bestial Essence
+
+Settings
+Controller Vibration During Sex - Disabled
+
 ## Adding more Mods
 
 ### ENB
