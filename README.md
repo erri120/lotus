@@ -189,7 +189,7 @@ Links:
 
 #### 3PCO - 3rd Person Camera Overhaul
 
-Melee
+**Melee**:
 
 Positive X Offset - 60
 
@@ -197,7 +197,7 @@ Negative X Offset - 60
 
 #### AGO
 
-Settings
+**Settings**:
 
 Enable/Disable
 
@@ -205,7 +205,7 @@ Persistent Arrows - Disabled
 
 #### Follower Framework
 
-Activity
+**Activity**:
 
 Sandboxing
 
@@ -219,13 +219,13 @@ Only Sandbox in Non-Dungeon - Enabled
 
 #### Growl Werebeasts
 
-Features
+**Features**:
 
 Invulnerable During Transformation - Enabled
 
 #### Nemesis PCEA
 
-Animation Pack(s)
+**Animation Pack(s)**:
 
 0Female - Enable if player character is female
 
@@ -237,17 +237,17 @@ Long press time for activate key - 2.0s
 
 #### Storm Lightning
 
-Presets
+**Presets**:
 
 Click "Realistic"
 
-Advanced
+**Advanced**:
 
 Compatibility Mode - Enabled
 
 #### Ultimate Combat
 
-GENERAL
+**General**:
 
 Stagger
 
@@ -259,7 +259,7 @@ Locational Damage
 
 Locational Damage Sound - Disabled
 
-NPC SETTING
+**NPC Setting**:
 
 NPC
 
@@ -267,17 +267,17 @@ Dodge - Disable
 
 #### The Ultimate Dodge Mod
 
-Player Settings
+**Player Settings**:
 
 Sneak Key - V
 
-NPC Settings
+**NPC Settings**:
 
 NPC Dodging Frequency - Moderate
 
 #### Wildcat Combat
 
-DYNAMIC COMBAT
+**Dynamic Combat**:
 
 Disable Slow at 0 Stamina - Enabled
 
@@ -285,17 +285,17 @@ Disable Swimming Stamina Cost - Enabled
 
 Disable Bow Interrupts - Enabled
 
-STAMINA COSTS
+**Stamina Costs**:
 
 Bow Attacks Cost - 0 Stamina
 
 Disable Pulled / Held Bow Stamina Cost - Enabled
 
-TIMED BLOCK
+**Timed Block**:
 
 Disable Timed Block - Enabled
 
-DIFFICULTY
+**Difficulty**:
 
 Allow Wildcat to Manage Difficulty - Enabled
 
@@ -305,7 +305,7 @@ Expert - Damage Taken: x1.50
 
 #### XPMSE
 
-Styles
+**Styles**:
 
 Quiver Style
 
@@ -315,7 +315,7 @@ Non-Player - Frostfall Quiver (XP32)
 
 #### SexLab
 
-INSTALL
+**Install**:
 
 SexLab v.163 SE dev Beta 8 by Ashal@LoversLab.com
 
@@ -327,7 +327,7 @@ Close the MCM and wait until you receive the message
 
 Reopen the MCM and continue configuration of SexLab
 
-ANIMATION SETTINGS
+**Animation Settings**:
 
 Allow Creature Animations (Top Right, Under Animation Profile) - Enabled
 
@@ -337,7 +337,7 @@ Close the MCM and wait until you reseach the message
 
 Reopen the MCM and continue configuration of SexLab
 
-ANIMATION SETTINGS
+**Animation Settings**:
 
 Player Settings
 
@@ -345,7 +345,7 @@ Automatic Free Camera - Enabled
 
 Free Camera Speed - 4
 
-Extra Effects
+**Extra Effects**
 
 Apply Facial Expressions - Enabled
 
@@ -357,7 +357,7 @@ Pre-Sex Foreplay - Enabled
 
 Clear High Heels Height - Enabled
 
-PLAYER HOTKEYS
+**Player Hotkeys**:
 
 Alignment Adjustments
 
@@ -365,15 +365,15 @@ Adjust Schlong - Upward/Downward - Page Up
 
 #### SL Anim Loader
 
-BABO CREATURE
+**Babo Creature**:
 
 Click "Enable All"
 
-BABO HUMAN
+**Babo Human**:
 
 Click "Enable All"
 
-GENERAL OPTIONS
+**General Options**:
 
 Click "Register Animations"
 
@@ -381,7 +381,7 @@ Wait in the MCM until you receive the Completed message
 
 #### Schlongs of Skyrim
 
-GENERAL SETTINGS
+**General Settings**:
 
 Global Settings
 
@@ -389,9 +389,9 @@ SOS Potions - Disabled
 
 #### SexLab Aroused
 
-SETTINGS
+**SETTINGS**:
 
-General
+**General**
 
 Purge Dead Actors Every 10 Game Days - Enabled
 
@@ -403,13 +403,13 @@ Decay Rate - 1.5
 
 #### Sacrosanct Vampires
 
-VAMPIRE SPELLS, POWERS AND ABILITIES
+**Vampire Spells, Powers and Abilities**:
 
 Fortitude: Disable - Enabled
 
 #### Sexlab Approach Redux
 
-GENERAL SETTING
+**General Setting**:
 
 Arousal
 
@@ -417,13 +417,13 @@ NPCs Lowest Arousal - 15
 
 #### Blush When Aroused
 
-GENERAL
+**General**:
 
 Compatibility
 
 Sexlab Aroused Redux - Enabled
 
-CAUSE AND EFFECT
+**Cause and Effect**:
 
 Player
 
@@ -435,7 +435,7 @@ Nakedness - Enabled
 
 #### Defeat
 
-GENERAL SETTINGS
+**General Settings**:
 
 Click "Mod Status - Disabled"
 
@@ -445,7 +445,7 @@ QuickSave and QuickLoad the game
 
 Open the MCM Menu and resume configuring Defeat
 
-GENERAL SETTINGS
+**General Settings**:
 
 Click "Import Settings" and then click "Accept"
 
@@ -461,7 +461,7 @@ Delay Before Exit Game - 7 Seconds
 
 #### Forgotten Wenches
 
-FORGOTTEN CONFIGURATION
+**Forgotten Configuration**:
 
 Ondeath Summon Chance
 
@@ -469,7 +469,7 @@ Forgotten Wench Spawn - 25% Chance
 
 #### Hateful Wenches
 
-HATEFUL CONFIGURATION
+**Hateful Configuration**:
 
 Summon Undead Wench Spell
 
@@ -477,7 +477,7 @@ Draugrs - 20%
 
 #### Judgment Wenches
 
-JUDGMENT CONFIGURATION
+**Judgment Configuration**:
 
 Judgment Wenches spawn chance.
 
@@ -485,7 +485,7 @@ Judgment Wench. - 25%
 
 #### Beastess
 
-BEASTESS SETUP
+**Beastess Setup**:
 
 Enable or Disable Mod
 
@@ -497,7 +497,7 @@ Click "Ok"
 
 #### Bestial Essence
 
-Settings
+**Settings**:
 
 Controller Vibration During Sex - Disabled
 
