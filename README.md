@@ -67,19 +67,19 @@
     - [SL Anim Loader](#sl-anim-loader)
       - [Babo Creature](#babo-creature)
       - [Babo Human](#babo-human)
-    - [SL Anim Loader](#sl-anim-loader-1)
+    - [General](#general-1)
     - [Schlongs of Skyrim](#schlongs-of-skyrim)
       - [General Settings](#general-settings)
     - [SexLab Aroused](#sexlab-aroused)
       - [Settings](#settings-1)
-        - [General](#general-1)
+        - [General](#general-2)
     - [Sacrosanct Vampires](#sacrosanct-vampires)
       - [Vampire Spells, Powers, and Abilities](#vampire-spells-powers-and-abilities)
     - [Sexlab Approach Redux](#sexlab-approach-redux)
       - [General Settings](#general-settings-1)
         - [Arousal](#arousal)
     - [Blush When Aroused](#blush-when-aroused)
-      - [GENERAL](#general-2)
+      - [GENERAL](#general-3)
         - [Compatibility](#compatibility)
       - [Cause and Effect](#cause-and-effect)
         - [Player](#player)
@@ -423,7 +423,7 @@ Click "Enable All"
 
 Click "Enable All"
 
-### SL Anim Loader
+### General
 
 Click "Register Animations"
 
