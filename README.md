@@ -64,9 +64,9 @@
         - [Animation Handling](#animation-handling)
       - [Player Hotkeys](#player-hotkeys)
         - [Alignment Adjustments](#alignment-adjustments)
-      - [SL Anim Loader](#sl-anim-loader)
-        - [Babo Creature](#babo-creature)
-        - [Babo Human](#babo-human)
+    - [SL Anim Loader](#sl-anim-loader)
+      - [Babo Creature](#babo-creature)
+      - [Babo Human](#babo-human)
     - [SL Anim Loader](#sl-anim-loader-1)
     - [Schlongs of Skyrim](#schlongs-of-skyrim)
       - [General Settings](#general-settings)
@@ -413,13 +413,13 @@ Clear High Heels Height - Enabled
 
 Adjust Schlong - Upward/Downward - Page Up
 
-#### SL Anim Loader
+### SL Anim Loader
 
-##### Babo Creature
+#### Babo Creature
 
 Click "Enable All"
 
-##### Babo Human
+#### Babo Human
 
 Click "Enable All"
 
