@@ -22,15 +22,19 @@ function zipUserContent(cb) {
     .pipe(gulp.dest('out'));
 }
 
-function zipAll(cb) {
+function zipModlist(cb) {
     return gulp.src('temp/*')
     .pipe(gulp.src('in/*', {allowEmpty: true}))
     .pipe(zip('Lotus.zip'))
     .pipe(gulp.dest('out'));
 }
 
-function cleanup(cb) {
+function cleanOutput(cb) {
+    return del('out');
+}
+
+function cleanTemp(cb) {
     return del('temp');
 }
 
-exports.build = series(makePDF, zipUserContent, zipAll, cleanup);
+exports.build = series(cleanOutput, zipUserContent, makePDF, zipModlist, cleanTemp);
