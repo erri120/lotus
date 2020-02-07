@@ -27,6 +27,7 @@
   - [Tweaking the Game Settings](#tweaking-the-game-settings)
 - [Removing the Modlist](#removing-the-modlist)
 - [Contact](#contact)
+- [Contributing](#contributing)
 - [Changelog](#changelog)
 
 ## Preamble
@@ -177,6 +178,10 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 ## Contact
 
 While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/erri120/lotus/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_.
+
+## Contributing
+
+See [Contributing](CONTRIBUTING.md).
 
 ## Changelog
 
