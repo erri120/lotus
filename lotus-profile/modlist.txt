@@ -14,13 +14,13 @@
 +[OUTPUT] Creation Kit
 +[Lotus] MCM Options, Configs and more
 -OUTPUTS_separator
-+CK Scripts
++ESPs by erri120
 -KS Hairdos - HDT SMP (Physics) - BHUNP Conversion by erri120
 -Poser Hotkeys Plus SSE - HC Poser module
 -Poser Hotkeys Plus SSE
 -HCPoser SE - Poser Hotkeys Version
 +Where in Special Edition am I
-+ESPs by erri120
+-SLAL-AnimObjects - Merged
 +Better Quest Objectives - Merged
 +Vokrii Patches - Merged
 +MLU Patches - Merged
@@ -443,6 +443,7 @@
 -SL Gameplay_separator
 -Babo Human 2019.09.08 SE
 -Babo Creature 2019.09.08 SE
++PsycheAnimation SE 1.0.5V
 +Babo Human 2019.11.08 SE
 +Babo Creature 2019.12.10 SE
 -SL Animations_separator
@@ -469,6 +470,8 @@
 -Skyrim - Utility Mod SE v1.40
 +XP32 Maximum Skeleton Special Extended
 -SL_separator
++Pretty Sit Idle v1.41d
++Feminine Jarl Sitting Animation SE
 +D13 Faster GET UP STAND UP animation vanilla friendly SSE
 +Magiska
 +Realistic Animation Project - Movement
@@ -557,6 +560,7 @@
 -ESSENTIALS_separator
 +performance optimized textures for SSE
 +SKSE INI
++CK Scripts
 +SKSE64 Scripts
 +Cleaned Vanilla ESMs
 *DLC: Dawnguard
