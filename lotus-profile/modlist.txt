@@ -72,7 +72,8 @@
 +Serana Dialogue Edit - Skyrim Special Edition
 +Dawnguard Rewritten - Arvak
 -FOLLOWER_separator
-+Dragon Knight [SE] - CBBE - BHUNP - BodySlide (SMP - 3BB)
++[SSE] H2135's Fantasy Series8 BHUNP CBPC-SMP Bodyslide v1.51
+-Dragon Knight [SE] - CBBE - BHUNP - BodySlide (SMP - 3BB)
 -Armor - Merged
 +Realistic Eyeglasses SE
 -Ciri's Outfit (The Witcher 3) SE UNP-CBBE
@@ -414,9 +415,10 @@
 -The Ultimate Dodge Mod
 +Sekiro Combat SSE
 +Ultimate Combat SE
++TK Dodge SE
 -himika's lockon - stradivuckos version SSE 1.5.97
 -himika's lock on (stradivuckos updated version) SSE
-+Engarde
+-Engarde
 +Nether's Follower Framework
 -COMBAT_separator
 -GAMEPLAY - MAJOR_separator
@@ -439,8 +441,10 @@
 +SpousesEnhanced
 +SexLab Solutions v3 - Revisited SE v1.0.2
 -SL Gameplay_separator
-+Babo Human 2019.09.08 SE
-+Babo Creature 2019.09.08 SE
+-Babo Human 2019.09.08 SE
+-Babo Creature 2019.09.08 SE
++Babo Human 2019.11.08 SE
++Babo Creature 2019.12.10 SE
 -SL Animations_separator
 -Deviously Helpless SE v1.17a.001 (converted by Roggvir)
 -DD_DCL_New_CBBE
