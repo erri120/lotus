@@ -3,10 +3,15 @@ const zip = require('gulp-zip');
 const markdownPDF = require('gulp-markdown-pdf');
 const del = require('del');
 const path = require('path');
+const { exec } = require('gulp-execa');
 
 const { series } = gulp;
 
 const cssPath = path.join(__dirname, 'css.css');
+
+function runTest(cb) {
+    return exec('jest');
+}
 
 function makePDF(cb) {
     return gulp.src('*.md')
@@ -37,4 +42,4 @@ function cleanTemp(cb) {
     return del('temp');
 }
 
-exports.build = series(cleanOutput, zipUserContent, makePDF, zipModlist, cleanTemp);
+exports.build = series(runTest, cleanOutput, zipUserContent, makePDF, zipModlist, cleanTemp);

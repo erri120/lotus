@@ -20,6 +20,7 @@
     "underscore": "^1.9.2"
   },
   "devDependencies": {
+    "gulp-execa": "^2.0.0",
     "jest": "^25.1.0"
   }
 }
