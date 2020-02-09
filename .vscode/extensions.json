@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint",
         "streetsidesoftware.code-spell-checker"
     ]
 }
