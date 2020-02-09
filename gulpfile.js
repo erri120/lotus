@@ -42,4 +42,5 @@ function cleanTemp(cb) {
     return del('temp');
 }
 
+exports.testPDF = series(makePDF);
 exports.build = series(runTest, cleanOutput, zipUserContent, makePDF, zipModlist, cleanTemp);
