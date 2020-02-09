@@ -19,32 +19,32 @@
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
   - [SexLab - Frameworks](#sexlab---frameworks)
-  - [In-Game MCM Options](#in-game-mcm-options)
-    - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
-    - [AGO](#ago)
-    - [Follower Framework](#follower-framework)
-    - [Growl Werebeasts](#growl-werebeasts)
-    - [Nemesis PCEA](#nemesis-pcea)
-    - [Quick Light](#quick-light)
-    - [Storm Lightning](#storm-lightning)
-    - [Ultimate Combat](#ultimate-combat)
-    - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
-    - [Wildcat Combat](#wildcat-combat)
-    - [XPMSE](#xpmse)
-    - [SexLab](#sexlab)
-    - [SL Anim Loader](#sl-anim-loader)
-    - [Schlongs of Skyrim](#schlongs-of-skyrim)
-    - [SexLab Aroused](#sexlab-aroused)
-    - [Sacrosanct Vampires](#sacrosanct-vampires)
-    - [Sexlab Approach Redux](#sexlab-approach-redux)
-    - [Blush When Aroused](#blush-when-aroused)
-    - [Defeat](#defeat)
-    - [SSSO](#ssso)
-    - [Forgotten Wenches](#forgotten-wenches)
-    - [Hateful Wenches](#hateful-wenches)
-    - [Judgment Wenches](#judgment-wenches)
-    - [Beastess](#beastess)
-    - [Bestial Essence](#bestial-essence)
+- [In-Game MCM Options](#in-game-mcm-options)
+  - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
+  - [AGO](#ago)
+  - [Follower Framework](#follower-framework)
+  - [Growl Werebeasts](#growl-werebeasts)
+  - [Nemesis PCEA](#nemesis-pcea)
+  - [Quick Light](#quick-light)
+  - [Storm Lightning](#storm-lightning)
+  - [Ultimate Combat](#ultimate-combat)
+  - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
+  - [Wildcat Combat](#wildcat-combat)
+  - [XPMSE](#xpmse)
+  - [SexLab](#sexlab)
+  - [SL Anim Loader](#sl-anim-loader)
+  - [Schlongs of Skyrim](#schlongs-of-skyrim)
+  - [SexLab Aroused](#sexlab-aroused)
+  - [Sacrosanct Vampires](#sacrosanct-vampires)
+  - [Sexlab Approach Redux](#sexlab-approach-redux)
+  - [Blush When Aroused](#blush-when-aroused)
+  - [Defeat](#defeat)
+  - [SSSO](#ssso)
+  - [Forgotten Wenches](#forgotten-wenches)
+  - [Hateful Wenches](#hateful-wenches)
+  - [Judgment Wenches](#judgment-wenches)
+  - [Beastess](#beastess)
+  - [Bestial Essence](#bestial-essence)
 - [Adding more Mods](#adding-more-mods)
   - [ENB](#enb)
 - [Tweaking Performance](#tweaking-performance)
@@ -184,9 +184,9 @@ Links:
 - [Creature Framework SE 1.0.1](https://www.loverslab.com/files/file/5462-creature-framework-se/)
 - [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
 
-### In-Game MCM Options
+## In-Game MCM Options
 
-#### 3PCO - 3rd Person Camera Overhaul
+### 3PCO - 3rd Person Camera Overhaul
 
 **Melee**:
 
@@ -194,7 +194,7 @@ Positive X Offset - 60
 
 Negative X Offset - 60
 
-#### AGO
+### AGO
 
 **Settings**:
 
@@ -202,7 +202,7 @@ Enable/Disable
 
 Persistent Arrows - Disabled
 
-#### Follower Framework
+### Follower Framework
 
 **Activity**:
 
@@ -216,13 +216,13 @@ Only Sandbox in Town - Enabled
 
 Only Sandbox in Non-Dungeon - Enabled
 
-#### Growl Werebeasts
+### Growl Werebeasts
 
 **Features**:
 
 Invulnerable During Transformation - Enabled
 
-#### Nemesis PCEA
+### Nemesis PCEA
 
 **Animation Pack(s)**:
 
@@ -230,11 +230,11 @@ Invulnerable During Transformation - Enabled
 
 1Male - Enable if player character is male
 
-#### Quick Light
+### Quick Light
 
 Long press time for activate key - 2.0s
 
-#### Storm Lightning
+### Storm Lightning
 
 **Presets**:
 
@@ -244,7 +244,7 @@ Click "Realistic"
 
 Compatibility Mode - Enabled
 
-#### Ultimate Combat
+### Ultimate Combat
 
 **General**:
 
@@ -264,7 +264,7 @@ NPC
 
 Dodge - Disable
 
-#### The Ultimate Dodge Mod
+### The Ultimate Dodge Mod
 
 **Player Settings**:
 
@@ -274,7 +274,7 @@ Sneak Key - V
 
 NPC Dodging Frequency - Moderate
 
-#### Wildcat Combat
+### Wildcat Combat
 
 **Dynamic Combat**:
 
@@ -302,7 +302,7 @@ Expert - Damage Dealt: x1.75
 
 Expert - Damage Taken: x1.50
 
-#### XPMSE
+### XPMSE
 
 **Styles**:
 
@@ -312,7 +312,7 @@ Player - Frostfall Quiver (XP32)
 
 Non-Player - Frostfall Quiver (XP32)
 
-#### SexLab
+### SexLab
 
 **Install**:
 
@@ -362,7 +362,7 @@ Alignment Adjustments
 
 Adjust Schlong - Upward/Downward - Page Up
 
-#### SL Anim Loader
+### SL Anim Loader
 
 **Babo Creature**:
 
@@ -378,7 +378,7 @@ Click "Register Animations"
 
 Wait in the MCM until you receive the Completed message
 
-#### Schlongs of Skyrim
+### Schlongs of Skyrim
 
 **General Settings**:
 
@@ -386,7 +386,7 @@ Global Settings
 
 SOS Potions - Disabled
 
-#### SexLab Aroused
+### SexLab Aroused
 
 **SETTINGS**:
 
@@ -400,13 +400,13 @@ Default Exposure Rate - 1.7
 
 Decay Rate - 1.5
 
-#### Sacrosanct Vampires
+### Sacrosanct Vampires
 
 **Vampire Spells, Powers and Abilities**:
 
 Fortitude: Disable - Enabled
 
-#### Sexlab Approach Redux
+### Sexlab Approach Redux
 
 **General Setting**:
 
@@ -414,7 +414,7 @@ Arousal
 
 NPCs Lowest Arousal - 15
 
-#### Blush When Aroused
+### Blush When Aroused
 
 **General**:
 
@@ -432,7 +432,7 @@ NPCs
 
 Nakedness - Enabled
 
-#### Defeat
+### Defeat
 
 **General Settings**:
 
@@ -450,7 +450,7 @@ Click "Import Settings" and then click "Accept"
 
 Close and reopen the MCM Menu
 
-#### SSSO
+### SSSO
 
 Rotating Automatic Save - Enabled
 
@@ -458,7 +458,7 @@ Auto Save Count - 5 Slots
 
 Delay Before Exit Game - 7 Seconds
 
-#### Forgotten Wenches
+### Forgotten Wenches
 
 **Forgotten Configuration**:
 
@@ -466,7 +466,7 @@ Ondeath Summon Chance
 
 Forgotten Wench Spawn - 25% Chance
 
-#### Hateful Wenches
+### Hateful Wenches
 
 **Hateful Configuration**:
 
@@ -474,7 +474,7 @@ Summon Undead Wench Spell
 
 Draugrs - 20%
 
-#### Judgment Wenches
+### Judgment Wenches
 
 **Judgment Configuration**:
 
@@ -482,7 +482,7 @@ Judgment Wenches spawn chance.
 
 Judgment Wench. - 25%
 
-#### Beastess
+### Beastess
 
 **Beastess Setup**:
 
@@ -494,7 +494,7 @@ Close the MCM and wait for a message that begins "You feel a dark power..."
 
 Click "Ok"
 
-#### Bestial Essence
+### Bestial Essence
 
 **Settings**:
 
