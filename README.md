@@ -58,6 +58,8 @@
 - [Contributing](#contributing)
 - [Changelog](#changelog)
 
+![lotus-logo](extra/logo-alt.png)
+
 ## Preamble
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
