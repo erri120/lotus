@@ -23,6 +23,9 @@
   - [SexLab - Animations](#sexlab---animations)
   - [SexLab - Gameplay](#sexlab---gameplay)
   - [SexLab - Others](#sexlab---others)
+  - [Music](#music)
+  - [Cathedral Mods](#cathedral-mods)
+  - [ENB: Silent Horizon](#enb-silent-horizon)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
   - [AGO](#ago)
@@ -276,6 +279,43 @@ Links:
 - [Wintersun - SexLab Integration SE 1.3.3](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/)
 - [ViVi's Beastess Lairs SE 5.1](https://www.loverslab.com/files/file/9932-vivis-beastess-lairs-se/)
 - [SOS Equipable Horse Cocks - SSE Port 1.0.0](https://www.loverslab.com/files/file/9903-sos-equipable-horse-cocks-sse-port/)
+
+### Music
+
+I could not help but to include my favorite Skyrim music mod: [Yggdrasil Music and SoundFX Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/21578). It's lore-friendly Dark Folk (Nordic) music which may not really fit this Modlist but I fucking love it so here you go.
+
+[Dreams and Nightmares](https://www.nexusmods.com/skyrimspecialedition/mods/25416), another mod adding dark and melancholic exploration tracks.
+
+Links:
+
+- [Yggdrasil Music and SoundFX Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/21578)
+- [Dreams and Nightmares Music Mod](https://www.nexusmods.com/skyrimspecialedition/mods/25416)
+
+### Cathedral Mods
+
+"_The [Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/19515) is a comprehensive visual overhaul for Skyrim. It is performance friendly, consisting mostly of re-textures, improved models, and lighting modifications, so that you can use it as a foundation without having to worry extensively about compatibility._" - Introduction for the Cathedral mods
+
+I choose to use most of the Cathedral mods in this Modlist for the reasons above. The most important one you need to watch out for is [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791). This is the weather mod for the Modlist and if you want to swap out the ENB, than you need one that is compatible with this weather mod.
+
+Links:
+
+- [Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/19515)(unreleased)
+- [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
+- [Majestic Mountains - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
+- [Landscapes - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/21954)
+- [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830)
+- [8K Night Skies - Stars and Galaxies - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/20301)
+- [Cathedral Water Overhaul - Includes Water Edge Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/22962)
+
+### ENB: Silent Horizon
+
+ENBs for Special Edition never really convinced me. [SnowFall Weathers](https://www.nexusmods.com/skyrim/mods/79335) singlehandedly made me stay with Oldrim for 3 years since it came out. I choose [Silent Horizon](https://www.nexusmods.com/skyrimspecialedition/mods/21543) for this Modlist, mainly because of its performance and set of features. It is also compatible with [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791), the weather mod of this list.
+
+If you have a Titan V and more FPS than you need, check the [ENB](#enb) section for ENBs you can swap to.
+
+Links:
+
+- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 
 ## In-Game MCM Options
 
@@ -591,11 +631,49 @@ Click `Ok`
 
 ### ENB
 
+The weather mod used in this Modlist is [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791) and the lighting mods are [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830) (see [Cathedral Mods](#cathedral-mods)) and [Enhanced Lighting for ENB (ELE)](https://www.nexusmods.com/skyrimspecialedition/mods/1377). If you want to swap out the ENB, make sure that it is compatible with Cathedral Weathers and looks somewhat decent with Luminosity and ELE. You could try and swap the those two mods with any other weather + lighting mod but this may disrupt the visual consistency that the entire Cathedral lineup has.
+
+Other ENBs you can use (not tested, experience may vary):
+
+ENBs that work with Cathedral Weathers:
+
+- [Silent Horizon](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
+- [Ljoss - Semi-realistic performance preset with Nighteye and ENB Light support](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
+
+ENBs that maybe work with Cathedral Weathers:
+
+- [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
+- [NVT](https://www.nexusmods.com/skyrimspecialedition/mods/11203)
+- [PRT](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
+- [Apex](https://www.nexusmods.com/skyrimspecialedition/mods/18042)
+
 ## Tweaking Performance
+
+My Setup:
+
+- i7-7700k running at ~4.6 GHz
+- 1060 6GB OC to ~1800MHz
+- 16GB DDR4-3200 RAM
+- Game and MO2 running on an SSD
 
 ### Tweaking the ENB
 
+This should always be the first thing you tweak. Disabling the ENB entirely can give you anything from 20 to >70 FPS. The ENB this Modlist comes with (see [ENB: Silent Horizon](#enb-silent-horizon)) is rather performance friendly. Open the ENB GUI using `Right Shift + Enter` (`Right Shift` is under the `Enter` key). This will open up the ENB GUI where you can enable and disable certain effects in the left panel.
+
+- `Bloom`: Can give you up to 3 FPS, will make light sources less bright
+- `DepthOfField`: Can give you up to 10 FPS, disabled by default and not really suited for gameplay
+- `Ambient Occlusion`: This one is a big hitter. You can get up to 20 FPS by disabling this but the effect is very noticeable
+- `Distant/DetailedShadow`: Those two can really give you a lot of FPS back depending on your shader settings (game settings). They are very noticeable.
+- `ComplexFire/ParticleLights`: You won't see a lot of difference at first when disabling those two, but when particles are on screen (eg using magic or near light sources such as fires), they can _burn_ through your FPS
+
 ### Tweaking the Game Settings
+
+I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
+
+- `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
+- `Ambient Occlusion`: Highly recommended to leave this at `None`. The ENB this Modlist comes with, uses the ENB SAO which is 10x better and performance friendly than base game SAO.
+- `Detailed Draw Distance`: Maybe try `2000` instead of `2800` but you won't notice a lot of FPS gain (maybe 1-3)
+- `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
 
 ## Removing the Modlist
 
