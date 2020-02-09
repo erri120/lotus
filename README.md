@@ -28,7 +28,6 @@
   - [Quick Light](#quick-light)
   - [Storm Lightning](#storm-lightning)
   - [Ultimate Combat](#ultimate-combat)
-  - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
   - [Wildcat Combat](#wildcat-combat)
   - [XPMSE](#xpmse)
   - [SexLab](#sexlab)
@@ -190,9 +189,11 @@ Links:
 
 **Melee**:
 
-Positive X Offset - 60
+Personal preference, I like to keep the camera somewhat close to the character. Try different values adn find what feels best to you!
 
-Negative X Offset - 60
+*Positive X Offset* - `60`
+
+*Negative X Offset* - `60`
 
 ### AGO
 
@@ -200,7 +201,7 @@ Negative X Offset - 60
 
 Enable/Disable
 
-Persistent Arrows - Disabled
+*Persistent Arrows* - `Disabled`
 
 ### Follower Framework
 
@@ -208,41 +209,41 @@ Persistent Arrows - Disabled
 
 Sandboxing
 
-Ignore Special Furniture - Enabled
+*Ignore Special Furniture* - `Enabled`
 
-Stop During Player Dialogue - Enabled
+*Stop During Player Dialogue* - `Enabled`
 
-Only Sandbox in Town - Enabled
+*Only Sandbox in Town* - `Enabled`
 
-Only Sandbox in Non-Dungeon - Enabled
+*Only Sandbox in Non-Dungeon* - `Enabled`
 
 ### Growl Werebeasts
 
 **Features**:
 
-Invulnerable During Transformation - Enabled
+*Invulnerable During Transformation* - `Enabled`
 
 ### Nemesis PCEA
 
 **Animation Pack(s)**:
 
-0Female - Enable if player character is female
+*0Female* - `Enable` if player character is female
 
-1Male - Enable if player character is male
+*1Male* - `Enable` if player character is male
 
 ### Quick Light
 
-Long press time for activate key - 2.0s
+*Long press time for activate key* - `2.0s`
 
 ### Storm Lightning
 
 **Presets**:
 
-Click "Realistic"
+Click `Realistic`
 
 **Advanced**:
 
-Compatibility Mode - Enabled
+*Compatibility Mode* - `Enabled`
 
 ### Ultimate Combat
 
@@ -250,57 +251,47 @@ Compatibility Mode - Enabled
 
 Stagger
 
-Enemy Poise - Disabled
+*Enemy Poise* - `Disabled`
 
-Player Stagger - Disabled
+*Player Stagger* - `Disabled`
 
 Locational Damage
 
-Locational Damage Sound - Disabled
+*Locational Damage Sound* - `Disabled`
 
 **NPC Setting**:
 
 NPC
 
-Dodge - Disable
-
-### The Ultimate Dodge Mod
-
-**Player Settings**:
-
-Sneak Key - V
-
-**NPC Settings**:
-
-NPC Dodging Frequency - Moderate
+*Dodge* - `Disable`
 
 ### Wildcat Combat
 
 **Dynamic Combat**:
 
-Disable Slow at 0 Stamina - Enabled
+*Disable Slow at 0 Stamina* - `Enabled`
 
-Disable Swimming Stamina Cost - Enabled
+*Disable Swimming Stamina Cost* - `Enabled`
 
-Disable Bow Interrupts - Enabled
+*Disable Bow Interrupts* - `Enabled`
 
 **Stamina Costs**:
 
-Bow Attacks Cost - 0 Stamina
+*Bow Attacks Cost* - `0 Stamina`
 
-Disable Pulled / Held Bow Stamina Cost - Enabled
+*Disable Pulled / Held Bow Stamina Cost* - `Enabled`
 
 **Timed Block**:
 
-Disable Timed Block - Enabled
+*Disable Timed Block* - `Enabled`
 
 **Difficulty**:
 
-Allow Wildcat to Manage Difficulty - Enabled
+*Allow Wildcat to Manage Difficulty* - `Enabled`
 
-Expert - Damage Dealt: x1.75
+*Expert - Damage Dealt*: `x1.75`
 
-Expert - Damage Taken: x1.50
+*Expert - Damage Taken*: `x1.50`
 
 ### XPMSE
 
@@ -308,9 +299,9 @@ Expert - Damage Taken: x1.50
 
 Quiver Style
 
-Player - Frostfall Quiver (XP32)
+*Player* - `Frostfall Quiver (XP32)`
 
-Non-Player - Frostfall Quiver (XP32)
+*Non-Player* - `Frostfall Quiver (XP32)`
 
 ### SexLab
 
@@ -318,21 +309,21 @@ Non-Player - Frostfall Quiver (XP32)
 
 SexLab v.163 SE dev Beta 8 by Ashal@LoversLab.com
 
-Click "INSTALL/UPDATE SEXLAB 1.63 SE DEV BETA 8"
+Click `INSTALL/UPDATE SEXLAB 1.63 SE DEV BETA 8`
 
-Close the MCM and wait until you receive the message 
+Close the MCM and wait until you receive the message:
 
-"SexLab - SexLab v1.63 SE dev beta 8 - Ready!"
+`SexLab - SexLab v1.63 SE dev beta 8 - Ready!`
 
 Reopen the MCM and continue configuration of SexLab
 
 **Animation Settings**:
 
-Allow Creature Animations (Top Right, Under Animation Profile) - Enabled
+*Allow Creature Animations* (Top Right, Under Animation Profile) - `Enabled`
 
-Close the MCM and wait until you reseach the message
+Close the MCM and wait until you receive the message:
 
-"SexLab Creature Animations Installed"
+`SexLab Creature Animations Installed`
 
 Reopen the MCM and continue configuration of SexLab
 
@@ -340,41 +331,43 @@ Reopen the MCM and continue configuration of SexLab
 
 Player Settings
 
-Automatic Free Camera - Enabled
+_Automatic Free Camera_ - `Enabled`
 
-Free Camera Speed - 4
+_Free Camera Speed_ - `4` (personal preference)
 
-**Extra Effects**
+**Extra Effects**:
 
-Apply Facial Expressions - Enabled
+*Apply Facial Expressions* - `Enabled`
 
-NPCs Use Beds - Sometimes
+*NPCs Use Beds* - `Sometimes`
 
 Animation Handling
 
-Pre-Sex Foreplay - Enabled
+*Pre-Sex Foreplay* - `Enabled` (personal preference)
 
-Clear High Heels Height - Enabled
+*Clear High Heels Height* - `Enabled`
 
 **Player Hotkeys**:
 
+(Note: Hotkeys are only needed if you want to re-adjust the scene. If you don't want to fiddle with the position of the scene and actors, skip this section)
+
 Alignment Adjustments
 
-Adjust Schlong - Upward/Downward - Page Up
+*Adjust Schlong - Upward/Downward* - `Page Up`
 
 ### SL Anim Loader
 
 **Babo Creature**:
 
-Click "Enable All"
+Click `Enable All`
 
 **Babo Human**:
 
-Click "Enable All"
+Click `Enable All`
 
 **General Options**:
 
-Click "Register Animations"
+Click `Register Animations`
 
 Wait in the MCM until you receive the Completed message
 
@@ -384,27 +377,27 @@ Wait in the MCM until you receive the Completed message
 
 Global Settings
 
-SOS Potions - Disabled
+*SOS Potions* - `Disabled`
 
 ### SexLab Aroused
 
 **SETTINGS**:
 
-**General**
+**General**:
 
-Purge Dead Actors Every 10 Game Days - Enabled
+*Purge Dead Actors Every 10 Game Days* - `Enabled`
 
-Enable SOS - Enabled
+*Enable SOS* - `Enabled`
 
-Default Exposure Rate - 1.7
+*Default Exposure Rate* - `1.7` (personal preference)
 
-Decay Rate - 1.5
+*Decay Rate* - `1.5` (personal preference)
 
 ### Sacrosanct Vampires
 
 **Vampire Spells, Powers and Abilities**:
 
-Fortitude: Disable - Enabled
+*Fortitude*: `Disable`
 
 ### Sexlab Approach Redux
 
@@ -412,7 +405,7 @@ Fortitude: Disable - Enabled
 
 Arousal
 
-NPCs Lowest Arousal - 15
+*NPCs Lowest Arousal* - `15`
 
 ### Blush When Aroused
 
@@ -420,43 +413,43 @@ NPCs Lowest Arousal - 15
 
 Compatibility
 
-Sexlab Aroused Redux - Enabled
+*Sexlab Aroused Redux* - `Enabled`
 
 **Cause and Effect**:
 
 Player
 
-Nakedness - Enabled
+*Nakedness* - `Enabled`
 
 NPCs
 
-Nakedness - Enabled
+*Nakedness* - `Enabled`
 
 ### Defeat
 
 **General Settings**:
 
-Click "Mod Status - Disabled"
+Click `Mod Status - Disabled`
 
 Close the MCM and wait for the message "Defeat: Installed"
 
-QuickSave and QuickLoad the game
+Save the Game.
 
 Open the MCM Menu and resume configuring Defeat
 
 **General Settings**:
 
-Click "Import Settings" and then click "Accept"
+Click `Import Settings` and then click `Accept`
 
 Close and reopen the MCM Menu
 
 ### SSSO
 
-Rotating Automatic Save - Enabled
+*Rotating Automatic Save* - `Enabled`
 
-Auto Save Count - 5 Slots
+*Auto Save Count* - `5 Slots`
 
-Delay Before Exit Game - 7 Seconds
+*Delay Before Exit Game* - `7 Seconds` (might be set higher if you have a slow drive)
 
 ### Forgotten Wenches
 
@@ -464,7 +457,7 @@ Delay Before Exit Game - 7 Seconds
 
 Ondeath Summon Chance
 
-Forgotten Wench Spawn - 25% Chance
+*Forgotten Wench Spawn* - `25% Chance`
 
 ### Hateful Wenches
 
@@ -472,7 +465,7 @@ Forgotten Wench Spawn - 25% Chance
 
 Summon Undead Wench Spell
 
-Draugrs - 20%
+*Draugrs* - `20%`
 
 ### Judgment Wenches
 
@@ -480,7 +473,7 @@ Draugrs - 20%
 
 Judgment Wenches spawn chance.
 
-Judgment Wench. - 25%
+*Judgment Wench* - `25%`
 
 ### Beastess
 
@@ -488,17 +481,17 @@ Judgment Wench. - 25%
 
 Enable or Disable Mod
 
-Click "Enable or Disable Mod" then click "Accept"
+Click `Enable or Disable Mod` then click `Accept`
 
-Close the MCM and wait for a message that begins "You feel a dark power..."
+Close the MCM and wait for a message that begins `You feel a dark power...`
 
-Click "Ok"
+Click `Ok`
 
 ### Bestial Essence
 
 **Settings**:
 
-Controller Vibration During Sex - Disabled
+*Controller Vibration During Sex* - `Disabled`
 
 ## Adding more Mods
 
