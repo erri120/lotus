@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "test": "jest",
+    "test": "jest --testRunner='jest-circus/runner'",
     "build": "gulp build"
   },
   "dependencies": {
@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "gulp-execa": "^2.0.0",
-    "jest": "^25.1.0"
+    "jest": "^25.1.0",
+    "jest-circus": "^25.1.0"
   }
 }

@@ -4,6 +4,11 @@ const axios = require('axios').default;
 
 jest.setTimeout(20000);
 
+const ignored = [
+    "https://mega.nz/#!7ZQjmABY!5slFVs_5YB7DphHCrd2m1nzDTiIwpFoLyRKq6WUt6ek",
+    "https://www.patreon.com/posts/32912602"
+]
+
 describe('checking all links in the readme', () => {
     var data = fs.readFileSync('README.md');
 
@@ -15,7 +20,11 @@ describe('checking all links in the readme', () => {
     const found = Array.from(s.values());
 
     _.map(found, link => {
+        if(ignored.includes(link))
+            return;
+        console.log(`checking link ${link}`);
         let c = false;
+        jest.retryTimes(3);
         test(`checking link ${link}`, async () => {
             let b = false;
             
