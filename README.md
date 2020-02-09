@@ -19,6 +19,10 @@
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
   - [SexLab - Frameworks](#sexlab---frameworks)
+  - [BakaFactory](#bakafactory)
+  - [SexLab - Animations](#sexlab---animations)
+  - [SexLab - Gameplay](#sexlab---gameplay)
+  - [SexLab - Others](#sexlab---others)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
   - [AGO](#ago)
@@ -35,7 +39,7 @@
   - [Schlongs of Skyrim](#schlongs-of-skyrim)
   - [SexLab Aroused](#sexlab-aroused)
   - [Sacrosanct Vampires](#sacrosanct-vampires)
-  - [Sexlab Approach Redux](#sexlab-approach-redux)
+  - [SexLab Approach Redux](#sexlab-approach-redux)
   - [Blush When Aroused](#blush-when-aroused)
   - [Defeat](#defeat)
   - [SSSO](#ssso)
@@ -175,6 +179,8 @@ Since we don't judge your fetishes, I have included [Creature Framework](https:/
 
 [Devious Devices](https://www.loverslab.com/files/file/5878-devious-devices-se-beta/) sadly does not work for SSE **yet**, but once that is around, it will of course be included.
 
+[ZAZ](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/) is a requirement for other mods and I have included the [ZAZ 8.0+ UUNP HDT Rev3](https://mega.nz/#!7ZQjmABY!5slFVs_5YB7DphHCrd2m1nzDTiIwpFoLyRKq6WUt6ek) version.
+
 Links:
 
 - [SexLab Framework SE 1.63 - BETA 8 - November 22nd, 2019](https://www.loverslab.com/topic/91861-sexlab-framework-se-163-beta-8-november-22nd-2019/)
@@ -182,6 +188,92 @@ Links:
 - [SexLab Aroused Redux SSE Version 29 2.9](https://www.loverslab.com/files/file/5482-sexlab-aroused-redux-sse-version-29/)
 - [Creature Framework SE 1.0.1](https://www.loverslab.com/files/file/5462-creature-framework-se/)
 - [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
+- [ZAZ Animation Packs for SE 1.0.0](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
+- [ZAZ 8.0+ UUNP HDT Rev3](https://mega.nz/#!7ZQjmABY!5slFVs_5YB7DphHCrd2m1nzDTiIwpFoLyRKq6WUt6ek)
+
+### BakaFactory
+
+`BakaFactory`/`factoryclose`/`바보공장` is the creator of many mods used in this setup. I **highly recommend** checking out the [Patreon](https://www.patreon.com/BaboFactory) page and [Discord](https://discord.gg/gbHGCgB) server.
+
+Mods used:
+
+- [SexLabAroused Redux V28b SSE Modified by BakaFactory](https://drive.google.com/file/d/1SlvS2KRY6UscQisro8GEskwCCKg4Wa3G/view)
+- [Animated Beast's Cocks(ABC) For users LE / SE 1.34V](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/)
+- [BakaFactory's SLAL Animation LE / SSE 3.1V](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/)
+- [SexLab Defeat Addon by BakaFactory 1.01V SE English](https://www.patreon.com/posts/32912602)
+- [SexLab Approach Redux by BakaFactory LE / SE 1.25V](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se)
+- [BHUNP (UUNP Next Generation) SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31126)
+- [DX Druid Armor SSE BHUNP Bodyslide](https://www.nexusmods.com/skyrimspecialedition/mods/31244)
+
+### SexLab - Animations
+
+[More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/) and [ZAZ](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/) already come with some animations, but I have expanded upon that with [BakaFactory's SLAL Animation](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/) and [Psyche Animation](https://www.loverslab.com/files/file/11477-psyche-animation-lesse/).
+
+Links:
+
+- [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
+- [ZAZ Animation Packs for SE 1.0.0](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
+- [ZAZ 8.0+ UUNP HDT Rev3](https://mega.nz/#!7ZQjmABY!5slFVs_5YB7DphHCrd2m1nzDTiIwpFoLyRKq6WUt6ek)
+- [BakaFactory's SLAL Animation LE / SSE 3.1V](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/)
+- [Psyche Animation (LE/SSE) 1.0.5](https://www.loverslab.com/files/file/11477-psyche-animation-lesse/)
+
+### SexLab - Gameplay
+
+All those animations and features from the frameworks need to be used somewhere. A lot of big quest mod are still not converted and it will take some time for LL to make the switch to SSE. That being said, the _biggest_ quest mod in this setup is [From The Deeps](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/). Ask innkeepers for some rumors to pick up this lovecraft-like story! [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) is also included, because it's funny. [Bestial Essence](https://www.loverslab.com/files/file/10036-bestial-essence-se/) and [Sexlab Beastess](https://www.loverslab.com/files/file/9904-sexlab-beastess-sse-port/) for all beast lovers. (I changed SL Beastess substantially and nerfed almost all effects to make it playable)
+
+The vanilla quests are not being left alone! [SexLab Solutions](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) will offer additional dialog that may lead to some _interesting_ outcomes.
+
+If you want some _wholesomeness_ than take a look at the included [Spouses Enhanced](https://www.loverslab.com/files/file/5266-spouses-enhanced-se/). This mod features no _extreme_ content. The focus is the relationship between two consenting, married adults.
+
+The complete opposite of wholesome are [Defeat](https://www.loverslab.com/files/file/9152-sexlab-defeat-sse/), [Simple Slavery](https://www.loverslab.com/files/file/6535-simple-slavery-plus-se/) and [Radiant Prostitution](https://www.loverslab.com/files/file/10046-radiant-prostitutiongigolo-se/). Do note that I am using [Sexlab Defeat Baka Edition](https://www.patreon.com/posts/32912602) instead of normal Defeat.
+
+[Sexlab Approach Redux](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se) uses the new keywords of [SexLabAroused Redux Modified by BakaFactory](https://drive.google.com/file/d/1SlvS2KRY6UscQisro8GEskwCCKg4Wa3G/view) to cure the blindness of all NPCs around you. From the mod page:
+
+> Now when certain conditions are met, npcs will chase after you and ask something. Some of them are after solidifying a friendship or some of them are just after your sexy body and want to have sex with you. Sometimes these chasings get messy and the relationship can be broken at some point. And they will hate you, or they will even attempt to rape you.
+> Now what are you gonna do? Accept their offers without hesitation, which will make you vulnerable and then it makes you let them enjoy your body regardless of your will? Or will you decline every each one of them and act like an asshole? An aggressive, stubborn girl would do that. But they will hate you at the end and they are highly likely to try to rape you. It could be way more complicated when you are pretty.
+
+Do note that this mod is female-oriented. [Sexlab Approach Redux for HIM](https://www.loverslab.com/files/file/10074-sexlab-approach-redux-for-him-se/) exists but I have yet to include it.
+
+[SexLab Deadly Drain](https://www.loverslab.com/files/file/9905-sexlab-deadly-drain-sse-port/) is for all succubus lovers. This mod works for any gender and you do not have to be a Vampire or Succubus. I found this to be the most compatible succubus like mod.
+
+Links:
+
+- [FROM THE DEEPS (for SSE) 2.6](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/)
+- [Amorous Adventures 3.4 SSE for lovers lab](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/)
+- [Bestial Essence SE 0.3](https://www.loverslab.com/files/file/10036-bestial-essence-se/)
+- [SexLab Beastess - SSE Port 4.0.0](https://www.loverslab.com/files/file/9904-sexlab-beastess-sse-port/)
+- [SexLab Solutions - Revisited SE 1.0.2](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/)
+- [Spouses Enhanced SE 1.7.3](https://www.loverslab.com/files/file/5266-spouses-enhanced-se/)
+- [Sexlab Defeat SSE 5.3.5](https://www.loverslab.com/files/file/9152-sexlab-defeat-sse/)
+- [Simple Slavery Plus SE 6.01](https://www.loverslab.com/files/file/6535-simple-slavery-plus-se/)
+- [Radiant Prostitution/Gigolo SE 4.0 LITE](https://www.loverslab.com/files/file/10046-radiant-prostitutiongigolo-se/)
+- [Sexlab Defeat Baka Edition 1.01V LE/SE](https://www.patreon.com/posts/32912602)
+- [Sexlab Approach Redux by BakaFactory LE / SE 1.25V](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se)
+- [Sexlab Approach Redux for HIM SE 1.0.0](https://www.loverslab.com/files/file/10074-sexlab-approach-redux-for-him-se/)
+- [SexLab Deadly Drain - SSE Port 1.0.0](https://www.loverslab.com/files/file/9905-sexlab-deadly-drain-sse-port/)
+
+### SexLab - Others
+
+The following mods have a more _supportive_ role and do not fit any of the other categories.
+
+[Sexlab LightMeUp](https://www.loverslab.com/files/file/8275-sexlab-lightmeup/) will illuminate the current SexLab scene so you don't have to pull out any additional torches and can actually see whats happening.
+
+[Wet Function Redux](https://www.loverslab.com/files/file/9467-wet-function-redux-se/) and [Blush When Aroused](https://www.loverslab.com/files/file/10774-blush-when-aroused-se/) add some extra effects when certain conditions are met.
+
+[Wintersun - SexLab Integration](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/) provides a bridge between SL and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506).
+
+[ViVi's Beastess Lairs](https://www.loverslab.com/files/file/9932-vivis-beastess-lairs-se/) adds new player homes all around Skyrim in form of caves.
+
+[Equipable Horse Cocks](https://www.loverslab.com/files/file/9903-sos-equipable-horse-cocks-sse-port/) because the SL strap-on sucks (I have created COBJs so you can craft them).
+
+Links:
+
+- [Sexlab LightMeUp 2.9.2](https://www.loverslab.com/files/file/8275-sexlab-lightmeup/)
+- [Wet Function Redux SE 1.1.0](https://www.loverslab.com/files/file/9467-wet-function-redux-se/)
+- [Blush When Aroused SE 1.3](https://www.loverslab.com/files/file/10774-blush-when-aroused-se/)
+- [Wintersun - SexLab Integration SE 1.3.3](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/)
+- [ViVi's Beastess Lairs SE 5.1](https://www.loverslab.com/files/file/9932-vivis-beastess-lairs-se/)
+- [SOS Equipable Horse Cocks - SSE Port 1.0.0](https://www.loverslab.com/files/file/9903-sos-equipable-horse-cocks-sse-port/)
 
 ## In-Game MCM Options
 
@@ -399,7 +491,7 @@ Global Settings
 
 *Fortitude*: `Disable`
 
-### Sexlab Approach Redux
+### SexLab Approach Redux
 
 **General Setting**:
 
@@ -413,7 +505,7 @@ Arousal
 
 Compatibility
 
-*Sexlab Aroused Redux* - `Enabled`
+*SexLab Aroused Redux* - `Enabled`
 
 **Cause and Effect**:
 
@@ -431,7 +523,7 @@ NPCs
 
 Click `Mod Status - Disabled`
 
-Close the MCM and wait for the message "Defeat: Installed"
+Close the MCM and wait for the message `Defeat: Installed`
 
 Save the Game.
 
