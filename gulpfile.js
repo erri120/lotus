@@ -16,7 +16,9 @@ function runTest(cb) {
 function makePDF(cb) {
     return gulp.src('*.md')
     .pipe(markdownPDF({
-        cssPath: cssPath
+        cssPath: cssPath,
+        paperBorder: '0px',
+        paperFormat: 'A4'
     }))
     .pipe(gulp.dest('temp'));
 }

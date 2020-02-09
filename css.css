@@ -1,3 +1,37 @@
+* {
+    background-color: #1F1B24;
+    color: white;
+}
+
+html {
+    line-height: 1.15; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+body {
+    margin: 40px;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+ul, li {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a {
+    background-color: transparent;
+}
+
+img {
+    border-style: none;
+}
+
 @media print {
     a[href]:after {
         content: "" !important;
