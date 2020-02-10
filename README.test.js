@@ -7,7 +7,9 @@ jest.setTimeout(20000);
 const ignored = [
     "https://mega.nz/#!7ZQjmABY!5slFVs_5YB7DphHCrd2m1nzDTiIwpFoLyRKq6WUt6ek",
     "https://www.patreon.com/posts/32912602",
-    "https://github.com/erri120"
+    "https://github.com/erri120",
+    "https://www.loverslab.com/topic/91861-sexlab-framework-se-163-beta-8-november-22nd-2019/",
+    "https://www.loverslab.com/files/file/5482-sexlab-aroused-redux-sse-version-29/"
 ]
 
 describe('checking all links in the readme', () => {
