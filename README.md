@@ -37,6 +37,7 @@
   - [Followers](#followers)
   - [Music](#music)
   - [Cathedral Mods](#cathedral-mods)
+  - [Weapon Mods](#weapon-mods)
   - [ENB: Silent Horizon](#enb-silent-horizon)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
@@ -531,6 +532,35 @@ Links:
 - [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830)
 - [8K Night Skies - Stars and Galaxies - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/20301)
 - [Cathedral Water Overhaul - Includes Water Edge Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/22962)
+
+### Weapon Mods
+
+Most used weapon mods came from [johnskyrim](https://www.nexusmods.com/skyrimspecialedition/users/3165110). Those are:
+
+- [Radzig Longsword](https://www.nexusmods.com/skyrimspecialedition/mods/16059) contains both a one-handed and two-handed sword from Kingdom Come: Deliverance. Can be both be smithed using the Skyforge or found in the Guard Barracks of Whiterun
+- [The Lionheart](https://www.nexusmods.com/skyrimspecialedition/mods/15076) shield from WoW, can be smithed under the _Daedric_ category
+- [Sulfuras - The Reclaimed Hand](https://www.nexusmods.com/skyrimspecialedition/mods/14199) two-handed hammer from WoW, can be obtained at the end of a [dungeon](https://staticdelivery.nexusmods.com/mods/1704/images/64628-2-1428782512.jpg)!
+- [Shadowmourne](https://www.nexusmods.com/skyrimspecialedition/mods/12081) two-handed Axe from WoW, can be obtained at the end of a dungeon with a dope boss fight!
+- [Dragonblade AQ](https://www.nexusmods.com/skyrimspecialedition/mods/29341) one-handed sword based on the Dragon Blade from Adventure Quest. Can be found on a cliff overlooking [Dragontooh Crater](https://en.uesp.net/wiki/Skyrim:Dragontooth_Crater) ([pic](https://i.imgur.com/XtnDpxj.png)) or can be forged under the _Daedric_ category
+- [Blade of Evil's Bane](https://www.nexusmods.com/skyrimspecialedition/mods/28881) one-handed weapon based on the Blade of Evil's Bane from the Legend of Zelda. Can be found [here](https://staticdelivery.nexusmods.com/mods/1704/images/28881/28881-1567955685-1349624090.png), embedded in a skull/rock north of Morthal.
+
+Our ranged characters also get a bit of love with [DX Faction Crossbows](https://www.nexusmods.com/skyrimspecialedition/mods/4047). You need specific crafting manuals to craft those.
+
+[Artifacts - The Tournament of the ten Bloods](https://www.nexusmods.com/skyrimspecialedition/mods/15264) has some amazing equipment you can get through a quest. You can start the quest by reading _The Story of Lyrisius_ in the Arcanaeum.
+
+Vanilla artifacts are fucking useless. [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138) is in every setup I do and will give those under-powered artifacts a reason to exist in your inventory.
+
+Links:
+
+- [Radzig Longsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/16059)
+- [The Lionheart SE](https://www.nexusmods.com/skyrimspecialedition/mods/15076)
+- [Sulfuras - The Reclaimed Hand SE](https://www.nexusmods.com/skyrimspecialedition/mods/14199)
+- [Shadowmourne SE](https://www.nexusmods.com/skyrimspecialedition/mods/12081)
+- [Dragonblade AQ SE](https://www.nexusmods.com/skyrimspecialedition/mods/29341)
+- [Blade of Evil's Bane SE](https://www.nexusmods.com/skyrimspecialedition/mods/28881)
+- [DX Faction Crossbows SE](https://www.nexusmods.com/skyrimspecialedition/mods/4047)
+- [Artifacts - The Tournament of the ten Bloods](https://www.nexusmods.com/skyrimspecialedition/mods/15264)
+- [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138)
 
 ### ENB: Silent Horizon
 
