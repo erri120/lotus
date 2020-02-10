@@ -39,8 +39,7 @@ describe('checking all links in the readme', () => {
             console.log(`skipping ${link}, reason: ignored`);
             return;
         }
-
-        console.log(`checking link ${link}`);
+        
         let c = false;
         jest.retryTimes(3);
         test(`checking link ${link}`, async () => {
