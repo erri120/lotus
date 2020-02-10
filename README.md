@@ -32,6 +32,7 @@
   - [Skills, Perks and More](#skills-perks-and-more)
   - [Character Mods](#character-mods)
   - [NPC Retextures](#npc-retextures)
+  - [Followers](#followers)
   - [Music](#music)
   - [Cathedral Mods](#cathedral-mods)
   - [ENB: Silent Horizon](#enb-silent-horizon)
@@ -81,6 +82,8 @@
 - [Changelog](#changelog)
 
 ![lotus-logo](extra/logo-alt.png)
+
+(I fucking love this background color)
 
 ## Preamble
 
@@ -479,6 +482,26 @@ Links:
 - [Fresh Faces](https://www.nexusmods.com/skyrimspecialedition/mods/13789)
 - [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273)
 - [Modest Elderly](https://www.nexusmods.com/skyrimspecialedition/mods/7935)
+
+### Followers
+
+All of your sexual adventures in Skyrim should not be experienced alone! Follower mods on LL are kinda _meh_ and since this is SSE there are even less than normal so I only added 5 mods.
+
+The first one being [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) because its funny and his dynamic dialogue is really good. He might not fit this Modlist so you can just ignore him if you want to keep your harem of ladies. You can find him in [Dead Man's Drink](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Drink).
+
+[Shindara](https://www.nexusmods.com/skyrimspecialedition/mods/10094) is not fully voiced with non-vanilla sounds but it's a Follower and Dungeon mod in one and my favorite Redguard. You can start the quest by talking to Hulda in the [Bannered Mare](https://en.uesp.net/wiki/Skyrim:The_Bannered_Mare) or travel directly to a new location called _Scorchstone Excavation_ which is north-west from [Drelas' Cottage](https://en.uesp.net/wiki/Skyrim:Drelas%27_Cottage).
+
+The other three followers came from LL:
+
+[Veronica](https://www.loverslab.com/files/file/8781-veronica-the-flirty-imperial-milf-se/) can be found at the [Silver-Blood Inn](https://en.uesp.net/wiki/Skyrim:Silver-Blood_Inn), [Abigail](https://www.loverslab.com/files/file/8773-abigail-the-lusty-imperial-maid-se/) at [Breezehome](https://en.uesp.net/wiki/Skyrim:Breezehome) or roaming around Whiterun and the two new [Succubus Follower](https://www.loverslab.com/files/file/9972-succubus-follower-spells-player-armor-and-psq-transform-addon/) in the [Temple of Dibella](https://en.uesp.net/wiki/Skyrim:Temple_of_Dibella).
+
+Links:
+
+- [Lucien - Fully Voiced Follower](https://www.nexusmods.com/skyrimspecialedition/mods/20035)
+- [Shindara - The Fire Within - Follower and Dungeon Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/10094)
+- [Veronica - The Flirty Imperial Milf - SE 1.0](https://www.loverslab.com/files/file/8781-veronica-the-flirty-imperial-milf-se/)
+- [Abigail - The Lusty Imperial Maid - SE 1.0](https://www.loverslab.com/files/file/8773-abigail-the-lusty-imperial-maid-se/)
+- [Succubus Follower, Spells, Player Armor and PSQ Transform Addon 1.3](https://www.loverslab.com/files/file/9972-succubus-follower-spells-player-armor-and-psq-transform-addon/)
 
 ### Music
 
