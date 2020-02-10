@@ -5,6 +5,8 @@ in/*
 out/*
 temp/*
 
+jest.result.json
+
 # Logs
 logs
 *.log

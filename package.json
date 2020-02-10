@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "test": "jest --testRunner='jest-circus/runner'",
+    "test": "jest --testRunner='jest-circus/runner' --outputFile='jest.result.json' --json",
     "build": "gulp build"
   },
   "dependencies": {
