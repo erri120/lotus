@@ -31,6 +31,7 @@
   - [EnaiSiaion](#enaisiaion)
   - [Skills, Perks and More](#skills-perks-and-more)
   - [Character Mods](#character-mods)
+  - [NPC Retextures](#npc-retextures)
   - [Music](#music)
   - [Cathedral Mods](#cathedral-mods)
   - [ENB: Silent Horizon](#enb-silent-horizon)
@@ -436,6 +437,48 @@ Links:
 - [Schlongs of Skyrim SE 1.1.4](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
 - [Tempered Skins for Males - Vanilla and SOS versions](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
 - [Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)](https://www.nexusmods.com/skyrimspecialedition/mods/1443)
+
+### NPC Retextures
+
+The start makes [Superior Lore-Friendly Hair](https://www.nexusmods.com/skyrim/mods/36510). It's a small but highly effective mod. I love the work of [Pandorable](https://www.nexusmods.com/skyrimspecialedition/users/41216925) and used [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012), [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680) and [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135) as my goto NPC retextures.
+
+The Bijin lineup with [Bijin Wives](https://www.nexusmods.com/skyrimspecialedition/mods/11247), [Bijin NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/11287) and [Bijin Warmaidens](https://www.nexusmods.com/skyrimspecialedition/mods/1825) fills the gaps that Pandorable's mods leave.
+
+[The Men of Winter](https://www.nexusmods.com/skyrimspecialedition/mods/10902) retextures some Men in Skyrim. I handpicked NPS from [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376) and [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247). The rest is covered by [Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/5291) and [Fresh Faces](https://www.nexusmods.com/skyrimspecialedition/mods/13789). [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273) is the base for all elves.
+
+The priority looks like this (similar to MO2, the ones at the bottom overwrites the ones at the top):
+
+1) Ethereal Elven Overhaul
+2) Fresh Faces
+3) Diversity
+4) Kalilies NPCs
+5) The Ordinary Women
+6) The Men of Winter
+7) Bijin Wives
+8) Bijin NPCs
+9) Bijin Warmaidens
+10) Pandorable's NPCs - Dragonborn
+11) Pandorable's NPCs - Dawnguard
+12) Pandorable's NPCs
+
+[Modest Elderly](https://www.nexusmods.com/skyrimspecialedition/mods/7935) protects the elders since I hope none of us wants to see that.
+
+Links:
+
+- [Superior Lore-Friendly Hair - HD textures](https://www.nexusmods.com/skyrim/mods/36510)
+- [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012)
+- [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680)
+- [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135)
+- [Bijin Wives SE](https://www.nexusmods.com/skyrimspecialedition/mods/11247)
+- [Bijin NPCs SE](https://www.nexusmods.com/skyrimspecialedition/mods/11287)
+- [Bijin Warmaidens SE](https://www.nexusmods.com/skyrimspecialedition/mods/1825)
+- [The Men of Winter SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10902)
+- [The Ordinary Women SSE](https://www.nexusmods.com/skyrimspecialedition/mods/12376)
+- [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247)
+- [Diversity - A Character Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5291)
+- [Fresh Faces](https://www.nexusmods.com/skyrimspecialedition/mods/13789)
+- [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273)
+- [Modest Elderly](https://www.nexusmods.com/skyrimspecialedition/mods/7935)
 
 ### Music
 
