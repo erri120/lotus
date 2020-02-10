@@ -14,8 +14,9 @@
 +[OUTPUT] Creation Kit
 +[Lotus] MCM Options, Configs and more
 -OUTPUTS_separator
++User Submitted Content
+-KS Hairdos SMP (BHUNP) by erri120
 +ESPs by erri120
--KS Hairdos - HDT SMP (Physics) - BHUNP Conversion by erri120
 -Poser Hotkeys Plus SSE - HC Poser module
 -Poser Hotkeys Plus SSE
 -HCPoser SE - Poser Hotkeys Version
@@ -64,10 +65,10 @@
 -LODs_separator
 +ERF Succubus UUNP BodySlide Files
 +ERF Succubus Mod V1.3
-+Shindara The Fire Within
 +Follower - Merged
 +Abigail The Lusty Imperial Maid V2 SE
 +Veronica The Flirty Imperial Milf SE
++Shindara The Fire Within
 +Lucien - Fully Voiced Follower
 +Serana Dialogue Edit - Skyrim Special Edition
 +Dawnguard Rewritten - Arvak
@@ -121,6 +122,7 @@
 +DX Merta Black Rose Outfit - UNP
 +DX Sotteta Necromancer Outfit SSE - Physics - UNP UNPB 7BB 7BO DreamGirl Seraphim and More
 +DX Sotteta Necromancer Outfit - UNP
+-DX Cassandra Frost Witch HDT-SMP Patch
 +Dx Cassandra Frost Witch Outfit SSE - UNP Perky UNPB 7BB DreamGirl Seraphim - Physics
 +DX Cassandra Frost Witch Outfit - UNP
 +DX Celes Nightingale Armor SSE - UNP Perky UNPB 7BB DreamGirl Seraphim - Physics
@@ -229,6 +231,7 @@
 +Relationship Dialogue Overhaul - RDO SE
 +Cuyima Interesting NPCs SE
 +Interesting NPCs (3DNPC) character Zora Fairchild's voice boosted
++Interesting NPCs SE - Update v4.3.2 to v4.3.6
 +Interesting NPCs SE
 +DIVERSE SKYRIM SSE
 -Protect your People - PyP - Better NPC Protection SE
@@ -313,6 +316,7 @@
 +Cathedral Snow (SSE or VR)
 +Glorious Glaciers
 +Majestic Mountains - Northside
+-Majestic Mountains 2.82
 +Majestic Mountains - Darkside
 +Skyrim 2020 2.8 Update by Pfuscher
 +Skyrim 2020 2.7 by Pfuscher
@@ -387,21 +391,21 @@
 +Mysticism - A Magic Overhaul
 +Arcanum - A New Age of Magic
 -MAGIC_separator
-+Complete Alchemy and Cooking Overhaul
 -Temporary Patch for Complete Crafting Overhaul Remastered
 -Complete Crafting Overhaul Remastered
-+Summermyst - Enchantments of Skyrim
-+Sacrosanct - Vampires of Skyrim
++Perks from Questing
++Experience
 +Andromeda - Unique Standing Stones of Skyrim
 +Thunderchild - Epic Shouts and Immersion
 +Morningstar - Minimalistic Races of Skyrim
-+Path of Sorcery - Magic Perk Overhaul
++Sacrosanct - Vampires of Skyrim
 +Growl - Werebeasts of Skyrim
++Summermyst - Enchantments of Skyrim
 +Honed Metal - SSE
++Complete Alchemy and Cooking Overhaul
++Path of Sorcery - Magic Perk Overhaul
 +Smithing Perks Overhaul SE
 +Vokrii - Minimalistic Perks of Skyrim
-+Perks from Questing
-+Experience
 +Wintersun - Faiths of Skyrim
 -SKILLS, PERKS and MORE_separator
 +3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow
@@ -409,10 +413,10 @@
 +ABT - Merged
 +ABT SE - Arrows and Bolts Tweaks Special Edition
 +Archery Gameplay Overhaul SE
-+Wildcat - Combat of Skyrim
 -Know Your Enemy - Trait-based resistances and weaknesses
 +Skyrim Revamped - Complete Enemy Overhaul
 -The Ultimate Dodge Mod
++Wildcat - Combat of Skyrim
 +Sekiro Combat SSE
 +Ultimate Combat SE
 +TK Dodge SE
@@ -510,6 +514,7 @@
 +moreHUD SE
 +A Quality World Map
 +Main Menu Design Replacer - Multilanguage - 60 FPS
+-Lotus Main Menu
 +Paramount - Magnificent Main Menu
 -ReCleaned Menu
 +Wider MCM Menu for SkyUI
