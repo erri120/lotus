@@ -413,6 +413,30 @@ Links:
 
 ### Character Mods
 
+Since the dawn of mankind we've asked the question: _CBBE or UNP?_
+
+This Modlist will use the new [BHUNP 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/31126) body by [BakaFactory](#bakafactory). The alternative and CBBE counterpart would be [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174) which is also very noice. The decision came down to a coin flip and the simple fact I love [BakaFactories](#bakafactory) mods.
+
+The question than became _What body preset should I use?_. This is by far the most subjective decision I had to make when creating this Modlist. I have done my fair share of Conversions and became _modest_. Instead of going **t h i c c** af I went with simple UNP. After a poll on the Wabbajack server the majority (`63.16%`) voted for going UNPB while the minority of `36.84%` wanted UNP. The final body preset used is `BHUNP 3BBB UNPB`.
+
+(If you have no idea what HDT-PE/HDT-SMP/BBP/TBPP or 3BBB is, read [this](https://babofactory.blogspot.com/2019/10/what-is-hdt-pe-hdt-smp-bbp-tbbp-3bbb.html) article by [BakaFactory](#bakafactory))
+
+[XMPSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988), [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224) and [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872) are of course installed and configured. For textures I used [Demoniac](https://www.nexusmods.com/skyrimspecialedition/mods/19355), [Female Dragonic Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/1442) and [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183).
+
+The dudes were not left alone either! [Schlongs of Skyrim](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/) can't be missing from any LL setup. Textures used are [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902) the male counter part to Female Dragonic Argonian Textures: [Male Dragonic Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/1443).
+
+Links:
+
+- [BHUNP (UUNP Next Generation) SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31126)
+- [CBPC - CBP Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224)
+- [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
+- [Demoniac- High Quality Glossy Female Body Texture 8K 4K 2K - SE](https://www.nexusmods.com/skyrimspecialedition/mods/19355)
+- [Female Dragonic Argonian Textures 4k - 2k(CBBE and UNP)](https://www.nexusmods.com/skyrimspecialedition/mods/1442)
+- [Feminine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/183)
+- [Schlongs of Skyrim SE 1.1.4](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
+- [Tempered Skins for Males - Vanilla and SOS versions](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
+- [Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)](https://www.nexusmods.com/skyrimspecialedition/mods/1443)
+
 ### Music
 
 I could not help but to include my favorite Skyrim music mod: [Yggdrasil Music and SoundFX Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/21578). It's lore-friendly Dark Folk (Nordic) music which may not really fit this Modlist but I fucking love it so here you go.
