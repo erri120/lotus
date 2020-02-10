@@ -30,6 +30,7 @@
   - [Combat - Magic](#combat---magic)
   - [EnaiSiaion](#enaisiaion)
   - [Skills, Perks and More](#skills-perks-and-more)
+  - [Character Mods](#character-mods)
   - [Music](#music)
   - [Cathedral Mods](#cathedral-mods)
   - [ENB: Silent Horizon](#enb-silent-horizon)
@@ -64,6 +65,11 @@
   - [Beastess](#beastess)
   - [Spell Research](#spell-research)
 - [Adding more Mods](#adding-more-mods)
+  - [Textures](#textures)
+  - [Meshes](#meshes)
+  - [Animations](#animations)
+    - [SLAL Animations](#slal-animations)
+    - [Normal Animations](#normal-animations)
   - [ENB](#enb)
 - [Tweaking Performance](#tweaking-performance)
   - [Tweaking the ENB](#tweaking-the-enb)
@@ -404,6 +410,8 @@ Links:
 - [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910)
 - [Special Perks from Questing (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/29402)
 - [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+
+### Character Mods
 
 ### Music
 
@@ -827,6 +835,28 @@ Click `Ok`
 Click `Import Spells`, close the MCM and click `YES` to every prompt.
 
 ## Adding more Mods
+
+### Textures
+
+Textures are by far the easiest mods to install. Simply install the mod and check what other mod also changes the same textures in MO2. The only textures that could be problematic are landscape/environment textures like new mountain textures.
+
+### Meshes
+
+Similar to [Textures](#textures) just slap them into MO2. Just be careful that those new meshes are for outfits as those should be compatible with the character body of this setup (see [Character Mods](#character-mods)).
+
+### Animations
+
+New animations can be easily added depending on the category. You have to differentiate between [SLAL Animations](#slal-animations) and [Normal Animations](#normal-animations). The former being animations for Sexlab and the later being animations like [Pretty Sit Idles](https://www.nexusmods.com/skyrimspecialedition/mods/10399).
+
+#### SLAL Animations
+
+[SLAL](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/) or _Sexlab Animation Loader_ requires special animations. You should only install additional Sexlab animations if those are made for SLAL.
+
+Simply install them and re-run FNIS. If the animations come with an ESP, than you will have to jump into xEdit or zEdit and find out what the ESP adds/changes. Most ESPs of animations simply add animations objects and do not change any vanilla records. These ESPs can be loaded anywhere in the loadorder.
+
+#### Normal Animations
+
+Simply install the new animations and re-run FNIS. You might want to take a look at [FNIS PCEA2](https://www.nexusmods.com/skyrimspecialedition/mods/13281) if you want those new animations to be player exclusive.
 
 ### ENB
 
