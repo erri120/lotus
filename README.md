@@ -1,5 +1,7 @@
 # Lotus
 
+![Node.js CI](https://github.com/erri120/lotus/workflows/Node.js%20CI/badge.svg?branch=master)
+
 - [Preamble](#preamble)
 - [Requirements](#requirements)
   - [System Specs](#system-specs)
