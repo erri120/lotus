@@ -31,26 +31,31 @@
   - [AGO](#ago)
   - [Follower Framework](#follower-framework)
   - [Growl Werebeasts](#growl-werebeasts)
-  - [Nemesis PCEA](#nemesis-pcea)
+  - [FNIS PCEA2](#fnis-pcea2)
   - [Quick Light](#quick-light)
+  - [Sacrosanct Vampires](#sacrosanct-vampires)
+  - [Sky UI](#sky-ui)
   - [Storm Lightning](#storm-lightning)
+  - [SSSO](#ssso)
+  - [TK Dodge](#tk-dodge)
   - [Ultimate Combat](#ultimate-combat)
   - [Wildcat Combat](#wildcat-combat)
   - [XPMSE](#xpmse)
   - [SexLab](#sexlab)
-  - [SL Anim Loader](#sl-anim-loader)
-  - [Schlongs of Skyrim](#schlongs-of-skyrim)
   - [SexLab Aroused](#sexlab-aroused)
-  - [Sacrosanct Vampires](#sacrosanct-vampires)
-  - [SexLab Approach Redux](#sexlab-approach-redux)
-  - [Blush When Aroused](#blush-when-aroused)
+  - [Radiant Prostitution](#radiant-prostitution)
+  - [Schlongs of Skyrim](#schlongs-of-skyrim)
   - [Defeat](#defeat)
-  - [SSSO](#ssso)
   - [Forgotten Wenches](#forgotten-wenches)
   - [Hateful Wenches](#hateful-wenches)
   - [Judgment Wenches](#judgment-wenches)
-  - [Beastess](#beastess)
+  - [Sexlab Deadly Drain](#sexlab-deadly-drain)
+  - [SL Anim Loader](#sl-anim-loader)
+  - [Blush When Aroused](#blush-when-aroused)
+  - [WetFunction Redux](#wetfunction-redux)
   - [Bestial Essence](#bestial-essence)
+  - [Beastess](#beastess)
+  - [Spell Research](#spell-research)
 - [Adding more Mods](#adding-more-mods)
   - [ENB](#enb)
 - [Tweaking Performance](#tweaking-performance)
@@ -319,11 +324,15 @@ Links:
 
 ## In-Game MCM Options
 
+Once you're finally in-game, have created your character and want to go play Skyrim, you first need to configure the MCM. **Wait until no new messages appear in the top left corner!**
+
+If you get no more messages, save the game and open the MCM.
+
 ### 3PCO - 3rd Person Camera Overhaul
 
 **Melee**:
 
-Personal preference, I like to keep the camera somewhat close to the character. Try different values adn find what feels best to you!
+(Personal preference, I like to keep the camera somewhat close to the character. Try different values adn find what feels best to you!)
 
 *Positive X Offset* - `60`
 
@@ -351,23 +360,63 @@ Sandboxing
 
 *Only Sandbox in Non-Dungeon* - `Enabled`
 
+**System**:
+
+Hotkeyed Abilities
+
+(You don't have to assign any hotkeys if you want. As a [Republic Commando](https://store.steampowered.com/app/6000/STAR_WARS_Republic_Commando/) lover, I like to assign the F1-F4 hotkeys)
+
+*Command Followers* - `F4`
+
+*Calm Followers* - `F1`
+
+*Followers Retreat* - `F3`
+
+*Followers Attack* - `F2`
+
 ### Growl Werebeasts
 
 **Features**:
 
 *Invulnerable During Transformation* - `Enabled`
 
-### Nemesis PCEA
+### FNIS PCEA2
 
-**Animation Pack(s)**:
+**Available Animation Collections**:
 
-*0Female* - `Enable` if player character is female
+*Female* - `Enable` if player character is female
 
-*1Male* - `Enable` if player character is male
+*Male* - `Enable` if player character is male
+
+Click `Refresh PCEA2 animations NOW`, exit and reopen the MCM.
 
 ### Quick Light
 
+(Brightness can be adjusted to whatever you like)
+
+*Brightness* - `Wide`
+
+(Personal preference, I like to disable the light key and just use `E`.)
+
+*Set light key* - `ESC`
+
 *Long press time for activate key* - `2.0s`
+
+### Sacrosanct Vampires
+
+**Vampire Spells, Powers and Abilities**:
+
+*Fortitude*: `Disable`
+
+### Sky UI
+
+(Sky UI keeps bitching about the menu sfw being outdated. This can be ignored and disabled.)
+
+**Advanced**:
+
+SWF Version Checking
+
+*Map Menu*: `Disable`
 
 ### Storm Lightning
 
@@ -378,6 +427,26 @@ Click `Realistic`
 **Advanced**:
 
 *Compatibility Mode* - `Enabled`
+
+### SSSO
+
+*Rotating Automatic Save* - `Enabled`
+
+*Auto Save Count* - `5 Slots`
+
+*Delay Before Exit Game* - `7 Seconds` (might be set higher if you have a slow drive)
+
+### TK Dodge
+
+Control Settings
+
+*Dodge Key* - `V` (set this to whatever you like)
+
+*Double Tap input* - `Disable` (personal preference)
+
+Other Settings
+
+*Stamina Cost* - `7.0` (choose something between `5.0` and `10.0`)
 
 ### Ultimate Combat
 
@@ -393,11 +462,13 @@ Locational Damage
 
 *Locational Damage Sound* - `Disabled`
 
+*Locational Damage Effect* - `Disabled`
+
 **NPC Setting**:
 
 NPC
 
-*Dodge* - `Disable`
+*Dodge* - `Middle`
 
 ### Wildcat Combat
 
@@ -423,9 +494,9 @@ NPC
 
 *Allow Wildcat to Manage Difficulty* - `Enabled`
 
-*Expert - Damage Dealt*: `x1.75`
+*Expert - Damage Dealt*: `x2.00`
 
-*Expert - Damage Taken*: `x1.50`
+*Expert - Damage Taken*: `x2.00`
 
 ### XPMSE
 
@@ -449,9 +520,11 @@ Close the MCM and wait until you receive the message:
 
 `SexLab - SexLab v1.63 SE dev beta 8 - Ready!`
 
-Reopen the MCM and continue configuration of SexLab
+Save your game, reopen the MCM and continue configuration of SexLab
 
 **Animation Settings**:
+
+(If you don't want Creature animations, skip this step)
 
 *Allow Creature Animations* (Top Right, Under Animation Profile) - `Enabled`
 
@@ -459,51 +532,41 @@ Close the MCM and wait until you receive the message:
 
 `SexLab Creature Animations Installed`
 
-Reopen the MCM and continue configuration of SexLab
+Save your game, reopen the MCM and continue configuration of SexLab
 
-**Animation Settings**:
+**Rebuild & Clean**:
 
-Player Settings
+Click `Import Settings`, click `Accept`.
 
-_Automatic Free Camera_ - `Enabled`
+### SexLab Aroused
 
-_Free Camera Speed_ - `4` (personal preference)
+**SETTINGS**:
 
-**Extra Effects**:
+General
 
-*Apply Facial Expressions* - `Enabled`
+*Purge Dead Actors Every 10 Game Days* - `Enabled`
 
-*NPCs Use Beds* - `Sometimes`
+*Enable SOS* - `Enabled`
 
-Animation Handling
+Arousal
 
-*Pre-Sex Foreplay* - `Enabled` (personal preference)
+*Default Exposure Rate* - `1.7` (personal preference)
 
-*Clear High Heels Height* - `Enabled`
+*Decay Rate* - `1.5` (personal preference)
 
-**Player Hotkeys**:
+### Radiant Prostitution
 
-(Note: Hotkeys are only needed if you want to re-adjust the scene. If you don't want to fiddle with the position of the scene and actors, skip this section)
+**PC Settings**:
 
-Alignment Adjustments
+Stripping
 
-*Adjust Schlong - Upward/Downward* - `Page Up`
+*Use Beds* - `Enable`
 
-### SL Anim Loader
+Reward Settings
 
-**Babo Creature**:
+*Female PC Gold Bonus* - `10`
 
-Click `Enable All`
-
-**Babo Human**:
-
-Click `Enable All`
-
-**General Options**:
-
-Click `Register Animations`
-
-Wait in the MCM until you receive the Completed message
+*Male PC Gold Bonus* - `40`
 
 ### Schlongs of Skyrim
 
@@ -513,77 +576,15 @@ Global Settings
 
 *SOS Potions* - `Disabled`
 
-### SexLab Aroused
-
-**SETTINGS**:
-
-**General**:
-
-*Purge Dead Actors Every 10 Game Days* - `Enabled`
-
-*Enable SOS* - `Enabled`
-
-*Default Exposure Rate* - `1.7` (personal preference)
-
-*Decay Rate* - `1.5` (personal preference)
-
-### Sacrosanct Vampires
-
-**Vampire Spells, Powers and Abilities**:
-
-*Fortitude*: `Disable`
-
-### SexLab Approach Redux
-
-**General Setting**:
-
-Arousal
-
-*NPCs Lowest Arousal* - `15`
-
-### Blush When Aroused
-
-**General**:
-
-Compatibility
-
-*SexLab Aroused Redux* - `Enabled`
-
-**Cause and Effect**:
-
-Player
-
-*Nakedness* - `Enabled`
-
-NPCs
-
-*Nakedness* - `Enabled`
-
 ### Defeat
 
 **General Settings**:
 
 Click `Mod Status - Disabled`
 
-Close the MCM and wait for the message `Defeat: Installed`
+Close the MCM and wait for the message `Defeat: Installed` and reopen the MCM.
 
-Save the Game.
-
-Open the MCM Menu and resume configuring Defeat
-
-**General Settings**:
-
-Click `Import Settings` and then click `Accept`
-
-Close and reopen the MCM Menu
-
-### SSSO
-
-*Rotating Automatic Save* - `Enabled`
-
-*Auto Save Count* - `5 Slots`
-
-*Delay Before Exit Game* - `7 Seconds` (might be set higher if you have a slow drive)
+Click `Import settings`.
 
 ### Forgotten Wenches
 
@@ -609,7 +610,85 @@ Judgment Wenches spawn chance.
 
 *Judgment Wench* - `25%`
 
+### Sexlab Deadly Drain
+
+(If you don't want to use this Mod, Disable it in the MCM)
+
+**General**:
+
+Draining
+
+*Auto Drain* - `Enable`
+
+*Draining is a crime* - `Enable` (can be Disabled if you want)
+
+Sliders and Hotkeys
+
+(I like to disable most of the hotkeys)
+
+*Toggle Physical Drain Hotkey* - `ESC`
+
+*Sink fangs in to victim (back)* - `ESC`
+
+*Sink fangs in to victim (front)* - `ESC`
+
+*Kiss your victim* - `ESC`
+
+### SL Anim Loader
+
+**General Options**:
+
+Click `Enable All`
+
+Click `Register Animations`
+
+Wait in the MCM until you receive the Completed message
+
+### Blush When Aroused
+
+**General**:
+
+Compatibility
+
+*SexLab Aroused Redux* - `Enabled`
+
+**Cause and Effect**:
+
+Player
+
+*Nakedness* - `Enabled`
+
+NPCs
+
+*Nakedness* - `Enabled`
+
+**Exceptions**:
+
+Player types
+
+*Victims blush* - `Enable`
+
+NPC types
+
+*Victims blush* - `Enable`
+
+### WetFunction Redux
+
+**VMisc**:
+
+Click `Import settings`
+
+### Bestial Essence
+
+**Settings**:
+
+*Controller Vibration During Sex* - `Disabled`
+
+(If you don't want Creature animations use the `Fade to Black During Sex` options or don't play this quest)
+
 ### Beastess
+
+(Skip this step if you don't want bestiality in your game or you just don't wanna use this mod)
 
 **Beastess Setup**:
 
@@ -621,11 +700,11 @@ Close the MCM and wait for a message that begins `You feel a dark power...`
 
 Click `Ok`
 
-### Bestial Essence
+### Spell Research
 
-**Settings**:
+**Options**:
 
-*Controller Vibration During Sex* - `Disabled`
+Click `Import Spells`, close the MCM and click `YES` to every prompt.
 
 ## Adding more Mods
 
