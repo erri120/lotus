@@ -6,7 +6,8 @@ jest.setTimeout(20000);
 
 const ignored = [
     "https://mega.nz/#!7ZQjmABY!5slFVs_5YB7DphHCrd2m1nzDTiIwpFoLyRKq6WUt6ek",
-    "https://www.patreon.com/posts/32912602"
+    "https://www.patreon.com/posts/32912602",
+    "https://github.com/erri120"
 ]
 
 describe('checking all links in the readme', () => {
@@ -20,8 +21,25 @@ describe('checking all links in the readme', () => {
     const found = Array.from(s.values());
 
     _.map(found, link => {
-        if(ignored.includes(link))
+        let ignore = false;
+        
+        if(!ignore) {
+            _.map(ignored, i => {
+                if(ignore)
+                    return;
+
+                if(i != link && !link.startsWith(i))
+                    return;
+                
+                ignore = true;
+            });
+        }
+
+        if (ignore) {
+            console.log(`skipping ${link}, reason: ignored`);
             return;
+        }
+
         console.log(`checking link ${link}`);
         let c = false;
         jest.retryTimes(3);
