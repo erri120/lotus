@@ -23,6 +23,13 @@
   - [SexLab - Animations](#sexlab---animations)
   - [SexLab - Gameplay](#sexlab---gameplay)
   - [SexLab - Others](#sexlab---others)
+  - [3PCO](#3pco)
+  - [Nemesis vs FNIS](#nemesis-vs-fnis)
+  - [Combat - Melee](#combat---melee)
+  - [Combat - Archery](#combat---archery)
+  - [Combat - Magic](#combat---magic)
+  - [EnaiSiaion](#enaisiaion)
+  - [Skills, Perks and More](#skills-perks-and-more)
   - [Music](#music)
   - [Cathedral Mods](#cathedral-mods)
   - [ENB: Silent Horizon](#enb-silent-horizon)
@@ -284,6 +291,119 @@ Links:
 - [Wintersun - SexLab Integration SE 1.3.3](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/)
 - [ViVi's Beastess Lairs SE 5.1](https://www.loverslab.com/files/file/9932-vivis-beastess-lairs-se/)
 - [SOS Equipable Horse Cocks - SSE Port 1.0.0](https://www.loverslab.com/files/file/9903-sos-equipable-horse-cocks-sse-port/)
+
+### 3PCO
+
+3PCO or [3rd Person Camera Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/18515) aims to fix the stiff, unmoving vanity camera of vanilla Skyrim. This mod gets its own section due to the impact it has when you have never seen nor used it before.
+
+Links:
+
+- [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515)
+
+### Nemesis vs FNIS
+
+We all know of [FNIS](https://www.nexusmods.com/skyrimspecialedition/mods/3038) but have you heard of [Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)? I won't go into much detail on the relationship between those two programs and their authors but tl;dr: Nemesis is an alternative to Fnis.
+
+"_Why would I care?_", you may ask. [The Ultimate Dodge Mod](https://drive.google.com/file/d/0B2VgBVA9jE6RaFNyZURxa3JXUjQ/view) is, as the name implies, a dodge mod like [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309). TUDM only works with Nemesis. I originally wanted to use TUDM and Nemesis but creature animations do not work in Nemesis _yet_.
+
+Links:
+
+- [Fores New Idles in Skyrim SE - FNIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/3038)
+- [TK Dodge SE](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
+
+### Combat - Melee
+
+I originally wanted to use The Ultimate Dodge Mod (see [Nemesis vs FNIS](#nemesis-vs-fnis)) but had swap to [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309).
+
+Aside from some fancy dodging, I have included [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/17196), the new [Sekiro Combat](https://www.nexusmods.com/skyrimspecialedition/mods/31915) and [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368) to make melee combat interesting and somewhat challenging.
+
+Do note that [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859) is installed meaning that you can't just go into your inventory and eat 100 cheese wheels while everything is paused.
+
+Links:
+
+- [TK Dodge SE](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
+- [Ultimate Combat SE](https://www.nexusmods.com/skyrimspecialedition/mods/17196)
+- [Sekiro Combat SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31915)
+- [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
+- [Skyrim Souls RE - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
+
+### Combat - Archery
+
+Can't have a setup without [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296) and [ABT](https://www.nexusmods.com/skyrimspecialedition/mods/4683).
+
+Links:
+
+- [Archery Gameplay Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/24296)
+- [ABT SE - Arrows and Bolts Tweaks Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4683)
+
+### Combat - Magic
+
+Instead of just grabbing [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) and calling it a day, I have opted to *not include Apocalypse*. This is my first setup since I started modding where I have not used that mod. In its stead [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488) and [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) are included.
+
+[Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983) gives your mage playthrough a bit more depth as you can now _research spells_... duh.
+
+Links:
+
+- [Arcanum - A New Age of Magic](https://www.nexusmods.com/skyrimspecialedition/mods/23488)
+- [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
+- [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)
+
+### EnaiSiaion
+
+Same as the [BakaFactory](#bakafactory) section, this one is a shout-out to [EnaiSiaion](https://www.nexusmods.com/skyrimspecialedition/users/3959191). Be sure to check the [r/EnaiRim](https://www.reddit.com/r/EnaiRim) subreddit, the [Patreon](https://www.patreon.com/EnaiSiaion) page and the [Discord](https://discordapp.com/invite/GfYzjPm) server.
+
+Mods used:
+
+- [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506)
+- [Vokrii - Minimalistic Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26176)
+- [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245)
+- [Morningstar - Minimalistic Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22298)
+- [Thunderchild - Epic Shouts and Immersion](https://www.nexusmods.com/skyrimspecialedition/mods/1460)
+- [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910)
+- [Sacrosanct - Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928)
+- [Summermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6285)
+
+### Skills, Perks and More
+
+As you may have guessed from the [EnaiSiaion](#enaisiaion) section, I used a lot of those mods. Let's break it down:
+
+[Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) was probably one of the greatest mods released last year. The mod adds religion and worship. [Wintersun SexLab Integartion](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/) will provide a way for Wintersun deities to react to SexLab-related events. I recommend checking out both mods if you want some religion in Skyrim.
+
+Perk overhauls. Same with [Magic](#combat---magic), I normally always go [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137) and nothing else. For this setup I used the new [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176), also made by [EnaiSiaion](#enaisiaion). This perk mod is not as huge as Ordinator but allows one to add other perk overhauls on-top of it. [Smithing Perks Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19246) and [Path of Sorcery](https://www.nexusmods.com/skyrimspecialedition/mods/6660) are the ones I added.
+
+Alchemy and Cooking is often left alone since no-one really uses those hidden op skills, but I have included the popular [CACO](https://www.nexusmods.com/skyrimspecialedition/mods/19924) if you want to dive into this complex crafting system.
+
+On the topic of crafting: [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/12885) will help everyone who doesn't wanna be a smith in every playthrough. [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) **is not included** in this setup.
+
+If you are not the warrior type but more of a mage than [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) and its new enchantments are what you want.
+
+Werewolf and Vampire overhauls can be problematic with certain LL mods but I have found the new [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) and the old [Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928) to be working just fine in this setup. Do note that the Alternate Start option where you start as a Vampire does not work with Sacrosanct (see [this](https://www.nexusmods.com/skyrimspecialedition/articles/54/) article for more info).
+
+I love [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) as a race overhaul but I often find myself suffocating with new effects and spells from other mods so instead the somewhat new and lightweight [Morningstar](https://www.nexusmods.com/skyrimspecialedition/mods/22298) was the way to go.
+
+[Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460) and [Andromeda](https://www.nexusmods.com/skyrimspecialedition/mods/14910) have no real alternatives for me so they are a constant in all my playthrough.
+
+[But wait, there is more...](https://forwardsandbookwords.files.wordpress.com/2015/09/but-wait-theres-more.jpg):
+
+[Special Perks form Questing](https://www.nexusmods.com/skyrimspecialedition/mods/29402) and [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) will make Quests and Exploration more rewarding as you often get useless stuff as a reward. Now you get experience or special perks.
+
+Links:
+
+- [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506)
+- [Wintersun - SexLab Integration SE 1.3.3](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/)
+- [Vokrii - Minimalistic Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26176)
+- [Smithing Perks Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/19246)
+- [Path of Sorcery - Magic Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/6660)
+- [Complete Alchemy and Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19924)
+- [Honed Metal - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/12885)
+- [Summermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6285)
+- [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245)
+- [Sacrosanct - Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928)
+- [Morningstar - Minimalistic Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22298)
+- [Thunderchild - Epic Shouts and Immersion](https://www.nexusmods.com/skyrimspecialedition/mods/1460)
+- [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910)
+- [Special Perks from Questing (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/29402)
+- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
 
 ### Music
 
