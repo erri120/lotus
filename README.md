@@ -38,6 +38,7 @@
   - [Music](#music)
   - [Cathedral Mods](#cathedral-mods)
   - [Outfit Mods](#outfit-mods)
+  - [Exclusive Outfits](#exclusive-outfits)
   - [Weapon Mods](#weapon-mods)
   - [ENB: Silent Horizon](#enb-silent-horizon)
 - [In-Game MCM Options](#in-game-mcm-options)
@@ -554,6 +555,17 @@ Links:
 - [docteure on Nexus mods](https://www.nexusmods.com/users/43643027)
 - [Jeir on Nexus Mods](https://www.nexusmods.com/users/84177)
 - [docteure and Jeir on Patreon](https://www.patreon.com/docteur87andJeir)
+
+### Exclusive Outfits
+
+This modlist includes an esp which merges some exclusive outfits and adds additional keywords to them. **Those mods are not included in this Modlist!**. The esp is called `Discord Armor - Merged.esp` and merges records of the following outfits:
+
+- [Black Evening](https://discordapp.com/channels/489389465433800704/637422636132990976/668550041656623114) ([Preview](https://cdn.discordapp.com/attachments/637422636132990976/668550041002180684/ScreenShot1713.png))
+- [BDO Boss Armor 01](https://discordapp.com/channels/489389465433800704/637422636132990976/653050481882693654) ([Preview](https://cdn.discordapp.com/attachments/637422636132990976/653050481362468864/ScreenShot1650.png))
+- [Vindictus Evil Lady](https://discordapp.com/channels/489389465433800704/637422636132990976/639861775797321758) ([Preview](https://cdn.discordapp.com/attachments/637422636132990976/639861774908260352/ezgif.com-video-to-gif.gif))
+- [BDO Dark Knight Class Armor](https://discordapp.com/channels/489389465433800704/638184370250842112/671894172181200936) ([Preview](https://streamable.com/68vsm))
+
+**You need to join the [Tavern](discord.gg/Zq9Kn7p) Discord server and get approved if you want to download the outfits! The esp can be disabled if you don't want those outfits!**
 
 ### Weapon Mods
 
