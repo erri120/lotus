@@ -232,8 +232,6 @@ Mods used:
 - [BakaFactory's SLAL Animation LE / SSE 3.1V](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/)
 - [SexLab Defeat Addon by BakaFactory 1.01V SE English](https://www.patreon.com/posts/32912602)
 - [SexLab Approach Redux by BakaFactory LE / SE 1.25V](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se)
-- [BHUNP (UUNP Next Generation) SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31126)
-- [DX Druid Armor SSE BHUNP Bodyslide](https://www.nexusmods.com/skyrimspecialedition/mods/31244)
 
 ### SexLab - Animations
 
@@ -422,10 +420,6 @@ Links:
 
 Since the dawn of mankind we've asked the question: _CBBE or UNP?_
 
-This Modlist will use the new [BHUNP 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/31126) body by [BakaFactory](#bakafactory). The alternative and CBBE counterpart would be [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174) which is also very noice. The decision came down to a coin flip and the simple fact I love [BakaFactories](#bakafactory) mods.
-
-The question than became _What body preset should I use?_. This is by far the most subjective decision I had to make when creating this Modlist. I have done my fair share of Conversions and became _modest_. Instead of going **t h i c c** af I went with simple UNP. After a poll on the Wabbajack server the majority (`63.16%`) voted for going UNPB while the minority of `36.84%` wanted UNP. The final body preset used is `BHUNP 3BBB UNPB`.
-
 (If you have no idea what HDT-PE/HDT-SMP/BBP/TBPP or 3BBB is, read [this](https://babofactory.blogspot.com/2019/10/what-is-hdt-pe-hdt-smp-bbp-tbbp-3bbb.html) article by [BakaFactory](#bakafactory))
 
 [XMPSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988), [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224) and [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872) are of course installed and configured. For textures I used [Demoniac](https://www.nexusmods.com/skyrimspecialedition/mods/19355), [Female Dragonic Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/1442) and [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183).
@@ -434,7 +428,6 @@ The dudes were not left alone either! [Schlongs of Skyrim](https://www.loverslab
 
 Links:
 
-- [BHUNP (UUNP Next Generation) SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31126)
 - [CBPC - CBP Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224)
 - [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
 - [Demoniac- High Quality Glossy Female Body Texture 8K 4K 2K - SE](https://www.nexusmods.com/skyrimspecialedition/mods/19355)
