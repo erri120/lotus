@@ -25,6 +25,7 @@
   - [SexLab - Animations](#sexlab---animations)
   - [SexLab - Gameplay](#sexlab---gameplay)
   - [SexLab - Others](#sexlab---others)
+  - [Nomkaz](#nomkaz)
   - [3PCO](#3pco)
   - [Nemesis vs FNIS](#nemesis-vs-fnis)
   - [Combat - Melee](#combat---melee)
@@ -41,6 +42,7 @@
   - [Exclusive Outfits](#exclusive-outfits)
   - [Weapon Mods](#weapon-mods)
   - [ENB: Silent Horizon](#enb-silent-horizon)
+  - [Aers](#aers)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
   - [AGO](#ago)
@@ -217,10 +219,10 @@ Since we don't judge your fetishes, I have included [Creature Framework](https:/
 Links:
 
 - [SexLab Framework SE 1.63 - BETA 8 - November 22nd, 2019](https://www.loverslab.com/topic/91861-sexlab-framework-se-163-beta-8-november-22nd-2019/)
-- [SexLab Animation Loader SSE 1.0.0](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/)
-- [SexLab Aroused Redux SSE Version 29 2.9](https://www.loverslab.com/files/file/5482-sexlab-aroused-redux-sse-version-29/)
-- [Creature Framework SE 1.0.1](https://www.loverslab.com/files/file/5462-creature-framework-se/)
-- [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
+- [SexLab Animation Loader SSE 1.0.0](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/) by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
+- [SexLab Aroused Redux SSE Version 29 2.9](https://www.loverslab.com/files/file/5482-sexlab-aroused-redux-sse-version-29/) by [fishburger67](https://www.loverslab.com/profile/441678-fishburger67/)
+- [Creature Framework SE 1.0.1](https://www.loverslab.com/files/file/5462-creature-framework-se/) original by [Ep1cL3w7z](https://www.loverslab.com/profile/67752-ep1cl3w7z/)
+- [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/) original by [MadMansGun](https://www.loverslab.com/profile/71862-madmansgun/)
 - [ZAZ Animation Packs for SE 1.0.0](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
 - [ZAZ 8.0+ CBBE HDT Rev3](https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
 
@@ -242,14 +244,14 @@ Mods used:
 
 Links:
 
-- [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
+- [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/) original by [MadMansGun](https://www.loverslab.com/profile/71862-madmansgun/)
 - [ZAZ Animation Packs for SE 1.0.0](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
-- [BakaFactory's SLAL Animation LE / SSE 3.1V](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/)
-- [Psyche Animation (LE/SSE) 1.0.5](https://www.loverslab.com/files/file/11477-psyche-animation-lesse/)
+- [BakaFactory's SLAL Animation LE / SSE 3.1V](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/) by [BakaFactory](#bakafactory)
+- [Psyche Animation (LE/SSE) 1.0.5](https://www.loverslab.com/files/file/11477-psyche-animation-lesse/) by [PsycheHHH](https://www.loverslab.com/profile/1643961-psychehhh/)
 
 ### SexLab - Gameplay
 
-All those animations and features from the frameworks need to be used somewhere. A lot of big quest mod are still not converted and it will take some time for LL to make the switch to SSE. That being said, the _biggest_ quest mod in this setup is [From The Deeps](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/). Ask innkeepers for some rumors to pick up this lovecraft-like story! [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) is also included, because it's funny. [Bestial Essence](https://www.loverslab.com/files/file/10036-bestial-essence-se/) and [Sexlab Beastess](https://www.loverslab.com/files/file/9904-sexlab-beastess-sse-port/) for all beast lovers. (I changed SL Beastess substantially and nerfed almost all effects to make it playable)
+All those animations and features from the frameworks need to be used somewhere. A lot of big quest mod are still not converted and it will take some time for LL to make the switch to SSE. That being said, the _biggest_ quest mod in this setup is [From The Deeps](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/). Ask innkeepers for some rumors to pick up this lovecraft-like story! [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) is also included, because it's funny. [Bestial Essence](https://www.loverslab.com/files/file/10036-bestial-essence-se/) for all beast lovers.
 
 The vanilla quests are not being left alone! [SexLab Solutions](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) will offer additional dialog that may lead to some _interesting_ outcomes.
 
@@ -268,19 +270,17 @@ Do note that this mod is female-oriented. [Sexlab Approach Redux for HIM](https:
 
 Links:
 
-- [FROM THE DEEPS (for SSE) 2.6](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/)
-- [Amorous Adventures 3.4 SSE for lovers lab](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/)
-- [Bestial Essence SE 0.3](https://www.loverslab.com/files/file/10036-bestial-essence-se/)
-- [SexLab Beastess - SSE Port 4.0.0](https://www.loverslab.com/files/file/9904-sexlab-beastess-sse-port/)
-- [SexLab Solutions - Revisited SE 1.0.2](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/)
-- [Spouses Enhanced SE 1.7.3](https://www.loverslab.com/files/file/5266-spouses-enhanced-se/)
-- [Sexlab Defeat SSE 5.3.5](https://www.loverslab.com/files/file/9152-sexlab-defeat-sse/)
-- [Simple Slavery Plus SE 6.01](https://www.loverslab.com/files/file/6535-simple-slavery-plus-se/)
-- [Radiant Prostitution/Gigolo SE 4.0 LITE](https://www.loverslab.com/files/file/10046-radiant-prostitutiongigolo-se/)
-- [Sexlab Defeat Baka Edition 1.01V LE/SE](https://www.patreon.com/posts/32912602)
-- [Sexlab Approach Redux by BakaFactory LE / SE 1.25V](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se)
-- [Sexlab Approach Redux for HIM SE 1.0.0](https://www.loverslab.com/files/file/10074-sexlab-approach-redux-for-him-se/)
-- [SexLab Deadly Drain - SSE Port 1.0.0](https://www.loverslab.com/files/file/9905-sexlab-deadly-drain-sse-port/)
+- [FROM THE DEEPS (for SSE) 2.6](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/) by [Delzaron](https://www.loverslab.com/profile/484102-delzaron/)
+- [Amorous Adventures 3.4 SSE for lovers lab](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) original by [FoxFingers](https://www.loverslab.com/profile/364691-foxfingers/), ported by [vitasgo](https://www.loverslab.com/profile/59513-vitasgo/)
+- [Bestial Essence SE 0.3](https://www.loverslab.com/files/file/10036-bestial-essence-se/) original by [Carabosse](https://www.loverslab.com/profile/72736-carabosse/), ported by [Nomkaz](#nomkaz)
+- [SexLab Solutions - Revisited SE 1.0.2](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) original by [janbui](https://www.loverslab.com/profile/3489852-janbui/), ported by [Nomkaz](#nomkaz)
+- [Spouses Enhanced SE 1.7.3](https://www.loverslab.com/files/file/5266-spouses-enhanced-se/) original by [TheDudeGuy](https://www.loverslab.com/profile/103310-thedudeguy/), updated by [WraithSlayer](https://www.loverslab.com/profile/348228-wraithslayer/) and ported by [ashakiri](https://www.loverslab.com/profile/1235636-ashakiri/)
+- [Sexlab Defeat SSE 5.3.5](https://www.loverslab.com/files/file/9152-sexlab-defeat-sse/) by [Goubo](https://www.loverslab.com/profile/175859-goubo/)
+- [Simple Slavery Plus SE 6.01](https://www.loverslab.com/files/file/6535-simple-slavery-plus-se/) original by [jfraser](https://www.loverslab.com/profile/155791-jfraser/), updated by [Lozeak](https://www.loverslab.com/profile/62468-lozeak/) and ported by [Jman3000](https://www.loverslab.com/profile/457751-jman3000/)
+- [Radiant Prostitution/Gigolo SE 4.0 LITE](https://www.loverslab.com/files/file/10046-radiant-prostitutiongigolo-se/) original by [-Caden-](https://www.loverslab.com/profile/1328836-caden/) ported by [Nomkaz](#nomkaz)
+- [Sexlab Defeat Baka Edition 1.01V LE/SE](https://www.patreon.com/posts/32912602) by [BakaFactory](#bakafactory)
+- [Sexlab Approach Redux by BakaFactory LE / SE 1.25V](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se) by [BakaFactory](#bakafactory)
+- [SexLab Deadly Drain - SSE Port 1.0.0](https://www.loverslab.com/files/file/9905-sexlab-deadly-drain-sse-port/) original mod by [Etheri](https://www.loverslab.com/profile/676057-etheri/), ported by [war11010](https://www.loverslab.com/profile/637956-war11010/)
 
 ### SexLab - Others
 
@@ -298,12 +298,18 @@ The following mods have a more _supportive_ role and do not fit any of the other
 
 Links:
 
-- [Sexlab LightMeUp 2.9.2](https://www.loverslab.com/files/file/8275-sexlab-lightmeup/)
-- [Wet Function Redux SE 1.1.0](https://www.loverslab.com/files/file/9467-wet-function-redux-se/)
-- [Blush When Aroused SE 1.3](https://www.loverslab.com/files/file/10774-blush-when-aroused-se/)
-- [Wintersun - SexLab Integration SE 1.3.3](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/)
-- [ViVi's Beastess Lairs SE 5.1](https://www.loverslab.com/files/file/9932-vivis-beastess-lairs-se/)
-- [SOS Equipable Horse Cocks - SSE Port 1.0.0](https://www.loverslab.com/files/file/9903-sos-equipable-horse-cocks-sse-port/)
+- [Sexlab LightMeUp 2.9.2](https://www.loverslab.com/files/file/8275-sexlab-lightmeup/) by [Yinkle](https://www.loverslab.com/profile/2924493-yinkle/)
+- [Wet Function Redux SE 1.1.0](https://www.loverslab.com/files/file/9467-wet-function-redux-se/) by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
+- [Blush When Aroused SE 1.3](https://www.loverslab.com/files/file/10774-blush-when-aroused-se/) original by [Fredas](https://www.loverslab.com/profile/106315-fredas/), ported by [abcd99](https://www.loverslab.com/profile/250327-abcd99/) with fixed from [tasairis](https://www.loverslab.com/profile/1009670-tasairis/)
+- [Wintersun - SexLab Integration SE 1.3.3](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/) original by [PD_](https://www.loverslab.com/profile/1450322-pd_/), ported by [Nomkaz](#nomkaz)
+- [ViVi's Beastess Lairs SE 5.1](https://www.loverslab.com/files/file/9932-vivis-beastess-lairs-se/) original by [Vivi](https://www.loverslab.com/profile/41447-vivi/), ported by [Nomkaz](#nomkaz)
+- [SOS Equipable Horse Cocks - SSE Port 1.0.0](https://www.loverslab.com/files/file/9903-sos-equipable-horse-cocks-sse-port/) original by [Etheri](https://www.loverslab.com/profile/676057-etheri/), ported by [war11010](https://www.loverslab.com/profile/637956-war11010/)
+
+### Nomkaz
+
+You may have seen his name pop up a few hundred times when browsing the [Skyrin: Special Edition](https://www.loverslab.com/files/category/163-skyrim-special-edition/) category on LoversLab. This dude converted everything. Check his profile and leave a nice comment for all his work!
+
+- [LL Profile](https://www.loverslab.com/profile/2695162-nomkaz/)
 
 ### 3PCO
 
@@ -311,7 +317,7 @@ Links:
 
 Links:
 
-- [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515)
+- [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515) by [watang](https://www.nexusmods.com/users/10706607)
 
 ### Nemesis vs FNIS
 
@@ -321,8 +327,8 @@ We all know of [FNIS](https://www.nexusmods.com/skyrimspecialedition/mods/3038) 
 
 Links:
 
-- [Fores New Idles in Skyrim SE - FNIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/3038)
-- [TK Dodge SE](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
+- [Fores New Idles in Skyrim SE - FNIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/3038) by [fore](https://www.nexusmods.com/users/8120)
+- [TK Dodge SE](https://www.nexusmods.com/skyrimspecialedition/mods/15309) by [tktk1](https://www.nexusmods.com/users/3841389)
 
 ### Combat - Melee
 
@@ -334,11 +340,11 @@ Do note that [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/
 
 Links:
 
-- [TK Dodge SE](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
-- [Ultimate Combat SE](https://www.nexusmods.com/skyrimspecialedition/mods/17196)
-- [Sekiro Combat SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31915)
-- [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
-- [Skyrim Souls RE - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
+- [TK Dodge SE](https://www.nexusmods.com/skyrimspecialedition/mods/15309) by [tktk1](https://www.nexusmods.com/users/3841389)
+- [Ultimate Combat SE](https://www.nexusmods.com/skyrimspecialedition/mods/17196) by [tktk1](https://www.nexusmods.com/users/3841389)
+- [Sekiro Combat SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31915) by [Lertkrush](https://www.nexusmods.com/users/5493833)
+- [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368) by [EnaiSiaion](#enaisiaion)
+- [Skyrim Souls RE - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/27859) original by [Fudgyduff](https://www.nexusmods.com/skyrimspecialedition/users/5687342), updated by [Vermunds](https://www.nexusmods.com/users/26327049)
 
 ### Combat - Archery
 
@@ -346,8 +352,8 @@ Can't have a setup without [AGO](https://www.nexusmods.com/skyrimspecialedition/
 
 Links:
 
-- [Archery Gameplay Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/24296)
-- [ABT SE - Arrows and Bolts Tweaks Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4683)
+- [Archery Gameplay Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/24296) by [DServant](https://www.nexusmods.com/users/10549885)
+- [ABT SE - Arrows and Bolts Tweaks Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4683) by [Kevkas](https://www.nexusmods.com/users/1560585)
 
 ### Combat - Magic
 
@@ -357,9 +363,9 @@ Instead of just grabbing [Apocalypse](https://www.nexusmods.com/skyrimspecialedi
 
 Links:
 
-- [Arcanum - A New Age of Magic](https://www.nexusmods.com/skyrimspecialedition/mods/23488)
-- [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
-- [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)
+- [Arcanum - A New Age of Magic](https://www.nexusmods.com/skyrimspecialedition/mods/23488) by [noptasis](https://www.nexusmods.com/users/14312949)
+- [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839) by [SimonMagus616](https://www.nexusmods.com/users/67410746)
+- [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983) by [IronDusk33](https://www.nexusmods.com/skyrimspecialedition/users/5182604)
 
 ### EnaiSiaion
 
@@ -402,21 +408,21 @@ I love [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) as 
 
 Links:
 
-- [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506)
-- [Wintersun - SexLab Integration SE 1.3.3](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/)
-- [Vokrii - Minimalistic Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26176)
-- [Smithing Perks Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/19246)
-- [Path of Sorcery - Magic Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/6660)
-- [Complete Alchemy and Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19924)
-- [Honed Metal - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/12885)
-- [Summermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6285)
-- [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245)
-- [Sacrosanct - Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928)
-- [Morningstar - Minimalistic Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22298)
-- [Thunderchild - Epic Shouts and Immersion](https://www.nexusmods.com/skyrimspecialedition/mods/1460)
-- [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910)
-- [Special Perks from Questing (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/29402)
-- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+- [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) by [EnaiSiaion](#enaisiaion)
+- [Wintersun - SexLab Integration SE 1.3.3](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/) original by [PD_](https://www.loverslab.com/profile/1450322-pd_/), ported by [Nomkaz](#nomkaz)
+- [Vokrii - Minimalistic Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26176) by [EnaiSiaion](#enaisiaion)
+- [Smithing Perks Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/19246) by [kryptopyr](https://www.nexusmods.com/users/4291352)
+- [Path of Sorcery - Magic Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/6660) by [steelfeathers](https://www.nexusmods.com/users/7402811)
+- [Complete Alchemy and Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19924) by [kryptopyr](https://www.nexusmods.com/users/4291352)
+- [Honed Metal - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/12885) original by [skyliner390](https://www.nexusmods.com/users/563698), ported by [kowalskiy](https://www.nexusmods.com/skyrimspecialedition/users/4143478)
+- [Summermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6285) by [EnaiSiaion](#enaisiaion)
+- [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245) by [EnaiSiaion](#enaisiaion)
+- [Sacrosanct - Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928) by [EnaiSiaion](#enaisiaion)
+- [Morningstar - Minimalistic Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22298) by [EnaiSiaion](#enaisiaion)
+- [Thunderchild - Epic Shouts and Immersion](https://www.nexusmods.com/skyrimspecialedition/mods/1460) by [EnaiSiaion](#enaisiaion)
+- [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910) by [EnaiSiaion](#enaisiaion)
+- [Special Perks from Questing (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/29402) by [AlanPaul](https://www.nexusmods.com/users/22933884)
+- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) by [z4x](https://www.nexusmods.com/users/1205545)
 
 ### Character Mods
 
@@ -434,15 +440,15 @@ The dudes were not left alone either! [Schlongs of Skyrim](https://www.loverslab
 
 Links:
 
-- [CBBE 3BBB Advanced](https://www.loverslab.com/files/file/11063-cbbe-3bbb-advanced/)
-- [CBPC - CBP Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224)
-- [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
-- [Demoniac- High Quality Glossy Female Body Texture 8K 4K 2K - SE](https://www.nexusmods.com/skyrimspecialedition/mods/19355)
-- [Female Dragonic Argonian Textures 4k - 2k(CBBE and UNP)](https://www.nexusmods.com/skyrimspecialedition/mods/1442)
-- [Feminine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/183)
-- [Schlongs of Skyrim SE 1.1.4](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
-- [Tempered Skins for Males - Vanilla and SOS versions](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
-- [Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)](https://www.nexusmods.com/skyrimspecialedition/mods/1443)
+- [CBBE 3BBB Advanced](https://www.loverslab.com/files/file/11063-cbbe-3bbb-advanced/) by Acro: [Nexus Mods](https://www.nexusmods.com/users/14635849), [LL](https://www.loverslab.com/profile/510660-acro748/)
+- [CBPC - CBP Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224) by [Shizof](https://www.nexusmods.com/users/1201660)
+- [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872) original by HydrogensaysHDT: [Nexus Mods](https://www.nexusmods.com/users/3701232), [GitHub](https://github.com/HydrogensaysHDT), [LL](https://www.loverslab.com/profile/100850-hydrogensayshdt/) and updated by [aers](#aers)
+- [Demoniac- High Quality Glossy Female Body Texture 8K 4K 2K - SE](https://www.nexusmods.com/skyrimspecialedition/mods/19355) original by [regenbot03](https://www.nexusmods.com/users/27578610), ported by Rektas: [Patreon](https://www.patreon.com/Rektas), [Twitter](https://twitter.com/s1kkha), [Nexus Mods](https://www.nexusmods.com/users/26327699) (inactive), [Tumblr](https://s1kkha.tumblr.com/)
+- [Female Dragonic Argonian Textures 4k - 2k(CBBE and UNP)](https://www.nexusmods.com/skyrimspecialedition/mods/1442) by [ChaserTech](https://www.nexusmods.com/users/8205044)
+- [Feminine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/183) by [MONSTERaider](https://www.nexusmods.com/users/1630457)
+- [Schlongs of Skyrim SE 1.1.4](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/) original by [b3lisario](https://www.loverslab.com/profile/82377-b3lisario/), VectorPlexus and Smurf, ported by [galgaroth](https://www.loverslab.com/profile/2774284-galgaroth/)
+- [Tempered Skins for Males - Vanilla and SOS versions](https://www.nexusmods.com/skyrimspecialedition/mods/7902) by [traa108](https://www.nexusmods.com/users/9916407)
+- [Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)](https://www.nexusmods.com/skyrimspecialedition/mods/1443) by [ChaserTech](https://www.nexusmods.com/users/8205044)
 
 ### NPC Retextures
 
@@ -471,20 +477,20 @@ The priority looks like this (similar to MO2, the ones at the bottom overwrites 
 
 Links:
 
-- [Superior Lore-Friendly Hair - HD textures](https://www.nexusmods.com/skyrim/mods/36510)
-- [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012)
-- [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680)
-- [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135)
-- [Bijin Wives SE](https://www.nexusmods.com/skyrimspecialedition/mods/11247)
-- [Bijin NPCs SE](https://www.nexusmods.com/skyrimspecialedition/mods/11287)
-- [Bijin Warmaidens SE](https://www.nexusmods.com/skyrimspecialedition/mods/1825)
-- [The Men of Winter SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10902)
-- [The Ordinary Women SSE](https://www.nexusmods.com/skyrimspecialedition/mods/12376)
-- [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247)
-- [Diversity - A Character Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5291)
-- [Fresh Faces](https://www.nexusmods.com/skyrimspecialedition/mods/13789)
-- [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273)
-- [Modest Elderly](https://www.nexusmods.com/skyrimspecialedition/mods/7935)
+- [Superior Lore-Friendly Hair - HD textures](https://www.nexusmods.com/skyrim/mods/36510) by [skyrimaguas](https://www.nexusmods.com/skyrim/users/6256260)
+- [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012) by [Pandorable](https://www.nexusmods.com/users/41216925)
+- [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680) by [Pandorable](https://www.nexusmods.com/users/41216925)
+- [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135) by [Pandorable](https://www.nexusmods.com/users/41216925)
+- [Bijin Wives SE](https://www.nexusmods.com/skyrimspecialedition/mods/11247) by [rxkx22](https://www.nexusmods.com/users/2650523)
+- [Bijin NPCs SE](https://www.nexusmods.com/skyrimspecialedition/mods/11287) by [rxkx22](https://www.nexusmods.com/users/2650523)
+- [Bijin Warmaidens SE](https://www.nexusmods.com/skyrimspecialedition/mods/1825) by [rxkx22](https://www.nexusmods.com/users/2650523)
+- [The Men of Winter SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10902) by [SetteLisette](https://www.nexusmods.com/users/21521784)
+- [The Ordinary Women SSE](https://www.nexusmods.com/skyrimspecialedition/mods/12376) by [northtexan95](https://www.nexusmods.com/users/1622111)
+- [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247) by [Kalilies](https://www.nexusmods.com/users/4559665)
+- [Diversity - A Character Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5291) by [NEVERMOREPJM](https://www.nexusmods.com/users/8493929)
+- [Fresh Faces](https://www.nexusmods.com/skyrimspecialedition/mods/13789) by [Plooshy](https://www.nexusmods.com/users/2469823)
+- [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273) original by [nuska](https://www.nexusmods.com/users/675468), patched by [AngelTrump](https://www.nexusmods.com/users/39775535)
+- [Modest Elderly](https://www.nexusmods.com/skyrimspecialedition/mods/7935) by [JohnnyCabb](https://www.nexusmods.com/users/9361073)
 
 ### Followers
 
@@ -500,11 +506,11 @@ The other three followers came from LL:
 
 Links:
 
-- [Lucien - Fully Voiced Follower](https://www.nexusmods.com/skyrimspecialedition/mods/20035)
-- [Shindara - The Fire Within - Follower and Dungeon Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/10094)
-- [Veronica - The Flirty Imperial Milf - SE 1.0](https://www.loverslab.com/files/file/8781-veronica-the-flirty-imperial-milf-se/)
-- [Abigail - The Lusty Imperial Maid - SE 1.0](https://www.loverslab.com/files/file/8773-abigail-the-lusty-imperial-maid-se/)
-- [Succubus Follower, Spells, Player Armor and PSQ Transform Addon 1.3](https://www.loverslab.com/files/file/9972-succubus-follower-spells-player-armor-and-psq-transform-addon/)
+- [Lucien - Fully Voiced Follower](https://www.nexusmods.com/skyrimspecialedition/mods/20035) by JosephRussell: [Nexus Mods](https://www.nexusmods.com/users/4958252), [Patreon](https://www.patreon.com/josephrussellauthor)
+- [Shindara - The Fire Within - Follower and Dungeon Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/10094) by [nachtdaemmerung77](https://www.nexusmods.com/users/2572102)
+- [Veronica - The Flirty Imperial Milf - SE 1.0](https://www.loverslab.com/files/file/8781-veronica-the-flirty-imperial-milf-se/) original by [Silver Wolf](https://www.loverslab.com/profile/34001-silver-wolf/), ported by [terciogustavo](https://www.loverslab.com/profile/523400-terciogustavo/)
+- [Abigail - The Lusty Imperial Maid - SE 1.0](https://www.loverslab.com/files/file/8773-abigail-the-lusty-imperial-maid-se/) original by [Silver Wolf](https://www.loverslab.com/profile/34001-silver-wolf/), ported by [terciogustavo](https://www.loverslab.com/profile/523400-terciogustavo/)
+- [Succubus Follower, Spells, Player Armor and PSQ Transform Addon 1.3](https://www.loverslab.com/files/file/9972-succubus-follower-spells-player-armor-and-psq-transform-addon/) by [EvilReFlex](https://www.loverslab.com/profile/607503-evilreflex/)
 
 ### Music
 
@@ -514,8 +520,8 @@ I could not help but to include my favorite Skyrim music mod: [Yggdrasil Music a
 
 Links:
 
-- [Yggdrasil Music and SoundFX Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/21578)
-- [Dreams and Nightmares Music Mod](https://www.nexusmods.com/skyrimspecialedition/mods/25416)
+- [Yggdrasil Music and SoundFX Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/21578) by [kilateone](https://www.nexusmods.com/users/31481845)
+- [Dreams and Nightmares Music Mod](https://www.nexusmods.com/skyrimspecialedition/mods/25416) by [Nyghttones](https://www.nexusmods.com/users/68508590)
 
 ### Cathedral Mods
 
@@ -525,7 +531,7 @@ I choose to use most of the Cathedral mods in this Modlist for the reasons above
 
 Links:
 
-- [Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/19515)(unreleased)
+- [Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/19515) (unreleased)
 - [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
 - [Majestic Mountains - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
 - [Landscapes - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/21954)
@@ -539,7 +545,7 @@ Links:
 
 There are way too many outfit mods out there. This is also highly subjective and you can always just change outfits you don't like (see [Outfits](#outfits) section).
 
-The most prominent outfit authors in this setup are of course [DeserterX](https://www.nexusmods.com/skyrimspecialedition/users/3373573) and [docteure](https://www.nexusmods.com/skyrimspecialedition/users/43643027) + [Jeir](https://www.nexusmods.com/users/84177) ([Patreon](https://www.patreon.com/docteur87andJeir)). Highly recommend you follow them and leave an endorsement on their mods.
+The most prominent outfit authors in this setup are of course [DeserterX](https://www.nexusmods.com/users/3373573) and [docteure](https://www.nexusmods.com/skyrimspecialedition/users/43643027) + [Jeir](https://www.nexusmods.com/users/84177) ([Patreon](https://www.patreon.com/docteur87andJeir)). Highly recommend you follow them and leave an endorsement on their mods.
 
 For vanilla outfits I used the BodySlide files that come with [CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/198) and added the converted [Spice Gear Collection](https://www.nexusmods.com/skyrim/mods/68028) and [Minidress Collection](https://www.nexusmods.com/skyrim/mods/47376) by [tiwa44](https://www.nexusmods.com/users/3347902). The CBBE conversion can be found [here](https://www.nexusmods.com/skyrimspecialedition/mods/16321) and [here](https://www.nexusmods.com/skyrimspecialedition/mods/16322), made by [Gigist](https://www.nexusmods.com/users/16558474).
 
@@ -569,9 +575,14 @@ This modlist includes an esp which merges some exclusive outfits and adds additi
 
 **DO NOT SHARE THE DOWNLOAD LINKS! THEY ARE EXCLUSIVE TO THE DISCORD SERVER LINKED ABOVE!**
 
+Outfits above made by:
+
+- Rektas: [Patreon](https://www.patreon.com/Rektas), [Twitter](https://twitter.com/s1kkha), [Nexus Mods](https://www.nexusmods.com/users/26327699) (inactive), [Tumblr](https://s1kkha.tumblr.com/)
+- immyneedscake: [Nexus Mods](https://www.nexusmods.com/users/20603424), [YouTube](https://www.youtube.com/channel/UC4-fExVL76btpJ4jt1svJ9A)
+
 ### Weapon Mods
 
-Most used weapon mods came from [johnskyrim](https://www.nexusmods.com/skyrimspecialedition/users/3165110). Those are:
+Most used weapon mods came from [johnskyrim](https://www.nexusmods.com/users/3165110). Those are:
 
 - [Radzig Longsword](https://www.nexusmods.com/skyrimspecialedition/mods/16059) contains both a one-handed and two-handed sword from Kingdom Come: Deliverance. Can be both be smithed using the Skyforge or found in the Guard Barracks of Whiterun
 - [The Lionheart](https://www.nexusmods.com/skyrimspecialedition/mods/15076) shield from WoW, can be smithed under the _Daedric_ category
@@ -588,15 +599,15 @@ Vanilla artifacts are fucking useless. [Zim's Immersive Artifacts](https://www.n
 
 Links:
 
-- [Radzig Longsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/16059)
-- [The Lionheart SE](https://www.nexusmods.com/skyrimspecialedition/mods/15076)
-- [Sulfuras - The Reclaimed Hand SE](https://www.nexusmods.com/skyrimspecialedition/mods/14199)
-- [Shadowmourne SE](https://www.nexusmods.com/skyrimspecialedition/mods/12081)
-- [Dragonblade AQ SE](https://www.nexusmods.com/skyrimspecialedition/mods/29341)
-- [Blade of Evil's Bane SE](https://www.nexusmods.com/skyrimspecialedition/mods/28881)
-- [DX Faction Crossbows SE](https://www.nexusmods.com/skyrimspecialedition/mods/4047)
-- [Artifacts - The Tournament of the ten Bloods](https://www.nexusmods.com/skyrimspecialedition/mods/15264)
-- [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138)
+- [Radzig Longsword SE](https://www.nexusmods.com/skyrimspecialedition/mods/16059) by [johnskyrim](https://www.nexusmods.com/users/3165110)
+- [The Lionheart SE](https://www.nexusmods.com/skyrimspecialedition/mods/15076) by [johnskyrim](https://www.nexusmods.com/users/3165110)
+- [Sulfuras - The Reclaimed Hand SE](https://www.nexusmods.com/skyrimspecialedition/mods/14199) by [johnskyrim](https://www.nexusmods.com/users/3165110)
+- [Shadowmourne SE](https://www.nexusmods.com/skyrimspecialedition/mods/12081) by [johnskyrim](https://www.nexusmods.com/users/3165110)
+- [Dragonblade AQ SE](https://www.nexusmods.com/skyrimspecialedition/mods/29341) by [johnskyrim](https://www.nexusmods.com/users/3165110)
+- [Blade of Evil's Bane SE](https://www.nexusmods.com/skyrimspecialedition/mods/28881) by [johnskyrim](https://www.nexusmods.com/users/3165110)
+- [DX Faction Crossbows SE](https://www.nexusmods.com/skyrimspecialedition/mods/4047) by [DeserterX](https://www.nexusmods.com/users/3373573)
+- [Artifacts - The Tournament of the ten Bloods](https://www.nexusmods.com/skyrimspecialedition/mods/15264) by [FrankFamily](https://www.nexusmods.com/users/2531318)
+- [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138) by [Zimmermjaz](https://www.nexusmods.com/users/5756779)
 
 ### ENB: Silent Horizon
 
@@ -606,7 +617,11 @@ If you have a Titan V and more FPS than you need, check the [ENB](#enb) section 
 
 Links:
 
-- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
+- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) by [LonelyKitsune](https://www.nexusmods.com/skyrimspecialedition/users/49767351)
+
+### Aers
+
+
 
 ## In-Game MCM Options
 
