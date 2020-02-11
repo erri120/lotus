@@ -21,12 +21,11 @@
 -Poser Hotkeys Plus SSE
 -HCPoser SE - Poser Hotkeys Version
 +Where in Special Edition am I
--SLAL-AnimObjects - Merged
 +Better Quest Objectives - Merged
 +Vokrii Patches - Merged
 +MLU Patches - Merged
 +JK Patches - Merged
-+EEKs Patches - Merged
+-EEKs Patches - Merged
 +Qw - Merged
 +kryptopyr Patches - Merged
 +OCW - Merged
@@ -39,7 +38,6 @@
 +UVCPC - Umgak's Vokrii Compatibility Patch Compendium
 +JK's Skyrim - Patches
 +EEKs Immersive Whiterun - Patches
-+TAWOBA Level Lists No Chance Topless
 +MorrowLoot Ultimate - Patches
 +Wintersun - Zim's Immersive Artifacts and Book Covers Skyrim Patches
 +Spell Research - Patch Compendium
@@ -63,88 +61,57 @@
 -DynDOLOD Resources SE
 -SSE-Terrain-Tamriel
 -LODs_separator
-+ERF Succubus UUNP BodySlide Files
++ERF Succubus CBBE BodySlide Files
 +ERF Succubus Mod V1.3
 +Follower - Merged
 +Abigail The Lusty Imperial Maid V2 SE
 +Veronica The Flirty Imperial Milf SE
-+Shindara The Fire Within
++Shindara The Fire Within CBBE
+-Shindara The Fire Within
 +Lucien - Fully Voiced Follower
 +Serana Dialogue Edit - Skyrim Special Edition
 +Dawnguard Rewritten - Arvak
 -FOLLOWER_separator
-+[SSE] H2135's Fantasy Series8 BHUNP CBPC-SMP Bodyslide v1.51
--Dragon Knight [SE] - CBBE - BHUNP - BodySlide (SMP - 3BB)
--Armor - Merged
++Discord Armor - Merged
++Exclusive Outfits - Lotus
++[immyneedscake] Dint Dark Knight BDO - Rosa Cassius
++[Kirax] Vindictus Evil Lady
++BDO Boss Armor 01 - CBBE SE (SMP)
++Black Evening [SE] - CBBE BodySlide (3BB - 3BA - SMP)
+-Exclusive Outfits (see README)_separator
++Armor - Merged
++Nightshade Armor - SSE CBBE BodySlide (with Immersive Physics)
++Latex Corset -UNP and CBBE BodySlide (Physics)
++CBBE Standalone Underwear (Dyeable)
++Hunting Grounds Outfit - SSE CBBE BodySlide (with Physics)
++TAWoBA - CBBE SE Bodyslides
++The Amazing World of Bikini Armor - CBBE SE
 +Realistic Eyeglasses SE
--Ciri's Outfit (The Witcher 3) SE UNP-CBBE
--Witcher 3 Yennefer and Ciri armor HDT SMP SE V1.2
-+[NINI]_Black_Evening_Dress_UUNP_smp
-+Team TAL - Merged
-+DM BDOR Lemoria by Team TAL
-+BDOR Eclipse by Team TAL
-+DX - Merged
-+DX Witch Hunter Armor SSE - with Optional Heels Sound - Physics - UNP UNPB 7BB Seraphim DreamGirl and More
++DX Witch Hunter Armor - SSE CBBE BodySlide (with Physics)
 +DX Witch Hunter Armor - UNP
-+DX Sotteta Huntress Outfit - UNP UNPB 7BB DreamGirl Seraphim - Physics
-+DX Sotteta Huntress Outfit - UNP
-+DX Gwelda Witch Outfit SSE - UNP UNPB 7BB 7BO DreamGirl Seraphim - Physics
++DX Gwelda Witch Outfit - SSE CBBE BodySlide (with Physics)
 +DX Gwelda Witch Outfit - UNP
--DX Druid Armor SSE - Craft - Physics - UNP UNPB 7BB Seraphim DreamGirl and more
-+DX Druid Armor SSE BHUNP Bodyslide
++DX Druid Armor - CBBE SE BodySlide (with HDT-SMP cloth physics)
 +DX Druid Armor - UNP
-+DX Cassandra Apocrypha Robes SSE - UNP UNPB 7BB 7BO DreamGirl Seraphim - Physics
-+DX Cassandra Apocrypha Robes - UNP
-+DX Demon Armor SSE - UNP UNPB 7BB 7BO 7B Cleavage DreamGirl Seraphim - Physics
-+DX Demon Armor - UNP
-+DX Gwelda Vampire Outfit SSE - UNP UNPB 7BB 7BO Ecstasy DreamGirl Seraphim - Physics
++DX Gwelda Vampire Outfit - SSE CBBE BodySlide (with Physics)
 +DX Gwelda Vampire Outfit - UNP
-+DX Celes Rogue Armor SSE - UNP UNPB 7BB 7BO Bathsheba DreamGirl Seraphim - Physics
++DX Celes Rogue Armor - SSE CBBE BodySlide (with Physics)
 +DX Celes Rogue Armor - UNP
-+DX Stella Mithril Armor SSE - UNP UNPB 7BB 7BO 7B Cleavage DreamGirl - Physics
-+DX Stella Mithril Armor - UNP
-+DX Celes Mercy Outfit SSE - UNP UNPB 7BB 7BO DreamGirl Seraphim BSB - Physics
++DX Celes Mercy - CBBE SE BodySlide (with HDT-SMP cloth physics)
 +DX Celes Mercy Outfit - UNP
-+DX Spartan Bard Outfit SSE - UNP UNPB 7BB 7BO Seraphim DreamGirl - Physics
-+DX Spartan Bard Outfit - UNP
-+DX Crimson Blood Armor SSE - Physics - UNP UNPB 7BB 7BO Seraphim Bathsheba Ecstasy and more
++DX Crimson Blood Armor - SSE CBBE BodySlide
 +Crimson Blood Armor Rose Theme
 +DX Crimson Blood Armor - UNP
-+DX Ancient Draugr Outfit SSE - UNP UNPB 7BB DreamGirl Seraphim TM - Physics
-+DX Ancient Draugr Outfit - UNP TOP MODEL BBP
-+DX Gwelda Dawnguard Outfit SSE - UNP Perky UNPB 7BB DreamGirl Seraphim - Physics
++DX Gwelda Dawnguard Outfit - SSE CBBE BodySlide (with Physics)
 +DX Gwelda Dawnguard Outfit - UNP
-+DX Ursine Armor Pack SSE - UNP UNPB 7BB 7BO 7B Cleavage Top Model DreamGirl Seraphim - Physics
-+DX Ursine Armor Pack - UNP
-+DX Emfy Cleric Robes SSE - UNP Perky UNPB 7BB DreamGirl Seraphim - Physics
++Emfy Cleric Armor - Converted - CBBE - TBD - Body Sliders - NiOverrides Heels
 +DX Emfy Cleric Outfit - UNP
-+DX Merta Black Rose Armor SSE - UNP Perky UNPB 7BB DreamGirl Seraphim - Physics
-+DX Merta Black Rose Outfit - UNP
-+DX Sotteta Necromancer Outfit SSE - Physics - UNP UNPB 7BB 7BO DreamGirl Seraphim and More
-+DX Sotteta Necromancer Outfit - UNP
--DX Cassandra Frost Witch HDT-SMP Patch
-+Dx Cassandra Frost Witch Outfit SSE - UNP Perky UNPB 7BB DreamGirl Seraphim - Physics
++DX Cassandra Frost Witch Outfit - SSE CBBE BodySlide (with Physics)
 +DX Cassandra Frost Witch Outfit - UNP
-+DX Celes Nightingale Armor SSE - UNP Perky UNPB 7BB DreamGirl Seraphim - Physics
-+DX Celes Nightingale Outfit and Weapons - UNP
-+DX Tembtra Thief Outfit SSE - UNP UNPB 7BB 7BO DreamGirl Seraphim Ecstasy - Physics
-+DX Tembtra Thief Outfit - UNP
--DX Merta Assassin Armor - UNP UNPB 7BB DreamGirl Seraphim - Physics
-+Merta Assassin BHUNP Advanced CBPC Bodyslide
-+DX Merta Assassin Outfit - UNP
-+DX Daedric Reaper Armor with Theme Colors - UNP Perky UNPB 7BB DreamGirl Seraphim - Physics
-+DX Daedric Reaper Armor - UNP and MALE
--English Patch 2.28V
--Bikini Quest 2.28V Patch
--Bikini Quest 2.2 BHUNP 3BBB
-+The Amazing World of Bikini Armor SSE - Physics - UNP UNPB 7BB 7BO DreamGirl Seraphim and More
-+TheBookofUUNP - SSE UNPB meshes
-+The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
-+UNPB Spice gear 1.3
--UNP and UNPB Spice Gear Collection
-+Tiwa44 Minidresses Consolidated Plugin Only
-+Tiwa44 Minidresses Collection UNPB-BBP-SSE
--Tiwa44 Minidresses Collection UNP_BBP_SSE
+-TheBookofUUNP - SSE UNPB meshes
+-The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
++CBBE Minidresses Collection SE w Bodyslide
++CBBE Spice Gear Collection SE w Bodyslide
 +RaceMenu High Heels
 +Heels Sound 1.5 SSE
 -HDTSSE Physics High Heels Framework 1 5 97
@@ -181,23 +148,23 @@
 +Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)
 +Tempered Skins for Males - SOS Full Version
 +Schlongs of Skyrim SE
-+Feminine Khajiit Textures (Grey Cat and Leopard) [UNP]
--Feminine Khajiit Textures (Grey Cat and Leopard) [CBBE]
-+Female Dragonic Argonian Textures 4k UNP
--Female Dragonic Argonian Textures 4k CBBE
--Demoniac_Texture
-+Baka Haeun UNP
-+Demoniac_Texture UNP
--CBBE 3BBB Advanced
--CBBE 3BBB
--Caliente's Beautiful Bodies Enhancer -CBBE-
+-Feminine Khajiit Textures (Grey Cat and Leopard) [UNP]
++Feminine Khajiit Textures (Grey Cat and Leopard) [CBBE]
+-Female Dragonic Argonian Textures 4k UNP
++Female Dragonic Argonian Textures 4k CBBE
+-Baka Haeun UNP
+-Demoniac_Texture UNP
++Demoniac_Texture CBBE
++CBBE 3BBB Advanced
++Caliente's Beautiful Bodies Enhancer -CBBE-
 +CBPC - CBP Physics with Collisions
 +HDT-SMP (Skinned Mesh Physics)
 +RaceMenu
 -CHARACTER MAJOR_separator
 +Modest Elderly
 +Judgment Wenches
-+Forgotten Wenches
++Forgotten Wenches CBBE
+-Forgotten Wenches
 +Hateful Wenches
 +Deadly Wenches
 +Immersive Wenches -KS hairs- Patch_SE (KS hairs 1.5)
@@ -206,15 +173,18 @@
 -RS Children Overhaul
 -Pandorable's Serana
 +GK Serana and Valerica SE
--GK Follower Core File SE CBBE
++GK Follower Core File SE CBBE
 +GK Follower SE Core File
 +Pandorable's NPCs SE - black face fix
 +Pandorable's NPCs
 +Pandorable's NPCs - Dawnguard SE - grey face fix
 +Pandorable's NPCs - Dawnguard
 +Pandorable's NPCs - Dragonborn
++Bijin Warmaidens SE CBBE
 +Bijin Warmaidens SE
++Bijin NPCs SE CBBE
 +Bijin NPCs SE
++Bijin Wives SE CBBE
 +Bijin Wives SE
 +Bijin AIO SE for USSEP
 +The Men of Winter SSE
@@ -434,7 +404,7 @@
 +Sexlab LightMeUp
 -SL Others_separator
 +Bestial Essence SE 0.3-fftest
-+SexLabs Beastess
+-SexLabs Beastess
 +From The Deeps (redone) 2.6SE
 -SL Quests_separator
 -xazPrisonOverhaul - Patched SE v4.42
@@ -468,8 +438,8 @@
 +Creature Framework 1.1.0-pre2A-SE
 +SexLabAroused Redux V28b SSE Modified by BakaFactory
 -SexLabArousedSSE
-+ZaZ Animation Pack+ UUNP HDT V.8.0+SEREV3
--ZaZ Animation Pack+ CBBE HDT V.8.0+SEREV3
+-ZaZ Animation Pack+ UUNP HDT V.8.0+SEREV3
++ZaZ Animation Pack+ CBBE HDT V.8.0+SEREV3
 -ZAZ
 +SLAL
 +SexLabFrameworkSE_v163_BETA8
