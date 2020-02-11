@@ -565,9 +565,9 @@ This modlist includes an esp which merges some exclusive outfits and adds additi
 - [Vindictus Evil Lady](https://discordapp.com/channels/489389465433800704/637422636132990976/639861775797321758) ([Preview](https://cdn.discordapp.com/attachments/637422636132990976/639861774908260352/ezgif.com-video-to-gif.gif))
 - [BDO Dark Knight Class Armor](https://discordapp.com/channels/489389465433800704/638184370250842112/671894172181200936) ([Preview](https://streamable.com/68vsm))
 
-**You need to join the [Tavern](discord.gg/Zq9Kn7p) Discord server and get approved if you want to download the outfits! The esp can be disabled if you don't want those outfits!**
+**You need to join the [Tavern](https://discord.gg/Zq9Kn7p) Discord server and get approved if you want to download the outfits! The esp can be disabled if you don't want those outfits!**
 
-**DO NOT SHARE THE DOWNLOAD LINKS WITH ANYONE!**
+**DO NOT SHARE THE DOWNLOAD LINKS! THEY ARE EXCLUSIVE TO THE DISCORD SERVER LINKED ABOVE!**
 
 ### Weapon Mods
 
