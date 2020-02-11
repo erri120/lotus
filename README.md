@@ -209,7 +209,7 @@ Since we don't judge your fetishes, I have included [Creature Framework](https:/
 
 [Devious Devices](https://www.loverslab.com/files/file/5878-devious-devices-se-beta/) sadly does not work for SSE **yet**, but once that is around, it will of course be included.
 
-[ZAZ](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/) is a requirement for other mods and I have included the [ZAZ 8.0+ UUNP HDT Rev3](https://mega.nz/#!7ZQjmABY!5slFVs_5YB7DphHCrd2m1nzDTiIwpFoLyRKq6WUt6ek) version.
+[ZAZ](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/) is a requirement for other mods and I have included the [ZAZ 8.0+ CBBE HDT Rev3](https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I) version.
 
 Links:
 
@@ -219,7 +219,7 @@ Links:
 - [Creature Framework SE 1.0.1](https://www.loverslab.com/files/file/5462-creature-framework-se/)
 - [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
 - [ZAZ Animation Packs for SE 1.0.0](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
-- [ZAZ 8.0+ UUNP HDT Rev3](https://mega.nz/#!7ZQjmABY!5slFVs_5YB7DphHCrd2m1nzDTiIwpFoLyRKq6WUt6ek)
+- [ZAZ 8.0+ CBBE HDT Rev3](https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
 
 ### BakaFactory
 
@@ -241,7 +241,6 @@ Links:
 
 - [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
 - [ZAZ Animation Packs for SE 1.0.0](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
-- [ZAZ 8.0+ UUNP HDT Rev3](https://mega.nz/#!7ZQjmABY!5slFVs_5YB7DphHCrd2m1nzDTiIwpFoLyRKq6WUt6ek)
 - [BakaFactory's SLAL Animation LE / SSE 3.1V](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/)
 - [Psyche Animation (LE/SSE) 1.0.5](https://www.loverslab.com/files/file/11477-psyche-animation-lesse/)
 
@@ -418,9 +417,13 @@ Links:
 
 ### Character Mods
 
+(If you have no idea what HDT-PE/HDT-SMP/BBP/TBPP or 3BBB is, read [this](https://babofactory.blogspot.com/2019/10/what-is-hdt-pe-hdt-smp-bbp-tbbp-3bbb.html) article by [BakaFactory](#bakafactory))
+
 Since the dawn of mankind we've asked the question: _CBBE or UNP?_
 
-(If you have no idea what HDT-PE/HDT-SMP/BBP/TBPP or 3BBB is, read [this](https://babofactory.blogspot.com/2019/10/what-is-hdt-pe-hdt-smp-bbp-tbbp-3bbb.html) article by [BakaFactory](#bakafactory))
+Short answer: I went with [CBBE 3BBB Advanced](https://www.loverslab.com/files/file/11063-cbbe-3bbb-advanced/).
+
+Long answer: Maybe Ill write one later. This was the hardest decision to make for the Modlist and I could go into great detail and trace back all steps that lead to this decision but I don't think anyone wanna read that.
 
 [XMPSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988), [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224) and [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872) are of course installed and configured. For textures I used [Demoniac](https://www.nexusmods.com/skyrimspecialedition/mods/19355), [Female Dragonic Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/1442) and [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183).
 
@@ -428,6 +431,7 @@ The dudes were not left alone either! [Schlongs of Skyrim](https://www.loverslab
 
 Links:
 
+- [CBBE 3BBB Advanced](https://www.loverslab.com/files/file/11063-cbbe-3bbb-advanced/)
 - [CBPC - CBP Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224)
 - [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
 - [Demoniac- High Quality Glossy Female Body Texture 8K 4K 2K - SE](https://www.nexusmods.com/skyrimspecialedition/mods/19355)
