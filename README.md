@@ -567,6 +567,8 @@ This modlist includes an esp which merges some exclusive outfits and adds additi
 
 **You need to join the [Tavern](discord.gg/Zq9Kn7p) Discord server and get approved if you want to download the outfits! The esp can be disabled if you don't want those outfits!**
 
+**DO NOT SHARE THE DOWNLOAD LINKS WITH ANYONE!**
+
 ### Weapon Mods
 
 Most used weapon mods came from [johnskyrim](https://www.nexusmods.com/skyrimspecialedition/users/3165110). Those are:
