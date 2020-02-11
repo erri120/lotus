@@ -37,6 +37,7 @@
   - [Followers](#followers)
   - [Music](#music)
   - [Cathedral Mods](#cathedral-mods)
+  - [Outfit Mods](#outfit-mods)
   - [Weapon Mods](#weapon-mods)
   - [ENB: Silent Horizon](#enb-silent-horizon)
 - [In-Game MCM Options](#in-game-mcm-options)
@@ -75,6 +76,7 @@
   - [Animations](#animations)
     - [SLAL Animations](#slal-animations)
     - [Normal Animations](#normal-animations)
+  - [Outfits](#outfits)
   - [ENB](#enb)
 - [Tweaking Performance](#tweaking-performance)
   - [Tweaking the ENB](#tweaking-the-enb)
@@ -530,6 +532,29 @@ Links:
 - [8K Night Skies - Stars and Galaxies - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/20301)
 - [Cathedral Water Overhaul - Includes Water Edge Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/22962)
 
+### Outfit Mods
+
+(read [Character Mods](#character-mods) first)
+
+There are way too many outfit mods out there. This is also highly subjective and you can always just change outfits you don't like (see [Outfits](#outfits) section).
+
+The most prominent outfit authors in this setup are of course [DeserterX](https://www.nexusmods.com/skyrimspecialedition/users/3373573) and [docteure](https://www.nexusmods.com/skyrimspecialedition/users/43643027) + [Jeir](https://www.nexusmods.com/users/84177) ([Patreon](https://www.patreon.com/docteur87andJeir)). Highly recommend you follow them and leave an endorsement on their mods.
+
+For vanilla outfits I used the BodySlide files that come with [CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/198) and added the converted [Spice Gear Collection](https://www.nexusmods.com/skyrim/mods/68028) and [Minidress Collection](https://www.nexusmods.com/skyrim/mods/47376) by [tiwa44](https://www.nexusmods.com/users/3347902). The CBBE conversion can be found [here](https://www.nexusmods.com/skyrimspecialedition/mods/16321) and [here](https://www.nexusmods.com/skyrimspecialedition/mods/16322), made by [Gigist](https://www.nexusmods.com/users/16558474).
+
+I like the Spice Gear + Minidress Collections because it a good middle between slutty and boring vanilla and serves as a nice baseline to build upon.
+
+And boi do we go slutty with the next one: [The Amazing World of Bikini Armor](https://www.nexusmods.com/skyrimspecialedition/mods/9547) originally by made by [NiseTanaka](https://www.nexusmods.com/skyrim/users/1575830) ([Original Oldrim mod](https://www.nexusmods.com/skyrim/mods/83383)) and converted by [Daymarr](https://www.nexusmods.com/skyrimspecialedition/users/8194845) to CBBE SE.
+
+[Realistic Eyeglasses](https://www.nexusmods.com/skyrimspecialedition/mods/11807) is a mod which I always want to add but never find for some reason. Whenever I start a new modding setup for Skyrim and start downloading outfits, I always look forward to getting this mod but forget the name once I actually search for it. Anyways, those are the best eyeglasses you will find on Nirn. Do they fit this Modlist? Maybe. I fucking love them so deal with it.
+
+Links:
+
+- [DeserterX on Nexus mods](https://www.nexusmods.com/users/3373573)
+- [docteure on Nexus mods](https://www.nexusmods.com/users/43643027)
+- [Jeir on Nexus Mods](https://www.nexusmods.com/users/84177)
+- [docteure and Jeir on Patreon](https://www.patreon.com/docteur87andJeir)
+
 ### Weapon Mods
 
 Most used weapon mods came from [johnskyrim](https://www.nexusmods.com/skyrimspecialedition/users/3165110). Those are:
@@ -976,6 +1001,8 @@ Simply install them and re-run FNIS. If the animations come with an ESP, than yo
 #### Normal Animations
 
 Simply install the new animations and re-run FNIS. You might want to take a look at [FNIS PCEA2](https://www.nexusmods.com/skyrimspecialedition/mods/13281) if you want those new animations to be player exclusive.
+
+### Outfits
 
 ### ENB
 
