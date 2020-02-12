@@ -106,9 +106,9 @@ Now for real: If you want a fully featured and functional Modlist that is playab
 
 ### System Specs
 
-CPU: >= 7th gen Intel processor OR >= AMD Ryzen 3000 series processor
-GPU: >= 1060, you need at least 6GB of VRAM
-RAM: >= DDR4 with at least 16GBs
+- CPU: >= 7th gen Intel processor OR >= AMD Ryzen 3000 series processor
+- GPU: >= 1060, you need at least 6GB of VRAM
+- RAM: >= DDR4 with at least 16GBs
 
 Everything should be installed on an SSD that has at least 256GB of space available.
 
@@ -157,9 +157,9 @@ Start the game and exit once you're in the main menu.
 
 #### Preparations
 
-Let's get to the actual installation. Grab the latest release from [GitHub](https://github.com/erri120/lotus/releases). You will find `Lotus.wabbajack`, `CHANGELOG.pdf` and `README.pdf`.
+Let's get to the actual installation. Grab the latest release from [GitHub](https://github.com/erri120/lotus/releases).
 
-Download the release to a _working folder_. This folder **must not** be in _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
 
@@ -189,7 +189,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Updating
 
-If this Modlist receives an update, than you should check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+If this Modlist receives an update, check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
