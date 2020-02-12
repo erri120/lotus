@@ -7,7 +7,6 @@ There are **a lot** and I mean **a metric fuck ton** of ways you can contribute 
   - [Issues](#issues)
   - [CharGen Presets](#chargen-presets)
 - [Documentation](#documentation)
-- [Scripts](#scripts)
 
 ## Modlist
 
@@ -103,22 +102,3 @@ other branch:
 Push the new changes on your fork to GitHub:
 
 `git push`
-
-## Scripts
-
-This section is not about any Papyrus Scripts but about the test and build scripts of this Modlist. The schooled eye might have seen that this repo contains various files you would normally find in a nodejs repo. I use [Jest](https://jestjs.io/) for testing and [gulp.js](https://gulpjs.com/) for the build process.
-
-I **highly recommend** [Visual Studio Code](https://code.visualstudio.com/) if you want to edit any scripts here.
-
-The jest-test [README.test.js](README.test.js) tests all links in the [README](README.md) and checks if those are alive (return value should either be `200`: OK or `402`: Redirect also meaning OK).
-
-The build pipeline is in the [gulpfile.js](gulpfile.js):
-
-1) Run tests
-2) clean the output `out/`
-3) zip all submitted user-content `user-submitted-content/`
-4) convert all markdown files to pdf using [markdown-pdf](https://github.com/alanshaw/markdown-pdf)
-5) zip all files from `temp/*` and `in/*` to `out/Lotus.zip`
-6) clean temp folder
-
-Do note that the markdown file is first converted to HTML, then pushed into the HTML5 Boilerplate `index.html`. Phantomjs renders the page and saves it to a PDF. [css.css](css.css) is the stylesheet for `index.html` so you can also change that if you want.
