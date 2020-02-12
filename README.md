@@ -43,31 +43,32 @@
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
   - [AGO](#ago)
-  - [Follower Framework](#follower-framework)
-  - [Growl Werebeasts](#growl-werebeasts)
+  - [Bestial Essence](#bestial-essence)
+  - [Blush When Aroused](#blush-when-aroused)
+  - [CBBE 3BBB Addon](#cbbe-3bbb-addon)
   - [FNIS PCEA2](#fnis-pcea2)
+  - [Follower Framework](#follower-framework)
+  - [Forgotten Wenches](#forgotten-wenches)
+  - [Growl Werebeasts](#growl-werebeasts)
+  - [Hateful Wenches](#hateful-wenches)
+  - [Judgment Wenches](#judgment-wenches)
   - [Quick Light](#quick-light)
   - [Sacrosanct Vampires](#sacrosanct-vampires)
+  - [Schlongs of Skyrim](#schlongs-of-skyrim)
   - [Sky UI](#sky-ui)
-  - [Storm Lightning](#storm-lightning)
   - [SSSO](#ssso)
+  - [Storm Lightning](#storm-lightning)
   - [TK Dodge](#tk-dodge)
   - [Ultimate Combat](#ultimate-combat)
+  - [WetFunction Redux](#wetfunction-redux)
   - [Wildcat Combat](#wildcat-combat)
   - [XPMSE](#xpmse)
   - [SexLab](#sexlab)
   - [SexLab Aroused](#sexlab-aroused)
   - [Radiant Prostitution](#radiant-prostitution)
-  - [Schlongs of Skyrim](#schlongs-of-skyrim)
-  - [Defeat](#defeat)
-  - [Forgotten Wenches](#forgotten-wenches)
-  - [Hateful Wenches](#hateful-wenches)
-  - [Judgment Wenches](#judgment-wenches)
   - [Sexlab Deadly Drain](#sexlab-deadly-drain)
   - [SL Anim Loader](#sl-anim-loader)
-  - [Blush When Aroused](#blush-when-aroused)
-  - [WetFunction Redux](#wetfunction-redux)
-  - [Bestial Essence](#bestial-essence)
+  - [Defeat](#defeat)
   - [Spell Research](#spell-research)
 - [Adding more Mods](#adding-more-mods)
   - [Textures](#textures)
@@ -639,6 +640,64 @@ Enable/Disable
 
 *Persistent Arrows* - `Disabled`
 
+### Bestial Essence
+
+**Settings**:
+
+*Controller Vibration During Sex* - `Disabled`
+
+(If you don't want Creature animations use the `Fade to Black During Sex` options or don't play this quest)
+
+### Blush When Aroused
+
+**General**:
+
+Compatibility
+
+*SexLab Aroused Redux* - `Enabled`
+
+**Cause and Effect**:
+
+Player
+
+*Nakedness* - `Enabled`
+
+NPCs
+
+*Nakedness* - `Enabled`
+
+**Exceptions**:
+
+Player types
+
+*Victims blush* - `Enable`
+
+NPC types
+
+*Victims blush* - `Enable`
+
+### CBBE 3BBB Addon
+
+Player Use Set
+
+*Player Use Slot*: `60 - Devious Devices Compatible`
+
+You can either use a hotkey (`Numpad -` by default) or a spell to toggle the Physics for the player.
+
+*Add Player 3BBB Physics Toggle Spell*: `Enable`
+
+Exit the MCM, go to your Spells Menu and use `3BBB Physics Toggle - Player`
+
+### FNIS PCEA2
+
+**Available Animation Collections**:
+
+*Female* - `Enable` if player character is female
+
+*Male* - `Enable` if player character is male
+
+Click `Refresh PCEA2 animations NOW`, exit and reopen the MCM.
+
 ### Follower Framework
 
 **Activity**:
@@ -667,21 +726,35 @@ Hotkeyed Abilities
 
 *Followers Attack* - `F2`
 
+### Forgotten Wenches
+
+**Forgotten Configuration**:
+
+Ondeath Summon Chance
+
+*Forgotten Wench Spawn* - `25% Chance`
+
 ### Growl Werebeasts
 
 **Features**:
 
 *Invulnerable During Transformation* - `Enabled`
 
-### FNIS PCEA2
+### Hateful Wenches
 
-**Available Animation Collections**:
+**Hateful Configuration**:
 
-*Female* - `Enable` if player character is female
+Summon Undead Wench Spell
 
-*Male* - `Enable` if player character is male
+*Draugrs* - `20%`
 
-Click `Refresh PCEA2 animations NOW`, exit and reopen the MCM.
+### Judgment Wenches
+
+**Judgment Configuration**:
+
+Judgment Wenches spawn chance.
+
+*Judgment Wench* - `20%`
 
 ### Quick Light
 
@@ -693,7 +766,7 @@ Click `Refresh PCEA2 animations NOW`, exit and reopen the MCM.
 
 *Set light key* - `ESC`
 
-*Long press time for activate key* - `2.0s`
+*Long press time for activate key* - `1.5s`
 
 ### Sacrosanct Vampires
 
@@ -701,15 +774,31 @@ Click `Refresh PCEA2 animations NOW`, exit and reopen the MCM.
 
 *Fortitude*: `Disable`
 
+### Schlongs of Skyrim
+
+**General Settings**:
+
+Global Settings
+
+*SOS Potions* - `Disabled`
+
 ### Sky UI
 
-(Sky UI keeps bitching about the menu sfw being outdated. This can be ignored and disabled.)
+(Sky UI keeps bitching about the map sfw being outdated. This can be ignored and disabled.)
 
 **Advanced**:
 
 SWF Version Checking
 
 *Map Menu*: `Disable`
+
+### SSSO
+
+*Rotating Automatic Save* - `Enabled`
+
+*Auto Save Count* - `5 Slots`
+
+*Delay Before Exit Game* - `7 Seconds` (might be set higher if you have a slow drive)
 
 ### Storm Lightning
 
@@ -720,14 +809,6 @@ Click `Realistic`
 **Advanced**:
 
 *Compatibility Mode* - `Enabled`
-
-### SSSO
-
-*Rotating Automatic Save* - `Enabled`
-
-*Auto Save Count* - `5 Slots`
-
-*Delay Before Exit Game* - `7 Seconds` (might be set higher if you have a slow drive)
 
 ### TK Dodge
 
@@ -757,11 +838,17 @@ Locational Damage
 
 *Locational Damage Effect* - `Disabled`
 
-**NPC Setting**:
+### WetFunction Redux
 
-NPC
+**Visuals**:
 
-*Dodge* - `Middle`
+Texture effects
+
+Disable everything except `Body - Sweat`
+
+Texture swapping - female
+
+Disable everything except `Body (specular)`
 
 ### Wildcat Combat
 
@@ -782,14 +869,6 @@ NPC
 **Timed Block**:
 
 *Disable Timed Block* - `Enabled`
-
-**Difficulty**:
-
-*Allow Wildcat to Manage Difficulty* - `Enabled`
-
-*Expert - Damage Dealt*: `x2.00`
-
-*Expert - Damage Taken*: `x2.00`
 
 ### XPMSE
 
@@ -861,48 +940,6 @@ Reward Settings
 
 *Male PC Gold Bonus* - `40`
 
-### Schlongs of Skyrim
-
-**General Settings**:
-
-Global Settings
-
-*SOS Potions* - `Disabled`
-
-### Defeat
-
-**General Settings**:
-
-Click `Mod Status - Disabled`
-
-Close the MCM and wait for the message `Defeat: Installed` and reopen the MCM.
-
-Click `Import settings`.
-
-### Forgotten Wenches
-
-**Forgotten Configuration**:
-
-Ondeath Summon Chance
-
-*Forgotten Wench Spawn* - `25% Chance`
-
-### Hateful Wenches
-
-**Hateful Configuration**:
-
-Summon Undead Wench Spell
-
-*Draugrs* - `20%`
-
-### Judgment Wenches
-
-**Judgment Configuration**:
-
-Judgment Wenches spawn chance.
-
-*Judgment Wench* - `25%`
-
 ### Sexlab Deadly Drain
 
 (If you don't want to use this Mod, Disable it in the MCM)
@@ -915,18 +952,6 @@ Draining
 
 *Draining is a crime* - `Enable` (can be Disabled if you want)
 
-Sliders and Hotkeys
-
-(I like to disable most of the hotkeys)
-
-*Toggle Physical Drain Hotkey* - `ESC`
-
-*Sink fangs in to victim (back)* - `ESC`
-
-*Sink fangs in to victim (front)* - `ESC`
-
-*Kiss your victim* - `ESC`
-
 ### SL Anim Loader
 
 **General Options**:
@@ -937,47 +962,15 @@ Click `Register Animations`
 
 Wait in the MCM until you receive the Completed message
 
-### Blush When Aroused
+### Defeat
 
-**General**:
+**General Settings**:
 
-Compatibility
+Click `Mod Status - Disabled`
 
-*SexLab Aroused Redux* - `Enabled`
+Close the MCM and wait for the message `Defeat: Installed` and reopen the MCM.
 
-**Cause and Effect**:
-
-Player
-
-*Nakedness* - `Enabled`
-
-NPCs
-
-*Nakedness* - `Enabled`
-
-**Exceptions**:
-
-Player types
-
-*Victims blush* - `Enable`
-
-NPC types
-
-*Victims blush* - `Enable`
-
-### WetFunction Redux
-
-**VMisc**:
-
-Click `Import settings`
-
-### Bestial Essence
-
-**Settings**:
-
-*Controller Vibration During Sex* - `Disabled`
-
-(If you don't want Creature animations use the `Fade to Black During Sex` options or don't play this quest)
+Click `Import settings`.
 
 ### Spell Research
 
