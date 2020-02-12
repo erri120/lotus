@@ -40,7 +40,6 @@
   - [Exclusive Outfits](#exclusive-outfits)
   - [Weapon Mods](#weapon-mods)
   - [ENB: Silent Horizon](#enb-silent-horizon)
-  - [Aers](#aers)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
   - [AGO](#ago)
@@ -439,7 +438,7 @@ Links:
 
 - [CBBE 3BBB Advanced](https://www.loverslab.com/files/file/11063-cbbe-3bbb-advanced/) by Acro: [Nexus Mods](https://www.nexusmods.com/users/14635849), [LL](https://www.loverslab.com/profile/510660-acro748/)
 - [CBPC - CBP Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224) by [Shizof](https://www.nexusmods.com/users/1201660)
-- [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872) original by HydrogensaysHDT: [Nexus Mods](https://www.nexusmods.com/users/3701232), [GitHub](https://github.com/HydrogensaysHDT), [LL](https://www.loverslab.com/profile/100850-hydrogensayshdt/) and updated by [aers](#aers)
+- [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872) original by HydrogensaysHDT: [Nexus Mods](https://www.nexusmods.com/users/3701232), [GitHub](https://github.com/HydrogensaysHDT), [LL](https://www.loverslab.com/profile/100850-hydrogensayshdt/) and updated by [aers](https://www.nexusmods.com/users/2025634)
 - [Demoniac- High Quality Glossy Female Body Texture 8K 4K 2K - SE](https://www.nexusmods.com/skyrimspecialedition/mods/19355) original by [regenbot03](https://www.nexusmods.com/users/27578610), ported by Rektas: [Patreon](https://www.patreon.com/Rektas), [Twitter](https://twitter.com/s1kkha), [Nexus Mods](https://www.nexusmods.com/users/26327699) (inactive), [Tumblr](https://s1kkha.tumblr.com/)
 - [Female Dragonic Argonian Textures 4k - 2k(CBBE and UNP)](https://www.nexusmods.com/skyrimspecialedition/mods/1442) by [ChaserTech](https://www.nexusmods.com/users/8205044)
 - [Feminine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/183) by [MONSTERaider](https://www.nexusmods.com/users/1630457)
@@ -615,10 +614,6 @@ If you have a Titan V and more FPS than you need, check the [ENB](#enb) section 
 Links:
 
 - [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) by [LonelyKitsune](https://www.nexusmods.com/skyrimspecialedition/users/49767351)
-
-### Aers
-
-
 
 ## In-Game MCM Options
 
