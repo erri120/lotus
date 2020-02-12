@@ -31,6 +31,7 @@
   - [Combat - Magic](#combat---magic)
   - [EnaiSiaion](#enaisiaion)
   - [Skills, Perks and More](#skills-perks-and-more)
+  - [Quest Mods](#quest-mods)
   - [Character Mods](#character-mods)
   - [NPC Retextures](#npc-retextures)
   - [Followers](#followers)
@@ -420,6 +421,31 @@ Links:
 - [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910) by [EnaiSiaion](#enaisiaion)
 - [Special Perks from Questing (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/29402) by [AlanPaul](https://www.nexusmods.com/users/22933884)
 - [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) by [z4x](https://www.nexusmods.com/users/1205545)
+
+### Quest Mods
+
+Aside from the quest mods mentioned in [SL Gameplay](#sexlab---gameplay), there are some _normal_ quests you can play through. The biggest one being [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). I don't think I need to explain why that mod is included in this setup.
+
+Aside from Lotd you get the continuation of one of my favorites quest mods for Oblivion: [Maids 2](https://www.nexusmods.com/skyrimspecialedition/mods/189).
+
+[Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) is the dwemer quest mod in this setup and [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) will give you a nice player home and some spooky events.
+
+The vanilla quests are not being left alone: The _For Good Guys_ lineup with [Dark Brotherhood for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/519), [Thieves Guild For Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/10745), [Namira for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/336) and [Boethiah for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/329) is included as well.
+
+To round out our assortment of quests you get [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) for a large number of localized radiant quests and [MLU](https://www.nexusmods.com/skyrimspecialedition/mods/3058) for those nice rewards.
+
+Links:
+
+- [Legacy of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+- [Maids II - Deception](https://www.nexusmods.com/skyrimspecialedition/mods/189)
+- [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301)
+- [Clockwork (SSE)](https://www.nexusmods.com/skyrimspecialedition/mods/4155)
+- [Dark Brotherhood for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/519)
+- [Thieves Guild For Good Guys - Taking Care of Business Redux](https://www.nexusmods.com/skyrimspecialedition/mods/10745)
+- [Namira for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/336)
+- [Boethiah for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/329)
+- [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576)
+- [MorrowLoot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058)
 
 ### Character Mods
 
