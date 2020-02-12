@@ -1011,6 +1011,12 @@ Simply install the new animations and re-run FNIS. You might want to take a look
 
 ### Outfits
 
+Another category of mods you can easily add to this setup. You only have to make sure that the outfits fit the character body (see [Character Mods](#character-mods)). It's also a good idea to find BodySlide files for that outfit so you can customize it.
+
+Install the outfit and, optionally but highly recommended, merge the outfit in the `Armor - Merged` merge. Use the `Merge Plugins Hide` to activate all plugins from that merge, open zMerge, add the esp to the merge and rebuild it. Make sure you disable all plugins with `Merge Plugin Hide` when you're finished.
+
+I recommend you take a look at [this](https://www.patreon.com/file?h=21212492&i=3571021) PDF if you want to fully integrate the outfit into the setup. If the outfit contains high heels, check out [Heels Sound](https://www.loverslab.com/files/file/1795-heels-sound/) and change the Footstep Set of the Armor Addon to `AngelFSTHeelsFootstepSet`.
+
 ### ENB
 
 The weather mod used in this Modlist is [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791) and the lighting mods are [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830) (see [Cathedral Mods](#cathedral-mods)) and [Enhanced Lighting for ENB (ELE)](https://www.nexusmods.com/skyrimspecialedition/mods/1377). If you want to swap out the ENB, make sure that it is compatible with Cathedral Weathers and looks somewhat decent with Luminosity and ELE. You could try and swap the those two mods with any other weather + lighting mod but this may disrupt the visual consistency that the entire Cathedral lineup has.
