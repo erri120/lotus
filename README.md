@@ -69,7 +69,6 @@
   - [Blush When Aroused](#blush-when-aroused)
   - [WetFunction Redux](#wetfunction-redux)
   - [Bestial Essence](#bestial-essence)
-  - [Beastess](#beastess)
   - [Spell Research](#spell-research)
 - [Adding more Mods](#adding-more-mods)
   - [Textures](#textures)
@@ -984,20 +983,6 @@ Click `Import settings`
 *Controller Vibration During Sex* - `Disabled`
 
 (If you don't want Creature animations use the `Fade to Black During Sex` options or don't play this quest)
-
-### Beastess
-
-(Skip this step if you don't want bestiality in your game or you just don't wanna use this mod)
-
-**Beastess Setup**:
-
-Enable or Disable Mod
-
-Click `Enable or Disable Mod` then click `Accept`
-
-Close the MCM and wait for a message that begins `You feel a dark power...`
-
-Click `Ok`
 
 ### Spell Research
 
