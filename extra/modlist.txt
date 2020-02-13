@@ -80,13 +80,13 @@
 +Black Evening [SE] - CBBE BodySlide (3BB - 3BA - SMP)
 -Exclusive Outfits (see README)_separator
 +Armor - Merged
++Realistic Eyeglasses SE
 +Nightshade Armor - SSE CBBE BodySlide (with Immersive Physics)
 +Latex Corset -UNP and CBBE BodySlide (Physics)
 +CBBE Standalone Underwear (Dyeable)
 +Hunting Grounds Outfit - SSE CBBE BodySlide (with Physics)
 +TAWoBA - CBBE SE Bodyslides
 +The Amazing World of Bikini Armor - CBBE SE
-+Realistic Eyeglasses SE
 +DX Witch Hunter Armor - SSE CBBE BodySlide (with Physics)
 +DX Witch Hunter Armor - UNP
 +DX Gwelda Witch Outfit - SSE CBBE BodySlide (with Physics)
@@ -354,6 +354,7 @@
 +Reflection - Level Up Messages
 +Timing is Everything SE
 +Better Skill and Quest Books Names SE
++To Your Face SE and VR
 -GAMEPLAY - MINOR_separator
 +Spell Research
 +Mysticism - Vokrii and Immersive Sounds Compendium Combined Patch
@@ -507,6 +508,7 @@
 -Lucidity Sound FX SSE
 +Unofficial High Definition Audio Project
 -AUDIO_separator
++Fix Note icon for SkyUI (SKSE64 plugin)
 +Sound Hammering Sounds
 +Raven Rock - Fix Exit on Horseback
 -Point The Way
@@ -533,7 +535,8 @@
 +SSE Engine Fixes (skse64 plugin)
 +(SKSE64) Havok Fix
 -Cutting Room Floor
-+USSEP Patch ESL
+-USSEP Patch ESL
++Purist's Vanilla Patch
 +Unofficial Skyrim Special Edition Patch
 -ESSENTIALS_separator
 +performance optimized textures for SSE
