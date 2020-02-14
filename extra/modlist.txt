@@ -11,7 +11,7 @@
 -[OUTPUT] DynDOLOD
 -[OUTPUT] TexGen
 -[OUTPUT] xLODGen
-+[OUTPUT] Creation Kit
+-[OUTPUT] Creation Kit
 +[Lotus] MCM Options, Configs and more
 -OUTPUTS_separator
 +User Submitted Content
@@ -74,10 +74,10 @@
 -FOLLOWER_separator
 +Discord Armor - Merged
 +Exclusive Outfits - Lotus
-+[immyneedscake] Dint Dark Knight BDO - Rosa Cassius
-+[Kirax] Vindictus Evil Lady
-+BDO Boss Armor 01 - CBBE SE (SMP)
-+Black Evening [SE] - CBBE BodySlide (3BB - 3BA - SMP)
+-[immyneedscake] Dint Dark Knight BDO - Rosa Cassius
+-[Kirax] Vindictus Evil Lady
+-BDO Boss Armor 01 - CBBE SE (SMP)
+-Black Evening [SE] - CBBE BodySlide (3BB - 3BA - SMP)
 -Exclusive Outfits (see README)_separator
 +Armor - Merged
 +Realistic Eyeglasses SE
@@ -420,8 +420,6 @@
 +SpousesEnhanced
 +SexLab Solutions v3 - Revisited SE v1.0.2
 -SL Gameplay_separator
--Babo Human 2019.09.08 SE
--Babo Creature 2019.09.08 SE
 +PsycheAnimation SE 1.0.5V
 +Babo Human 2019.11.08 SE
 +Babo Creature 2019.12.10 SE
@@ -541,7 +539,7 @@
 -ESSENTIALS_separator
 +performance optimized textures for SSE
 +SKSE INI
-+CK Scripts
+-CK Scripts
 +SKSE64 Scripts
 +Cleaned Vanilla ESMs
 *DLC: Dawnguard
