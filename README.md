@@ -189,6 +189,10 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ### Post-Installation
 
+Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
+
+Copy the contents of `Game Folder Files` to your game folder.
+
 ## Updating
 
 If this Modlist receives an update, check the Changelog before doing anything. Always backup your saves or start a new game after updating.
