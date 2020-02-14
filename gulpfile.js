@@ -45,4 +45,4 @@ function cleanTemp(cb) {
 }
 
 exports.testPDF = series(makePDF);
-exports.build = series(runTest, cleanOutput, zipUserContent, makePDF, zipModlist, cleanTemp);
+exports.build = series(cleanOutput, zipUserContent, makePDF, zipModlist, cleanTemp);
