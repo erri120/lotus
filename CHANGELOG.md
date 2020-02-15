@@ -19,6 +19,7 @@ Update hoping to fix the SLF download.
 - Fixed Issue #12
 - Fixed Issue #13
 - Fixed Issue #15
+- Updated BakaFactory ABCs to 1.40V
 
 ## 0.0.1: Initial Release
 
