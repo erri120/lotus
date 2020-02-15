@@ -11,7 +11,7 @@
 -[OUTPUT] DynDOLOD
 -[OUTPUT] TexGen
 -[OUTPUT] xLODGen
--[OUTPUT] Creation Kit
++[OUTPUT] Creation Kit
 +[Lotus] MCM Options, Configs and more
 -OUTPUTS_separator
 +User Submitted Content
@@ -72,8 +72,8 @@
 +Serana Dialogue Edit - Skyrim Special Edition
 +Dawnguard Rewritten - Arvak
 -FOLLOWER_separator
-+Discord Armor - Merged
-+Exclusive Outfits - Lotus
+-Discord Armor - Merged
+-Exclusive Outfits - Lotus
 -[immyneedscake] Dint Dark Knight BDO - Rosa Cassius
 -[Kirax] Vindictus Evil Lady
 -BDO Boss Armor 01 - CBBE SE (SMP)
@@ -108,8 +108,6 @@
 +DX Emfy Cleric Outfit - UNP
 +DX Cassandra Frost Witch Outfit - SSE CBBE BodySlide (with Physics)
 +DX Cassandra Frost Witch Outfit - UNP
--TheBookofUUNP - SSE UNPB meshes
--The Book of UUNP Volumes 1 2 and 3 - UNP - Sevenbase - UNPB
 +CBBE Minidresses Collection SE w Bodyslide
 +CBBE Spice Gear Collection SE w Bodyslide
 +RaceMenu High Heels
@@ -324,7 +322,7 @@
 +Thieves Guild For Good Guys - Taking Care of Business Redux
 +Dark Brotherhood for Good Guys
 +Clockwork (SSE)
-+Moon and Star Replacer
++script-fix
 +Moon and Star
 +Amorous Adventures - MCM Addon
 +AmorousAdventures 3.4 SE
@@ -418,18 +416,12 @@
 +Sexlab Defeat Addon by BakaFactory 1.01V SE English
 +SL Defeat SSE
 +SpousesEnhanced
-+SexLab Solutions v3 - Revisited SE v1.0.2
++SexLab Solutions v3 - Revisited SE ESL v1.0.2
 -SL Gameplay_separator
 +PsycheAnimation SE 1.0.5V
 +Babo Human 2019.11.08 SE
 +Babo Creature 2019.12.10 SE
 -SL Animations_separator
--Deviously Helpless SE v1.17a.001 (converted by Roggvir)
--DD_DCL_New_CBBE
--DDHOTFIX
--Devious Devices runtime 1.5.97 skse 2.0.17
--Devious Devices
--DD_separator
 +BakaFactory Animated Beasts Cocks
 -HentaiCreatures_MNCv12SE2
 +MoreNastyCritters_v12_02SE
@@ -437,9 +429,7 @@
 +Creature Framework 1.1.0-pre2A-SE
 +SexLabAroused Redux V28b SSE Modified by BakaFactory
 -SexLabArousedSSE
--ZaZ Animation Pack+ UUNP HDT V.8.0+SEREV3
 +ZaZ Animation Pack+ CBBE HDT V.8.0+SEREV3
--ZAZ
 +SLAL
 +SexLabFrameworkSE_v163_BETA8
 -Skyrim - Utility Mod SE v1.40 - UIE Patch
@@ -539,7 +529,7 @@
 -ESSENTIALS_separator
 +performance optimized textures for SSE
 +SKSE INI
--CK Scripts
++CK Scripts
 +SKSE64 Scripts
 +Cleaned Vanilla ESMs
 *DLC: Dawnguard
