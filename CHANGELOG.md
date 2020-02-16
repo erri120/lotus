@@ -32,6 +32,7 @@ Removing EEK means that you will have to either start a new game (recommended) o
 - Added Relighting Skyrim
 - Fixed Issue #23
 - Updated the MO2 theme (changed the fonts)
+- Fixed Issue #17
 
 ## 0.0.2
 
