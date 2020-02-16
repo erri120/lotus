@@ -10,7 +10,7 @@
 
 **Info**:
 
-Removing EEK means that you will have to either start a new game (recommended) or load your save inside the ASLAL cell after setting up the MCM.
+A new game is absolutely required!
 
 **Changes**:
 
