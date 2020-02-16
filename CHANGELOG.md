@@ -1,7 +1,35 @@
 # Changelog
 
+- [0.1.0](#010)
 - [0.0.2](#002)
 - [0.0.1: Initial Release](#001-initial-release)
+
+## 0.1.0
+
+**Released at**: ``
+
+**Info**:
+
+Removing EEK means that you will have to either start a new game (recommended) or load your save inside the ASLAL cell after setting up the MCM.
+
+**Changes**:
+
+- Removed EEK Whiterun
+- Fixed Issue #18
+- Fixed Issue #19
+- Fixed Issue #20
+- Removed Marvelous Windhelm Gate SE
+- Removed Epic Gate of Whiterun SE
+- Removed Glorious Solitude Door SE
+- Removed Magnificent Riften Mistveil Keep Door SE
+- Removed Glorious Solitude Door Replacer SE
+- Removed Magnificent Riften Door Replacer SE
+- Removed Marvelous Windhelm Door Replacer SE
+- Removed Fortified and Animated Fort Doors SE
+- Removed Gorgeous Ruin Door SE
+- Added Glorious Doors of Skyrim (GDOS)
+- Removed Luminosity
+- Added Relighting Skyrim
 
 ## 0.0.2
 
