@@ -245,7 +245,7 @@ Links:
 Mods used:
 
 - [SexLabAroused Redux V28b SSE Modified by BakaFactory](https://drive.google.com/file/d/1SlvS2KRY6UscQisro8GEskwCCKg4Wa3G/view)
-- [Animated Beast's Cocks(ABC) For users LE / SE 1.34V](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/)
+- [Animated Beast's Cocks(ABC) For users LE / SE 1.40V](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/)
 - [BakaFactory's SLAL Animation LE / SSE 3.1V](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/)
 - [SexLab Defeat Addon by BakaFactory 1.01V SE English](https://www.patreon.com/posts/32912602)
 - [SexLab Approach Redux by BakaFactory LE / SE 1.25V](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se)
@@ -572,7 +572,6 @@ Links:
 - [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
 - [Majestic Mountains - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
 - [Landscapes - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/21954)
-- [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830)
 - [8K Night Skies - Stars and Galaxies - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/20301)
 - [Cathedral Water Overhaul - Includes Water Edge Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/22962)
 
@@ -1052,7 +1051,7 @@ I recommend you take a look at [this](https://www.patreon.com/file?h=21212492&i=
 
 ### ENB
 
-The weather mod used in this Modlist is [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791) and the lighting mods are [Luminosity Lighting Overhaul - The Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/16830) (see [Cathedral Mods](#cathedral-mods)) and [Enhanced Lighting for ENB (ELE)](https://www.nexusmods.com/skyrimspecialedition/mods/1377). If you want to swap out the ENB, make sure that it is compatible with Cathedral Weathers and looks somewhat decent with Luminosity and ELE. You could try and swap the those two mods with any other weather + lighting mod but this may disrupt the visual consistency that the entire Cathedral lineup has.
+The weather mod used in this Modlist is [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791) and the lighting mods are [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) and [Enhanced Lighting for ENB (ELE)](https://www.nexusmods.com/skyrimspecialedition/mods/1377). If you want to swap out the ENB, make sure that it is compatible with Cathedral Weathers and looks somewhat decent with RS and ELE. You could try and swap the those two mods with any other weather + lighting mod but this may disrupt the visual consistency that the entire Cathedral lineup has.
 
 Other ENBs you can use (not tested, experience may vary):
 
