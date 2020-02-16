@@ -30,6 +30,8 @@ Removing EEK means that you will have to either start a new game (recommended) o
 - Added Glorious Doors of Skyrim (GDOS)
 - Removed Luminosity
 - Added Relighting Skyrim
+- Fixed Issue #23
+- Updated the MO2 theme (changed the fonts)
 
 ## 0.0.2
 
