@@ -6,7 +6,7 @@
 
 ## 0.1.0
 
-**Released at**: ``
+**Released at**: `17.02.2020`
 
 **Info**:
 
