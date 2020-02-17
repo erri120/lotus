@@ -37,6 +37,11 @@ A new game is absolutely required!
 - You can now dodge in first person. TK Dodge overwrites AGO meaning the bow placement is vanilla but you can dodge
 - Replaced GK Serana with Pandorable's Serana
 - Updated Nether's Follower Framework to 2.6.0
+- Added The Witcher Caranthir by Rektas, TAL
+- Updated Fix Note icon for SkyUI to 1.2
+- Fixed Issue #9, again
+- Updated Amorous Adventures - MCM Addon to 3.0
+- Fixed Issue #26
 
 ## 0.0.2
 
