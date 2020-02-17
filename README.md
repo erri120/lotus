@@ -38,7 +38,6 @@
   - [Music](#music)
   - [Cathedral Mods](#cathedral-mods)
   - [Outfit Mods](#outfit-mods)
-  - [Exclusive Outfits](#exclusive-outfits)
   - [Weapon Mods](#weapon-mods)
   - [ENB: Silent Horizon](#enb-silent-horizon)
 - [In-Game MCM Options](#in-game-mcm-options)
@@ -591,30 +590,16 @@ And boi do we go slutty with the next one: [The Amazing World of Bikini Armor](h
 
 [Realistic Eyeglasses](https://www.nexusmods.com/skyrimspecialedition/mods/11807) is a mod which I always want to add but never find for some reason. Whenever I start a new modding setup for Skyrim and start downloading outfits, I always look forward to getting this mod but forget the name once I actually search for it. Anyways, those are the best eyeglasses you will find on Nirn. Do they fit this Modlist? Maybe. I fucking love them so deal with it.
 
+[Team TAL](https://www.patreon.com/takealook) puts amazing outfits from other games into Skyrim, they mostly create LE mods but their recent [(LE) The Witcher Caranthir](https://www.patreon.com/posts/le-9204-witcher-33243302) outfit got ported to SSE with SMP and BodySlide for CBBE by Rektas: [(SE) The Witcher Caranthir](https://www.patreon.com/posts/se-9204-witcher-34073570).
+
 Links:
 
 - [DeserterX on Nexus mods](https://www.nexusmods.com/users/3373573)
 - [docteure on Nexus mods](https://www.nexusmods.com/users/43643027)
 - [Jeir on Nexus Mods](https://www.nexusmods.com/users/84177)
 - [docteure and Jeir on Patreon](https://www.patreon.com/docteur87andJeir)
-
-### Exclusive Outfits
-
-This modlist includes an esp which merges some exclusive outfits and adds additional keywords to them. **Those mods are not included in this Modlist!**. The esp is called `Discord Armor - Merged.esp` and merges records of the following outfits:
-
-- [Black Evening](https://discordapp.com/channels/489389465433800704/637422636132990976/668550041656623114) ([Preview](https://cdn.discordapp.com/attachments/637422636132990976/668550041002180684/ScreenShot1713.png))
-- [BDO Boss Armor 01](https://discordapp.com/channels/489389465433800704/637422636132990976/653050481882693654) ([Preview](https://cdn.discordapp.com/attachments/637422636132990976/653050481362468864/ScreenShot1650.png))
-- [Vindictus Evil Lady](https://discordapp.com/channels/489389465433800704/637422636132990976/639861775797321758) ([Preview](https://cdn.discordapp.com/attachments/637422636132990976/639861774908260352/ezgif.com-video-to-gif.gif))
-- [BDO Dark Knight Class Armor](https://discordapp.com/channels/489389465433800704/638184370250842112/671894172181200936) ([Preview](https://streamable.com/68vsm))
-
-**You need to join the [Tavern](https://discord.gg/Zq9Kn7p) Discord server and get approved if you want to download the outfits! The esp can be disabled if you don't want those outfits!**
-
-**DO NOT SHARE THE DOWNLOAD LINKS! THEY ARE EXCLUSIVE TO THE DISCORD SERVER LINKED ABOVE!**
-
-Outfits above made by:
-
+- [Team TAL on Patreon](https://www.patreon.com/takealook)
 - Rektas: [Patreon](https://www.patreon.com/Rektas), [Twitter](https://twitter.com/s1kkha), [Nexus Mods](https://www.nexusmods.com/users/26327699) (inactive), [Tumblr](https://s1kkha.tumblr.com/)
-- immyneedscake: [Nexus Mods](https://www.nexusmods.com/users/20603424), [YouTube](https://www.youtube.com/channel/UC4-fExVL76btpJ4jt1svJ9A)
 
 ### Weapon Mods
 
