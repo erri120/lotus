@@ -34,6 +34,9 @@ A new game is absolutely required!
 - Updated the MO2 theme (changed the fonts)
 - Fixed Issue #17
 - Fixed Issue #1, again
+- You can now dodge in first person. TK Dodge overwrites AGO meaning the bow placement is vanilla but you can dodge
+- Replaced GK Serana with Pandorable's Serana
+- Updated Nether's Follower Framework to 2.6.0
 
 ## 0.0.2
 
