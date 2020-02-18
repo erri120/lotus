@@ -22,6 +22,9 @@
 - Updated Legacy of the Dragonborn to 5.0.30
 - Applied KS Hairs to BesEss NPCs
 - Added Rudy HQ - Hay SE because I saw vanilla hay and had to vomit
+- Updated Storm Lighting to 1.4.4
+- Added Project Dova-Hen
+- Added Project Dova-Hen - Alternate Chicken
 
 ## 0.1.0
 
