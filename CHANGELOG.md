@@ -20,6 +20,7 @@
 - Updated Glorious Doors of Skyrim SE to 1.02
 - Updated Nether's Follower Framework to 2.6.0b
 - Updated Legacy of the Dragonborn to 5.0.30
+- Applied KS Hairs to BesEss NPCs
 
 ## 0.1.0
 
