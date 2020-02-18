@@ -7,7 +7,7 @@
 
 ## 0.1.1
 
-**Released at**: `00.02.2020`
+**Released at**: `18.02.2020`
 
 **Info**:
 
@@ -30,6 +30,7 @@
 - Fixed more NPC black face bugs
 - Fixed broom mesh not receiving shadows (thx King and dave)
 - Converted Veronica's body and outfit to CBBE
+- Added 4k Cowhide
 
 ## 0.1.0
 
