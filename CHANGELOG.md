@@ -29,6 +29,7 @@
 - Added Rally's Brooms
 - Fixed more NPC black face bugs
 - Fixed broom mesh not receiving shadows (thx King and dave)
+- Converted Veronica's body and outfit to CBBE
 
 ## 0.1.0
 
