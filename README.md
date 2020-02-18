@@ -244,7 +244,7 @@ Links:
 Mods used:
 
 - [SexLabAroused Redux V28b SSE Modified by BakaFactory](https://drive.google.com/file/d/1SlvS2KRY6UscQisro8GEskwCCKg4Wa3G/view)
-- [Animated Beast's Cocks(ABC) For users LE / SE 1.40V](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/)
+- [Animated Beast's Cocks(ABC) For users LE / SE 1.41V](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/)
 - [BakaFactory's SLAL Animation LE / SSE 3.1V](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/)
 - [SexLab Defeat Addon by BakaFactory 1.01V SE English](https://www.patreon.com/posts/32912602)
 - [SexLab Approach Redux by BakaFactory LE / SE 1.25V](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se)
