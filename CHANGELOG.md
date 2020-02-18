@@ -25,6 +25,10 @@
 - Updated Storm Lighting to 1.4.4
 - Added Project Dova-Hen
 - Added Project Dova-Hen - Alternate Chicken
+- Updated Ultimate Combat to 3.5
+- Added Rally's Brooms
+- Fixed more NPC black face bugs
+- Fixed broom mesh not receiving shadows (thx King and dave)
 
 ## 0.1.0
 
