@@ -8,9 +8,11 @@
 
 ## 0.1.2
 
-**Released at**: ``
+**Released at**: `19.02.2020`
 
 **Info**:
+
+Mostly just a hotfix because I fucked up on some paths.
 
 **Changes**:
 
