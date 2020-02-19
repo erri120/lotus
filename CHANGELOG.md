@@ -1,15 +1,34 @@
 # Changelog
 
+- [0.1.2](#012)
 - [0.1.1](#011)
 - [0.1.0](#010)
 - [0.0.2](#002)
 - [0.0.1: Initial Release](#001-initial-release)
+
+## 0.1.2
+
+**Released at**: ``
+
+**Info**:
+
+**Changes**:
+
+- Updated FNIS XXL to 7.6
+- Updated FNIS Creatures to 7.6
+- Fixed the BodySlide paths
+- Replaced Amorous Adventures MCM esp with the esl version
+- Removed Rally's Brooms
+- Added Rally's Farming Tools (contains the Rally's Brooms textures)
+- Fixed Wenches Black Face Bug
 
 ## 0.1.1
 
 **Released at**: `18.02.2020`
 
 **Info**:
+
+Old save from `0.1.0` should be compatible.
 
 **Changes**:
 
