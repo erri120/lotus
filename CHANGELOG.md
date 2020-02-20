@@ -23,6 +23,7 @@ Added a lot of small textures by [Rallyeator](https://www.nexusmods.com/users/39
 - Added [Rally's Vampire Coffins](https://www.nexusmods.com/skyrimspecialedition/mods/21874)
 - Added [Rally's Instruments](https://www.nexusmods.com/skyrimspecialedition/mods/28193)
 - Updated [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) to 4.3.6
+- Added more memes
 
 ## 0.1.2
 
