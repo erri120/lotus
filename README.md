@@ -40,6 +40,7 @@
   - [Outfit Mods](#outfit-mods)
   - [Weapon Mods](#weapon-mods)
   - [ENB: Silent Horizon](#enb-silent-horizon)
+- [Creating your Character](#creating-your-character)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
   - [AGO](#ago)
@@ -639,6 +640,12 @@ If you have a Titan V and more FPS than you need, check the [ENB](#enb) section 
 Links:
 
 - [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) by [LonelyKitsune](https://www.nexusmods.com/skyrimspecialedition/users/49767351)
+
+## Creating your Character
+
+Using [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) you can create a stunning looking character or use one of the many presets from the [A Huge RaceMenu Preset Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30432) or user submitted content.
+
+If you don't like the idle animation open the console, click on the player and use the `player.sae idlestaticposeastart` command.
 
 ## In-Game MCM Options
 
