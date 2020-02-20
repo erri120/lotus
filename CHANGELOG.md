@@ -1,10 +1,28 @@
 # Changelog
 
+- [0.1.3](#013)
 - [0.1.2](#012)
 - [0.1.1](#011)
 - [0.1.0](#010)
 - [0.0.2](#002)
 - [0.0.1: Initial Release](#001-initial-release)
+
+## 0.1.3
+
+**Released at:** `00.02.2020`
+
+**Info**:
+
+Added a lot of small textures by [Rallyeator](https://www.nexusmods.com/users/39335975).
+
+**Changes**:
+
+- Added [I'm Walkin' Here](https://www.nexusmods.com/skyrimspecialedition/mods/27742)
+- Added [Rally's Hooks and Saws](https://www.nexusmods.com/skyrimspecialedition/mods/32652)
+- Added [Rally's Quill and Inkwell](https://www.nexusmods.com/skyrimspecialedition/mods/32496)
+- Added [Rally's Vampire Coffins](https://www.nexusmods.com/skyrimspecialedition/mods/21874)
+- Added [Rally's Instruments](https://www.nexusmods.com/skyrimspecialedition/mods/28193)
+- Updated [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) to 4.3.6
 
 ## 0.1.2
 
