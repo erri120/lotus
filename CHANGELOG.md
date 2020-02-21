@@ -27,6 +27,8 @@ Added a lot of small textures by [Rallyeator](https://www.nexusmods.com/users/39
 - More black face bug fixes
 - Updated [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980) to 1.8
 - Added, converted and fixed [Thief](https://www.loverslab.com/files/file/4027-thief/)
+- Added `[Redguard](f) - Ariana` CharGen preset
+- Hopefully fixed the CTD on opening a book by changing `bBookMenu` from `true` to `false` in the Skyrim Souls ini file (thx Velexia and trawz)
 
 ## 0.1.2
 
