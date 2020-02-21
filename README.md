@@ -22,6 +22,7 @@
   - [BakaFactory](#bakafactory)
   - [SexLab - Animations](#sexlab---animations)
   - [SexLab - Gameplay](#sexlab---gameplay)
+  - [Thief](#thief)
   - [SexLab - Others](#sexlab---others)
   - [Nomkaz](#nomkaz)
   - [3PCO](#3pco)
@@ -47,6 +48,7 @@
   - [Bestial Essence](#bestial-essence)
   - [Blush When Aroused](#blush-when-aroused)
   - [CBBE 3BBB Addon](#cbbe-3bbb-addon)
+  - [Dogma - Thief](#dogma---thief)
   - [FNIS PCEA2](#fnis-pcea2)
   - [Follower Framework](#follower-framework)
   - [Forgotten Wenches](#forgotten-wenches)
@@ -263,7 +265,7 @@ Links:
 
 ### SexLab - Gameplay
 
-All those animations and features from the frameworks need to be used somewhere. A lot of big quest mod are still not converted and it will take some time for LL to make the switch to SSE. That being said, the _biggest_ quest mod in this setup is [From The Deeps](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/). Ask innkeepers for some rumors to pick up this lovecraft-like story! [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) is also included, because it's funny. [Bestial Essence](https://www.loverslab.com/files/file/10036-bestial-essence-se/) for all beast lovers.
+All those animations and features from the frameworks need to be used somewhere. A lot of big quest mod are still not converted and it will take some time for LL to make the switch to SSE. That being said, the _biggest_ quest mods in this setup are [Thief](#thief) and [From The Deeps](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/). Ask innkeepers for some rumors to pick up From The Deeps, a lovecraft-like story! [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) is also included, because it's funny. [Bestial Essence](https://www.loverslab.com/files/file/10036-bestial-essence-se/) for all beast lovers.
 
 The vanilla quests are not being left alone! [SexLab Solutions](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) will offer additional dialog that may lead to some _interesting_ outcomes.
 
@@ -293,6 +295,38 @@ Links:
 - [Sexlab Defeat Baka Edition 1.01V LE/SE](https://www.patreon.com/posts/32912602) by [BakaFactory](#bakafactory)
 - [Sexlab Approach Redux by BakaFactory LE / SE 1.25V](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se) by [BakaFactory](#bakafactory)
 - [SexLab Deadly Drain - SSE Port 1.0.0](https://www.loverslab.com/files/file/9905-sexlab-deadly-drain-sse-port/) original mod by [Etheri](https://www.loverslab.com/profile/676057-etheri/), ported by [war11010](https://www.loverslab.com/profile/637956-war11010/)
+
+### Thief
+
+**Important notes about Thief**:
+
+I converted it from Oldrim to Special Edition. The conversion is not perfect and the author said they will port it themselves once the mod is finished. [Brewmasterhal](https://www.loverslab.com/profile/1656-brewmasterhal/) made an FAQ+Walkthrough [here](https://www.loverslab.com/topic/77152-thief/?do=findComment&comment=2820134). It is important that you read the mod page, especially the Compatibility section if you want to play this quest.
+
+**Tips when playing Thief**:
+
+- see the [Thief](#dogma---thief) MCM settings before starting the quest!
+- don't use other mods during the quest and don't start anything else. Only play this quest after you started it
+- try to always be in 3rd person during scenes
+- you often have no control in scenes so don't try slamming your head against your keyboard, just chill and enjoy the show
+- try not to clip through the characters using the camera, just set it to a position where you see everything and then chill
+
+**Tips for certain events**:
+
+(events are in spoilers so only read when you're at that point)
+
+<details>
+<summary>Drunk Effect</summary>
+The effect lasts 12hs. I highly recommend you wait 12hs after you found some clothes.
+</details>
+
+<details>
+<summary>Before you go to the prison in Riften</summary>
+This is where I had the most, or rather all CTDs. Before you go to the prison in Riften and report the crime make sure the drunk effect is not active (see the prior tip). DO NOT use the sex option when trying to get into the prison. Use the "I want to report a crime" option. Save whenever you have the chance!
+</details>
+
+Links:
+
+- [Thief](https://www.loverslab.com/files/file/4027-thief/) by [Dogma](https://www.loverslab.com/profile/1848469-dogmamods/)
 
 ### SexLab - Others
 
@@ -718,6 +752,40 @@ You can either use a hotkey (`Numpad -` by default) or a spell to toggle the Phy
 *Add Player 3BBB Physics Toggle Spell*: `Enable`
 
 Exit the MCM, go to your Spells Menu and use `3BBB Physics Toggle - Player`
+
+### Dogma - Thief
+
+**System**:
+
+*Schlongs animation* - `Enable`
+
+*Schlong size* - `Enable`
+
+*SFX* - `Disable`
+
+*Blush* - `Disable`
+
+*Squirting* - `Disable`
+
+*Fade* - `Enable`
+
+*Unequip shoes* - `Disable`
+
+*Notes by the author* - `Enable`
+
+*Sound Effects* - `New`
+
+**Thief**:
+
+Settings
+
+*Tips* - `Enable`
+
+*Achievement notifications* - `Enable`
+
+*Checkpoint Autosave* - `Disable`
+
+*Overlays* - `Disable`
 
 ### FNIS PCEA2
 
