@@ -25,6 +25,7 @@ Added a lot of small textures by [Rallyeator](https://www.nexusmods.com/users/39
 - Updated [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) to 4.3.6
 - Added more memes
 - More black face bug fixes
+- Updated [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980) to 1.8
 
 ## 0.1.2
 
