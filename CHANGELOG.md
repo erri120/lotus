@@ -1,19 +1,19 @@
 # Changelog
 
-- [0.1.3](#013)
+- [0.2.0](#020)
 - [0.1.2](#012)
 - [0.1.1](#011)
 - [0.1.0](#010)
 - [0.0.2](#002)
 - [0.0.1: Initial Release](#001-initial-release)
 
-## 0.1.3
+## 0.2.0
 
 **Released at:** `00.02.2020`
 
 **Info**:
 
-Added a lot of small textures by [Rallyeator](https://www.nexusmods.com/users/39335975).
+Added a lot of small textures by [Rallyeator](https://www.nexusmods.com/users/39335975) and brings [Thief](https://www.loverslab.com/files/file/4027-thief/) to Special Edition.
 
 **Changes**:
 
@@ -26,6 +26,7 @@ Added a lot of small textures by [Rallyeator](https://www.nexusmods.com/users/39
 - Added more memes
 - More black face bug fixes
 - Updated [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980) to 1.8
+- Added, converted and fixed [Thief](https://www.loverslab.com/files/file/4027-thief/)
 
 ## 0.1.2
 
