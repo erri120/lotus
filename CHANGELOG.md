@@ -25,10 +25,12 @@ Added a lot of small textures by [Rallyeator](https://www.nexusmods.com/users/39
 - Updated [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) to 4.3.6
 - Added more memes
 - More black face bug fixes
-- Updated [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980) to 1.8
+- Updated [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980) to 1.8.1
 - Added, converted and fixed [Thief](https://www.loverslab.com/files/file/4027-thief/)
 - Added `[Redguard](f) - Ariana` CharGen preset
 - Hopefully fixed the CTD on opening a book by changing `bBookMenu` from `true` to `false` in the Skyrim Souls ini file (thx Velexia and trawz)
+- Added [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) 4.3.6 to 4.3.7 hotfix
+- Added [Poser Hotkeys SE 1.0.0](https://www.loverslab.com/files/file/5132-poser-hotkeys-se/), [GomaPero Poses SE](https://www.loverslab.com/files/file/4917-gomapero-poses-se/) and [Shocky's Poses Pack SE 1.0.0](https://www.loverslab.com/files/file/5134-shockys-poses-pack-se/)
 
 ## 0.1.2
 
