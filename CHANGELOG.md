@@ -31,6 +31,7 @@ This is a big one. **A new game is absolutely required**. The most prominent add
 - Hopefully fixed the CTD on opening a book by changing `bBookMenu` from `true` to `false` in the Skyrim Souls ini file (thx Velexia and trawz)
 - Added [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) 4.3.6 to 4.3.7 hotfix
 - Added [Poser Hotkeys SE 1.0.0](https://www.loverslab.com/files/file/5132-poser-hotkeys-se/), [GomaPero Poses SE](https://www.loverslab.com/files/file/4917-gomapero-poses-se/) and [Shocky's Poses Pack SE 1.0.0](https://www.loverslab.com/files/file/5134-shockys-poses-pack-se/)
+- Added Expressive Facial Animations for [Female](https://www.nexusmods.com/skyrimspecialedition/mods/19181) and [Male](https://www.nexusmods.com/skyrimspecialedition/mods/19532)
 
 ## 0.1.2
 
