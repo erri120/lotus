@@ -13,7 +13,7 @@
 
 **Info**:
 
-Added a lot of small textures by [Rallyeator](https://www.nexusmods.com/users/39335975) and brings [Thief](https://www.loverslab.com/files/file/4027-thief/) to Special Edition.
+This is a big one. **A new game is absolutely required**. The most prominent additions are my conversion of [Thief](https://www.loverslab.com/files/file/4027-thief/) and the poses.
 
 **Changes**:
 
