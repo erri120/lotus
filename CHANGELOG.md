@@ -32,6 +32,9 @@ This is a big one. **A new game is absolutely required**. The most prominent add
 - Added [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) 4.3.6 to 4.3.7 hotfix
 - Added [Poser Hotkeys SE 1.0.0](https://www.loverslab.com/files/file/5132-poser-hotkeys-se/), [GomaPero Poses SE](https://www.loverslab.com/files/file/4917-gomapero-poses-se/) and [Shocky's Poses Pack SE 1.0.0](https://www.loverslab.com/files/file/5134-shockys-poses-pack-se/)
 - Added Expressive Facial Animations for [Female](https://www.nexusmods.com/skyrimspecialedition/mods/19181) and [Male](https://www.nexusmods.com/skyrimspecialedition/mods/19532)
+- Added [RUSTIC SOULGEMS](https://www.nexusmods.com/skyrimspecialedition/mods/5785)
+- Added [Rudy HQ - More Lights for ENB - Soul Gems](https://www.nexusmods.com/skyrimspecialedition/mods/22704)
+- Added [ElSopa - HD Keys](https://www.nexusmods.com/skyrimspecialedition/mods/32707)
 
 ## 0.1.2
 
