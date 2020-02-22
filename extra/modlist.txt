@@ -4,6 +4,7 @@
 +[OUTPUT] BodySlide
 -[OUTPUT] Nemesis
 +[OUTPUT] FNIS
++[OUTPUT] PoserDataGen
 +[OUTPUT] MatorSmash
 +[OUTPUT] Wrye Bash
 +[OUTPUT] zEdit
@@ -14,39 +15,34 @@
 +[OUTPUT] Creation Kit
 +[Lotus] MCM Options, Configs and more
 -OUTPUTS_separator
++Poses - Merged
++Shocky Pose Pack SE
++GomaPeroPoses_SE
++Poser Hotkeys SE
+-Poses_separator
 +User Submitted Content
--KS Hairdos SMP (BHUNP) by erri120
 +ESPs by erri120
--Poser Hotkeys Plus SSE - HC Poser module
--Poser Hotkeys Plus SSE
--HCPoser SE - Poser Hotkeys Version
 +Where in Special Edition am I
 +Better Quest Objectives - Merged
 +Vokrii Patches - Merged
 +MLU Patches - Merged
 +JK Patches - Merged
--EEKs Patches - Merged
 +Qw - Merged
 +kryptopyr Patches - Merged
 +OCW - Merged
 +Lotd Patches - Merged
--RSC - Merged
--No Snow Under The Roof - Merged
 +Misc - Merged
 +Landscape Fixes Patches - Merged
 -OTHERS_separator
 +UVCPC - Umgak's Vokrii Compatibility Patch Compendium
 +JK's Skyrim - Patches
-+EEKs Immersive Whiterun - Patches
 +MorrowLoot Ultimate - Patches
 +Wintersun - Zim's Immersive Artifacts and Book Covers Skyrim Patches
 +Spell Research - Patch Compendium
 +Interesting NPC's Imperious Patch
 +Legacy of the Dragonborn Patches (Official)
--RS Children Patch Compendium
 +kryptopyr's Patch Hub
 +QUASIPC - Qwinn's Unified Automated Self Installing Patch Compendium
--ISC - CCOR Patch
 +Cathedral Weathers - Audio Overhaul Patch for Skyrim SE patch
 +Dragonborn Presence - Discord Rich Presence
 +A Huge RaceMenu Preset Collection
@@ -80,6 +76,7 @@
 -Black Evening [SE] - CBBE BodySlide (3BB - 3BA - SMP)
 -Exclusive Outfits (see README)_separator
 +Armor - Merged
++[SE] 9204 The Witcher Caranthir by Rektas, Team TAL
 +Realistic Eyeglasses SE
 +Nightshade Armor - SSE CBBE BodySlide (with Immersive Physics)
 +Latex Corset -UNP and CBBE BodySlide (Physics)
@@ -114,7 +111,7 @@
 +Heels Sound 1.5 SSE
 -HDTSSE Physics High Heels Framework 1 5 97
 -ARMORS_separator
-+JS Weapons - Merged
+-JS Weapons - Merged
 +Blade of Evil's Bane SE
 +Dragonblade AQ SE
 +Shadowmourne SE - Johnskyrim
@@ -168,11 +165,10 @@
 +Immersive Wenches -KS hairs- Patch_SE (KS hairs 1.5)
 +Immersive Wenches
 +NPC Retexture - Merged
--RS Children Overhaul
--Pandorable's Serana
-+GK Serana and Valerica SE
-+GK Follower Core File SE CBBE
-+GK Follower SE Core File
++Pandorable's Serana
+-GK Serana and Valerica SE
+-GK Follower Core File SE CBBE
+-GK Follower SE Core File
 +Pandorable's NPCs SE - black face fix
 +Pandorable's NPCs
 +Pandorable's NPCs - Dawnguard SE - grey face fix
@@ -199,14 +195,23 @@
 +Relationship Dialogue Overhaul - RDO SE
 +Cuyima Interesting NPCs SE
 +Interesting NPCs (3DNPC) character Zora Fairchild's voice boosted
-+Interesting NPCs SE - Update v4.3.2 to v4.3.6
-+Interesting NPCs SE
++Interesting NPCs SE - 4.3.6 to 4.3.7 Hotfix
++Interesting NPCs 3DNPC SE - BSAs
 +DIVERSE SKYRIM SSE
 -Protect your People - PyP - Better NPC Protection SE
 +Critters Ain't Snitches - Animal and Monster Crime Reporting Fix
 +Diverse Dragons Collection SE (DDCse)
 -Immersive Citizens - AI Overhaul
 -NPCS_separator
++Rally's Instruments HQ
++Rally's Vampire Coffins
++Rally's Quill and Inkwell
++Rally's Hooks and Saws
++4K HQ Cowhide Yeehaw
++Rally's Farming Tools
++Project Dova-Hen - Alternate Chicken
++Project Dova-Hen SSE
++Rudy HQ - Hay SE
 +Fences of Skyrim - No more flickering fences
 +WEBS S.E
 +Immersive Dragons
@@ -243,15 +248,6 @@
 +Inferno - Fire Effects Redux
 +Embers HD
 +Smoking Torches and Candles SSE
-+Gorgeous Ruin Door SE
-+Fortified and Animated Fort Doors SE
-+Marvelous Windhelm Door Replacer SE
-+Magnificent Riften Door Replacer SE
-+Glorious Solitude Door Replacer SE
-+Magnificent Riften Mistveil Keep Door SE
-+Glorious Solitude Door SE
-+Epic Gate of Whiterun SE
-+Marvelous Windhelm Gate SE
 +Arri's Snow Elf Ruins Retexture Special Edition
 +JS Dragon Claws SE
 +SavrenX Gore
@@ -261,15 +257,15 @@
 +RUSTIC COOKING - Special Edition
 +RUGNAROK - Special Edition
 +RUSTIC WINDOWS - Special Edition
--CITIES - FARMHOUSE by Pfuscher 2.1
 +PELTAPALOOZA - Special Edition
 +The Imperial tent fix
--Tents by Pfuscher 2.4
 +8K Night Skies - Stars and Galaxies - Cathedral Concept
 +Skyrim 3D Gildergreen
 +Deadly Spell Impacts
 +FleshFX
 -GRAPHICS - MINOR_separator
++RUSTIC CLOTHING - Special Edition
++Glorious Doors of Skyrim (GDOS)
 +CC's HD Dwemer Automatons - Remastered
 +Ancient Dwemer Metal
 +CC's Enhanced Ore Veins SSE - 2K - 7.1
@@ -304,10 +300,8 @@
 +Cathedral Weathers MCM
 +Cathedral Weathers and Seasons
 +Better Dynamic Majestic Mountains
--No snow under the roof - Bug fixes v1.4
--No snow under the roof
 +Enhanced Lighting for ENB (ELE) - Special Edition
-+Luminosity Lighting Overhaul - The Cathedral Concept
++Relighting Skyrim - SSE
 +ENB Helper SE
 -GRAPHICS - MAJOR_separator
 +Relic Hunter- Guildmaster Start (Legacy and ASLAL addon)
@@ -331,14 +325,14 @@
 +Even Better Quest Objectives SE
 +MorrowLoot Ultimate
 -QUESTS_separator
--Breezehome
-+EEKs Immersive Whiterun Asset Pack
-+EEKs Immersive Whiterun - JKs Skyrim Version
 +JK's Skyrim
 +Landscape Fixes For Grass Mods - Patches
 +Landscape Fixes For Grass Mods
 +Obscure's College of Winterhold
 -LOCATIONS_separator
++Dragon Punishment for Cloud District Quips
++Daedric Punishment for Insults Related to Sweetrolls
++Divine Punishment for Mention of Arrows in the Knee
 +Outfit Switcher
 +Gildergreen Regrown
 +The Eloquent Reader - True Scholar SE Edition - Increase speech by reading book
@@ -381,14 +375,14 @@
 +Archery Gameplay Overhaul SE - Belt-Fastened Quivers
 +ABT - Merged
 +ABT SE - Arrows and Bolts Tweaks Special Edition
-+Archery Gameplay Overhaul SE
 -Know Your Enemy - Trait-based resistances and weaknesses
 +Skyrim Revamped - Complete Enemy Overhaul
 -The Ultimate Dodge Mod
 +Wildcat - Combat of Skyrim
 +Sekiro Combat SSE
-+Ultimate Combat SE
 +TK Dodge SE
++Archery Gameplay Overhaul SE
++Ultimate Combat SE
 -himika's lockon - stradivuckos version SSE 1.5.97
 -himika's lock on (stradivuckos updated version) SSE
 -Engarde
@@ -402,10 +396,12 @@
 +WetFunctionRedux
 +Sexlab LightMeUp
 -SL Others_separator
++Thief
 +Bestial Essence SE 0.3-fftest
 -SexLabs Beastess
 +From The Deeps (redone) 2.6SE
 -SL Quests_separator
+-SexLab Relationship Dialogue System SE v2.0
 -xazPrisonOverhaul - Patched SE v4.42
 -SL Kidnapped Redux
 -SexLab Dangerous Nights 2 SE v2.2
@@ -443,9 +439,9 @@
 +Realistic Animation Project - Movement
 +Realistic Animation Project - Idles
 +FNIS PCEA2 - Player Exclusive Animations (dynamic) SE
++FNIS Creature Pack SE 7.6
 -Project New Reign - Nemesis PCEA
 +FNIS Spells SE 7.0
-+FNIS Creature Pack SE 7.0
 +Fores New Idles in Skyrim SE - FNIS SE
 -Nemesis
 -ANIMATIONS_separator
@@ -453,7 +449,7 @@
 +Lore-Based Loading Screens
 +Nexus Loading Screens Reborn
 +Map Markers Complete with DLC and OCS
-+A Matter of Time - A HUD clock widget
+-A Matter of Time - A HUD clock widget
 +Whose Quest Is It Anyway
 +Skyrim Souls RE - Updated
 -Quality Menu Replacement
@@ -483,6 +479,7 @@
 +UIExtensions
 +Sovngarde - Mist's Font Replacer
 -UI_separator
++That's A Lot of Damage- Sneak Attack Sound Replacer
 +Music - Merged
 +Yggdrasil Music and SoundFX
 +Dreams and Nightmares - Non-Personalized Music
@@ -493,21 +490,18 @@
 +Immersive Sounds Compendium Synergy Patch
 +Immersive Sounds - Compendium
 +Audio Overhaul for Skyrim SE
--Lucidity Sound FX SSE
 +Unofficial High Definition Audio Project
 -AUDIO_separator
 +Fix Note icon for SkyUI (SKSE64 plugin)
 +Sound Hammering Sounds
 +Raven Rock - Fix Exit on Horseback
--Point The Way
 +Horns Are Forever (Persistent Argonian Horns)
--Dragon Stalking Fix
 +Bard Instrumentals Mostly - Sing Rarely
 +Don't Talk With Your Mouth Full
 +GIST - Genuinely Intelligent Soul Trap SE
--Weapons Armor Clothing and Clutter Fixes
 +Blacksmith Forge Water Fix - Special Edition
 +Animation Limit Crash Fix SSE
++I'm Walkin' Here
 -FIXES_separator
 +Skyrim Skill Uncapper
 +opparco mfg Command for SSE
@@ -522,14 +516,13 @@
 +PrivateProfileRedirector SE - Faster game start (INI file cacher)
 +SSE Engine Fixes (skse64 plugin)
 +(SKSE64) Havok Fix
--Cutting Room Floor
 -USSEP Patch ESL
 +Purist's Vanilla Patch
 +Unofficial Skyrim Special Edition Patch
 -ESSENTIALS_separator
 +performance optimized textures for SSE
 +SKSE INI
-+CK Scripts
+-CK Scripts
 +SKSE64 Scripts
 +Cleaned Vanilla ESMs
 *DLC: Dawnguard
