@@ -36,6 +36,7 @@ This is a big one. **A new game is absolutely required**. The most prominent add
 - Added [Rudy HQ - More Lights for ENB - Soul Gems](https://www.nexusmods.com/skyrimspecialedition/mods/22704)
 - Added [ElSopa - HD Keys](https://www.nexusmods.com/skyrimspecialedition/mods/32707)
 - Added [Bijin Family Bodyslides - CBBE and UUNP SE](https://www.nexusmods.com/skyrimspecialedition/mods/16097), resolves Issue [#30](https://github.com/erri120/lotus/issues/30)
+- Added [True Wolves of Skyrim](https://www.nexusmods.com/skyrim/mods/59174)
 
 ## 0.1.2
 
