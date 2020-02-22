@@ -229,7 +229,7 @@ You know this would be first, didn't you...
 
 Since we don't judge your fetishes, I have included [Creature Framework](https://www.loverslab.com/files/file/5462-creature-framework-se/) and [More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/).
 
-[Devious Devices](https://www.loverslab.com/files/file/5878-devious-devices-se-beta/) sadly does not work for SSE **yet**, but once that is around, it will of course be included.
+[Devious Devices](https://www.loverslab.com/files/file/5878-devious-devices-se-beta/) is somewhat working for SSE but too unstable for me to add it to the modlist. I know that this is a very important framework but its just not worth atm. It will be added once its stable enough and mods that require it have arrived for SSE.
 
 [ZAZ](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/) is a requirement for other mods and I have included the [ZAZ 8.0+ CBBE HDT Rev3](https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I) version.
 
