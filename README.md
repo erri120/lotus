@@ -40,6 +40,7 @@
   - [Cathedral Mods](#cathedral-mods)
   - [Outfit Mods](#outfit-mods)
   - [Weapon Mods](#weapon-mods)
+  - [Poses](#poses)
   - [ENB: Silent Horizon](#enb-silent-horizon)
 - [Creating your Character](#creating-your-character)
 - [In-Game MCM Options](#in-game-mcm-options)
@@ -55,6 +56,7 @@
   - [Growl Werebeasts](#growl-werebeasts)
   - [Hateful Wenches](#hateful-wenches)
   - [Judgment Wenches](#judgment-wenches)
+  - [Poser Hotkeys](#poser-hotkeys)
   - [Quick Light](#quick-light)
   - [Sacrosanct Vampires](#sacrosanct-vampires)
   - [Schlongs of Skyrim](#schlongs-of-skyrim)
@@ -79,6 +81,7 @@
   - [Animations](#animations)
     - [SLAL Animations](#slal-animations)
     - [Normal Animations](#normal-animations)
+  - [Pose Mods](#pose-mods)
   - [Outfits](#outfits)
   - [ENB](#enb)
 - [Tweaking Performance](#tweaking-performance)
@@ -665,6 +668,18 @@ Links:
 - [Artifacts - The Tournament of the ten Bloods](https://www.nexusmods.com/skyrimspecialedition/mods/15264) by [FrankFamily](https://www.nexusmods.com/users/2531318)
 - [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138) by [Zimmermjaz](https://www.nexusmods.com/users/5756779)
 
+### Poses
+
+If you created a sexy character or just wanna have some fun screenshotting stuff, you might want to use some pose mods. I have opted to use [Poser Hotkeys SE](https://www.loverslab.com/files/file/5132-poser-hotkeys-se/) instead of [Poser Hotkeys Plus SSE](https://www.nexusmods.com/skyrimspecialedition/mods/17743) because I could not get that one to work...
+
+Anyway: Installed are [GomaPero Poses](https://www.loverslab.com/files/file/4917-gomapero-poses-se/) and [Shocky's Poses Pack](https://www.loverslab.com/files/file/5134-shockys-poses-pack-se/). I stripped all spells, rings and whatnot from the plugins and merged them into `Poser - Merged.esp`. Check [Poser Hotkey MCM](#poser-hotkeys) for the hotkeys and [Adding Poser Mods](#pose-mods) if you want to add more poses.
+
+Links:
+
+- [Poser Hotkeys SE 1.0.0](https://www.loverslab.com/files/file/5132-poser-hotkeys-se/) original by [mz1n](https://www.nexusmods.com/skyrim/users/18035569), converted by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
+- [GomaPero Poses SE](https://www.loverslab.com/files/file/4917-gomapero-poses-se/) original by [GomaPero](https://twitter.com/GomaPeroPero), converted by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
+- [Shocky's Poses Pack SE 1.0.0](https://www.loverslab.com/files/file/5134-shockys-poses-pack-se/) original by [Shocky](https://www.loverslab.com/profile/150878-shocky/), converted by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
+
 ### ENB: Silent Horizon
 
 ENBs for Special Edition never really convinced me. [SnowFall Weathers](https://www.nexusmods.com/skyrim/mods/79335) singlehandedly made me stay with Oldrim for 3 years since it came out. I choose [Silent Horizon](https://www.nexusmods.com/skyrimspecialedition/mods/21543) for this Modlist, mainly because of its performance and set of features. It is also compatible with [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791), the weather mod of this list.
@@ -854,6 +869,12 @@ Summon Undead Wench Spell
 Judgment Wenches spawn chance.
 
 *Judgment Wench* - `20%`
+
+### Poser Hotkeys
+
+**Hotkeys**:
+
+Make sure to use the *Enable/Disable All Hotkeys* button when you're not using this pose mod! It is important that *Hotkey Status* says `Hotkeys are Disabled`. If you see `Hotkeys are Enabled` exit the MCM and press the hotkey for *Enable/Disable All Hotkeys*.
 
 ### Quick Light
 
@@ -1100,6 +1121,18 @@ Simply install them and re-run FNIS. If the animations come with an ESP, than yo
 #### Normal Animations
 
 Simply install the new animations and re-run FNIS. You might want to take a look at [FNIS PCEA2](https://www.nexusmods.com/skyrimspecialedition/mods/13281) if you want those new animations to be player exclusive.
+
+### Pose Mods
+
+(check the [Poses](#poses) section first)
+
+Aside from simply running FNIS, there are some actions you might want to execute:
+
+You need to do a little work if you want to fully integrate additional pose mods into this setup. The first thing you should do is check compatibility with [Poser Hotkeys SE](https://www.loverslab.com/files/file/5132-poser-hotkeys-se/). Poser Hotkeys requires `PoserData` (see `SKSE/plugins/PoserHotKeys/PoserData/*.json`) which can be generated with the `PoserDataGen` tool (see the executable list).
+
+Pose mods are often standalone and might give you spells and/or rings to use certain poses. You won't need those since we use Poser Hotkeys. I recommend you clean the plugin from the pose mod to remove all those spells, rings, object effects, quests, form id lists and so on. The only records you need are of type `Idle Animation` and `Animated Object`.
+
+Another thing you might want to consider is merging the plugin into the `Poses - Merged.esp` merge. Simply use the `Merge Plugins Hide` MO2 plugin to enable all plugins from that merge, go into zMerge, add that plugin to the merge, re-generate the merge and disable all plugins again with `Merge Plugins Hide`.
 
 ### Outfits
 
