@@ -39,6 +39,8 @@ This is a big one. **A new game is absolutely required**. The most prominent add
 - Added [True Wolves of Skyrim](https://www.nexusmods.com/skyrim/mods/59174)
 - Added Minidress CBBE 3BBB Conversion by Nechrion#0145, also resolved Issue [#29](https://github.com/erri120/lotus/issues/29)
 - Fixed that stupid Werewolf CTD
+- Added some 2B Animations
+- Added 2B BodySlide preset
 
 ## 0.1.2
 
