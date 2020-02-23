@@ -25,7 +25,7 @@ This is a big one. **A new game is absolutely required**. The most prominent add
 - Updated [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) to 4.3.6
 - Added more memes
 - More black face bug fixes
-- Updated [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980) to 1.8.1
+- Updated [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980) to 1.8.2
 - Added, converted and fixed [Thief](https://www.loverslab.com/files/file/4027-thief/)
 - Added `[Redguard](f) - Ariana` CharGen preset
 - Hopefully fixed the CTD on opening a book by changing `bBookMenu` from `true` to `false` in the Skyrim Souls ini file (thx Velexia and trawz)
