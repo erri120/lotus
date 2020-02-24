@@ -41,6 +41,12 @@ This is a big one. **A new game is absolutely required**. The most prominent add
 - Fixed that stupid Werewolf CTD
 - Added some 2B Animations
 - Added 2B BodySlide preset
+- Updated [CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/198) to 1.5.5
+- Updated [Amorous Adventures - MCM Addon](https://www.nexusmods.com/skyrimspecialedition/mods/23368) to 3.1
+- Re-added [GK Follower SE Core Files](https://www.nexusmods.com/skyrimspecialedition/mods/26015)
+- Replaced Pandorable Serana with [GK Serana and Valerica](https://www.nexusmods.com/skyrimspecialedition/mods/25982)
+- Added [GK Housecarl Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/26037)
+- Added [HG Hairdos](https://www.loverslab.com/files/file/7768-hg-hairdos/)
 
 ## 0.1.2
 
