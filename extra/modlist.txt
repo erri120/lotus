@@ -46,6 +46,8 @@
 +Cathedral Weathers - Audio Overhaul Patch for Skyrim SE patch
 +Dragonborn Presence - Discord Rich Presence
 +A Huge RaceMenu Preset Collection
++NieR Automata Body Preset
++Minidress Conversion to CBBE 3BBB by Nechrion
 +BodySlide and Outfit Studio
 +AddItemMenu - Ultimate Mod Explorer
 -MISC_separator
@@ -130,15 +132,17 @@
 +aMidianBorn Blades Armor SSE Patch
 +aMidianBorn Book of Silence - Armors
 -aMidianBorn Book of Silence_separator
--Smile in HD
 +Ziovdendian Bodypaint - Designs of the Lupine - RaceMenu Overlays - Special Edition
 +Weathered Nordic Bodypaints -Special Edition- RaceMenu Overlays and Warpaints
 +Female Makeup Suite - Face - RaceMenu Overlays of Eyeliner EyeShadow Contours and Highlights - Special Edition
 +Better Females Eyebrows - Standalone
++HG Hairdos SE
 +KS Hairdos - HDT SMP (Physics)
 +KS Hairdos SSE
 +Superior Lore-Friendly Hair - HD textures
 -CHARACTER MINOR_separator
++Expressive Facial Animation -Male Edition-
++Expressive Facial Animation -Female Edition-
 +Schlongs of Skyrim SE HDT-SMP files
 +Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)
 +Tempered Skins for Males - SOS Full Version
@@ -151,6 +155,7 @@
 -Demoniac_Texture UNP
 +Demoniac_Texture CBBE
 +CBBE 3BBB Advanced
++CBBE ESL
 +Caliente's Beautiful Bodies Enhancer -CBBE-
 +CBPC - CBP Physics with Collisions
 +HDT-SMP (Skinned Mesh Physics)
@@ -158,22 +163,22 @@
 -CHARACTER MAJOR_separator
 +Modest Elderly
 +Judgment Wenches
-+Forgotten Wenches CBBE
--Forgotten Wenches
++Forgotten Wenches
 +Hateful Wenches
 +Deadly Wenches
 +Immersive Wenches -KS hairs- Patch_SE (KS hairs 1.5)
 +Immersive Wenches
 +NPC Retexture - Merged
-+Pandorable's Serana
--GK Serana and Valerica SE
--GK Follower Core File SE CBBE
--GK Follower SE Core File
++GK Housecarl Replacer SE
++GK Serana and Valerica SE
++GK Follower Core File SE CBBE
++GK Follower SE Core File
 +Pandorable's NPCs SE - black face fix
 +Pandorable's NPCs
 +Pandorable's NPCs - Dawnguard SE - grey face fix
 +Pandorable's NPCs - Dawnguard
 +Pandorable's NPCs - Dragonborn
++Bijin Family Bodyslides - CBBE
 +Bijin Warmaidens SE CBBE
 +Bijin Warmaidens SE
 +Bijin NPCs SE CBBE
@@ -203,6 +208,11 @@
 +Diverse Dragons Collection SE (DDCse)
 -Immersive Citizens - AI Overhaul
 -NPCS_separator
++BakaFactory ABC - True Wolves of Skyrim Patch
++True Wolves of Skyrim
++ElSopa - HD Keys SE
++Rudy HQ - More Lights for ENB SE - Soul Gems
++RUSTIC SOULGEMS - Special Edition
 +Rally's Instruments HQ
 +Rally's Vampire Coffins
 +Rally's Quill and Inkwell
@@ -405,6 +415,7 @@
 -xazPrisonOverhaul - Patched SE v4.42
 -SL Kidnapped Redux
 -SexLab Dangerous Nights 2 SE v2.2
+-Succubus Heart SE 4.9 DEV
 +SexLab Deadly Drain - SSE Port
 +SexLab Approach Redux 1.25 English SE
 +Radiant Prostitution_Gigolo SE 4.0 LITE
@@ -435,6 +446,7 @@
 +Pretty Sit Idle v1.41d
 +Feminine Jarl Sitting Animation SE
 +D13 Faster GET UP STAND UP animation vanilla friendly SSE
++2B Anims for PCEA
 +Magiska
 +Realistic Animation Project - Movement
 +Realistic Animation Project - Idles
