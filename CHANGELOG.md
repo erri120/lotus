@@ -47,6 +47,7 @@ This is a big one. **A new game is absolutely required**. The most prominent add
 - Replaced Pandorable Serana with [GK Serana and Valerica](https://www.nexusmods.com/skyrimspecialedition/mods/25982)
 - Added [GK Housecarl Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/26037)
 - Added [HG Hairdos](https://www.loverslab.com/files/file/7768-hg-hairdos/)
+- Updated [ABC](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to 1.42
 
 ## 0.1.2
 
