@@ -16,6 +16,8 @@
     - [Downloading and Installing](#downloading-and-installing)
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
+    - [Copy Game Folder Files](#copy-game-folder-files)
+    - [Build BodySlide files](#build-bodyslide-files)
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
   - [SexLab - Frameworks](#sexlab---frameworks)
@@ -194,6 +196,8 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ### Post-Installation
 
+#### Copy Game Folder Files
+
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
 
 Copy the following files from the `MO2/Game Folder Files` directory to your game folder:
@@ -207,6 +211,14 @@ Copy the following files from the `MO2/Game Folder Files` directory to your game
 - `skse64_*`
 - `tbb.dll`
 - `tbbmalloc.dll`
+
+#### Build BodySlide files
+
+As the amount of outfits and BS files grew in this modlist, I made the decision to *not* build and include the meshes. This made the resulting modlist file very small (originally 700+MB) and installation quicker. You should build the outfits in BodySlide with your preset of choice.
+
+In MO2: launch BodySlide from the executable lists, select the `Lotus - All` group, select your preset of choice, optionally: tick the body morph checkbox if you want morphs, batch build all outfits.
+
+BodySlide will give you some choices as to what type of outfit you want to build. The choice is between normal or with physics. Do note that a lot of outfits come with zaps and can be further customized in BodySlide so make sure to check those out.
 
 ## Updating
 
