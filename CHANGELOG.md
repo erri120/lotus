@@ -13,7 +13,7 @@
 
 **Info**:
 
-This is a big one. **A new game is absolutely required**. The most prominent additions are my conversion of [Thief](https://www.loverslab.com/files/file/4027-thief/) and the poses.
+This is a big one. **A new game is absolutely required**. The most prominent additions are my conversion of [Thief](https://www.loverslab.com/files/file/4027-thief/) and the poses. I have removed the BodySlide output from the modlist, be sure to read the new [Build BodySlide files](README.md#build-bodyslide-files) section in the readme!
 
 **Changes**:
 
