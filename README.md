@@ -216,7 +216,7 @@ Copy the following files from the `MO2/Game Folder Files` directory to your game
 
 As the amount of outfits and BS files grew in this modlist, I made the decision to *not* build and include the meshes. This made the resulting modlist file very small (originally 700+MB) and installation quicker. You should build the outfits in BodySlide with your preset of choice.
 
-In MO2: launch BodySlide from the executable lists, select the `Lotus - All` group, select your preset of choice, optionally: tick the body morph checkbox if you want morphs, batch build all outfits.
+In MO2: launch BodySlide from the executable lists, select the `Lotus - All` group and `Minidresses CBBE SE all in one [physics]` (if you want minidresses instead of normal outfits), select your preset of choice, optionally: tick the body morph checkbox if you want morphs, batch build all outfits.
 
 BodySlide will give you some choices as to what type of outfit you want to build. The choice is between normal or with physics. Do note that a lot of outfits come with zaps and can be further customized in BodySlide so make sure to check those out.
 
