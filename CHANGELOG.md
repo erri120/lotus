@@ -1,11 +1,25 @@
 # Changelog
 
+- [0.2.1](#021)
 - [0.2.0](#020)
 - [0.1.2](#012)
 - [0.1.1](#011)
 - [0.1.0](#010)
 - [0.0.2](#002)
 - [0.0.1: Initial Release](#001-initial-release)
+
+## 0.2.1
+
+**Released at:** `00.00.2020`
+
+**Info**:
+
+**Changes**:
+
+- Updated [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012/) to 1.4
+- Updated [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) to 1.4.0
+- Added [FreeFlyCam](http://enbseries.enbdev.com/forum/viewtopic.php?p=75209)
+- Added [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220)
 
 ## 0.2.0
 

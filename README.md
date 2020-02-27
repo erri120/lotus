@@ -27,7 +27,7 @@
   - [Thief](#thief)
   - [SexLab - Others](#sexlab---others)
   - [Nomkaz](#nomkaz)
-  - [3PCO](#3pco)
+  - [Camera](#camera)
   - [Nemesis vs FNIS](#nemesis-vs-fnis)
   - [Combat - Melee](#combat---melee)
   - [Combat - Archery](#combat---archery)
@@ -372,13 +372,20 @@ You may have seen his name pop up a few hundred times when browsing the [Skyrin:
 
 - [LL Profile](https://www.loverslab.com/profile/2695162-nomkaz/)
 
-### 3PCO
+### Camera
 
-3PCO or [3rd Person Camera Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/18515) aims to fix the stiff, unmoving vanity camera of vanilla Skyrim. This mod gets its own section due to the impact it has when you have never seen nor used it before.
+This little section will go over some of the installed mods that effect the camera in a subtle or substantial way. They get their own section because it can feel very weird playing with them for the first time.
+
+3PCO or [3rd Person Camera Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/18515) aims to fix the stiff, unmoving vanity camera of vanilla Skyrim.
+
+[Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220) brings a Witcher 3 like camera to Skyrim. I highly recommend you configure this mod yourself. You might like `bSwitchTarget` which switches between player and target in 3rd person cam but I had to disable that due to vertigo.
+
+If you want to take some dope screenshots than you should probably know the `tfc` command. I added a [FreeFlyCam](http://enbseries.enbdev.com/forum/viewtopic.php?p=75209) plugin that changes the camera in the `tfc` command and gives you more control over the camera like changing the roll angle with `Q` and `E` and changing the fov using the mouse wheel.
 
 Links:
 
 - [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515) by [watang](https://www.nexusmods.com/users/10706607)
+- [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220) by [NasGorTelorCeplok](https://www.nexusmods.com/users/60861451)
 
 ### Nemesis vs FNIS
 
