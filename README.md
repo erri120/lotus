@@ -73,7 +73,6 @@
   - [SexLab](#sexlab)
   - [SexLab Aroused](#sexlab-aroused)
   - [Radiant Prostitution](#radiant-prostitution)
-  - [Sexlab Deadly Drain](#sexlab-deadly-drain)
   - [SL Anim Loader](#sl-anim-loader)
   - [Defeat](#defeat)
   - [Spell Research](#spell-research)
@@ -205,7 +204,6 @@ Copy the following files from the `MO2/Game Folder Files` directory to your game
 - `enbseries/*`
 - `binkw64.dll`
 - `d3dx9_42.dll`
-- `discord-rpc.dll` (only if you want discord RPC)
 - `enblocal.ini`
 - `enbseries.ini`
 - `skse64_*`
@@ -295,8 +293,6 @@ The complete opposite of wholesome are [Defeat](https://www.loverslab.com/files/
 
 Do note that this mod is female-oriented. [Sexlab Approach Redux for HIM](https://www.loverslab.com/files/file/10074-sexlab-approach-redux-for-him-se/) exists but I have yet to include it.
 
-[SexLab Deadly Drain](https://www.loverslab.com/files/file/9905-sexlab-deadly-drain-sse-port/) is for all succubus lovers. This mod works for any gender and you do not have to be a Vampire or Succubus. I found this to be the most compatible succubus like mod.
-
 Links:
 
 - [FROM THE DEEPS (for SSE) 2.6](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/) by [Delzaron](https://www.loverslab.com/profile/484102-delzaron/)
@@ -309,7 +305,6 @@ Links:
 - [Radiant Prostitution/Gigolo SE 4.0 LITE](https://www.loverslab.com/files/file/10046-radiant-prostitutiongigolo-se/) original by [-Caden-](https://www.loverslab.com/profile/1328836-caden/) ported by [Nomkaz](#nomkaz)
 - [Sexlab Defeat Baka Edition 1.01V LE/SE](https://www.patreon.com/posts/32912602) by [BakaFactory](#bakafactory)
 - [Sexlab Approach Redux by BakaFactory LE / SE 1.25V](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se) by [BakaFactory](#bakafactory)
-- [SexLab Deadly Drain - SSE Port 1.0.0](https://www.loverslab.com/files/file/9905-sexlab-deadly-drain-sse-port/) original mod by [Etheri](https://www.loverslab.com/profile/676057-etheri/), ported by [war11010](https://www.loverslab.com/profile/637956-war11010/)
 
 ### Thief
 
@@ -349,7 +344,7 @@ The following mods have a more _supportive_ role and do not fit any of the other
 
 [Sexlab LightMeUp](https://www.loverslab.com/files/file/8275-sexlab-lightmeup/) will illuminate the current SexLab scene so you don't have to pull out any additional torches and can actually see whats happening.
 
-[Wet Function Redux](https://www.loverslab.com/files/file/9467-wet-function-redux-se/) and [Blush When Aroused](https://www.loverslab.com/files/file/10774-blush-when-aroused-se/) add some extra effects when certain conditions are met.
+[Wet Function Redux](https://www.loverslab.com/files/file/9467-wet-function-redux-se/) and [Blush When Aroused](https://www.loverslab.com/files/file/1724-blush-when-aroused/) add some extra effects when certain conditions are met.
 
 [Wintersun - SexLab Integration](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/) provides a bridge between SL and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506).
 
@@ -361,7 +356,7 @@ Links:
 
 - [Sexlab LightMeUp 2.9.2](https://www.loverslab.com/files/file/8275-sexlab-lightmeup/) by [Yinkle](https://www.loverslab.com/profile/2924493-yinkle/)
 - [Wet Function Redux SE 1.1.0](https://www.loverslab.com/files/file/9467-wet-function-redux-se/) by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
-- [Blush When Aroused SE 1.3](https://www.loverslab.com/files/file/10774-blush-when-aroused-se/) original by [Fredas](https://www.loverslab.com/profile/106315-fredas/), ported by [abcd99](https://www.loverslab.com/profile/250327-abcd99/) with fixed from [tasairis](https://www.loverslab.com/profile/1009670-tasairis/)
+- [Blush When Aroused 1.3](https://www.loverslab.com/files/file/1724-blush-when-aroused/) by [Fredas](https://www.loverslab.com/profile/106315-fredas/), ported by [abcd99](https://www.loverslab.com/profile/250327-abcd99/) with fixed from [tasairis](https://www.loverslab.com/profile/1009670-tasairis/)
 - [Wintersun - SexLab Integration SE 1.3.3](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/) original by [PD_](https://www.loverslab.com/profile/1450322-pd_/), ported by [Nomkaz](#nomkaz)
 - [ViVi's Beastess Lairs SE 5.1](https://www.loverslab.com/files/file/9932-vivis-beastess-lairs-se/) original by [Vivi](https://www.loverslab.com/profile/41447-vivi/), ported by [Nomkaz](#nomkaz)
 - [SOS Equipable Horse Cocks - SSE Port 1.0.0](https://www.loverslab.com/files/file/9903-sos-equipable-horse-cocks-sse-port/) original by [Etheri](https://www.loverslab.com/profile/676057-etheri/), ported by [war11010](https://www.loverslab.com/profile/637956-war11010/)
@@ -523,7 +518,7 @@ Links:
 
 Since the dawn of mankind we've asked the question: _CBBE or UNP?_
 
-Short answer: I went with [CBBE 3BBB Advanced](https://www.loverslab.com/files/file/11063-cbbe-3bbb-advanced/).
+Short answer: I went with [CBBE 3BBB Advanced](https://www.nexusmods.com/skyrimspecialedition/mods/30174/).
 
 Long answer: Maybe Ill write one later. This was the hardest decision to make for the Modlist and I could go into great detail and trace back all steps that lead to this decision but I don't think anyone wanna read that.
 
@@ -533,7 +528,7 @@ The dudes were not left alone either! [Schlongs of Skyrim](https://www.loverslab
 
 Links:
 
-- [CBBE 3BBB Advanced](https://www.loverslab.com/files/file/11063-cbbe-3bbb-advanced/) by Acro: [Nexus Mods](https://www.nexusmods.com/users/14635849), [LL](https://www.loverslab.com/profile/510660-acro748/)
+- [CBBE 3BBB Advanced](https://www.nexusmods.com/skyrimspecialedition/mods/30174/) by Acro: [Nexus Mods](https://www.nexusmods.com/users/14635849), [LL](https://www.loverslab.com/profile/510660-acro748/)
 - [CBPC - CBP Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224) by [Shizof](https://www.nexusmods.com/users/1201660)
 - [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872) original by HydrogensaysHDT: [Nexus Mods](https://www.nexusmods.com/users/3701232), [GitHub](https://github.com/HydrogensaysHDT), [LL](https://www.loverslab.com/profile/100850-hydrogensayshdt/) and updated by [aers](https://www.nexusmods.com/users/2025634)
 - [Demoniac- High Quality Glossy Female Body Texture 8K 4K 2K - SE](https://www.nexusmods.com/skyrimspecialedition/mods/19355) original by [regenbot03](https://www.nexusmods.com/users/27578610), ported by Rektas: [Patreon](https://www.patreon.com/Rektas), [Twitter](https://twitter.com/s1kkha), [Nexus Mods](https://www.nexusmods.com/users/26327699) (inactive), [Tumblr](https://s1kkha.tumblr.com/)
@@ -1078,18 +1073,6 @@ Reward Settings
 *Female PC Gold Bonus* - `10`
 
 *Male PC Gold Bonus* - `40`
-
-### Sexlab Deadly Drain
-
-(If you don't want to use this Mod, Disable it in the MCM)
-
-**General**:
-
-Draining
-
-*Auto Drain* - `Enable`
-
-*Draining is a crime* - `Enable` (can be Disabled if you want)
 
 ### SL Anim Loader
 

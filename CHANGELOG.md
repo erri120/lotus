@@ -14,12 +14,29 @@
 
 **Info**:
 
+Mostly dead link and mod updates but I have also added some more camera mods and updated the readme. Be sure to check the new [Camera](README.md#camera) section in the readme for further customization.
+
 **Changes**:
 
 - Updated [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012/) to 1.4
 - Updated [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) to 1.4.0
 - Added [FreeFlyCam](http://enbseries.enbdev.com/forum/viewtopic.php?p=75209)
 - Added [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220)
+- Removed Blush When Aroused SE because it was removed, but added and converted the oldrim version
+- Updated [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174/) to 1.3
+- Added [Experience Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/23589)
+- Activated XP for killing in [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+- Removed DiscordRPC
+- More memes
+- Removed SL Deadly Drain
+- Updated [AddItemMenu](https://www.nexusmods.com/skyrimspecialedition/mods/17563) to 1.12
+- Removed Amorous Adventures MCM
+- Added [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
+- Updated [Yes Im Sure](https://www.nexusmods.com/skyrimspecialedition/mods/24898) to 1.4.0
+- INI Changes: `fFirstSliceDistance was changed from 2800 to 3500`, `fShadowDistance was changed from 8000 to 10000`, `iShadowMapResolution was changed from 2048 to 4096`
+- The Journal menu is now paused so you can go afk
+- Replaced Hateful Wenches (custom armor) with vanilla armor because I am fucking lazy
+- Fixed outfits for Judgment Wenches
 
 ## 0.2.0
 
