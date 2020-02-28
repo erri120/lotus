@@ -44,7 +44,6 @@
 +kryptopyr's Patch Hub
 +QUASIPC - Qwinn's Unified Automated Self Installing Patch Compendium
 +Cathedral Weathers - Audio Overhaul Patch for Skyrim SE patch
-+Dragonborn Presence - Discord Rich Presence
 +A Huge RaceMenu Preset Collection
 +NieR Automata Body Preset
 +Minidress Conversion to CBBE 3BBB by Nechrion
@@ -154,7 +153,8 @@
 -Baka Haeun UNP
 -Demoniac_Texture UNP
 +Demoniac_Texture CBBE
-+CBBE 3BBB Advanced
++CBBE 3BBB
+-CBBE 3BBB Advanced
 +CBBE ESL
 +Caliente's Beautiful Bodies Enhancer -CBBE-
 +CBPC - CBP Physics with Collisions
@@ -173,7 +173,7 @@
 +GK Serana and Valerica SE
 +GK Follower Core File SE CBBE
 +GK Follower SE Core File
-+Pandorable's NPCs SE - black face fix
+-Pandorable's NPCs SE - black face fix
 +Pandorable's NPCs
 +Pandorable's NPCs - Dawnguard SE - grey face fix
 +Pandorable's NPCs - Dawnguard
@@ -328,7 +328,7 @@
 +Clockwork (SSE)
 +script-fix
 +Moon and Star
-+Amorous Adventures - MCM Addon
+-Amorous Adventures - MCM Addon
 +AmorousAdventures 3.4 SE
 +Maids II Deception - Maximum Resolution Textures
 +Maids II Deception
@@ -381,7 +381,6 @@
 +Vokrii - Minimalistic Perks of Skyrim
 +Wintersun - Faiths of Skyrim
 -SKILLS, PERKS and MORE_separator
-+3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow
 +Archery Gameplay Overhaul SE - Belt-Fastened Quivers
 +ABT - Merged
 +ABT SE - Arrows and Bolts Tweaks Special Edition
@@ -398,11 +397,14 @@
 -Engarde
 +Nether's Follower Framework
 -COMBAT_separator
++FreeFlyCamSKSE64_v12.1 (1.5.73-97)
++Alternate Conversation Camera
++3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow
 -GAMEPLAY - MAJOR_separator
 +Beastess Lair SE v5.1
 +Equippable Horse Cocks - SSE Port
 +Wintersun - SexLab Integration SE v1.3.3
-+Blush When Aroused SE v1.3
++Blush When Aroused v1.3
 +WetFunctionRedux
 +Sexlab LightMeUp
 -SL Others_separator
@@ -416,7 +418,7 @@
 -SL Kidnapped Redux
 -SexLab Dangerous Nights 2 SE v2.2
 -Succubus Heart SE 4.9 DEV
-+SexLab Deadly Drain - SSE Port
+-SexLab Deadly Drain - SSE Port
 +SexLab Approach Redux 1.25 English SE
 +Radiant Prostitution_Gigolo SE 4.0 LITE
 +Simple Slavery Plus
@@ -430,9 +432,7 @@
 +Babo Creature 2019.12.10 SE
 -SL Animations_separator
 +BakaFactory Animated Beasts Cocks
--HentaiCreatures_MNCv12SE2
-+MoreNastyCritters_v12_02SE
--MoreNastyCritters_v12_01
++MoreNastyCritters_v12_03
 +Creature Framework 1.1.0-pre2A-SE
 +SexLabAroused Redux V28b SSE Modified by BakaFactory
 -SexLabArousedSSE
@@ -515,6 +515,7 @@
 +Animation Limit Crash Fix SSE
 +I'm Walkin' Here
 -FIXES_separator
++Address Library for SKSE Plugins (Database for 1.5.97)
 +Skyrim Skill Uncapper
 +opparco mfg Command for SSE
 +.NET Script Framework
