@@ -1,5 +1,6 @@
 # Changelog
 
+- [0.2.2](#022)
 - [0.2.1](#021)
 - [0.2.0](#020)
 - [0.1.2](#012)
@@ -7,6 +8,22 @@
 - [0.1.0](#010)
 - [0.0.2](#002)
 - [0.0.1: Initial Release](#001-initial-release)
+
+## 0.2.2
+
+**Released at:** `00.00.2020`
+
+**Info**:
+
+**Changes**:
+
+- Updated [ABC](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to 1.43
+- Updated [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174/) to 1.31
+- Updated [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603/) to 1.3.0
+- Updated [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581/) to 1.2.0
+- Updated [I'm Walkin' Here](https://www.nexusmods.com/skyrimspecialedition/mods/27742/) to 1.3.0
+- Updated [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791/) to 2.09
+- Updated [Stay At The System Page - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/19832) to 1.4.0
 
 ## 0.2.1
 
