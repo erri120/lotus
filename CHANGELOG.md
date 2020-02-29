@@ -17,7 +17,7 @@
 
 **Changes**:
 
-- Updated [ABC](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to 1.43
+- Updated [ABC](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to 1.44
 - Updated [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174/) to 1.31
 - Updated [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603/) to 1.3.0
 - Updated [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581/) to 1.2.0
