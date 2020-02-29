@@ -280,7 +280,7 @@ Links:
 
 All those animations and features from the frameworks need to be used somewhere. A lot of big quest mod are still not converted and it will take some time for LL to make the switch to SSE. That being said, the _biggest_ quest mods in this setup are [Thief](#thief) and [From The Deeps](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/). Ask innkeepers for some rumors to pick up From The Deeps, a lovecraft-like story! [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) is also included, because it's funny. [Bestial Essence](https://www.loverslab.com/files/file/10036-bestial-essence-se/) for all beast lovers.
 
-The vanilla quests are not being left alone! [SexLab Solutions](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) will offer additional dialog that may lead to some _interesting_ outcomes.
+The vanilla quests are not being left alone! [SexLab Solutions](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) will offer additional dialog that may lead to some _interesting_ outcomes and [The Book of Sex](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/) changes the vanilla quest "The Book of Love".
 
 If you want some _wholesomeness_ than take a look at the included [Spouses Enhanced](https://www.loverslab.com/files/file/5266-spouses-enhanced-se/). This mod features no _extreme_ content. The focus is the relationship between two consenting, married adults.
 
@@ -299,6 +299,7 @@ Links:
 - [Amorous Adventures 3.4 SSE for lovers lab](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) original by [FoxFingers](https://www.loverslab.com/profile/364691-foxfingers/), ported by [vitasgo](https://www.loverslab.com/profile/59513-vitasgo/)
 - [Bestial Essence SE 0.3](https://www.loverslab.com/files/file/10036-bestial-essence-se/) original by [Carabosse](https://www.loverslab.com/profile/72736-carabosse/), ported by [Nomkaz](#nomkaz)
 - [SexLab Solutions - Revisited SE 1.0.2](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) original by [janbui](https://www.loverslab.com/profile/3489852-janbui/), ported by [Nomkaz](#nomkaz)
+- [The Book Of Sex SE 1.0.0](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/) original by [vinfamy](https://www.loverslab.com/profile/1091843-vinfamy/) and ported by [Nomkaz](#nomkaz)
 - [Spouses Enhanced SE 1.7.3](https://www.loverslab.com/files/file/5266-spouses-enhanced-se/) original by [TheDudeGuy](https://www.loverslab.com/profile/103310-thedudeguy/), updated by [WraithSlayer](https://www.loverslab.com/profile/348228-wraithslayer/) and ported by [ashakiri](https://www.loverslab.com/profile/1235636-ashakiri/)
 - [Sexlab Defeat SSE 5.3.5](https://www.loverslab.com/files/file/9152-sexlab-defeat-sse/) by [Goubo](https://www.loverslab.com/profile/175859-goubo/)
 - [Simple Slavery Plus SE 6.01](https://www.loverslab.com/files/file/6535-simple-slavery-plus-se/) original by [jfraser](https://www.loverslab.com/profile/155791-jfraser/), updated by [Lozeak](https://www.loverslab.com/profile/62468-lozeak/) and ported by [Jman3000](https://www.loverslab.com/profile/457751-jman3000/)

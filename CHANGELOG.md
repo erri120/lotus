@@ -15,6 +15,8 @@
 
 **Info**:
 
+Currently testing out [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimspecialedition/mods/29437). Make sure to check out the new SL quest mod: [The Book of Sex](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/)!
+
 **Changes**:
 
 - Updated [ABC](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to 1.44
@@ -24,6 +26,10 @@
 - Updated [I'm Walkin' Here](https://www.nexusmods.com/skyrimspecialedition/mods/27742/) to 1.3.0
 - Updated [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791/) to 2.09
 - Updated [Stay At The System Page - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/19832) to 1.4.0
+- Added [Vanilla Table Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/33041)
+- Added [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimspecialedition/mods/29437)
+- Added [SexLab Privacy](https://www.loverslab.com/files/file/10090-sexlab-privacy-se/)
+- Added [The Book of Sex](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/)
 
 ## 0.2.1
 
