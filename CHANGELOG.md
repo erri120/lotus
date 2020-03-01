@@ -34,6 +34,7 @@ Currently testing out [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimsp
 - Added [The Book of Sex](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/)
 - Added [Alduin's Imprefvicticious and Chapper's Demonic Retexture mashup](https://www.nexusmods.com/skyrimspecialedition/mods/33007)
 - Added [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967), resolved Issue [#36](https://github.com/erri120/lotus/issues/36)
+- Added [Stronger Swimming Animation SE](https://www.nexusmods.com/skyrimspecialedition/mods/32625)
 
 ## 0.2.1
 
