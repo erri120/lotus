@@ -15,12 +15,12 @@
 
 **Info**:
 
-Currently testing out [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimspecialedition/mods/29437). Make sure to check out the new SL quest mod: [The Book of Sex](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/)!
+Currently testing out [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimspecialedition/mods/29437). Make sure to check out the new SL quest mod: [The Book of Sex](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/)! This Update actually contains a lot of new stuff but none of them break your existing save. You got new animations and lots of new textures.
 
 **Changes**:
 
 - Updated [ABC](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to 1.44
-- Updated [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174/) to 1.31
+- Updated [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174/) to 1.32
 - Updated [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603/) to 1.4.0
 - Updated [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581/) to 1.3.0
 - Updated [I'm Walkin' Here](https://www.nexusmods.com/skyrimspecialedition/mods/27742/) to 1.4.0
@@ -28,13 +28,19 @@ Currently testing out [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimsp
 - Updated [Stay At The System Page - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/19832) to 1.5.0
 - Updated [Yes Im Sure](https://www.nexusmods.com/skyrimspecialedition/mods/24898/) to 1.5.0
 - Updated [ConsoleUtilSSE](https://www.nexusmods.com/skyrimspecialedition/mods/24858) to 1.2.0
-- Added [Vanilla Table Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/33041)
 - Added [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimspecialedition/mods/29437)
 - Added [SexLab Privacy](https://www.loverslab.com/files/file/10090-sexlab-privacy-se/)
 - Added [The Book of Sex](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/)
-- Added [Alduin's Imprefvicticious and Chapper's Demonic Retexture mashup](https://www.nexusmods.com/skyrimspecialedition/mods/33007)
 - Added [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967), resolved Issue [#36](https://github.com/erri120/lotus/issues/36)
 - Added [Stronger Swimming Animation SE](https://www.nexusmods.com/skyrimspecialedition/mods/32625)
+- Added [Vanilla Table Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/33041)
+- Added [Alduin's Imprefvicticious and Chapper's Demonic Retexture mashup](https://www.nexusmods.com/skyrimspecialedition/mods/33007)
+- Added [CleverCharff's Photorealistic Whiterun 4K-2K](https://www.nexusmods.com/skyrimspecialedition/mods/33156)
+- Added [CleverCharff's 4K - 2K Photorealistic Farmhouse Stonewalls with Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/32582)
+- Added [Northern Shores SE](https://www.nexusmods.com/skyrimspecialedition/mods/27041)
+- Added [Orc Settlements Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/28566)
+- Added [Hyperborean Snow](https://www.nexusmods.com/skyrimspecialedition/mods/29283)
+- Added [Septentrional Landscapes SE](https://www.nexusmods.com/skyrimspecialedition/mods/29842)
 
 ## 0.2.1
 
