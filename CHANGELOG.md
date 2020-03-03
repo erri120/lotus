@@ -11,7 +11,7 @@
 
 ## 0.2.2
 
-**Released at:** `00.00.2020`
+**Released at:** `00.03.2020`
 
 **Info**:
 
@@ -28,6 +28,11 @@ Currently testing out [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimsp
 - Updated [Stay At The System Page - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/19832) to 1.5.0
 - Updated [Yes Im Sure](https://www.nexusmods.com/skyrimspecialedition/mods/24898/) to 1.5.0
 - Updated [ConsoleUtilSSE](https://www.nexusmods.com/skyrimspecialedition/mods/24858) to 1.2.0
+- Updated [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791) to 2.091
+- Updated [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076) to 2.6.1
+- Updated [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561/) to 1.2.1
+- Updated [Rally's Hooks and Saws](https://www.nexusmods.com/skyrimspecialedition/mods/32652) to 1.1
+- Updated [Cathedral Water Overhaul - Includes Water Edge Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/22962/) to 2.1
 - Added [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimspecialedition/mods/29437)
 - Added [SexLab Privacy](https://www.loverslab.com/files/file/10090-sexlab-privacy-se/)
 - Added [The Book of Sex](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/)
@@ -41,6 +46,14 @@ Currently testing out [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimsp
 - Added [Orc Settlements Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/28566)
 - Added [Hyperborean Snow](https://www.nexusmods.com/skyrimspecialedition/mods/29283)
 - Added [Septentrional Landscapes SE](https://www.nexusmods.com/skyrimspecialedition/mods/29842)
+- Added [DX Witcher Armor - UNP](https://www.nexusmods.com/skyrimspecialedition/mods/33034)
+- Added [DX Witcher Armor - SSE CBBE BodySlide (with Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/33033)
+- Added [Rally's Hanging Moss](https://www.nexusmods.com/skyrimspecialedition/mods/33225)
+- Added [Rally's Jurgen Windcaller Tomb](https://www.nexusmods.com/skyrimspecialedition/mods/28800)
+- Added [Rally's Dark Brotherhood Clutter](https://www.nexusmods.com/skyrimspecialedition/mods/28531)
+- Added [Rally's Fishing Poles](https://www.nexusmods.com/skyrimspecialedition/mods/33248)
+- Added [CleverCharff's Noble Furniture Silver or Gold 4K-2K](https://www.nexusmods.com/skyrimspecialedition/mods/33220)
+- Added [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
 
 ## 0.2.1
 
