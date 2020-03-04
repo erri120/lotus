@@ -11,7 +11,7 @@
 
 ## 0.2.2
 
-**Released at:** `00.03.2020`
+**Released at:** `04.03.2020`
 
 **Info**:
 
@@ -20,7 +20,7 @@ Currently testing out [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimsp
 **Changes**:
 
 - Updated [ABC](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to 1.44
-- Updated [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174/) to 1.32
+- Updated [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174/) to 1.33
 - Updated [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603/) to 1.4.0
 - Updated [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581/) to 1.3.0
 - Updated [I'm Walkin' Here](https://www.nexusmods.com/skyrimspecialedition/mods/27742/) to 1.4.0
