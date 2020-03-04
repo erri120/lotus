@@ -11,11 +11,11 @@
 
 ## 0.2.2
 
-**Released at:** `04.03.2020`
+**Released at:** `00.03.2020`
 
 **Info**:
 
-Currently testing out [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimspecialedition/mods/29437). Make sure to check out the new SL quest mod: [The Book of Sex](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/)! This Update actually contains a lot of new stuff but none of them break your existing save. You got new animations and lots of new textures.
+Currently testing out [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimspecialedition/mods/29437). Make sure to check out the new SL quest mod: [The Book of Sex](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/)! This Update actually contains a lot of new stuff but none of them break your existing save. You will get a lot of additional meshes&textures as well as the latest MO2 alpha build.
 
 **Changes**:
 
@@ -33,6 +33,7 @@ Currently testing out [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimsp
 - Updated [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561/) to 1.2.1
 - Updated [Rally's Hooks and Saws](https://www.nexusmods.com/skyrimspecialedition/mods/32652) to 1.1
 - Updated [Cathedral Water Overhaul - Includes Water Edge Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/22962/) to 2.1
+- Updated MO2 to 2.3.0 Alpha Build 6.1
 - Added [YeOlde - MCM Settings](https://www.nexusmods.com/skyrimspecialedition/mods/29437)
 - Added [SexLab Privacy](https://www.loverslab.com/files/file/10090-sexlab-privacy-se/)
 - Added [The Book of Sex](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/)
