@@ -27,6 +27,7 @@
 - Added [Rally's Wall of Kings](https://www.nexusmods.com/skyrimspecialedition/mods/33250)
 - Added [Rally's Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/29179)
 - Added [Rosa Round-Bottom](https://www.nexusmods.com/skyrimspecialedition/mods/13209), resolved Issue [#37](https://github.com/erri120/lotus/issues/37)
+- Replaced [Rens HD Shrines](https://www.nexusmods.com/skyrimspecialedition/mods/13572) with [https://www.nexusmods.com/skyrimspecialedition/mods/13572](https://www.nexusmods.com/skyrimspecialedition/mods/33394)
 
 ## 0.2.2
 
