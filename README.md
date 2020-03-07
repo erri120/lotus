@@ -583,11 +583,13 @@ Links:
 
 ### Followers
 
-All of your sexual adventures in Skyrim should not be experienced alone! Follower mods on LL are kinda _meh_ and since this is SSE there are even less than normal so I only added 5 mods.
+All of your sexual adventures in Skyrim should not be experienced alone! Follower mods on LL are kinda _meh_ and since this is SSE there are even less than normal.
 
 The first one being [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) because its funny and his dynamic dialogue is really good. He might not fit this Modlist so you can just ignore him if you want to keep your harem of ladies. You can find him in [Dead Man's Drink](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Drink).
 
 [Shindara](https://www.nexusmods.com/skyrimspecialedition/mods/10094) is not fully voiced with non-vanilla sounds but it's a Follower and Dungeon mod in one and my favorite Redguard. You can start the quest by talking to Hulda in the [Bannered Mare](https://en.uesp.net/wiki/Skyrim:The_Bannered_Mare) or travel directly to a new location called _Scorchstone Excavation_ which is north-west from [Drelas' Cottage](https://en.uesp.net/wiki/Skyrim:Drelas%27_Cottage).
+
+I couldn't possibly make a NSFW modlist without including a special NSFW only follower, right? [Rosa Round-Bottom](https://www.nexusmods.com/skyrimspecialedition/mods/13209) fills that slot and can be found near [Angi's Camp](https://en.uesp.net/wiki/Skyrim:Angi%27s_Camp).
 
 The other three followers came from LL:
 
