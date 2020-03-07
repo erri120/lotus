@@ -26,6 +26,7 @@
 - Added [Team TAL's BDOR Hamshin SMP 3BA 1.0.0](https://www.loverslab.com/files/file/11997-team-tals-bdor-hamshin-smp-3ba/)
 - Added [Rally's Wall of Kings](https://www.nexusmods.com/skyrimspecialedition/mods/33250)
 - Added [Rally's Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/29179)
+- Added [Rosa Round-Bottom](https://www.nexusmods.com/skyrimspecialedition/mods/13209), resolved Issue [#37](https://github.com/erri120/lotus/issues/37)
 
 ## 0.2.2
 
