@@ -1,5 +1,6 @@
 # Changelog
 
+- [0.2.3](#023)
 - [0.2.2](#022)
 - [0.2.1](#021)
 - [0.2.0](#020)
@@ -8,6 +9,23 @@
 - [0.1.0](#010)
 - [0.0.2](#002)
 - [0.0.1: Initial Release](#001-initial-release)
+
+## 0.2.3
+
+**Released at:** `00.03.2020`
+
+**Info**:
+
+**Changes**:
+
+- Updated [Psyche Animation](https://www.loverslab.com/files/file/11477-psyche-animation-lesse/) to 1.0.7
+- Updated [Sexlab Approach Redux](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se/) to 1.302
+- Updated [AddItemMenu - Ultimate Mod Explorer](https://www.nexusmods.com/skyrimspecialedition/mods/17563) to 1.13
+- Added [Scouter Corset - SSE CBBE BodySlide (with Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/21392), resolved Issue [#40](https://github.com/erri120/lotus/issues/40)
+- Added [[SE] Team Tal's DM BDOR Mueburus SMP 3BA 1.0.5](https://www.loverslab.com/files/file/11915-se-team-tals-dm-bdor-mueburus-smp-3ba/)
+- Added [Team TAL's BDOR Hamshin SMP 3BA 1.0.0](https://www.loverslab.com/files/file/11997-team-tals-bdor-hamshin-smp-3ba/)
+- Added [Rally's Wall of Kings](https://www.nexusmods.com/skyrimspecialedition/mods/33250)
+- Added [Rally's Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/29179)
 
 ## 0.2.2
 
