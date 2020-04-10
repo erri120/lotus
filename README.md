@@ -1,6 +1,7 @@
 # Lotus
 
 - [Preamble](#preamble)
+  - [Kinks](#kinks)
 - [Requirements](#requirements)
   - [System Specs](#system-specs)
 - [Installation](#installation)
@@ -8,8 +9,8 @@
     - [Steam Config](#steam-config)
       - [Disable the Steam Overlay](#disable-the-steam-overlay)
     - [Change Steams Update Behavior](#change-steams-update-behavior)
-    - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
+    - [Set the Game language to English](#set-the-game-language-to-english)
     - [Start Skyrim](#start-skyrim)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
@@ -17,10 +18,12 @@
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
+    - [Copy LOOT config](#copy-loot-config)
     - [Build BodySlide files](#build-bodyslide-files)
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
   - [SexLab - Frameworks](#sexlab---frameworks)
+  - [Devious Devices](#devious-devices)
   - [BakaFactory](#bakafactory)
   - [SexLab - Animations](#sexlab---animations)
   - [SexLab - Gameplay](#sexlab---gameplay)
@@ -77,7 +80,9 @@
   - [Defeat](#defeat)
   - [Spell Research](#spell-research)
 - [Adding more Mods](#adding-more-mods)
+  - [Using LOOT](#using-loot)
   - [Textures](#textures)
+    - [Skin Textures](#skin-textures)
   - [Meshes](#meshes)
   - [Animations](#animations)
     - [SLAL Animations](#slal-animations)
@@ -88,6 +93,7 @@
 - [Tweaking Performance](#tweaking-performance)
   - [Tweaking the ENB](#tweaking-the-enb)
   - [Tweaking the Game Settings](#tweaking-the-game-settings)
+  - [Using dxvk](#using-dxvk)
 - [Removing the Modlist](#removing-the-modlist)
 - [Contact](#contact)
 - [Contributing](#contributing)
@@ -106,11 +112,22 @@ As a professional scientist in the field of extreme indulgence in bodily pleasur
 
 Now for real: If you want a fully featured and functional Modlist that is playable from start to finish, containing multiple quest, overhauls and sexual mods than you've come to the right GitHub repository.
 
+### Kinks
+
+An important rule when talking about NSFW stuff is: "No kink shaming."
+
+I won't judge you and I understand that some people want different things. Since this is a public modlist and not my private one, I added instructions throughout this README on how to disable various kinks.
+
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
+- [MEGA Account](https://mega.nz) (OPTIONAL BUT HIGHLY RECOMMENDED)
 - A brain, eyes and time to read through this README
+
+You can also install any Wabbajack Modlist without a Nexus Premium account but you will have to download each file manually. I added a MEGA account as an optional requirement because there are some big files on MEGA that need to be downloaded. You don't need one but MEGA has a limit on how much an anonymous user can download.
+
+You can login to various sites using the internal login manager in Wabbajack. It can be accessed using the gear icon in the top right corner. Your credentials are encrypted and can only be decrypted on your machine as your current user, see [`ProtectedData` Class](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.protecteddata?view=netframework-4.8) and [DPAPI](https://en.wikipedia.org/wiki/Data_Protection_API) for more information.
 
 ### System Specs
 
@@ -118,7 +135,7 @@ Now for real: If you want a fully featured and functional Modlist that is playab
 - GPU: >= 1060, you need at least 6GB of VRAM
 - RAM: >= DDR4 with at least 16GBs
 
-Everything should be installed on an SSD that has at least 256GB of space available.
+Everything should be installed on an SSD that has at least 256GB of space available. Also check [Tweaking Performance](#tweaking-performance) if you want more FPS.
 
 ## Installation
 
@@ -140,15 +157,15 @@ SSE is still being updated by Bethesda (they only add Creation Club content). Wh
 
 To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
-#### Set the Game language to English
-
-Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
-
-Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
-
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/`.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/`. You can also use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) br trawz that will clean your installation.
+
+#### Set the Game language to English
+
+Wabbajack will check your game files and make sure that we have the same version. This also means that any other language than English will fail the installation.
+
+Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
 #### Start Skyrim
 
@@ -169,7 +186,7 @@ Let's get to the actual installation. Grab the latest release from [GitHub](http
 
 Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
+Grab the latest release of Wabbajack from [GitHub](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
 
 #### Downloading and Installing
 
@@ -210,13 +227,15 @@ Copy the following files from the `MO2/Game Folder Files` directory to your game
 - `tbb.dll`
 - `tbbmalloc.dll`
 
+#### Copy LOOT config
+
+This modlist actually has LOOT user configs. Can you believe it? Most other modlists do not have those for whatever reason. Anyway, if you want to add mods to this setup you should use LOOT with the config provided.
+
+You can find the config files in the MO2 folder: `MO2/LOOT Config Files`. I recommend creating a backup of your existing `userlist.yaml` in `%localappdata%/LOOT/Skyrim Special Edition` and then replacing it. Check the [Using LOOT](#using-loot) section for more info.
+
 #### Build BodySlide files
 
-As the amount of outfits and BS files grew in this modlist, I made the decision to *not* build and include the meshes. This made the resulting modlist file very small (originally 700+MB) and installation quicker. You should build the outfits in BodySlide with your preset of choice.
-
-In MO2: launch BodySlide from the executable lists, select the `Lotus - All` group, select your preset of choice, optionally: tick the body morph checkbox if you want morphs, batch build all outfits.
-
-BodySlide will give you some choices as to what type of outfit you want to build. The choice is between normal or with physics. Do note that a lot of outfits come with zaps and can be further customized in BodySlide so make sure to check those out.
+As the amount of outfits and BS files grew in this modlist, I made the decision to *not* build and include the meshes. This made the resulting modlist file smaller and installation quicker. You should build the outfits in BodySlide with your preset of choice.
 
 ## Updating
 
@@ -239,19 +258,44 @@ You know this would be first, didn't you...
 
 Since we don't judge your fetishes, I have included [Creature Framework](https://www.loverslab.com/files/file/5462-creature-framework-se/) and [More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/).
 
-[Devious Devices](https://www.loverslab.com/files/file/5878-devious-devices-se-beta/) got an update recently (version 4.3 on 17.02) that made DD actually somewhat playable and working for SKSE 2.0.17 without having to download 4 other files scattered around LL. I have yet to include it since no other mod in this setup has it as a dependency. Once I find a good mod on LL for SSE that requires DD, it will be added to the setup.
-
 [ZAZ](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/) is a requirement for other mods and I have included the [ZAZ 8.0+ CBBE HDT Rev3](https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I) version.
 
 Links:
 
-- [SexLab Framework SE 1.63 - BETA 8 - November 22nd, 2019](https://www.loverslab.com/topic/91861-sexlab-framework-se-163-beta-8-november-22nd-2019/)
-- [SexLab Animation Loader SSE 1.0.0](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/) by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
-- [SexLab Aroused Redux SSE Version 29 2.9](https://www.loverslab.com/files/file/5482-sexlab-aroused-redux-sse-version-29/) by [fishburger67](https://www.loverslab.com/profile/441678-fishburger67/)
-- [Creature Framework SE 1.0.1](https://www.loverslab.com/files/file/5462-creature-framework-se/) original by [Ep1cL3w7z](https://www.loverslab.com/profile/67752-ep1cl3w7z/)
-- [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/) original by [MadMansGun](https://www.loverslab.com/profile/71862-madmansgun/)
-- [ZAZ Animation Packs for SE 1.0.0](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
+- [SexLab Framework SE](https://www.loverslab.com/topic/91861-sexlab-framework-se-163-beta-8-november-22nd-2019/)
+- [SexLab Animation Loader SSE](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/) by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
+- [SexLab Aroused Redux SSE Version](https://www.loverslab.com/files/file/5482-sexlab-aroused-redux-sse-version-29/) by [fishburger67](https://www.loverslab.com/profile/441678-fishburger67/)
+- [Creature Framework SE](https://www.loverslab.com/files/file/5462-creature-framework-se/) original by [Ep1cL3w7z](https://www.loverslab.com/profile/67752-ep1cl3w7z/)
+- [More Nasty Critters Special Edition](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/) original by [MadMansGun](https://www.loverslab.com/profile/71862-madmansgun/)
+- [ZAZ Animation Packs for SE](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
 - [ZAZ 8.0+ CBBE HDT Rev3](https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
+
+### Devious Devices
+
+[Devious Devices](https://www.loverslab.com/topic/99700-devious-devices-se-43/) or DD for short is a very interesting mod and the foundation for [Devious Skyrim](https://www.loverslab.com/topic/30855-devious-skyrim/) (you should definitely read that post) which is a family for SM-themed mods. The conversion to SSE is a bit... funky to say the least but they finally build the SKSE plugin for 2.0.17. The conversion contains all three base mods: [Assets](https://www.loverslab.com/files/file/269-devious-devices-assets/), [Expansion](https://www.loverslab.com/files/file/1305-devious-devices-expansion/) and [Integration](https://www.loverslab.com/files/file/371-devious-devices-integration/).
+
+The outfit conversions in the base DD AIO for SSE are garbage so [3BA Bodyslides for Devious Devices](https://www.loverslab.com/files/file/11938-3ba-bodyslides-for-devious-devices-43-aio/) is included to help with that.
+
+DD alone does not do much as a framework. The biggest gameplay mod for DD is DCL aka [Deviously Cursed Loot](https://www.loverslab.com/topic/33986-deviously-cursed-loot-v85-2020-03-24/). This mod is *huge*. Takes like 20mins to do the MCM and you should, no you must read up on it if you want to use it. I have tried my best at configuring this mod in a way that makes sense and enables you to actually play the game without being tied up, locked up or raped every 5 meters. The main premise of this mods still stands:
+
+> Cursed Loot is a bondage and domination (BD) themed mod that will get you into trouble of the erotic kind when playing Skyrim. Beware when looting containers and defeated enemies in Skyrim!
+
+There are dangers in Skyrim, mainly in Dungeons, that will keep you on guard and are more of an exception than a rule to make them more impactful. I will try tweaking the config more over time so be sure to voice your opinion (see [Contact](#contact)).
+
+Next up is [Deviously Helpless](https://www.loverslab.com/files/file/6561-deviously-helpless-se/) which makes NPCs use the advantage they have when you are literally helpless and bound by some devious device.
+
+The exact opposite is [Devious Devices Helpers](https://www.loverslab.com/files/file/9197-devious-devices-helpers-se/) which counteracts against all the restraints and makes your followers smarter when it comes to restraints.
+
+> While playing with Deviously Cursed Loot and other Devious Devices mods, I found that my character being tied up and helpless was amusing for about five minutes.
+
+This is what I am going for: have fun for some time but then get back to playing the game. The combination of Cursed Loot, Helpless and Helpers should hopefully provide that gameplay experience. The entire thing is still experimental so expect tweaks to come over time.
+
+Links:
+
+- [Devious Devices SE](https://www.loverslab.com/topic/99700-devious-devices-se-43/) by [Kimy](https://www.loverslab.com/profile/454415-kimy/)
+- [3BA Bodyslides for Devious Devices](https://www.loverslab.com/files/file/11938-3ba-bodyslides-for-devious-devices-43-aio/) by [Grummkol](https://www.loverslab.com/profile/2854288-grummkol/)
+- [Deviously Helpless SE](https://www.loverslab.com/files/file/6561-deviously-helpless-se/) original by [Srende](https://www.loverslab.com/profile/184189-srende/) converted by [Roggvir](https://www.loverslab.com/profile/594712-roggvir/)
+- [Devious Devices Helpers SE](https://www.loverslab.com/files/file/9197-devious-devices-helpers-se/) original by [TurboNerd](https://www.loverslab.com/profile/1172444-turbonerd/) converted by [nomkaz](#nomkaz)
 
 ### BakaFactory
 
@@ -1105,9 +1149,36 @@ Click `Import Spells`, close the MCM and click `YES` to every prompt.
 
 ## Adding more Mods
 
+### Using LOOT
+
+I like LOOT. It can be great if you are willing to invest some time in setting up some groups and custom rules. I still can't understand why most modlist authors and "pro modder" refuse to use LOOT, guess they never tried. Anyway: this modlist comes with a ton of custom rules, groups and whatnot to make it even easier adding mods.
+
+You can access the Groups Editor by using the three dots in the top right corner and selecting "Open Groups Editor". The graph will most likely make no sense to you but this is what I use. Some groups are auto-assigned using Regex:
+
+- "Enemy Variations": `^(Enemy\sVariations)\s(V3|V4)\s-\s(?!NPCs)(?!Weapons)(?!Armor)[^\.]+\.(esp|esl)$`
+- "Enemy Variations - Armor": `^(Enemy\sVariations)\s(V3|V4)\s-\s(Armor)[^\.]+\.(esp|esl)$`
+- "Enemy Variations - NPCs": `^(Enemy\sVariations)\s(V3|V4)\s-\s(NPCs)(?!\s-\sResourcesSSE)(?!\s-\sTextures)[^\.]*\.(esp|esl)$`
+- "Enemy Variations - Weapons": `^(Enemy\sVariations)\s(V3|V4)\s-\s(Weapons)[^\.]+\.(esp|esl)$`
+- "kryptopyr's Patches": `^(CACO|TCIY|CCOR|WACCF|SPO)[\s_][^P]?(Patch)?[^\.]*\.(esp|esl)$` [Example](https://regex101.com/r/9VXgiY/1)
+- "LotD Patches": `^(DBM|BCS)_(?!RelicHunter)[^\.]+\.(esp|esl)$` [Example](https://regex101.com/r/o7VOiZ/1)
+- "OCW": `^(OCW_)(?!Obscure''s_CollegeofWinterhold)(?!CellSettings)[^\.]+\.(esp|esl)$` [Example](https://regex101.com/r/T5qHVh/1)
+- "QUASIPC": `^(Qw_)[^\.]+\.(esp|esl)$` [Example](https://regex101.com/r/sITg6c/1)
+- "erri120 Patches": `^(erri120_)[^-]*(-Patch)[^!](esp|esl)$` [Example](https://regex101.com/r/OP6Acn/1)
+- "Merges": `^[^-]+(\s-\sMerged).(esp|esl)$` [Example](https://regex101.com/r/hilhlv/1)
+
+When adding a new mod with an esp, go into LOOT, use the three dots next to the plugin, click "Edit Metadata", go to the "Main" tab and assign it a group. The group names make somewhat sense like "Outfits", "Followers", "Accessories" or "Weapons". If you're in doubt ask on the discord or use the "default" group.
+
+After assigning a plugin to a group sort the load oder.
+
 ### Textures
 
 Textures are by far the easiest mods to install. Simply install the mod and check what other mod also changes the same textures in MO2. The only textures that could be problematic are landscape/environment textures like new mountain textures.
+
+#### Skin Textures
+
+You might not like the default skins (see [Character Mods](#character-mods)) but there is one thing you need to be careful about: seams.
+
+If you change the default female texture, take a look at [this](https://www.loverslab.com/topic/137830-easy-way-to-make-seamless-sos-textures/) post on how to make seamless SOS textures.
 
 ### Meshes
 
@@ -1131,7 +1202,7 @@ Simply install the new animations and re-run FNIS. You might want to take a look
 
 (check the [Poses](#poses) section first)
 
-Aside from simply running FNIS, there are some actions you might want to execute:
+Aside from simply running Nemesis, there are some actions you might want to execute:
 
 You need to do a little work if you want to fully integrate additional pose mods into this setup. The first thing you should do is check compatibility with [Poser Hotkeys SE](https://www.loverslab.com/files/file/5132-poser-hotkeys-se/). Poser Hotkeys requires `PoserData` (see `SKSE/plugins/PoserHotKeys/PoserData/*.json`) which can be generated with the `PoserDataGen` tool (see the executable list).
 
@@ -1143,9 +1214,9 @@ Another thing you might want to consider is merging the plugin into the `Poses -
 
 Another category of mods you can easily add to this setup. You only have to make sure that the outfits fit the character body (see [Character Mods](#character-mods)). It's also a good idea to find BodySlide files for that outfit so you can customize it.
 
-Install the outfit and, optionally but highly recommended, merge the outfit in the `Armor - Merged` merge. Use the `Merge Plugins Hide` to activate all plugins from that merge, open zMerge, add the esp to the merge and rebuild it. Make sure you disable all plugins with `Merge Plugin Hide` when you're finished.
+Install the outfit and, optionally but highly recommended, merge the outfit in the `Outfits - Merged` merge. Use the `Merge Plugins Hide` to activate all plugins from that merge, assing the new plugin to the Outfits LOOT group (see [Using LOOT](#using-loot)), sort with LOOT, open zMerge, add the esp to the merge and rebuild it. Make sure you disable all plugins with `Merge Plugin Hide` when you're finished.
 
-I recommend you take a look at [this](https://www.patreon.com/file?h=21212492&i=3571021) PDF if you want to fully integrate the outfit into the setup. If the outfit contains high heels, check out [Heels Sound](https://www.loverslab.com/files/file/1795-heels-sound/) and change the Footstep Set of the Armor Addon to `AngelFSTHeelsFootstepSet`.
+If the outfit contains high heels, check out [Heels Sound](https://www.loverslab.com/files/file/1795-heels-sound/) and change the Footstep Set of the Armor Addon to `AngelFSTHeelsFootstepSet`.
 
 ### ENB
 
@@ -1172,7 +1243,7 @@ My Setup:
 - i7-7700k running at ~4.6 GHz
 - 1060 6GB OC to ~1800MHz
 - 16GB DDR4-3200 RAM
-- Game and MO2 running on an SSD
+- Game and MO2 running on an m.2
 
 ### Tweaking the ENB
 
@@ -1193,13 +1264,32 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 - `Detailed Draw Distance`: Maybe try `2000` instead of `2800` but you won't notice a lot of FPS gain (maybe 1-3)
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
 
+### Using dxvk
+
+**THIS IS EXPERIMENTAL AND I WON'T PROVIDE SUPPORT**!
+
+[DXVK](https://github.com/doitsujin/dxvk) is a Vulkan-based implementation of various DirectX versions. Did that sentence made no sense to you? Vulkan and DirectX are APIs that can be used in game engines to tell your graphics card how to display stuff. LE uses DirectX 9 (D3D9) while SSE uses DirectX 11 (D3D11).
+
+You can _try_ using DXVK. Vulkan runs better on AMD cards and better than D3D9 games. SSE is D3D11 so it may not even work for you. I recommend not using DXVK if you don't want to tinker with it but you are welcome to try it out.
+
+To use it, grab the latest [release](https://github.com/doitsujin/dxvk/releases), extract the archive and grab `x64/d3d11.dll` and `x64/dxgi.dll`. ENB might not be compatible with DXVK so I recommend trying it without one first. Copy those files into the main Skyrim folder and download this [dxvk.conf](https://pastebin.com/KAgwsbBf) file. This is the config file that works on my system so you might wanna tweak it for yours.
+
+If you do wanna use an ENB and you made DXVK work without an ENB, rename `d3d11.dll` to `d3d11_dxvk.dll`, install an ENB, open `enblocal.ini` and add `d3d11_dxvk.dll` as a proxy libaray:
+
+```ini
+[PROXY]
+EnableProxyLibrary=true
+InitProxyFunctions=true
+ProxyLibrary=d3d11_dxvk.dll
+```
+
 ## Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/erri120/lotus/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/erri120/lotus/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 ## Contributing
 
