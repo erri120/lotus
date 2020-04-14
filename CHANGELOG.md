@@ -12,41 +12,15 @@
 
 ## 0.3.0
 
-**Released at:** `00.03.2020`
+**Released at:** `00.04.2020`
 
 **Info**:
 
+This update is huge. This is pretty much a completely different modlist and I overhauled like everything. New game is obviously required. Most notable changes I'd say are the reworked combat, addition of Devious Devices and changes to the general gameplay via Adamant, Experience and Enemy Variations.
+
 **Changes**:
 
-- Updated [Psyche Animation](https://www.loverslab.com/files/file/11477-psyche-animation-lesse/) to 1.0.7
-- Updated [Sexlab Approach Redux](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se/) to 1.302
-- Updated [AddItemMenu - Ultimate Mod Explorer](https://www.nexusmods.com/skyrimspecialedition/mods/17563) to 1.13
-- Updated [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983/) to 2.2.2
-- Updated [Cathedral - Water](https://www.nexusmods.com/skyrimspecialedition/mods/22962/) to 3.0
-- Updated [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967) to 1.7
-- Updated [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791/) to 2.22
-- Updated [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174/) to 1.35
-- Updated [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076/) to 2.6.2
-- Updated [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688) to 3.7.4
-- Updated [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052) to 2.9
-- Updated [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201) to 5.0.0
-- Updated [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) to 5.0.32
-- Updated [Glorious Doors of Skyrim (GDOS)](https://www.nexusmods.com/skyrimspecialedition/mods/32376) to 1.04
-- Updated [Better Dynamic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/9121) to 2.10.1
-- Updated [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230) to 5.1.1
-- Updated [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294) to 13
-- Added [Scouter Corset - SSE CBBE BodySlide (with Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/21392), resolved Issue [#40](https://github.com/erri120/lotus/issues/40)
-- Added [[SE] Team Tal's DM BDOR Mueburus SMP 3BA 1.0.7](https://www.loverslab.com/files/file/11915-se-team-tals-dm-bdor-mueburus-smp-3ba/)
-- Added [Team TAL's BDOR Hamshin SMP 3BA 1.0.0](https://www.loverslab.com/files/file/11997-team-tals-bdor-hamshin-smp-3ba/)
-- Added [Rally's Wall of Kings](https://www.nexusmods.com/skyrimspecialedition/mods/33250)
-- Added [Rally's Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/29179)
-- Added [Rosa Round-Bottom](https://www.nexusmods.com/skyrimspecialedition/mods/13209), resolved Issue [#37](https://github.com/erri120/lotus/issues/37)
-- Added [CleverCharff's Windhelm 500 Memorial Wall 4K 2K](https://www.nexusmods.com/skyrimspecialedition/mods/33442)
-- Added [4K HQ Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/33456)
-- Added [HD Meshes and Textures for Animal and Creature Drops](https://www.nexusmods.com/skyrimspecialedition/mods/33791)
-- Added [Floating Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14332)
-- Replaced [Rens HD Shrines](https://www.nexusmods.com/skyrimspecialedition/mods/13572) with [https://www.nexusmods.com/skyrimspecialedition/mods/13572](https://www.nexusmods.com/skyrimspecialedition/mods/33394)
-- Removed [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220)
+Too many.
 
 ## 0.2.2
 
