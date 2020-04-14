@@ -1208,7 +1208,7 @@ Click `Import Spells`, close the MCM and click `YES` to every prompt.
 
 I like LOOT. It can be great if you are willing to invest some time in setting up some groups and custom rules. I still can't understand why most modlist authors and "pro modder" refuse to use LOOT, guess they never tried. Anyway: this modlist comes with a ton of custom rules, groups and whatnot to make it even easier adding mods.
 
-You can access the Groups Editor by using the three dots in the top right corner and selecting "Open Groups Editor". The graph will most likely make no sense to you but this is what I use. Some groups are auto-assigned using Regex:
+You can access the Groups Editor by using the three dots in the top right corner and selecting "Open Groups Editor". The graph will most likely make no sense to you but this is what I use. Some groups are auto-assigned using Regex. If you have no idea what Regex than don't even bother trying to understand it.
 
 - "Enemy Variations": `^(Enemy\sVariations)\s(V3|V4)\s-\s(?!NPCs)(?!Weapons)(?!Armor)[^\.]+\.(esp|esl)$`
 - "Enemy Variations - Armor": `^(Enemy\sVariations)\s(V3|V4)\s-\s(Armor)[^\.]+\.(esp|esl)$`
@@ -1220,6 +1220,8 @@ You can access the Groups Editor by using the three dots in the top right corner
 - "QUASIPC": `^(Qw_)[^\.]+\.(esp|esl)$` [Example](https://regex101.com/r/sITg6c/1)
 - "erri120 Patches": `^(erri120_)[^-]*(-Patch)[^!](esp|esl)$` [Example](https://regex101.com/r/OP6Acn/1)
 - "Merges": `^[^-]+(\s-\sMerged).(esp|esl)$` [Example](https://regex101.com/r/hilhlv/1)
+
+Some notes about using Regex in LOOT: there are still some problems, see [this](https://github.com/loot/loot/issues/1193) and [this](https://github.com/loot/libloot/issues/64), and you can't override a regex group assignment.
 
 When adding a new mod with an esp, go into LOOT, use the three dots next to the plugin, click "Edit Metadata", go to the "Main" tab and assign it a group. The group names make somewhat sense like "Outfits", "Followers", "Accessories" or "Weapons". If you're in doubt ask on the discord or use the "default" group.
 
