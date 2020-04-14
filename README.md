@@ -38,6 +38,8 @@
     - [Magic](#magic)
   - [EnaiSiaion](#enaisiaion)
   - [Skills, Perks and More](#skills-perks-and-more)
+  - [Various Gameplay Mods](#various-gameplay-mods)
+  - [Wench Mods](#wench-mods)
   - [Quest Mods](#quest-mods)
   - [Character Mods](#character-mods)
   - [NPC Retextures](#npc-retextures)
@@ -308,7 +310,7 @@ Links:
 
 ### BakaFactory
 
-`BakaFactory`/`factoryclose`/`바보공장` is the creator of many mods used in this setup. I **highly recommend** checking out the [Patreon](https://www.patreon.com/BaboFactory) page and [Discord server](https://discord.gg/gbHGCgB).
+`BakaFactory`/`factoryclose`/`바보공장` is the creator of many mods used in this setup. I **highly recommend** checking out the [Patreon](https://www.patreon.com/BaboFactory) page and [Discord server](https://discord.gg/gbHGCgB) (English), [Korean only](https://discord.gg/DgtQmn).
 
 Mods used:
 
@@ -383,6 +385,7 @@ Links:
 You may have seen his name pop up a few hundred times when browsing the [Skyrin: Special Edition](https://www.loverslab.com/files/category/163-skyrim-special-edition/) category on LoversLab. This dude converted everything. Check his profile and leave a nice comment for all his work!
 
 - [LL Profile](https://www.loverslab.com/profile/2695162-nomkaz/)
+- [Patreon](https://www.patreon.com/nomkazsskyrimsemods)
 
 ### Camera
 
@@ -451,7 +454,7 @@ Links:
 
 #### Archery
 
-Can't have a setup without [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296) and [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881).
+Can't have a setup without [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296) and [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881). I wish I had more to say but I don't. Archery is kinda weird in Skyrim as it is rather one dimensional. The meme about how you only go stealth archer in Skyrim still holds up and is still op but I think you don't want to go an archer in this modlist when the other combat parts are more attractive.
 
 #### Magic
 
@@ -521,6 +524,62 @@ Links:
 - [Special Perks from Questing (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/29402) by [AlanPaul](https://www.nexusmods.com/users/22933884)
 - [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) by [z4x](https://www.nexusmods.com/users/1205545)
 
+### Various Gameplay Mods
+
+These mods do not really fit in the other categories and but are still important.
+
+Starting with a mod you don't even see in MO2: [Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/32211) which is a zEdit patcher that delevels enemies based on what faction they are part of. I will tweak this patcher based on featback I receive and my own testing so it may be a bit unbalanced at the moment.
+
+Next I'm gonna take a page out of [SkyRem](https://www.nexusmods.com/skyrimspecialedition/mods/26789) by [DrPharmDawg](https://www.nexusmods.com/skyrimspecialedition/users/19562249) ([Patreon](https://www.patreon.com/user?u=16576878)) and use [Improved NPC Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/27103), [Evolving Value Economy](https://www.nexusmods.com/skyrimspecialedition/mods/26325) and [Loot Overhaul - Rarity and Abundancy](https://www.nexusmods.com/skyrimspecialedition/mods/26732).
+
+(Sidenote: I love how every mod in Skyrim needs to have some sort of acroynm in their title for no reason at all)
+
+Anyway, INEZ reworks the encounter zones, LORA overhauls the Loot and is a replacement to [MLU](https://www.nexusmods.com/skyrimspecialedition/mods/3058/?) and EVE + [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) add more spice and complexity to the economy and trading system.
+
+Links:
+
+- [Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/32211) by [tjhm4](https://www.nexusmods.com/skyrimspecialedition/users/822500)
+- [Improved NPC Encounter Zones (SkyRem - Inez)](https://www.nexusmods.com/skyrimspecialedition/mods/27103) by [DrPharmDawg](https://www.nexusmods.com/skyrimspecialedition/users/19562249) by [tjhm4](https://www.nexusmods.com/skyrimspecialedition/users/822500)
+- [Evolving Value Economy (SkyRem - Eve)](https://www.nexusmods.com/skyrimspecialedition/mods/26325) by [tjhm4](https://www.nexusmods.com/skyrimspecialedition/users/822500)
+- [Loot Overhaul - Rarity and Abundancy (SkyRem - Lora)](https://www.nexusmods.com/skyrimspecialedition/mods/26732) by [tjhm4](https://www.nexusmods.com/skyrimspecialedition/users/822500)
+- [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) by [kryptopyr](https://www.nexusmods.com/skyrimspecialedition/users/4291352)
+
+### Wench Mods
+
+You read that correctly: I'm talking of course about the Wenches lineup by Kozuke Hajime.
+
+Starting with [Immersive Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/595), the baseline and requirement for all mods in this section.
+
+The Wench lineup adds wenches into Skyrim. The mods in that lineup focus on different factions:
+
+- [Deadly Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/599): various factions like Bandits, Vampires, Guards, Soldiers and Forsworn
+- [Hateful Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/600): Draugr faction
+- [Forgotten Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/601): Falmer faction
+- [Judgment Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/602): Dwemer faction
+
+Hateful, Forgotten and Judgment Wenches are different to Deadly Wenches. They are not tied to the level list but are summoned by members of their faction. This can make a fight very messy if the spawn rates are off so expect more tweaking here.
+
+The final mod in this section is [Enemy Variations Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/23006) made by someone who really loves argonians. This mod is massive. This adds nearly 6000 NPCs of every race to level lists. V4 recently came out which made me consider adding it.
+
+Kozuke Hajime profile:
+
+- [Nexus](https://www.nexusmods.com/skyrimspecialedition/users/2618380)
+- [Patreon](https://www.patreon.com/KozukeHajime/overview)
+- [Twitter](https://twitter.com/KozukeHajime)
+- [Discord](https://www.discord.gg/v44hd6y)
+- [Twitch](https://www.twitch.tv/kozukehajime)
+- [Merch?](https://www.redbubble.com/people/kozukehajime/collections/1056836-buxom-wenches?product_type=sticker&asc=u)
+- [Subscribe Star?](https://subscribestar.adult/kozuke-hajime)
+
+Links:
+
+- [Immersive Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/595)
+- [Deadly Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/599)
+- [Hateful Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/600)
+- [Forgotten Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/601)
+- [Judgment Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/602)
+- [Enemy Variations Wenches](https://www.nexusmods.com/skyrimspecialedition/mods/23006) by [HellLizard](https://www.nexusmods.com/skyrimspecialedition/users/696611)
+
 ### Quest Mods
 
 Aside from the quest mods mentioned in [SL Gameplay](#sexlab---gameplay), there are some _normal_ quests you can play through. The biggest one being [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). I don't think I need to explain why that mod is included in this setup.
@@ -528,6 +587,8 @@ Aside from the quest mods mentioned in [SL Gameplay](#sexlab---gameplay), there 
 Aside from Lotd you get the continuation of one of my favorites quest mods for Oblivion: [Maids 2](https://www.nexusmods.com/skyrimspecialedition/mods/189).
 
 [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) is the dwemer quest mod in this setup and [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) will give you a nice player home and some spooky events.
+
+**Important info about Clockwork**: Clockwork will lock you out of Skyrim for a considerable amount of time. The clockwork quest begins with a random event when your character is at least level 5. You will get a note to investigate a landslide in Eastmarch.
 
 The vanilla quests are not being left alone: The _For Good Guys_ lineup with [Dark Brotherhood for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/519), [Thieves Guild For Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/10745), [Namira for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/336) and [Boethiah for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/329) is included as well.
 
@@ -682,7 +743,7 @@ And boi do we go slutty with the next one: [The Amazing World of Bikini Armor](h
 
 [Realistic Eyeglasses](https://www.nexusmods.com/skyrimspecialedition/mods/11807) is a mod which I always want to add but never find for some reason. Whenever I start a new modding setup for Skyrim and start downloading outfits, I always look forward to getting this mod but forget the name once I actually search for it. Anyways, those are the best eyeglasses you will find on Nirn. Do they fit this Modlist? Maybe. I fucking love them so deal with it.
 
-[Team TAL](https://www.patreon.com/takealook) puts amazing outfits from other games into Skyrim, they mostly create LE mods but their recent [(LE) The Witcher Caranthir](https://www.patreon.com/posts/le-9204-witcher-33243302) outfit got ported to SSE with SMP and BodySlide for CBBE by Rektas: [(SE) The Witcher Caranthir](https://www.patreon.com/posts/se-9204-witcher-34073570).
+[Team TAL](https://www.patreon.com/takealook) puts amazing outfits from other games into Skyrim, they mostly create LE mods but they sometimes get ported to SSE with SMP and BodySlide for CBBE.
 
 Links:
 
@@ -691,7 +752,6 @@ Links:
 - [Jeir on Nexus Mods](https://www.nexusmods.com/users/84177)
 - [docteure and Jeir on Patreon](https://www.patreon.com/docteur87andJeir)
 - [Team TAL on Patreon](https://www.patreon.com/takealook)
-- Rektas: [Patreon](https://www.patreon.com/Rektas), [Twitter](https://twitter.com/s1kkha), [Nexus Mods](https://www.nexusmods.com/users/26327699) (inactive), [Tumblr](https://s1kkha.tumblr.com/)
 
 ### Weapon Mods
 
@@ -1236,8 +1296,8 @@ ENBs that maybe work with Cathedral Weathers:
 My Setup:
 
 - i7-7700k running at ~4.6 GHz
-- 1060 6GB OC to ~1800MHz
-- 16GB DDR4-3200 RAM
+- 1060 6GB overclocked to ~1800MHz (got +160 Core Clock and +400 on Memory Clock)
+- 16GB DDR4-3200 RAM (CL 14 iirc)
 - Game and MO2 running on an m.2
 
 ### Tweaking the ENB
@@ -1261,11 +1321,11 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 
 ### Using dxvk
 
-**THIS IS EXPERIMENTAL AND I WON'T PROVIDE SUPPORT**!
+**THIS IS EXPERIMENTAL AND I WON'T PROVIDE SUPPORT IF YOU USE IT**!
 
-[DXVK](https://github.com/doitsujin/dxvk) is a Vulkan-based implementation of various DirectX versions. Did that sentence made no sense to you? Vulkan and DirectX are APIs that can be used in game engines to tell your graphics card how to display stuff. LE uses DirectX 9 (D3D9) while SSE uses DirectX 11 (D3D11).
+[DXVK](https://github.com/doitsujin/dxvk) is a Vulkan-based implementation of various DirectX versions. Did that sentence made no sense to you? Vulkan and DirectX are APIs that can be used in game engines to tell your graphics card how to render stuff. LE uses DirectX 9 (D3D9) while SSE uses DirectX 11 (D3D11).
 
-You can _try_ using DXVK. Vulkan runs better on AMD cards and better than D3D9 games. SSE is D3D11 so it may not even work for you. I recommend not using DXVK if you don't want to tinker with it but you are welcome to try it out.
+You can _try_ using DXVK. Vulkan runs better on AMD cards and better for D3D9 games. SSE is D3D11 so it may not even work for you. I recommend not using DXVK if you don't want to tinker with it but you are welcome to try it out.
 
 To use it, grab the latest [release](https://github.com/doitsujin/dxvk/releases), extract the archive and grab `x64/d3d11.dll` and `x64/dxgi.dll`. ENB might not be compatible with DXVK so I recommend trying it without one first. Copy those files into the main Skyrim folder and download this [dxvk.conf](https://pastebin.com/KAgwsbBf) file. This is the config file that works on my system so you might wanna tweak it for yours.
 
