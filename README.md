@@ -27,14 +27,15 @@
   - [BakaFactory](#bakafactory)
   - [SexLab - Animations](#sexlab---animations)
   - [SexLab - Gameplay](#sexlab---gameplay)
-  - [Thief](#thief)
   - [SexLab - Others](#sexlab---others)
   - [Nomkaz](#nomkaz)
   - [Camera](#camera)
   - [Nemesis vs FNIS](#nemesis-vs-fnis)
-  - [Combat - Melee](#combat---melee)
-  - [Combat - Archery](#combat---archery)
-  - [Combat - Magic](#combat---magic)
+  - [Combat](#combat)
+    - [Unarmed](#unarmed)
+    - [Melee](#melee)
+    - [Archery](#archery)
+    - [Magic](#magic)
   - [EnaiSiaion](#enaisiaion)
   - [Skills, Perks and More](#skills-perks-and-more)
   - [Quest Mods](#quest-mods)
@@ -122,6 +123,7 @@ I won't judge you and I understand that some people want different things. Since
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
+- [VectorPlexus Account](https://vectorplexus.com/)
 - [MEGA Account](https://mega.nz) (OPTIONAL BUT HIGHLY RECOMMENDED)
 - A brain, eyes and time to read through this README
 
@@ -258,7 +260,7 @@ You know this would be first, didn't you...
 
 Since we don't judge your fetishes, I have included [Creature Framework](https://www.loverslab.com/files/file/5462-creature-framework-se/) and [More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/).
 
-[ZAZ](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/) is a requirement for other mods and I have included the [ZAZ 8.0+ CBBE HDT Rev3](https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I) version.
+[ZAZ](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/) is a requirement for other mods so you get that and the [ZAZ 8.0+ CBBE HDT Rev3](https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I) version.
 
 Links:
 
@@ -290,24 +292,26 @@ The exact opposite is [Devious Devices Helpers](https://www.loverslab.com/files/
 
 This is what I am going for: have fun for some time but then get back to playing the game. The combination of Cursed Loot, Helpless and Helpers should hopefully provide that gameplay experience. The entire thing is still experimental so expect tweaks to come over time.
 
+Some big DD mods like [Sanguines Debauchery](https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/#comments) are not yet ready for SSE so the only DD quest mod included at the moment is [The Sisterhood of Dibella](https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/page/7/?tab=comments#comment-2860872).
+
 Links:
 
-- [Devious Devices SE](https://www.loverslab.com/topic/99700-devious-devices-se-43/) by [Kimy](https://www.loverslab.com/profile/454415-kimy/)
+- [Devious Devices SE](https://www.loverslab.com/topic/99700-devious-devices-se-43/)
 - [3BA Bodyslides for Devious Devices](https://www.loverslab.com/files/file/11938-3ba-bodyslides-for-devious-devices-43-aio/) by [Grummkol](https://www.loverslab.com/profile/2854288-grummkol/)
 - [Deviously Helpless SE](https://www.loverslab.com/files/file/6561-deviously-helpless-se/) original by [Srende](https://www.loverslab.com/profile/184189-srende/) converted by [Roggvir](https://www.loverslab.com/profile/594712-roggvir/)
 - [Devious Devices Helpers SE](https://www.loverslab.com/files/file/9197-devious-devices-helpers-se/) original by [TurboNerd](https://www.loverslab.com/profile/1172444-turbonerd/) converted by [nomkaz](#nomkaz)
+- [The Sisterhood of Dibella](https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/page/7/?tab=comments#comment-2860872) original by [DeepBlueFrog](https://www.loverslab.com/profile/159469-deepbluefrog/) converted by [nomkaz](#nomkaz)
 
 ### BakaFactory
 
-`BakaFactory`/`factoryclose`/`바보공장` is the creator of many mods used in this setup. I **highly recommend** checking out the [Patreon](https://www.patreon.com/BaboFactory) page and [Discord](https://discord.gg/gbHGCgB) server.
+`BakaFactory`/`factoryclose`/`바보공장` is the creator of many mods used in this setup. I **highly recommend** checking out the [Patreon](https://www.patreon.com/BaboFactory) page and [Discord server](https://discord.gg/gbHGCgB).
 
 Mods used:
 
 - [SexLabAroused Redux V28b SSE Modified by BakaFactory](https://drive.google.com/file/d/1SlvS2KRY6UscQisro8GEskwCCKg4Wa3G/view)
-- [Animated Beast's Cocks(ABC) For users LE / SE 1.44V](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/)
-- [BakaFactory's SLAL Animation LE / SSE 3.1V](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/)
-- [SexLab Defeat Addon by BakaFactory 1.01V SE English](https://www.patreon.com/posts/32912602)
-- [SexLab Approach Redux by BakaFactory LE / SE 1.25V](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se)
+- [Animated Beast's Cocks(ABC) For users LE / SE](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/)
+- [BakaFactory's SLAL Animation LE / SSE](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/)
+- [SexLab Defeat Addon by BakaFactory SE English](https://www.patreon.com/posts/32912602)
 
 ### SexLab - Animations
 
@@ -315,14 +319,14 @@ Mods used:
 
 Links:
 
-- [More Nasty Critters Special Edition 12.01](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/) original by [MadMansGun](https://www.loverslab.com/profile/71862-madmansgun/)
-- [ZAZ Animation Packs for SE 1.0.0](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
-- [BakaFactory's SLAL Animation LE / SSE 3.1V](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/) by [BakaFactory](#bakafactory)
-- [Psyche Animation (LE/SSE) 1.0.5](https://www.loverslab.com/files/file/11477-psyche-animation-lesse/) by [PsycheHHH](https://www.loverslab.com/profile/1643961-psychehhh/)
+- [More Nasty Critters Special Edition](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/) original by [MadMansGun](https://www.loverslab.com/profile/71862-madmansgun/)
+- [ZAZ Animation Packs for SE](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
+- [BakaFactory's SLAL Animation LE / SSE](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/) by [BakaFactory](#bakafactory)
+- [Psyche Animation (LE/SSE)](https://www.loverslab.com/files/file/11477-psyche-animation-lesse/) by [PsycheHHH](https://www.loverslab.com/profile/1643961-psychehhh/)
 
 ### SexLab - Gameplay
 
-All those animations and features from the frameworks need to be used somewhere. A lot of big quest mod are still not converted and it will take some time for LL to make the switch to SSE. That being said, the _biggest_ quest mods in this setup are [Thief](#thief) and [From The Deeps](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/). Ask innkeepers for some rumors to pick up From The Deeps, a lovecraft-like story! [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) is also included, because it's funny. [Bestial Essence](https://www.loverslab.com/files/file/10036-bestial-essence-se/) for all beast lovers.
+All those animations and features from the frameworks need to be used somewhere. A lot of big quest mod are still not converted and it will take some time for LL to make the switch to SSE. That being said, the _biggest_ quest mods in this setup is [From The Deeps](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/). Ask innkeepers for some rumors to pick up From The Deeps, a lovecraft-like story! [Amorous Adventures](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) is also included, because it's funny. [Bestial Essence](https://www.loverslab.com/files/file/10036-bestial-essence-se/) for all beast lovers.
 
 The vanilla quests are not being left alone! [SexLab Solutions](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) will offer additional dialog that may lead to some _interesting_ outcomes and [The Book of Sex](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/) changes the vanilla quest "The Book of Love".
 
@@ -330,62 +334,30 @@ If you want some _wholesomeness_ than take a look at the included [Spouses Enhan
 
 The complete opposite of wholesome are [Defeat](https://www.loverslab.com/files/file/9152-sexlab-defeat-sse/), [Simple Slavery](https://www.loverslab.com/files/file/6535-simple-slavery-plus-se/) and [Radiant Prostitution](https://www.loverslab.com/files/file/10046-radiant-prostitutiongigolo-se/). Do note that I am using [Sexlab Defeat Baka Edition](https://www.patreon.com/posts/32912602) instead of normal Defeat.
 
-[Sexlab Approach Redux](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se) uses the new keywords of [SexLabAroused Redux Modified by BakaFactory](https://drive.google.com/file/d/1SlvS2KRY6UscQisro8GEskwCCKg4Wa3G/view) to cure the blindness of all NPCs around you. From the mod page:
-
-> Now when certain conditions are met, npcs will chase after you and ask something. Some of them are after solidifying a friendship or some of them are just after your sexy body and want to have sex with you. Sometimes these chasings get messy and the relationship can be broken at some point. And they will hate you, or they will even attempt to rape you.
-> Now what are you gonna do? Accept their offers without hesitation, which will make you vulnerable and then it makes you let them enjoy your body regardless of your will? Or will you decline every each one of them and act like an asshole? An aggressive, stubborn girl would do that. But they will hate you at the end and they are highly likely to try to rape you. It could be way more complicated when you are pretty.
-
-Do note that this mod is female-oriented. [Sexlab Approach Redux for HIM](https://www.loverslab.com/files/file/10074-sexlab-approach-redux-for-him-se/) exists but I have yet to include it.
+To round out this composition you get another classic mod: [Estrus](https://www.nexusmods.com/skyrimspecialedition/mods/12832). This mod was originally created for Oblivion then got remade in Skyrim and ported to SSE. [Estrus Chaurus+](https://www.loverslab.com/files/file/6160-estrus-chaurus-for-se/) is also included since it has triggers for [Cursed Loot](#devious-devices).
 
 Links:
 
-- [FROM THE DEEPS (for SSE) 2.6](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/) by [Delzaron](https://www.loverslab.com/profile/484102-delzaron/)
-- [Amorous Adventures 3.4 SSE for lovers lab](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) original by [FoxFingers](https://www.loverslab.com/profile/364691-foxfingers/), ported by [vitasgo](https://www.loverslab.com/profile/59513-vitasgo/)
-- [Bestial Essence SE 0.3](https://www.loverslab.com/files/file/10036-bestial-essence-se/) original by [Carabosse](https://www.loverslab.com/profile/72736-carabosse/), ported by [Nomkaz](#nomkaz)
-- [SexLab Solutions - Revisited SE 1.0.2](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) original by [janbui](https://www.loverslab.com/profile/3489852-janbui/), ported by [Nomkaz](#nomkaz)
-- [The Book Of Sex SE 1.0.0](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/) original by [vinfamy](https://www.loverslab.com/profile/1091843-vinfamy/) and ported by [Nomkaz](#nomkaz)
-- [Spouses Enhanced SE 1.7.3](https://www.loverslab.com/files/file/5266-spouses-enhanced-se/) original by [TheDudeGuy](https://www.loverslab.com/profile/103310-thedudeguy/), updated by [WraithSlayer](https://www.loverslab.com/profile/348228-wraithslayer/) and ported by [ashakiri](https://www.loverslab.com/profile/1235636-ashakiri/)
-- [Sexlab Defeat SSE 5.3.5](https://www.loverslab.com/files/file/9152-sexlab-defeat-sse/) by [Goubo](https://www.loverslab.com/profile/175859-goubo/)
-- [Simple Slavery Plus SE 6.01](https://www.loverslab.com/files/file/6535-simple-slavery-plus-se/) original by [jfraser](https://www.loverslab.com/profile/155791-jfraser/), updated by [Lozeak](https://www.loverslab.com/profile/62468-lozeak/) and ported by [Jman3000](https://www.loverslab.com/profile/457751-jman3000/)
-- [Radiant Prostitution/Gigolo SE 4.0 LITE](https://www.loverslab.com/files/file/10046-radiant-prostitutiongigolo-se/) original by [-Caden-](https://www.loverslab.com/profile/1328836-caden/) ported by [Nomkaz](#nomkaz)
-- [Sexlab Defeat Baka Edition 1.01V LE/SE](https://www.patreon.com/posts/32912602) by [BakaFactory](#bakafactory)
-- [Sexlab Approach Redux by BakaFactory LE / SE 1.25V](https://www.loverslab.com/files/file/8077-sexlab-approach-redux-by-bakafactory-le-se) by [BakaFactory](#bakafactory)
-
-### Thief
-
-**Important notes about Thief**:
-
-I converted it from Oldrim to Special Edition. The conversion is not perfect and the author said they will port it themselves once the mod is finished. [Brewmasterhal](https://www.loverslab.com/profile/1656-brewmasterhal/) made an FAQ+Walkthrough [here](https://www.loverslab.com/topic/77152-thief/?do=findComment&comment=2820134). It is important that you read the mod page, especially the Compatibility section if you want to play this quest.
-
-**Tips when playing Thief**:
-
-- see the [Thief](#dogma---thief) MCM settings before starting the quest!
-- don't use other mods during the quest and don't start anything else. Only play this quest after you started it
-- try to always be in 3rd person during scenes
-- you often have no control in scenes so don't try slamming your head against your keyboard, just chill and enjoy the show
-- try not to clip through the characters using the camera, just set it to a position where you see everything and then chill
-
-**Tips for certain events**:
-
-(events are in spoilers so only read when you're at that point)
-
-<details>
-<summary>Drunk Effect</summary>
-The effect lasts 12hs. I highly recommend you wait 12hs after you found some clothes.
-</details>
-
-<details>
-<summary>Before you go to the prison in Riften</summary>
-This is where I had the most, or rather all CTDs. Before you go to the prison in Riften and report the crime make sure the drunk effect is not active (see the prior tip). DO NOT use the sex option when trying to get into the prison. Use the "I want to report a crime" option. Save whenever you have the chance!
-</details>
-
-Links:
-
-- [Thief](https://www.loverslab.com/files/file/4027-thief/) by [Dogma](https://www.loverslab.com/profile/1848469-dogmamods/)
+- [FROM THE DEEPS (for SSE)](https://www.loverslab.com/files/file/8663-from-the-deeps-for-sse/) by [Delzaron](https://www.loverslab.com/profile/484102-delzaron/)
+- [Amorous Adventures SSE for lovers lab](https://www.loverslab.com/topic/109518-amorous-adventures-34-sse-for-lovers-lab/) original by [FoxFingers](https://www.loverslab.com/profile/364691-foxfingers/), ported by [vitasgo](https://www.loverslab.com/profile/59513-vitasgo/)
+- [Bestial Essence SE](https://www.loverslab.com/files/file/10036-bestial-essence-se/) original by [Carabosse](https://www.loverslab.com/profile/72736-carabosse/), ported by [Nomkaz](#nomkaz)
+- [SexLab Solutions - Revisited SE](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) original by [janbui](https://www.loverslab.com/profile/3489852-janbui/), ported by [Nomkaz](#nomkaz)
+- [The Book Of Sex SE](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/) original by [vinfamy](https://www.loverslab.com/profile/1091843-vinfamy/) and ported by [Nomkaz](#nomkaz)
+- [Spouses Enhanced SE](https://www.loverslab.com/files/file/5266-spouses-enhanced-se/) original by [TheDudeGuy](https://www.loverslab.com/profile/103310-thedudeguy/), updated by [WraithSlayer](https://www.loverslab.com/profile/348228-wraithslayer/) and ported by [ashakiri](https://www.loverslab.com/profile/1235636-ashakiri/)
+- [Sexlab Defeat SSE](https://www.loverslab.com/files/file/9152-sexlab-defeat-sse/) by [Goubo](https://www.loverslab.com/profile/175859-goubo/)
+- [Simple Slavery Plus SE](https://www.loverslab.com/files/file/6535-simple-slavery-plus-se/) original by [jfraser](https://www.loverslab.com/profile/155791-jfraser/), updated by [Lozeak](https://www.loverslab.com/profile/62468-lozeak/) and ported by [Jman3000](https://www.loverslab.com/profile/457751-jman3000/)
+- [Radiant Prostitution/Gigolo SE](https://www.loverslab.com/files/file/10046-radiant-prostitutiongigolo-se/) original by [-Caden-](https://www.loverslab.com/profile/1328836-caden/) ported by [Nomkaz](#nomkaz)
+- [Sexlab Defeat Baka Edition LE/SE](https://www.patreon.com/posts/32912602) by [BakaFactory](#bakafactory)
+- [EstrusForSkyrimSE_VR](https://www.nexusmods.com/skyrimspecialedition/mods/12832) by [Cotyounoyume](https://www.nexusmods.com/users/489563)
+- [Estrus Chaurus for SE](https://www.loverslab.com/files/file/6160-estrus-chaurus-for-se/) original by [jbezorg](https://www.loverslab.com/profile/3866-jbezorg/), modified by [Bane Master](https://www.loverslab.com/profile/109753-bane-master/) and converted by [Pfiffy](https://www.loverslab.com/profile/143667-pfiffy/)
 
 ### SexLab - Others
 
 The following mods have a more _supportive_ role and do not fit any of the other categories.
+
+[SexLab Aroused Monitor Widget](https://www.loverslab.com/files/file/11466-sexlab-aroused-monitor-widget-se/) adds a little widget that displays the arousal levels of nearby actors.
+
+[SexLab Tools](https://www.loverslab.com/files/file/2018-sexlab-tools-v30/) gives you tools to control a scene.
 
 [Sexlab LightMeUp](https://www.loverslab.com/files/file/8275-sexlab-lightmeup/) will illuminate the current SexLab scene so you don't have to pull out any additional torches and can actually see whats happening.
 
@@ -393,18 +365,14 @@ The following mods have a more _supportive_ role and do not fit any of the other
 
 [Wintersun - SexLab Integration](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/) provides a bridge between SL and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506).
 
-[ViVi's Beastess Lairs](https://www.loverslab.com/files/file/9932-vivis-beastess-lairs-se/) adds new player homes all around Skyrim in form of caves.
-
-[Equipable Horse Cocks](https://www.loverslab.com/files/file/9903-sos-equipable-horse-cocks-sse-port/) because the SL strap-on sucks (I have created COBJs so you can craft them).
-
 Links:
 
-- [Sexlab LightMeUp 2.9.2](https://www.loverslab.com/files/file/8275-sexlab-lightmeup/) by [Yinkle](https://www.loverslab.com/profile/2924493-yinkle/)
-- [Wet Function Redux SE 1.1.0](https://www.loverslab.com/files/file/9467-wet-function-redux-se/) by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
-- [Blush When Aroused 1.3](https://www.loverslab.com/files/file/1724-blush-when-aroused/) by [Fredas](https://www.loverslab.com/profile/106315-fredas/), ported by [abcd99](https://www.loverslab.com/profile/250327-abcd99/) with fixed from [tasairis](https://www.loverslab.com/profile/1009670-tasairis/)
-- [Wintersun - SexLab Integration SE 1.3.3](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/) original by [PD_](https://www.loverslab.com/profile/1450322-pd_/), ported by [Nomkaz](#nomkaz)
-- [ViVi's Beastess Lairs SE 5.1](https://www.loverslab.com/files/file/9932-vivis-beastess-lairs-se/) original by [Vivi](https://www.loverslab.com/profile/41447-vivi/), ported by [Nomkaz](#nomkaz)
-- [SOS Equipable Horse Cocks - SSE Port 1.0.0](https://www.loverslab.com/files/file/9903-sos-equipable-horse-cocks-sse-port/) original by [Etheri](https://www.loverslab.com/profile/676057-etheri/), ported by [war11010](https://www.loverslab.com/profile/637956-war11010/)
+- [SexLab Aroused Monitor Widget SE](https://www.loverslab.com/files/file/11466-sexlab-aroused-monitor-widget-se/) original by [BeamerMiasma](https://www.loverslab.com/profile/424489-beamermiasma/) converted by [Ecohex](https://www.loverslab.com/profile/3318668-ecohex/)
+- [SexLab Tools](https://www.loverslab.com/files/file/2018-sexlab-tools-v30/) by [Goubo](https://www.loverslab.com/profile/175859-goubo/)
+- [Sexlab LightMeUp](https://www.loverslab.com/files/file/8275-sexlab-lightmeup/) by [Yinkle](https://www.loverslab.com/profile/2924493-yinkle/)
+- [Wet Function Redux SE](https://www.loverslab.com/files/file/9467-wet-function-redux-se/) by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
+- [Blush When Aroused](https://www.loverslab.com/files/file/1724-blush-when-aroused/) by [Fredas](https://www.loverslab.com/profile/106315-fredas/), ported by [abcd99](https://www.loverslab.com/profile/250327-abcd99/) with fixed from [tasairis](https://www.loverslab.com/profile/1009670-tasairis/)
+- [Wintersun - SexLab Integration SE](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/) original by [PD_](https://www.loverslab.com/profile/1450322-pd_/), ported by [Nomkaz](#nomkaz)
 
 ### Nomkaz
 
@@ -418,52 +386,70 @@ This little section will go over some of the installed mods that effect the came
 
 3PCO or [3rd Person Camera Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/18515) aims to fix the stiff, unmoving vanity camera of vanilla Skyrim.
 
-[Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220) brings a Witcher 3 like camera to Skyrim. I highly recommend you configure this mod yourself. You might like `bSwitchTarget` which switches between player and target in 3rd person cam but I had to disable that due to vertigo.
-
-If you want to take some dope screenshots than you should probably know the `tfc` command. I added a [FreeFlyCam](http://enbseries.enbdev.com/forum/viewtopic.php?p=75209) plugin that changes the camera in the `tfc` command and gives you more control over the camera like changing the roll angle with `Q` and `E` and changing the fov using the mouse wheel.
+[Improved Camera](https://www.reddit.com/r/skyrimmods/comments/cae3x2/mod_improved_camera_beta_3/) is a reverse engineered SE mod from the LE mod [Skyrim - Enhanced Camera](https://www.nexusmods.com/skyrim/mods/57859). I choose this over [Immersive First Person View](https://www.nexusmods.com/skyrimspecialedition/mods/22306) because the SE version of IFPV is worse than the LE counterpart since it was also remade completely from scratch. I would love to use the [Immersive First Person View - SexLab Special](https://www.loverslab.com/files/file/3719-immersive-first-person-view-sexlab-special/) config but that is sadly for LE only.
 
 Links:
 
 - [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515) by [watang](https://www.nexusmods.com/users/10706607)
-- [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220) by [NasGorTelorCeplok](https://www.nexusmods.com/users/60861451)
+- [Improved Camera](https://www.reddit.com/r/skyrimmods/comments/cae3x2/mod_improved_camera_beta_3/) by [ArranzCNL](https://www.reddit.com/user/ArranzCNL/)
 
 ### Nemesis vs FNIS
 
 We all know of [FNIS](https://www.nexusmods.com/skyrimspecialedition/mods/3038) but have you heard of [Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)? I won't go into much detail on the relationship between those two programs and their authors but tl;dr: Nemesis is an alternative to Fnis.
 
-"_Why would I care?_", you may ask. [The Ultimate Dodge Mod](https://drive.google.com/file/d/0B2VgBVA9jE6RaFNyZURxa3JXUjQ/view) is, as the name implies, a dodge mod like [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309). TUDM only works with Nemesis. I originally wanted to use TUDM and Nemesis but creature animations do not work in Nemesis _yet_.
+"_Why would I care?_", you may ask. The Ultimate Dodge Mod is, as the name implies, a dodge mod like [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309). TUDM only works with Nemesis. I originally wanted to use TUDM and Nemesis but creature animations do not work in Nemesis _yet_. What I ended up doing is using FNIS for creature animations and Nemesis for everything else.
 
 Links:
 
 - [Fores New Idles in Skyrim SE - FNIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/3038) by [fore](https://www.nexusmods.com/users/8120)
-- [TK Dodge SE](https://www.nexusmods.com/skyrimspecialedition/mods/15309) by [tktk1](https://www.nexusmods.com/users/3841389)
+- [Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
 
-### Combat - Melee
+### Combat
 
-I originally wanted to use The Ultimate Dodge Mod (see [Nemesis vs FNIS](#nemesis-vs-fnis)) but had swap to [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309).
+#### Unarmed
 
-Aside from some fancy dodging, I have included [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/17196), the new [Sekiro Combat](https://www.nexusmods.com/skyrimspecialedition/mods/31915) and [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368) to make melee combat interesting and somewhat challenging.
+Unarmed combat was never a thing in Skyrim. Sure you have attacks but they do like 0 damage and are only useful for beating up Nazeem. I want to make unarmed combat viable in this modlist but I'm still missing some mods so for now, you only get the basis: new sexy unarmed animations from [ESkyrim](https://discord.gg/9nuYpQm), [Hand To Hand Blocking Animations](https://www.nexusmods.com/skyrim/mods/102221) and [Dynamic Combat Module](https://www.nexusmods.com/skyrimspecialedition/mods/34599).
+
+Links:
+
+- [Hand To Hand Blocking Animations](https://www.nexusmods.com/skyrim/mods/102221) by [TankIsKing](https://www.nexusmods.com/skyrim/users/7125383)
+- [Dynamic Combat Module](https://www.nexusmods.com/skyrimspecialedition/mods/34599) by [ESkyrim](https://discord.gg/9nuYpQm)
+
+#### Melee
+
+Melee combat is fucking boring in Vanilla. You can describe melee combat as bashing the attack button and stat checking which would be fine if Skyrim is a typical stat based RPG but it's not. There are a lot of different visions for what melee combat should be in Skyrim, how it should feel and how it should play out.
+
+The start makes [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/17196) and [Sekiro Combat](https://www.nexusmods.com/skyrimspecialedition/mods/31915) for their timed block, deflection and effects. Do note that the dodging feature from Ultimate Combat is disabled in favor of The Ultimate Dodge Mod which got [new animations](https://www.nexusmods.com/skyrimspecialedition/mods/33049). [VioLens](https://www.nexusmods.com/skyrimspecialedition/mods/668) is used mainly for the Player Killmove Immunity.
+
+Next up is something I only discovered recently mostly because it is rather new: SGC by [distar66](https://www.nexusmods.com/skyrimspecialedition/users/44417112). SGC stands for "Stolen game concept" and this is their headline:
+
+> What's annoying in Skyrim? Skyrim! Make it Dark Souls.
+
+Adding souls like combat to Skyrim has been a thing for a long time and a lot of people hate it because they think that "souls like" = "getting one shotted". Previous versions of this modlist actually had this problem since balancing was the least of concerns at that time but things are different now. The idea now is to make the melee combat more skill based than before without making it too hard. This is Skyrim after all and I doubt you came to this modlist for the combat.
+
+Anyway, the start for SGC is [SkySA - Combat Behavior Compulsion](https://www.nexusmods.com/skyrimspecialedition/mods/31390) which locks your movement and removes the vanilla behavior of swinging around a club while doing 360 no scopes. This means that you need to put some thoughts behind your attacks and not just bash like an idiot. Next up is [(SGC) Stagger on hit](https://www.nexusmods.com/skyrimspecialedition/mods/33124), which is pretty self explanatory, and [(SGC) Scriptfree Behavior Staggerlock](https://www.nexusmods.com/skyrimspecialedition/mods/33481) to give the staggerlock an animation. Is staggerlocking an opponent kinda op? Maybe. This is why your attacks will now consume stamina with [(SGC) Normal Attack Stamina Consumption](https://www.nexusmods.com/skyrimspecialedition/mods/32996) and [(SGC) Dark Souls Movement and Stamina Regen](https://www.nexusmods.com/skyrimspecialedition/mods/33135).
+
+To round this composition out and change the AI we will use [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368). This mod also lets you change the damage dealt on various difficulties if you want to.
 
 Do note that [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859) is installed meaning that you can't just go into your inventory and eat 100 cheese wheels while everything is paused.
 
 Links:
 
-- [TK Dodge SE](https://www.nexusmods.com/skyrimspecialedition/mods/15309) by [tktk1](https://www.nexusmods.com/users/3841389)
-- [Ultimate Combat SE](https://www.nexusmods.com/skyrimspecialedition/mods/17196) by [tktk1](https://www.nexusmods.com/users/3841389)
-- [Sekiro Combat SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31915) by [Lertkrush](https://www.nexusmods.com/users/5493833)
+- [Ultimate Combat SE](https://www.nexusmods.com/skyrimspecialedition/mods/17196) by [tktk1](https://www.nexusmods.com/skyrimspecialedition/users/3841389)
+- [Sekiro Combat SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31915) by [Lertkrush](https://www.nexusmods.com/skyrimspecialedition/users/5493833)
+- [(SGC) SkySA - Combat Behavior Compulsion](https://www.nexusmods.com/skyrimspecialedition/mods/31390) by [distar66](https://www.nexusmods.com/skyrimspecialedition/users/44417112)
+- [(SGC) Stagger on hit - DSCO standalone](https://www.nexusmods.com/skyrimspecialedition/mods/33124) by [distar66](https://www.nexusmods.com/skyrimspecialedition/users/44417112)
+- [(SGC) Scriptfree Behavior Staggerlock - DSCO standalone](https://www.nexusmods.com/skyrimspecialedition/mods/33481) by [distar66](https://www.nexusmods.com/skyrimspecialedition/users/44417112)
+- [(SGC) Normal Attack Stamina Consumption - DSCO standalone](https://www.nexusmods.com/skyrimspecialedition/mods/32996) by [distar66](https://www.nexusmods.com/skyrimspecialedition/users/44417112)
+- [(SGC) Dark Souls Movement and Stamina Regen - DSCO standalone](https://www.nexusmods.com/skyrimspecialedition/mods/33135) by [distar66](https://www.nexusmods.com/skyrimspecialedition/users/44417112)
 - [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368) by [EnaiSiaion](#enaisiaion)
 - [Skyrim Souls RE - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/27859) original by [Fudgyduff](https://www.nexusmods.com/skyrimspecialedition/users/5687342), updated by [Vermunds](https://www.nexusmods.com/users/26327049)
 
-### Combat - Archery
+#### Archery
 
-Can't have a setup without [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296) and [ABT](https://www.nexusmods.com/skyrimspecialedition/mods/4683).
+Can't have a setup without [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296) and [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881).
 
-Links:
-
-- [Archery Gameplay Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/24296) by [DServant](https://www.nexusmods.com/users/10549885)
-- [ABT SE - Arrows and Bolts Tweaks Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4683) by [Kevkas](https://www.nexusmods.com/users/1560585)
-
-### Combat - Magic
+#### Magic
 
 Instead of just grabbing [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) and calling it a day, I have opted to *not include Apocalypse*. This is my first setup since I started modding where I have not used that mod. In its stead [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488) and [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) are included.
 
@@ -482,7 +468,6 @@ Same as the [BakaFactory](#bakafactory) section, this one is a shout-out to [Ena
 Mods used:
 
 - [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506)
-- [Vokrii - Minimalistic Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26176)
 - [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245)
 - [Morningstar - Minimalistic Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22298)
 - [Thunderchild - Epic Shouts and Immersion](https://www.nexusmods.com/skyrimspecialedition/mods/1460)
@@ -496,7 +481,7 @@ As you may have guessed from the [EnaiSiaion](#enaisiaion) section, I used a lot
 
 [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) was probably one of the greatest mods released last year. The mod adds religion and worship. [Wintersun SexLab Integartion](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/) will provide a way for Wintersun deities to react to SexLab-related events. I recommend checking out both mods if you want some religion in Skyrim.
 
-Perk overhauls. Same with [Magic](#combat---magic), I normally always go [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137) and nothing else. For this setup I used the new [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176), also made by [EnaiSiaion](#enaisiaion). This perk mod is not as huge as Ordinator but allows one to add other perk overhauls on-top of it. [Smithing Perks Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19246) and [Path of Sorcery](https://www.nexusmods.com/skyrimspecialedition/mods/6660) are the ones I added.
+Perk overhauls. Same with [Magic](#combat---magic), I normally always go [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137) and nothing else. For this setup I used [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191). This perk mod is not as huge as Ordinator but allows one to add other perk overhauls on-top of it. [Smithing Perks Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19246) and [Path of Sorcery](https://www.nexusmods.com/skyrimspecialedition/mods/6660) are the ones I added.
 
 Alchemy and Cooking is often left alone since no-one really uses those hidden op skills, but I have included the popular [CACO](https://www.nexusmods.com/skyrimspecialedition/mods/19924) if you want to dive into this complex crafting system.
 
@@ -518,7 +503,7 @@ Links:
 
 - [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) by [EnaiSiaion](#enaisiaion)
 - [Wintersun - SexLab Integration SE 1.3.3](https://www.loverslab.com/files/file/10796-wintersun-sexlab-integration-se/) original by [PD_](https://www.loverslab.com/profile/1450322-pd_/), ported by [Nomkaz](#nomkaz)
-- [Vokrii - Minimalistic Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26176) by [EnaiSiaion](#enaisiaion)
+- [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191) by [Simon Magus](https://www.nexusmods.com/skyrimspecialedition/users/67410746)
 - [Smithing Perks Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/19246) by [kryptopyr](https://www.nexusmods.com/users/4291352)
 - [Path of Sorcery - Magic Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/6660) by [steelfeathers](https://www.nexusmods.com/users/7402811)
 - [Complete Alchemy and Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19924) by [kryptopyr](https://www.nexusmods.com/users/4291352)
@@ -542,7 +527,7 @@ Aside from Lotd you get the continuation of one of my favorites quest mods for O
 
 The vanilla quests are not being left alone: The _For Good Guys_ lineup with [Dark Brotherhood for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/519), [Thieves Guild For Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/10745), [Namira for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/336) and [Boethiah for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/329) is included as well.
 
-To round out our assortment of quests you get [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) for a large number of localized radiant quests and [MLU](https://www.nexusmods.com/skyrimspecialedition/mods/3058) for those nice rewards.
+To round out our assortment of quests you get [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) for a large number of localized radiant quests.
 
 Links:
 
@@ -555,7 +540,6 @@ Links:
 - [Namira for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/336)
 - [Boethiah for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/329)
 - [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576)
-- [MorrowLoot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058)
 
 ### Character Mods
 
@@ -565,11 +549,15 @@ Since the dawn of mankind we've asked the question: _CBBE or UNP?_
 
 Short answer: I went with [CBBE 3BBB Advanced](https://www.nexusmods.com/skyrimspecialedition/mods/30174/).
 
-Long answer: Maybe Ill write one later. This was the hardest decision to make for the Modlist and I could go into great detail and trace back all steps that lead to this decision but I don't think anyone wanna read that.
+Long answer: ~~Maybe Ill write one later. This was the hardest decision to make for the Modlist and I could go into great detail and trace back all steps that lead to this decision but I don't think anyone wanna read that.~~ (apparently people did wanna read that)
 
-[XMPSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988), [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224) and [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872) are of course installed and configured. For textures I used [Demoniac](https://www.nexusmods.com/skyrimspecialedition/mods/19355), [Female Dragonic Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/1442) and [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183).
+There is no clear answer nor is one better than the other. Both are great, both have their communities and both have reasons to exist in your setup. I personally switch between CBBE and UNP more frequently than I want to admit. The reason being that there is always some new outfit being released that uses UNP when I use CBBE or CBBE when I use UNP. For this setup it came down to what outfits I wanna include and what the user might want to add in the future. CBBE was the winner in that regard and I still feel a tendency to swap to UNP midway through. Maybe I'll add a profile for UNP later.
 
-The dudes were not left alone either! [Schlongs of Skyrim](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/) can't be missing from any LL setup. Textures used are [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902) the male counter part to Female Dragonic Argonian Textures: [Male Dragonic Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/1443).
+[XMPSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988), [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224) and [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872) are of course installed and configured. For textures I used [Demoniac](https://www.nexusmods.com/skyrimspecialedition/mods/19355), [Feminine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/184) and [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183).
+
+The dudes were not left alone either! [Schlongs of Skyrim](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/) can't be missing from any LL setup. Textures used are [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902) and [Male Dragonic Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/1443).
+
+If you want the best of both worlds you can use the [SOS Futanari Addon](https://www.loverslab.com/files/file/11344-sos-addon-futanari-cbbe-sse/) with seamless textures I created.
 
 Links:
 
@@ -577,11 +565,12 @@ Links:
 - [CBPC - CBP Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224) by [Shizof](https://www.nexusmods.com/users/1201660)
 - [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872) original by HydrogensaysHDT: [Nexus Mods](https://www.nexusmods.com/users/3701232), [GitHub](https://github.com/HydrogensaysHDT), [LL](https://www.loverslab.com/profile/100850-hydrogensayshdt/) and updated by [aers](https://www.nexusmods.com/users/2025634)
 - [Demoniac- High Quality Glossy Female Body Texture 8K 4K 2K - SE](https://www.nexusmods.com/skyrimspecialedition/mods/19355) original by [regenbot03](https://www.nexusmods.com/users/27578610), ported by Rektas: [Patreon](https://www.patreon.com/Rektas), [Twitter](https://twitter.com/s1kkha), [Nexus Mods](https://www.nexusmods.com/users/26327699) (inactive), [Tumblr](https://s1kkha.tumblr.com/)
-- [Female Dragonic Argonian Textures 4k - 2k(CBBE and UNP)](https://www.nexusmods.com/skyrimspecialedition/mods/1442) by [ChaserTech](https://www.nexusmods.com/users/8205044)
+- [Feminine Argonian Textures (Chameleon and Lizard)](https://www.nexusmods.com/skyrimspecialedition/mods/184) by [MONSTERaider](https://www.nexusmods.com/users/1630457)
 - [Feminine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/183) by [MONSTERaider](https://www.nexusmods.com/users/1630457)
 - [Schlongs of Skyrim SE 1.1.4](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/) original by [b3lisario](https://www.loverslab.com/profile/82377-b3lisario/), VectorPlexus and Smurf, ported by [galgaroth](https://www.loverslab.com/profile/2774284-galgaroth/)
 - [Tempered Skins for Males - Vanilla and SOS versions](https://www.nexusmods.com/skyrimspecialedition/mods/7902) by [traa108](https://www.nexusmods.com/users/9916407)
 - [Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)](https://www.nexusmods.com/skyrimspecialedition/mods/1443) by [ChaserTech](https://www.nexusmods.com/users/8205044)
+- [SOS- Addon - Futanari CBBE SSE](https://www.loverslab.com/files/file/11344-sos-addon-futanari-cbbe-sse/) by [EvilReFlex](https://www.loverslab.com/profile/607503-evilreflex/)
 
 ### NPC Retextures
 
@@ -734,6 +723,8 @@ Links:
 If you created a sexy character or just wanna have some fun screenshotting stuff, you might want to use some pose mods. I have opted to use [Poser Hotkeys SE](https://www.loverslab.com/files/file/5132-poser-hotkeys-se/) instead of [Poser Hotkeys Plus SSE](https://www.nexusmods.com/skyrimspecialedition/mods/17743) because I could not get that one to work...
 
 Anyway: Installed are [GomaPero Poses](https://www.loverslab.com/files/file/4917-gomapero-poses-se/) and [Shocky's Poses Pack](https://www.loverslab.com/files/file/5134-shockys-poses-pack-se/). I stripped all spells, rings and whatnot from the plugins and merged them into `Poser - Merged.esp`. Check [Poser Hotkey MCM](#poser-hotkeys) for the hotkeys and [Adding Poser Mods](#pose-mods) if you want to add more poses.
+
+Do note that the pose mods are disabled by default because they had some funky incopatibilities with other mods.
 
 Links:
 
