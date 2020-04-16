@@ -45,6 +45,7 @@
   - [NPC Retextures](#npc-retextures)
   - [Followers](#followers)
   - [Music](#music)
+  - [UI](#ui)
   - [Cathedral Mods](#cathedral-mods)
   - [Outfit Mods](#outfit-mods)
   - [Weapon Mods](#weapon-mods)
@@ -126,7 +127,7 @@ I won't judge you and I understand that some people want different things. Since
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
 - [VectorPlexus Account](https://vectorplexus.com/)
-- [MEGA Account](https://mega.nz) (OPTIONAL BUT HIGHLY RECOMMENDED)
+- [MEGA Account](https://mega.nz/aff=a94uEwwXPLU) (OPTIONAL BUT HIGHLY RECOMMENDED)
 - A brain, eyes and time to read through this README
 
 You can also install any Wabbajack Modlist without a Nexus Premium account but you will have to download each file manually. I added a MEGA account as an optional requirement because there are some big files on MEGA that need to be downloaded. You don't need one but MEGA has a limit on how much an anonymous user can download.
@@ -711,6 +712,28 @@ Links:
 
 - [Yggdrasil Music and SoundFX Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/21578) by [kilateone](https://www.nexusmods.com/users/31481845)
 - [Dreams and Nightmares Music Mod](https://www.nexusmods.com/skyrimspecialedition/mods/25416) by [Nyghttones](https://www.nexusmods.com/users/68508590)
+
+### UI
+
+I won't list your common UI mods in here that every other modlist uses and only the important ones:
+
+[Floating Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14332) in combination with [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688) is important for combat so you can know how much HP the enemy has, when someone blocked and how much damage someone has taken.
+
+For loading screens I went with [Nexus Loading Screens Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/21349), [Lore-Based Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/1185) and [Uncle Sheo Does Legendary Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/1801) for the lulz.
+
+In a perfect world you don't need loading screens but loading times can sometimes be longer than expected so at least you got something to look and laugh at.
+
+The most notable UI change is the ESO dark UI preset from [Customizable UI Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/18398) for [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463/).
+
+Links:
+
+- [Floating Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14332) by [Felisky384](https://www.nexusmods.com/skyrimspecialedition/users/19968244)
+- [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688) by [ahzaab](https://www.nexusmods.com/skyrimspecialedition/users/368196)
+- [Nexus Loading Screens Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/21349) by [mnikjom](https://www.nexusmods.com/skyrimspecialedition/users/12567611)
+- [Lore-Based Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/1185) by [Chesko](https://www.nexusmods.com/skyrimspecialedition/users/187943)
+- [Uncle Sheo Does Legendary Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/1801) original by [tumbleworld](https://www.nexusmods.com/skyrim/users/470889) and [Nonmeatbag](https://www.nexusmods.com/skyrim/users/2780823) converted by [Elianora](https://www.nexusmods.com/skyrimspecialedition/users/3231858)
+- [Customizable UI Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/18398) by [Elxdark](https://www.nexusmods.com/skyrimspecialedition/users/6560188)
+- [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463/) by [Fhaarkas](https://www.nexusmods.com/skyrimspecialedition/users/1157655)
 
 ### Cathedral Mods
 
