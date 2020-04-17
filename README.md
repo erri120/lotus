@@ -142,6 +142,8 @@ You can login to various sites using the internal login manager in Wabbajack. It
 
 Everything should be installed on an SSD that has at least 256GB of space available. Also check [Tweaking Performance](#tweaking-performance) if you want more FPS. **You won't be able to play the modlist with 4GB of VRAM&**.
 
+The specs of this modlist are similar to what you find in most PCs. I took the [Steam Hardware & Software Survey: March 2020](https://store.steampowered.com/hwsurvey) as a helper.
+
 ## Installation
 
 ### Pre-Installation
