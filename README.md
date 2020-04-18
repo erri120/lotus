@@ -2,6 +2,7 @@
 
 - [Preamble](#preamble)
   - [Kinks](#kinks)
+  - [What to expect in this modlist](#what-to-expect-in-this-modlist)
 - [Requirements](#requirements)
   - [System Specs](#system-specs)
 - [Installation](#installation)
@@ -99,6 +100,7 @@
   - [Tweaking the Game Settings](#tweaking-the-game-settings)
   - [Using dxvk](#using-dxvk)
 - [Removing the Modlist](#removing-the-modlist)
+- [Afterword](#afterword)
 - [Contact](#contact)
 - [Contributing](#contributing)
 - [Changelog](#changelog)
@@ -122,6 +124,14 @@ An important rule when talking about NSFW stuff is: "No kink shaming."
 
 I won't judge you and I understand that some people want different things. Since this is a public modlist and not my private one, I added instructions throughout this README on how to disable various kinks.
 
+### What to expect in this modlist
+
+I don't know how you found this repository: through reddit? github? wabbajack discord server? I also don't know if people recommended this list to you. There was an increase in "looking for NSFW content" posts on the [r/skyrimmods](https://www.reddit.com/r/skyrimmods/) subreddit where someone in the comments said to take a look at Lotus. This section and the massive [Important Mods you should know about](#important-mods-you-should-know-about) section exist to give you an idea on what you can find in Skyrim with this modlist.
+
+You will of course get a lot of NSFW themed mods from LoversLab like [SexLab](#sexlab---frameworks) and [Devious Devices](#devious-devices) but there is more. This modlist is not something for horny people that you can just install, jack off and never touch again. You play Skyrim "normally" but can engage in sexual acts while playing or, depending on the kinks you like, get forced to do it. You will not get tied up and raped every 5 secs but have some fun for a while and then return to playing the actual game. Various gameplay mods are in place to make use of the new frameworks so that it does not feels less like porn but more of an actual game (check [Afterword](#afterword) for more info on that).
+
+Like I said in the preamble: "If you want a fully featured and functional Modlist that is playable from start to finish, containing multiple quest, overhauls and sexual mods than you've come to the right GitHub repository." I had reports of some users that actually played one version of this modlist for more than 70 hours. They added more mods on top and had a good time.
+
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
@@ -142,7 +152,7 @@ You can login to various sites using the internal login manager in Wabbajack. It
 
 Everything should be installed on an SSD that has at least 256GB of space available. Also check [Tweaking Performance](#tweaking-performance) if you want more FPS. **You won't be able to play the modlist with 4GB of VRAM&**.
 
-The specs of this modlist are similar to what you find in most PCs. I took the [Steam Hardware & Software Survey: March 2020](https://store.steampowered.com/hwsurvey) as a helper.
+The specs of this modlist are similar to what you find in most PCs. I took the [Steam Hardware & Software Survey: March 2020](https://store.steampowered.com/hwsurvey) as a guideline for what that should be.
 
 ## Installation
 
@@ -427,7 +437,7 @@ Links:
 
 #### Melee
 
-Melee combat is fucking boring in Vanilla. You can describe melee combat as bashing the attack button and stat checking which would be fine if Skyrim is a typical stat based RPG but it's not. There are a lot of different visions for what melee combat should be in Skyrim, how it should feel and how it should play out.
+Melee combat is fucking boring in Vanilla. You can describe melee combat as bashing the attack button and stat checking which would be fine if Skyrim is a typical stat based RPG but it's not. There are a lot of different visions for what melee combat should be in Skyrim, how it should feel and how it should play out. The author of AGO, DServant, released CGO or [Combat Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33767) recently which adds a lot of different features. I choose to not use CGO since it has poor compatibility and a combination of various different mods can achieve a similar and even better flow of melee combat.
 
 The start makes [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/17196) and [Sekiro Combat](https://www.nexusmods.com/skyrimspecialedition/mods/31915) for their timed block, deflection and effects. Do note that the dodging feature from Ultimate Combat is disabled in favor of The Ultimate Dodge Mod which got [new animations](https://www.nexusmods.com/skyrimspecialedition/mods/33049). [VioLens](https://www.nexusmods.com/skyrimspecialedition/mods/668) is used mainly for the Player Killmove Immunity.
 
@@ -531,7 +541,7 @@ Links:
 
 These mods do not really fit in the other categories and but are still important.
 
-Starting with a mod you don't even see in MO2: [Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/32211) which is a zEdit patcher that delevels enemies based on what faction they are part of. I will tweak this patcher based on featback I receive and my own testing so it may be a bit unbalanced at the moment.
+Starting with a mod you don't even see in MO2: [Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/32211) which is a zEdit patcher that delevels enemies based on what faction they are part of. I will tweak this patcher based on feedback I receive and my own testing so it may be a bit unbalanced at the moment.
 
 Next I'm gonna take a page out of [SkyRem](https://www.nexusmods.com/skyrimspecialedition/mods/26789) by [DrPharmDawg](https://www.nexusmods.com/skyrimspecialedition/users/19562249) ([Patreon](https://www.patreon.com/user?u=16576878)) and use [Improved NPC Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/27103), [Evolving Value Economy](https://www.nexusmods.com/skyrimspecialedition/mods/26325) and [Loot Overhaul - Rarity and Abundancy](https://www.nexusmods.com/skyrimspecialedition/mods/26732).
 
@@ -833,7 +843,7 @@ Links:
 
 ## Creating your Character
 
-Using [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) you can create a stunning looking character or use one of the many presets from the [A Huge RaceMenu Preset Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30432) or user submitted content.
+Using [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) you can create a stunning looking character or use one of the many presets included.
 
 If you don't like the idle animation open the console, click on the player and use the `player.sae idlestaticposeastart` command.
 
@@ -1369,6 +1379,16 @@ ProxyLibrary=d3d11_dxvk.dll
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
+## Afterword
+
+I must applaud you if you have read the entire README. I started with this modlist in December 2019 and thought about it as early as November I think. When creating this modlist my main goal was to have a NSFW poster boy for Wabbajack and introduce + convince people from other communities to try out Wabbajack. There are still a ton of people who have no idea what Wabbajack does and still accosiate the word "modpack" with it. I also wanted to show users and modlist authors some good practices when creating a modlist and actually publishing it, this is not about the actual modlist itself but everything around it such as a README, Changelog, how to contribute, releases and so on.
+
+The READMEs of other modlists are mostly written on GDocs and only contain information on how to install the thing and how to setup the MCM. This is fine if you have something like [SME(FT)](https://github.com/EzioTheDeadPoet/SME-FT-) which is a small little starting point but not if you have a massive modlist with 800+ mods, 100+GB downloads and 90% of your README is MCM. My vision for a good modlist README is reflected here and you already read it. It should contain information on the general idea, why you would wanna install it, what you need but most importantly: what you actually get and what are the most important mods you should know about.
+
+I hope we will get more READMEs like this in the future so that the user has a better experience and asks less questions. Other modlists authors often complain about "stupid users" with "stupid questions" even tho their own README has like 20 lines on how to install it. I might also be that NSFW users are simply superior to plebs but I rarely get stupid questions since you can just pop up this README and likely find the information you need.
+
+Another reason I wanted to create an maintain a modlist is because I am also developing Wabbajack. Since starting this modlist I have added a lot of additional features and fixed equaly as much bugs because I actually used the program I develop. I have previously only compiled test modlists and installed some major public ones but never compiled a huge modlist like this myself.
+
 ## Contact
 
 While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/erri120/lotus/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
@@ -1379,4 +1399,4 @@ See [Contributing](CONTRIBUTING.md).
 
 ## Changelog
 
-The Changelog can be viewed here: [Changelog](CHANGELOG.md)
+See [Changelog](CHANGELOG.md).
