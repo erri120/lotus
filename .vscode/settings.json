@@ -82,5 +82,8 @@
         "subreddit",
         "tweakable",
         "untick"
+    ],
+    "cSpell.enableFiletypes": [
+        "!plaintext"
     ]
 }

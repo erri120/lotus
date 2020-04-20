@@ -44,6 +44,8 @@
   - [Quest Mods](#quest-mods)
   - [Character Mods](#character-mods)
   - [NPC Retextures](#npc-retextures)
+    - [NPC Retextures (Major)](#npc-retextures-major)
+    - [NPC Retextures (Minor)](#npc-retextures-minor)
   - [Followers](#followers)
   - [Music](#music)
   - [UI](#ui)
@@ -128,7 +130,7 @@ I won't judge you and I understand that some people want different things. Since
 
 I don't know how you found this repository: through reddit? github? wabbajack discord server? I also don't know if people recommended this list to you. There was an increase in "looking for NSFW content" posts on the [r/skyrimmods](https://www.reddit.com/r/skyrimmods/) subreddit where someone in the comments said to take a look at Lotus. This section and the massive [Important Mods you should know about](#important-mods-you-should-know-about) section exist to give you an idea on what you can find in Skyrim with this modlist.
 
-You will of course get a lot of NSFW themed mods from LoversLab like [SexLab](#sexlab---frameworks) and [Devious Devices](#devious-devices) but there is more. This modlist is not something for horny people that you can just install, jack off and never touch again. You play Skyrim "normally" but can engage in sexual acts while playing or, depending on the kinks you like, get forced to do it. You will not get tied up and raped every 5 secs but have some fun for a while and then return to playing the actual game. Various gameplay mods are in place to make use of the new frameworks so that it does not feels less like porn but more of an actual game (check [Afterword](#afterword) for more info on that).
+You will of course get a lot of NSFW themed mods from LoversLab like [SexLab](#sexlab---frameworks) and [Devious Devices](#devious-devices) but there is more. This modlist is not something for horny people that you can just install, jack off and never touch again. You play Skyrim "normally" but can engage in sexual acts while playing or, depending on the kinks you like, get forced to do it. You will not get tied up and raped every 5 secs but have some fun for a while and then return to playing the actual game. Various gameplay mods are in place to make use of the new frameworks so that it does not feel like porn but more of an actual game.
 
 Like I said in the preamble: "If you want a fully featured and functional Modlist that is playable from start to finish, containing multiple quest, overhauls and sexual mods than you've come to the right GitHub repository." I had reports of some users that actually played one version of this modlist for more than 70 hours. They added more mods on top and had a good time.
 
@@ -428,12 +430,12 @@ Links:
 
 #### Unarmed
 
-Unarmed combat was never a thing in Skyrim. Sure you have attacks but they do like 0 damage and are only useful for beating up Nazeem. I want to make unarmed combat viable in this modlist but I'm still missing some mods so for now, you only get the basis: new sexy unarmed animations from [ESkyrim](https://discord.gg/9nuYpQm), [Hand To Hand Blocking Animations](https://www.nexusmods.com/skyrim/mods/102221) and [Dynamic Combat Module](https://www.nexusmods.com/skyrimspecialedition/mods/34599).
+Unarmed combat was never a thing in Skyrim. Sure you have attacks but they do like 0 damage and are only useful for beating up Nazeem. I want to make unarmed combat viable in this modlist but I'm still missing some mods so for now, you only get the basis: new sexy unarmed animations, [Hand To Hand Blocking Animations](https://www.nexusmods.com/skyrim/mods/102221) and [Dynamic Combat Module](https://www.nexusmods.com/skyrimspecialedition/mods/34599).
 
 Links:
 
 - [Hand To Hand Blocking Animations](https://www.nexusmods.com/skyrim/mods/102221) by [TankIsKing](https://www.nexusmods.com/skyrim/users/7125383)
-- [Dynamic Combat Module](https://www.nexusmods.com/skyrimspecialedition/mods/34599) by [ESkyrim](https://discord.gg/9nuYpQm)
+- [Dynamic Combat Module](https://www.nexusmods.com/skyrimspecialedition/mods/34599)
 
 #### Melee
 
@@ -652,7 +654,19 @@ Links:
 
 ### NPC Retextures
 
-The start makes [Superior Lore-Friendly Hair](https://www.nexusmods.com/skyrim/mods/36510). It's a small but highly effective mod. I love the work of [Pandorable](https://www.nexusmods.com/skyrimspecialedition/users/41216925) and used [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012), [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680) and [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135) as my goto NPC retextures.
+There are a ton of NPC retextures that come in different sizes: some overhaul dozens of NPCs and some only change a handful or less. The latter should of course overwrite the former. For this reason I have split this section into [Major](#npc-retextures-major) and [Minor](#npc-retextures-minor) subsections.
+
+#### NPC Retextures (Major)
+
+The start makes [Superior Lore-Friendly Hair](https://www.nexusmods.com/skyrim/mods/36510). It's a small but highly effective mod that changes the base hair texture. Next up is [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273) converted to SSE.
+
+The biggest mod that overhauls all Skyrim's Characters is [Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/5291) which serves as a great baseline. [The Men of Winter](https://www.nexusmods.com/skyrimspecialedition/mods/10902) is kinda the only male NPC retexture I like and I'm not so versed in the male part than I am in the female one...
+
+Anyway, you can't talk about NPC retextures without mentioning the Bijin and Pandorable series. In my case I let the Pandeorable series load after the Bijin one. This includes Bijin [Wives](https://www.nexusmods.com/skyrimspecialedition/mods/11247), [NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/11287) [Warmaidens](https://www.nexusmods.com/skyrimspecialedition/mods/1825), Pandorable's [NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012) - [Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680) and [Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135).
+
+#### NPC Retextures (Minor)
+
+ I love the work of [Pandorable](https://www.nexusmods.com/skyrimspecialedition/users/41216925) and used [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012), [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680) and [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135) as my goto NPC retextures.
 
 The Bijin lineup with [Bijin Wives](https://www.nexusmods.com/skyrimspecialedition/mods/11247), [Bijin NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/11287) and [Bijin Warmaidens](https://www.nexusmods.com/skyrimspecialedition/mods/1825) fills the gaps that Pandorable's mods leave.
 
