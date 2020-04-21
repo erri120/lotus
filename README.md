@@ -660,51 +660,27 @@ There are a ton of NPC retextures that come in different sizes: some overhaul do
 
 The start makes [Superior Lore-Friendly Hair](https://www.nexusmods.com/skyrim/mods/36510). It's a small but highly effective mod that changes the base hair texture. Next up is [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273) converted to SSE.
 
+[Modest Elderly](https://www.nexusmods.com/skyrimspecialedition/mods/7935) protects the elders from _things_.
+
 The biggest mod that overhauls all Skyrim's Characters is [Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/5291) which serves as a great baseline. [The Men of Winter](https://www.nexusmods.com/skyrimspecialedition/mods/10902) is kinda the only male NPC retexture I like and I'm not so versed in the male part than I am in the female one...
 
-Anyway, you can't talk about NPC retextures without mentioning the Bijin and Pandorable series. In my case I let the Pandeorable series load after the Bijin one. This includes Bijin [Wives](https://www.nexusmods.com/skyrimspecialedition/mods/11247), [NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/11287) [Warmaidens](https://www.nexusmods.com/skyrimspecialedition/mods/1825), Pandorable's [NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012) - [Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680) and [Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135).
+Speaking of which: [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247) is also in here.
+
+You can't talk about NPC retextures without mentioning the Bijin and Pandorable series. In my case I let the Pandeorable series load after the Bijin one. This includes Bijin [Wives](https://www.nexusmods.com/skyrimspecialedition/mods/11247), [NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/11287) [Warmaidens](https://www.nexusmods.com/skyrimspecialedition/mods/1825), Pandorable's [NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012) - [Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680) and [Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135).
+
+I recently found some LE mods by [Gman749](https://www.nexusmods.com/skyrim/users/37338675) which got ported to SSE by [bchick3](https://www.nexusmods.com/skyrimspecialedition/users/40101665). The modpage images are sadly a bit _misleading_... Anyway, Gman splits their mods by city and the included cities are [Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/23343), [Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/24277), [Riften](https://www.nexusmods.com/skyrimspecialedition/mods/28775) and [Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/28859).
 
 #### NPC Retextures (Minor)
 
- I love the work of [Pandorable](https://www.nexusmods.com/skyrimspecialedition/users/41216925) and used [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012), [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680) and [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135) as my goto NPC retextures.
+Since the other category was mostly dominated by human retextures, let us take a break from that and look at our dragon friends: [Alduin](https://www.nexusmods.com/skyrimspecialedition/mods/33007), [Paarthurnax](https://www.nexusmods.com/skyrimspecialedition/mods/28728) and [Odahviing](https://www.nexusmods.com/skyrim/mods/31229) all get a retexture.
 
-The Bijin lineup with [Bijin Wives](https://www.nexusmods.com/skyrimspecialedition/mods/11247), [Bijin NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/11287) and [Bijin Warmaidens](https://www.nexusmods.com/skyrimspecialedition/mods/1825) fills the gaps that Pandorable's mods leave.
+Not 100% a Dragon but a Dragonborn is your archenemy Miraak who can now be your follower using the mod [Miraak - Dragonborn Follower](https://www.nexusmods.com/skyrimspecialedition/mods/19829) but more importantly: he is now [Lady Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/6835). You can disable those two mods and the compatibility patch easily if you don't want a hot female Miraak running around as your follower.
 
-[The Men of Winter](https://www.nexusmods.com/skyrimspecialedition/mods/10902) retextures some Men in Skyrim. I handpicked NPS from [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376) and [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247). The rest is covered by [Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/5291) and [Fresh Faces](https://www.nexusmods.com/skyrimspecialedition/mods/13789). [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273) is the base for all elves.
+The GK series by [OnigiriDaisuki](https://www.nexusmods.com/skyrimspecialedition/users/42864565) is mostly focused around new followers but there are also vanilla follower replacers available. Namely the [GK Housecarl Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/26037) which changes Jordis, Lydia and Iona.
 
-The priority looks like this (similar to MO2, the ones at the bottom overwrites the ones at the top):
+Even tho we just changed Jordis we are going one level deeper and grab some [Moolgogi](https://www.nexusmods.com/skyrim/users/1221695?tab=user+files) Replacers for [Jordis](https://www.nexusmods.com/skyrim/mods/100321), [Elsif](https://www.nexusmods.com/skyrimspecialedition/mods/23642), [Karliah](https://www.nexusmods.com/skyrim/mods/96887) and [Valerica](https://www.nexusmods.com/skyrimspecialedition/mods/23657).
 
-1) Ethereal Elven Overhaul
-2) Fresh Faces
-3) Diversity
-4) Kalilies NPCs
-5) The Ordinary Women
-6) The Men of Winter
-7) Bijin Wives
-8) Bijin NPCs
-9) Bijin Warmaidens
-10) Pandorable's NPCs - Dragonborn
-11) Pandorable's NPCs - Dawnguard
-12) Pandorable's NPCs
-
-[Modest Elderly](https://www.nexusmods.com/skyrimspecialedition/mods/7935) protects the elders since I hope none of us wants to see that.
-
-Links:
-
-- [Superior Lore-Friendly Hair - HD textures](https://www.nexusmods.com/skyrim/mods/36510) by [skyrimaguas](https://www.nexusmods.com/skyrim/users/6256260)
-- [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012) by [Pandorable](https://www.nexusmods.com/users/41216925)
-- [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680) by [Pandorable](https://www.nexusmods.com/users/41216925)
-- [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135) by [Pandorable](https://www.nexusmods.com/users/41216925)
-- [Bijin Wives SE](https://www.nexusmods.com/skyrimspecialedition/mods/11247) by [rxkx22](https://www.nexusmods.com/users/2650523)
-- [Bijin NPCs SE](https://www.nexusmods.com/skyrimspecialedition/mods/11287) by [rxkx22](https://www.nexusmods.com/users/2650523)
-- [Bijin Warmaidens SE](https://www.nexusmods.com/skyrimspecialedition/mods/1825) by [rxkx22](https://www.nexusmods.com/users/2650523)
-- [The Men of Winter SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10902) by [SetteLisette](https://www.nexusmods.com/users/21521784)
-- [The Ordinary Women SSE](https://www.nexusmods.com/skyrimspecialedition/mods/12376) by [northtexan95](https://www.nexusmods.com/users/1622111)
-- [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247) by [Kalilies](https://www.nexusmods.com/users/4559665)
-- [Diversity - A Character Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5291) by [NEVERMOREPJM](https://www.nexusmods.com/users/8493929)
-- [Fresh Faces](https://www.nexusmods.com/skyrimspecialedition/mods/13789) by [Plooshy](https://www.nexusmods.com/users/2469823)
-- [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273) original by [nuska](https://www.nexusmods.com/users/675468), patched by [AngelTrump](https://www.nexusmods.com/users/39775535)
-- [Modest Elderly](https://www.nexusmods.com/skyrimspecialedition/mods/7935) by [JohnnyCabb](https://www.nexusmods.com/users/9361073)
+Serana and Valerica replacers exist like sand at the beach and it is very hard choosing one. In the end I choose the previously linked Valerica replacer by Moolgogi and [MBWS Serana](https://www.nexusmods.com/skyrim/mods/63553). The last mod and replacer is by the same author as MBWS Serana: [MBWS Vex](https://www.nexusmods.com/skyrimspecialedition/mods/13527).
 
 ### Followers
 

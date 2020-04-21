@@ -1,7 +1,4 @@
 {
-    "cSpell.enabledLanguageIds": [
-        "markdown"
-    ],
     "cSpell.words": [
         "Argonian",
         "BHUNP",
@@ -84,6 +81,7 @@
         "untick"
     ],
     "cSpell.enableFiletypes": [
-        "!plaintext"
+        "!plaintext",
+        "markdown"
     ]
 }
