@@ -547,7 +547,7 @@ Starting with a mod you don't even see in MO2: [Enemy Releveler](https://www.nex
 
 Next I'm gonna take a page out of [SkyRem](https://www.nexusmods.com/skyrimspecialedition/mods/26789) by [DrPharmDawg](https://www.nexusmods.com/skyrimspecialedition/users/19562249) ([Patreon](https://www.patreon.com/user?u=16576878)) and use [Improved NPC Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/27103), [Evolving Value Economy](https://www.nexusmods.com/skyrimspecialedition/mods/26325) and [Loot Overhaul - Rarity and Abundancy](https://www.nexusmods.com/skyrimspecialedition/mods/26732).
 
-(Sidenote: I love how every mod in Skyrim needs to have some sort of acroynm in their title for no reason at all)
+(Sidenote: I love how every mod in Skyrim needs to have some sort of acronym in their title for no reason at all)
 
 Anyway, INEZ reworks the encounter zones, LORA overhauls the Loot and is a replacement to [MLU](https://www.nexusmods.com/skyrimspecialedition/mods/3058/?) and EVE + [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) add more spice and complexity to the economy and trading system.
 
@@ -783,10 +783,10 @@ Links:
 Most used weapon mods came from [johnskyrim](https://www.nexusmods.com/users/3165110). Those are:
 
 - [Radzig Longsword](https://www.nexusmods.com/skyrimspecialedition/mods/16059) contains both a one-handed and two-handed sword from Kingdom Come: Deliverance. Can be both be smithed using the Skyforge or found in the Guard Barracks of Whiterun
-- [The Lionheart](https://www.nexusmods.com/skyrimspecialedition/mods/15076) shield from WoW, can be smithed under the _Daedric_ category
+- [The Lionheart](https://www.nexusmods.com/skyrimspecialedition/mods/15076) shield from WoW, can be smithed under the Daedric category
 - [Sulfuras - The Reclaimed Hand](https://www.nexusmods.com/skyrimspecialedition/mods/14199) two-handed hammer from WoW, can be obtained at the end of a [dungeon](https://staticdelivery.nexusmods.com/mods/1704/images/64628-2-1428782512.jpg)!
 - [Shadowmourne](https://www.nexusmods.com/skyrimspecialedition/mods/12081) two-handed Axe from WoW, can be obtained at the end of a dungeon with a dope boss fight!
-- [Dragonblade AQ](https://www.nexusmods.com/skyrimspecialedition/mods/29341) one-handed sword based on the Dragon Blade from Adventure Quest. Can be found on a cliff overlooking [Dragontooh Crater](https://en.uesp.net/wiki/Skyrim:Dragontooth_Crater) ([pic](https://i.imgur.com/XtnDpxj.png)) or can be forged under the _Daedric_ category
+- [Dragonblade AQ](https://www.nexusmods.com/skyrimspecialedition/mods/29341) one-handed sword based on the Dragon Blade from Adventure Quest. Can be found on a cliff overlooking [Dragontooh Crater](https://en.uesp.net/wiki/Skyrim:Dragontooth_Crater) ([pic](https://i.imgur.com/XtnDpxj.png)) or can be forged under the Daedric category
 - [Blade of Evil's Bane](https://www.nexusmods.com/skyrimspecialedition/mods/28881) one-handed weapon based on the Blade of Evil's Bane from the Legend of Zelda. Can be found [here](https://staticdelivery.nexusmods.com/mods/1704/images/28881/28881-1567955685-1349624090.png), embedded in a skull/rock north of Morthal.
 
 Our ranged characters also get a bit of love with [DX Faction Crossbows](https://www.nexusmods.com/skyrimspecialedition/mods/4047). You need specific crafting manuals to craft those.
@@ -813,7 +813,7 @@ If you created a sexy character or just wanna have some fun screenshotting stuff
 
 Anyway: Installed are [GomaPero Poses](https://www.loverslab.com/files/file/4917-gomapero-poses-se/) and [Shocky's Poses Pack](https://www.loverslab.com/files/file/5134-shockys-poses-pack-se/). I stripped all spells, rings and whatnot from the plugins and merged them into `Poser - Merged.esp`. Check [Poser Hotkey MCM](#poser-hotkeys) for the hotkeys and [Adding Poser Mods](#pose-mods) if you want to add more poses.
 
-Do note that the pose mods are disabled by default because they had some funky incopatibilities with other mods.
+Do note that the pose mods are disabled by default because they had some funky incompatibilities with other mods.
 
 Links:
 
@@ -1296,7 +1296,7 @@ Another thing you might want to consider is merging the plugin into the `Poses -
 
 Another category of mods you can easily add to this setup. You only have to make sure that the outfits fit the character body (see [Character Mods](#character-mods)). It's also a good idea to find BodySlide files for that outfit so you can customize it.
 
-Install the outfit and, optionally but highly recommended, merge the outfit in the `Outfits - Merged` merge. Use the `Merge Plugins Hide` to activate all plugins from that merge, assing the new plugin to the Outfits LOOT group (see [Using LOOT](#using-loot)), sort with LOOT, open zMerge, add the esp to the merge and rebuild it. Make sure you disable all plugins with `Merge Plugin Hide` when you're finished.
+Install the outfit and, optionally but highly recommended, merge the outfit in the `Outfits - Merged` merge. Use the `Merge Plugins Hide` to activate all plugins from that merge, assign the new plugin to the Outfits LOOT group (see [Using LOOT](#using-loot)), sort with LOOT, open zMerge, add the esp to the merge and rebuild it. Make sure you disable all plugins with `Merge Plugin Hide` when you're finished.
 
 If the outfit contains high heels, check out [Heels Sound](https://www.loverslab.com/files/file/1795-heels-sound/) and change the Footstep Set of the Armor Addon to `AngelFSTHeelsFootstepSet`.
 
@@ -1356,7 +1356,7 @@ You can _try_ using DXVK. Vulkan runs better on AMD cards and better for D3D9 ga
 
 To use it, grab the latest [release](https://github.com/doitsujin/dxvk/releases), extract the archive and grab `x64/d3d11.dll` and `x64/dxgi.dll`. ENB might not be compatible with DXVK so I recommend trying it without one first. Copy those files into the main Skyrim folder and download this [dxvk.conf](https://pastebin.com/KAgwsbBf) file. This is the config file that works on my system so you might wanna tweak it for yours.
 
-If you do wanna use an ENB and you made DXVK work without an ENB, rename `d3d11.dll` to `d3d11_dxvk.dll`, install an ENB, open `enblocal.ini` and add `d3d11_dxvk.dll` as a proxy libaray:
+If you do wanna use an ENB and you made DXVK work without an ENB, rename `d3d11.dll` to `d3d11_dxvk.dll`, install an ENB, open `enblocal.ini` and add `d3d11_dxvk.dll` as a proxy library:
 
 ```ini
 [PROXY]
@@ -1371,7 +1371,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 ## Afterword
 
-I must applaud you if you have read the entire README. I started with this modlist in December 2019 and thought about it as early as November I think. When creating this modlist my main goal was to have a NSFW poster boy for Wabbajack and introduce + convince people from other communities to try out Wabbajack. There are still a ton of people who have no idea what Wabbajack does and still accosiate the word "modpack" with it. I also wanted to show users and modlist authors some good practices when creating a modlist and actually publishing it, this is not about the actual modlist itself but everything around it such as a README, Changelog, how to contribute, releases and so on.
+I must applaud you if you have read the entire README. I started with this modlist in December 2019 and thought about it as early as November I think. When creating this modlist my main goal was to have a NSFW poster boy for Wabbajack and introduce + convince people from other communities to try out Wabbajack. There are still a ton of people who have no idea what Wabbajack does and still associate the word "modpack" with it. I also wanted to show users and modlist authors some good practices when creating a modlist and actually publishing it, this is not about the actual modlist itself but everything around it such as a README, Changelog, how to contribute, releases and so on.
 
 The READMEs of other modlists are mostly written on GDocs and only contain information on how to install the thing and how to setup the MCM. This is fine if you have something like [SME(FT)](https://github.com/EzioTheDeadPoet/SME-FT-) which is a small little starting point but not if you have a massive modlist with 800+ mods, 100+GB downloads and 90% of your README is MCM. My vision for a good modlist README is reflected here and you already read it. It should contain information on the general idea, why you would wanna install it, what you need but most importantly: what you actually get and what are the most important mods you should know about.
 
