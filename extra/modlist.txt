@@ -13,9 +13,10 @@
 -[OUTPUT] DynDOLOD
 -[OUTPUT] TexGen
 -[OUTPUT] xLODGen
--[OUTPUT] Creation Kit
++[OUTPUT] Creation Kit
 +[Lotus] MCM Options, Configs and more
 -OUTPUTS_separator
++Other Patches - Merged
 +erri120 Patches - Merged
 -Better Quest Objectives - Merged
 -Vokrii Patches - Merged
@@ -29,9 +30,10 @@
 +Landscape Fixes Patches - Merged
 -MERGES_separator
 +User Submitted Content
++DCL NavMesh fix by Umgak
 +ESPs by erri120
 -OTHERS_separator
-+Felisja - Bodyslide Preset CBBE
+-Felisja - Bodyslide Preset CBBE
 +The Witcher 3 High Poly Presets
 +A Delicate Face - Female Nord Racemenu Preset
 +A Huge RaceMenu Preset Collection
@@ -168,13 +170,12 @@
 +17B - EVW SE - V4.0 - Weapons Add-on - DX
 +16 - EVW SE - V4.0 - Armor Add-on - Enchantments - Summermyst
 +15 - EVW SE - V4.0 - Armor Add-on - Enchantments
-+15E-B - EVW SE - V4.1.1 - Armor Add-on - CBBE - DX (Heels Sound)
-+14I - EVW SE - V4.0 - Armor Add-on - CBBE - TAWoBA - BSA
++15F - EVW SE - V4.2 - Armor Add-on - CBBE - TAWoBA
++15E - EVW SE - V4.2 - Armor Add-on - CBBE - DX
 +14 - EVW SE - V4.1 - Items - Optional - Heels Sound
 +06F - EVW SE - V4.0 - Optional Level List Patch - Breton Forsworn Only
 +06 - EVW SE - V3.0 - Optional Level List Patch - No Beast Stormcloak Guards
 +04 - EVW SE - V4.0 - Uncut Optional
-+00ANY EVW SE - V4.1.1 - Main Files - Items Update
 +Enemy Variations Wenches
 -Enemy Variations_separator
 +NPC Retexture - Merged
@@ -184,6 +185,9 @@
 +Moolgogi's Karliah Replacer
 +Moolgogi Elisif Replacer
 +Moolgogi's Jordis Replacer
++GK Housecarl Replacer SE
++GK Follower Core File SE CBBE
++GK Follower SE Core File
 +Lady Miraak - Special Edition
 +Lady Miraak - Dragonborn Follower Compatibility Patch - SE
 +Miraak - Dragonborn Follower SE
@@ -193,33 +197,24 @@
 -Odahviing Replacers
 -GK Serana and Valerica SE
 -NPC - Minor_separator
-+MBWS Male Housecarl NPC Replacer - SSE
 +Gman749 Ladies of Dawnguard NPC Replacer SSE - Physics
 +Gman749's Ladies of Riften NPC Replacer - SSE - Physics
 +Gman749's Ladies of Whiterun - SSE
 +Gman749's Ladies Of Solitude - SSE
-+GK Housecarl Replacer SE
-+GK Follower Core File SE CBBE
-+GK Follower SE Core File
 +Pandorable's NPCs SE - black face fix
 +Pandorable's NPCs
 +Pandorable's NPCs - Dawnguard SE - grey face fix
 +Pandorable's NPCs - Dawnguard
 +Pandorable's NPCs - Dragonborn
 +Bijin Family Bodyslides - CBBE
-+Bijin Warmaidens SE CBBE
 +Bijin Warmaidens SE
-+Bijin NPCs SE CBBE
 +Bijin NPCs SE
-+Bijin Wives SE CBBE
 +Bijin Wives SE
 +Bijin AIO SE for USSEP
-+The Men of Winter SSE
-+The Ordinary Women SSE
 +Kalilies NPCs
++The Men of Winter SSE
 +Diversity - A Character Overhaul
-+Project SNNR - Skyrim Nobody NPC Replacer
-+Fresh Faces - SSE
+-Fresh Faces - SSE
 +Ethereal Elven Overhaul patches for SSE
 +Ethereal Elven Overhaul
 +Bellyaches HD Dragon Replacer Pack (SE)
@@ -290,61 +285,55 @@
 +HD Meshes and Textures for Animal and Creature Drops
 +RUSTIC DAEDRA - Special Edition
 -GRAPHICS - Creatures_separator
-+Rally's Lava
-+Better Mammoth Tusks
-+Improved Dragonfly
-+HD Bees and Honeycombs
-+Tundra cotton by Mari
-+Lavender by Mari
-+Dragons tongue by Mari
-+Deathbell by Mari
-+Mountain flower by Mari
-+Nightshade by Mari
 +Undead summons emerge from the ground
 +Alternate Summoning Visuals
-+ElSopa - Papers HD SE
-+ElSopa HD - Organic Burial Urns SE
-+Comfy Mammoth Cheese Textures
-+ElSopa HD - Briar Heart
-+ElSopa HD - Ants SE
-+ElSopa HD - Akatosh Amulet SE
-+ElSopa HD Meadbarrel and Spigot
-+ElSopa HD - Giant Paintings
-+Glorious Dummies
-+ElSopa HD - Giant Mortar Texture SE
-+ElSopa HD - Bonehawk Amulet SE
-+ElSopa HD - Bristleback SE
-+HD Saerek Skull
-+HD Dragonborn Skull
-+ElSopa HD - Dirt Blast SE
-+ElSopa HD - Strider And Netches SE
-+ElSopa HD - Realistic Dark Elf Urns SE
-+ElSopa HD - Unique Hand Made Signs Overhaul SE
-+4K HQ Puddles
-+CleverCharff's Windhelm 500 Memorial Wall 4K 2K
-+ElSopa - HD Keys SE
++WEBS S.E
++Tundra cotton by Mari
++RUSTIC ELDERSCROLL - Special Edition
++RUSTIC AZURA'S STAR - Special Edition
 +Rudy HQ - More Lights for ENB SE - Soul Gems
 +RUSTIC SOULGEMS - Special Edition
-+4K HQ Cowhide Yeehaw
 +Rudy HQ - Hay SE
-+Fences of Skyrim - No more flickering fences
-+WEBS S.E
-+CC's HQ Alduins Wall
-+ElSopa HD - Anvil SE
-+ElSopa HD - Workbench SE
-+ElSopa HD - The Smelter SE
-+ElSopa HD - Meridias Beacon SE
-+ElSopa HD - Remade Better Dust Piles SE
-+ElSopa HD - Grindstone SE
++Nightshade by Mari
++Mountain flower by Mari
++Lavender by Mari
 +JS Barenziah SE
++Improved Dragonfly
++HD Saerek Skull
 +HD Photorealistic Ivy
-+RUSTIC AZURA'S STAR - Special Edition
-+RUSTIC ELDERSCROLL - Special Edition
--GRAPHICS - VERY MINOR_separator
-+Rally's All The Things
-+CleverCharff's Noble Furniture Silver or Gold 4K-2K
-+CleverCharff's 4K - 2K Photorealistic Farmhouse Stonewalls with Parallax
-+Skyland - Ships and Shacks
++HD Dragonborn Skull
++HD Bees and Honeycombs
++Glorious Dummies
++Fences of Skyrim - No more flickering fences
++ElSopa HD Meadbarrel and Spigot
++ElSopa HD - Workbench SE
++ElSopa HD - Unique Hand Made Signs Overhaul SE
++ElSopa HD - The Smelter SE
++ElSopa HD - Strider And Netches SE
++ElSopa HD - Remade Better Dust Piles SE
++ElSopa HD - Realistic Dark Elf Urns SE
++ElSopa HD - Organic Burial Urns SE
++ElSopa HD - Meridias Beacon SE
++ElSopa HD - Grindstone SE
++ElSopa HD - Giant Paintings
++ElSopa HD - Giant Mortar Texture SE
++ElSopa HD - Dirt Blast SE
++ElSopa HD - Bristleback SE
++ElSopa HD - Briar Heart
++ElSopa HD - Bonehawk Amulet SE
++ElSopa HD - Anvil SE
++ElSopa HD - Ants SE
++ElSopa HD - Akatosh Amulet SE
++ElSopa - Papers HD SE
++ElSopa - HD Keys SE
++Dragons tongue by Mari
++Deathbell by Mari
++Comfy Mammoth Cheese Textures
++CC's HQ Alduins Wall
++Better Mammoth Tusks
++4K HQ Puddles
++4K HQ Cowhide Yeehaw
++GRAPHICS - VERY MINOR_separator
 +Voltage
 +Arctic - Frost Effects Redux
 +Inferno - Fire Effects Redux
@@ -353,32 +342,17 @@
 +Arri's Snow Elf Ruins Retexture Special Edition
 +JS Dragon Claws SE
 +SavrenX Gore
-+Basic Dining Set Replacer
-+Skyrim 3D Cooking
-+Vanilla Table Replacers
 +PELTAPALOOZA - Special Edition
-+The Imperial tent fix
 +8K Night Skies - Stars and Galaxies - Cathedral Concept
 +Skyrim 3D Gildergreen
 +Deadly Spell Impacts
 +FleshFX
 -GRAPHICS - MINOR_separator
-+SkyHaven HD by CleverCharff
-+CleverCharff's Fort Dawnguard 4K 2K
 +Glorious Doors of Skyrim (GDOS)
-+CleverCharff's High Hrothgar 4K 2K
-+CleverCharff's Riften HD 4K 2K
-+Orc Settlements Enhanced
-+Solitude HD by CleverCharff
-+Photoreal Windhelm by CleverCharff 4K 2K
-+Illustrious Whiterun 4K
++Illustrious Whiterun 2K
 +Illustrious Whiterun - Parallax Meshes
-+Rally's Raven Rock
-+CleverCharff's Soul Cairn 4K 2K
--Soul Cairn HD
 +Sovngarde HD
 -GRAPHICS - Cities, Villages and your Sex Dungeon_separator
-+Sigils of Skyrim
 +Skyrim 3D Trees and Plants
 +Northern Shores SE
 +Hyperborean Snow
@@ -395,16 +369,15 @@
 +Blended Roads Redone
 +Blended Roads
 -GRAPHICS - Environment_separator
-+RUSTIC COOKING - Special Edition
 +RUGNAROK - Special Edition
-+RUSTIC WINDOWS - Special Edition
 +CC's HD Dwemer Automatons - Remastered
 +Ancient Dwemer Metal
 +CC's Enhanced Ore Veins SSE - 2K - 7.1
 +JS Shrines of the Divines SE
 +Stunning Statues of Skyrim
-+Skyrim 2020 2.8 Update by Pfuscher
-+Skyrim 2020 2.7 by Pfuscher
++Skyrim 2020 Riften Parallax by Pfuscher
++Skyrim 2020 Fix 3.5.2
++Skyrim 2020 3.5 by Pfuscher
 +Enhanced Textures Detail (UV-tweaks)
 +Noble Skyrim Mod HD-2K
 +Forgotten Retex Project
@@ -414,8 +387,6 @@
 +High Poly Project
 +Static Mesh Improvement Mod
 +Skyrim Particle Patch for ENB
--Wonders of Weather
--Storm Lightning for SSE and VR (Minty Lightning 2019)
 +Cathedral Water Overhaul - Includes Water Edge Bug Fix
 +Cathedral Weathers MCM
 +Cathedral Weathers and Seasons
@@ -439,6 +410,7 @@
 +Moon and Star
 +AmorousAdventures 3.4 SE
 +Maids II Deception - Maximum Resolution Textures
++Maids II Deception - Mod Patches
 +Maids II Deception
 -Even Better Quest Objectives SE
 -MorrowLoot Ultimate
@@ -455,10 +427,9 @@
 +Outfit Switcher
 +Gildergreen Regrown
 +The Eloquent Reader - True Scholar SE Edition - Increase speech by reading book
-+Auto Hide Ammo
+-Auto Hide Ammo
 +Quick Light SE
 +Achieve That SE
-+Trade and Barter
 +The Choice is Yours
 +Reflection - Level Up Messages
 +Better Skill and Quest Books Names SE
@@ -489,6 +460,7 @@
 +Honed Metal - SSE
 +Dynamic Equipment Manager SKSE Updated
 +Loot Overhaul - Rarity and Abundancy (SkyRem - Lora)
++Trade and Barter
 +Evolving Value Economy (SkyRem - Eve)
 +Improved NPC Encounter Zones (SkyRem - Inez)
 +Alternate Start - Live Another Life - SSE
@@ -500,8 +472,8 @@
 +(SGC) Dark Souls Movement and Stamina Regen - DSCO standalone
 +Mortal Enemies SE
 +(SGC) SkySA - Combat Behavior Compulsion
-+Archery Gameplay Overhaul SE - Belt-Fastened Quivers (Nemesis Patch)
-+Archery Gameplay Overhaul SE - Belt-Fastened Quivers
++Compatibility Patch for Archery Gameplay Overhaul (AGO) and XP32 Skeleton Styles MCM
++Archery Gameplay Overhaul SE - Nemesis Patch
 +Archery Gameplay Overhaul SE
 +TUDM Violens Compatiblity Patch
 +VioLens - A Killmove Mod SE
@@ -548,7 +520,7 @@
 +Sexlab Defeat Addon by BakaFactory 1.02V SE English
 +SL Defeat SSE
 +SpousesEnhanced
-+SexLab Solutions v3 - Revisited SE ESL
++SexLab Solutions v3 - Revisited SE
 +Sexy Starting Options SE
 +Estrus Trapped Eggs
 +Estrus Chaurus
@@ -566,8 +538,8 @@
 -DD_separator
 +EstrusForSkyrimSE_VR
 +BakaFactory Animated Beasts Cocks
-+MoreNastyCritters_v12_03
-+Creature Framework 1.1.0-pre2A-SE
++MoreNastyCritters_v12_06A
+-Creature Framework 1.1.0-pre2A-SE
 +SexLabAroused Redux V28b SSE Modified by BakaFactory
 -SexLabArousedSSE
 +ZaZ Animation Pack+ CBBE HDT V.8.0+SEREV3
@@ -606,7 +578,7 @@
 +Skyrim Souls RE - Updated
 -Quality Menu Replacement
 +Skyrim Save System Overhaul
-+iActivate
+-iActivate
 +Yes Im Sure
 +JS Lockpicking UI SE
 +Scaleform Translation Plus Plus
@@ -680,7 +652,8 @@
 +Stay At The System Page - Updated
 +PrivateProfileRedirector SE - Faster game start (INI file cacher)
 +SSE Engine Fixes (skse64 plugin)
-+(SKSE64) Havok Fix
++SSE Display Tweaks
+-(SKSE64) Havok Fix
 -Purist's Vanilla Patch
 +Unofficial Skyrim Special Edition Patch
 -ESSENTIALS_separator
