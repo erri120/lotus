@@ -723,7 +723,7 @@ I won't list your common UI mods in here that every other modlist uses and only 
 
 For loading screens I went with [Nexus Loading Screens Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/21349), [Lore-Based Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/1185) and [Uncle Sheo Does Legendary Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/1801) for the lulz.
 
-In a perfect world you don't need loading screens but loading times can sometimes be longer than expected so at least you got something to look and laugh at.
+In a perfect world you don't need loading screens but loading times can sometimes be longer than expected so at least you got something to look and laugh at. If you want some more _interesting_ loading screens you should try out these highly NSFW ones: [AirplaneRandy's Erotica Replacer](https://www.loverslab.com/files/file/12278-airplanerandys-erotica-replacer-main-menuloading-screenintro-video/)
 
 The most notable UI change is the ESO dark UI preset from [Customizable UI Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/18398) for [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463/).
 
