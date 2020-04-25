@@ -201,11 +201,11 @@ Start the game and exit once you're in the main menu.
 
 #### Preparations
 
-Let's get to the actual installation. Grab the latest release from [GitHub](https://github.com/erri120/lotus/releases).
+Let's get to the actual installation. Grab the latest release of Lotus from [the release tab](https://github.com/erri120/lotus/releases).
 
 Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
-Grab the latest release of Wabbajack from [GitHub](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
+Get the latest release of Wabbajack from [GitHub](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
 
 #### Downloading and Installing
 
