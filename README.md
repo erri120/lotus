@@ -7,6 +7,7 @@
   - [System Specs](#system-specs)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
+    - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Config](#steam-config)
       - [Disable the Steam Overlay](#disable-the-steam-overlay)
       - [Change Steams Update Behavior](#change-steams-update-behavior)
@@ -161,6 +162,10 @@ The specs of this modlist are similar to what you find in most PCs. I took the [
 ### Pre-Installation
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
+
+#### Installing Microsoft Visual C++ Redistributable Package
+
+I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
 #### Steam Config
 
