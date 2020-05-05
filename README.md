@@ -216,7 +216,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/`. You can also use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) br trawz that will clean your installation.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/`. You can also use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) by trawz that will clean your installation.
 
 #### Start Skyrim
 
@@ -1436,7 +1436,7 @@ Another reason I wanted to create an maintain a modlist is because I am also dev
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/erri120/lotus/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`), I would advise checking the [Issues](https://github.com/erri120/lotus/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 ## Contributing
 
