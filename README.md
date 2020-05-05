@@ -281,6 +281,7 @@ Copy the following files from the `MO2/Game Folder Files` directory to your game
 - `skse64_*`
 - `tbb.dll`
 - `tbbmalloc.dll`
+- `winhttp.dll`
 
 #### Copy LOOT config
 
