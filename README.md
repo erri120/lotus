@@ -1,6 +1,7 @@
 # Lotus
 
 - [Preamble](#preamble)
+  - [Wabbajack](#wabbajack)
   - [Kinks](#kinks)
   - [What to expect in this modlist](#what-to-expect-in-this-modlist)
 - [Requirements](#requirements)
@@ -58,26 +59,26 @@
 - [Creating your Character](#creating-your-character)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
+  - [A Matter of Time](#a-matter-of-time)
   - [AGO](#ago)
   - [Bestial Essence](#bestial-essence)
   - [Blush When Aroused](#blush-when-aroused)
   - [CBBE 3BBB Addon](#cbbe-3bbb-addon)
-  - [Dogma - Thief](#dogma---thief)
-  - [FNIS PCEA2](#fnis-pcea2)
   - [Follower Framework](#follower-framework)
   - [Forgotten Wenches](#forgotten-wenches)
   - [Growl Werebeasts](#growl-werebeasts)
   - [Hateful Wenches](#hateful-wenches)
   - [Judgment Wenches](#judgment-wenches)
-  - [Poser Hotkeys](#poser-hotkeys)
+  - [Nemesis PCEA](#nemesis-pcea)
+  - [Normal Attack Stamina Consuption](#normal-attack-stamina-consuption)
   - [Quick Light](#quick-light)
   - [Sacrosanct Vampires](#sacrosanct-vampires)
   - [Schlongs of Skyrim](#schlongs-of-skyrim)
   - [Sky UI](#sky-ui)
   - [SSSO](#ssso)
-  - [Storm Lightning](#storm-lightning)
-  - [TK Dodge](#tk-dodge)
+  - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
   - [Ultimate Combat](#ultimate-combat)
+  - [VioLens](#violens)
   - [WetFunction Redux](#wetfunction-redux)
   - [Wildcat Combat](#wildcat-combat)
   - [XPMSE](#xpmse)
@@ -86,6 +87,11 @@
   - [Radiant Prostitution](#radiant-prostitution)
   - [SL Anim Loader](#sl-anim-loader)
   - [Defeat](#defeat)
+  - [Devious Devices (MCM)](#devious-devices-mcm)
+  - [Deviously Helpless](#deviously-helpless)
+  - [Devious Device Helpers](#devious-device-helpers)
+  - [Cursed Loot](#cursed-loot)
+  - [SLA Monitor Widget](#sla-monitor-widget)
   - [Spell Research](#spell-research)
 - [Adding more Mods](#adding-more-mods)
   - [Using LOOT](#using-loot)
@@ -120,6 +126,27 @@ I'm [erri120](https://github.com/erri120), one of the [Developers](https://githu
 As a professional scientist in the field of extreme indulgence in bodily pleasures and the manifestation thereof in video games, I have decided to create a Modlist involving said sinful acts of debauchery.
 
 Now for real: If you want a fully featured and functional Modlist that is playable from start to finish, containing multiple quest, overhauls and sexual mods than you've come to the right GitHub repository.
+
+### Wabbajack
+
+Somewhat important section for people that don't know what the hell Wabbajack is and how it works. I've added this section because I saw some confusion and bad use of terminology in association with Lotus that I want to clear up.
+
+Let's start with some terminology: `Modpack` vs `Modlist`
+
+**Modpack**:
+Commonly found in the Minecraft modding scene, a modpack is a collection of mods put together in a single file. Often compressed into a zip, 7z or rar archive. This single file contains an entire modding setup and is very large in size as every file from every mod is included. Uploading a Modpack to the Internet means distributing possible copyrighted content and has lead to huge backlash in other modding scenes.
+
+**Modlist (written guide)**:
+A written guide like STEP, Lexys LOTD SE Mod Guide or The Phoenix Flavour that tell the user what, when and how to download and install. In order to reproduce the same setup of the guide author you will pick up a lot of new modding tricks and learn something unknown to you before. Depending on the depth of the guide, process not only takes a very long time but is very error prone if the user does not read everything carefully.
+
+**Modlist (Wabbajack)**:
+A Wabbajack Modlist can be compared to a written guide except it is not written for humans but for machines. The resulting .wabbajack file contains instructions on what, when and how to download and install in order to replicate the entire setup of the author without bundling any assets.
+
+Now lets talk about Wabbajack:
+
+Wabbajack is an automated Modlist installer that can recreate contents of a folder on another machine without ever distributing copyrighted materials or syncing data between the source and destination machine. Wabbajack will create instructions for a Modlist when compiling, those can be as simple as _Download Mod abc from the Nexus_ or complex as _Build BSAs from scratch using the following files_.
+
+Wabbajack came into existing around July 2019 and the community has been growing past the 18 thousand mark with hundreds of daily users. The start was somewhat bumpy because a lot of people, especially mod authors, had and still have no idea what Wabbajack does and simply think it's some kind of Modpack thing. If you want more information checkout our website at [wabbajack.org](https://www.wabbajack.org/), made by yours truly.
 
 ### Kinks
 
@@ -336,18 +363,18 @@ Mods used:
 
 - [SexLabAroused Redux V28b SSE Modified by BakaFactory](https://drive.google.com/file/d/1SlvS2KRY6UscQisro8GEskwCCKg4Wa3G/view)
 - [Animated Beast's Cocks(ABC) For users LE / SE](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/)
-- [BakaFactory's SLAL Animation LE / SSE](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/)
+- [BakaFactory AL Animation](https://www.patreon.com/posts/bakafactory-al-3-32187271)
 - [SexLab Defeat Addon by BakaFactory SE English](https://www.patreon.com/posts/32912602)
 
 ### SexLab - Animations
 
-[More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/) and [ZAZ](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/) already come with some animations, but I have expanded upon that with [BakaFactory's SLAL Animation](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/) and [Psyche Animation](https://www.loverslab.com/files/file/11477-psyche-animation-lesse/).
+[More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/) and [ZAZ](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/) already come with some animations, but I have expanded upon that with [BakaFactory AL Animation](https://www.patreon.com/posts/bakafactory-al-3-32187271) and [Psyche Animation](https://www.loverslab.com/files/file/11477-psyche-animation-lesse/).
 
 Links:
 
 - [More Nasty Critters Special Edition](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/) original by [MadMansGun](https://www.loverslab.com/profile/71862-madmansgun/)
 - [ZAZ Animation Packs for SE](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
-- [BakaFactory's SLAL Animation LE / SSE](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/) by [BakaFactory](#bakafactory)
+- [BakaFactory AL Animation](https://www.patreon.com/posts/bakafactory-al-3-32187271) by [BakaFactory](#bakafactory)
 - [Psyche Animation (LE/SSE)](https://www.loverslab.com/files/file/11477-psyche-animation-lesse/) by [PsycheHHH](https://www.loverslab.com/profile/1643961-psychehhh/)
 
 ### SexLab - Gameplay
@@ -413,12 +440,16 @@ This little section will go over some of the installed mods that effect the came
 
 3PCO or [3rd Person Camera Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/18515) aims to fix the stiff, unmoving vanity camera of vanilla Skyrim.
 
-[Improved Camera](https://www.reddit.com/r/skyrimmods/comments/cae3x2/mod_improved_camera_beta_3/) is a reverse engineered SE mod from the LE mod [Skyrim - Enhanced Camera](https://www.nexusmods.com/skyrim/mods/57859). I choose this over [Immersive First Person View](https://www.nexusmods.com/skyrimspecialedition/mods/22306) because the SE version of IFPV is worse than the LE counterpart since it was also remade completely from scratch. I would love to use the [Immersive First Person View - SexLab Special](https://www.loverslab.com/files/file/3719-immersive-first-person-view-sexlab-special/) config but that is sadly for LE only.
+[Improved Camera](https://www.reddit.com/r/skyrimmods/comments/cae3x2/mod_improved_camera_beta_3/) is a reverse engineered SE mod from the LE mod [Skyrim - Enhanced Camera](https://www.nexusmods.com/skyrim/mods/57859).
+There is also [Immersive First Person View](https://www.nexusmods.com/skyrimspecialedition/mods/22306) but the SE version of IFPV is worse than the LE counterpart since it was also remade completely from scratch. I would love to use the [Immersive First Person View - SexLab Special](https://www.loverslab.com/files/file/3719-immersive-first-person-view-sexlab-special/) config but that is sadly for LE only.
+
+Both options are viable so you get both. Decide what works for you and stick with it. IFPV is enabled in MO2 by default is set to be activated during SL scenes or when you press the 0 on your Numpad.
 
 Links:
 
 - [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515) by [watang](https://www.nexusmods.com/users/10706607)
 - [Improved Camera](https://www.reddit.com/r/skyrimmods/comments/cae3x2/mod_improved_camera_beta_3/) by [ArranzCNL](https://www.reddit.com/user/ArranzCNL/)
+- [Immersive First Person View](https://www.nexusmods.com/skyrimspecialedition/mods/22306) by [meh321](https://www.nexusmods.com/skyrimspecialedition/users/2964753)
 
 ### Nemesis vs FNIS
 
@@ -852,17 +883,29 @@ If you get no more messages, save the game and open the MCM.
 
 **Melee**:
 
-(Personal preference, I like to keep the camera somewhat close to the character. Try different values adn find what feels best to you!)
+(Personal preference, I like to keep the camera somewhat close to the character. Try different values and find what feels best to you!)
 
 *Positive X Offset* - `60`
 
 *Negative X Offset* - `60`
+
+### A Matter of Time
+
+**Presets**:
+
+User settings
+
+*Load user settings* - `GO`
 
 ### AGO
 
 **Settings**:
 
 Enable/Disable
+
+*Arrow Wounds (Player)* - `Disabled`
+
+*Arrow Wounds (NPCs)* - `Disabled`
 
 *Persistent Arrows* - `Disabled`
 
@@ -908,55 +951,11 @@ Player Use Set
 
 *Player Use Slot*: `60 - Devious Devices Compatible`
 
-You can either use a hotkey (`Numpad -` by default) or a spell to toggle the Physics for the player.
+You can either use a hotkey (`Numpad +` by default) or a spell to toggle the Physics for the player.
 
 *Add Player 3BBB Physics Toggle Spell*: `Enable`
 
 Exit the MCM, go to your Spells Menu and use `3BBB Physics Toggle - Player`
-
-### Dogma - Thief
-
-**System**:
-
-*Schlongs animation* - `Enable`
-
-*Schlong size* - `Enable`
-
-*SFX* - `Disable`
-
-*Blush* - `Disable`
-
-*Squirting* - `Disable`
-
-*Fade* - `Enable`
-
-*Unequip shoes* - `Disable`
-
-*Notes by the author* - `Enable`
-
-*Sound Effects* - `New`
-
-**Thief**:
-
-Settings
-
-*Tips* - `Enable`
-
-*Achievement notifications* - `Enable`
-
-*Checkpoint Autosave* - `Disable`
-
-*Overlays* - `Disable`
-
-### FNIS PCEA2
-
-**Available Animation Collections**:
-
-*Female* - `Enable` if player character is female
-
-*Male* - `Enable` if player character is male
-
-Click `Refresh PCEA2 animations NOW`, exit and reopen the MCM.
 
 ### Follower Framework
 
@@ -980,11 +979,11 @@ Hotkeyed Abilities
 
 *Command Followers* - `F4`
 
-*Calm Followers* - `F1`
+*Calm Followers* - `F3`
 
-*Followers Retreat* - `F3`
+*Followers Retreat* - `F2`
 
-*Followers Attack* - `F2`
+*Followers Attack* - `F1`
 
 ### Forgotten Wenches
 
@@ -992,7 +991,7 @@ Hotkeyed Abilities
 
 Ondeath Summon Chance
 
-*Forgotten Wench Spawn* - `25% Chance`
+*Forgotten Wench Spawn* - `10% Chance`
 
 ### Growl Werebeasts
 
@@ -1006,7 +1005,9 @@ Ondeath Summon Chance
 
 Summon Undead Wench Spell
 
-*Draugrs* - `20%`
+*Draugrs* - `15%`
+
+*Dragon Priests* - `25%`
 
 ### Judgment Wenches
 
@@ -1016,23 +1017,21 @@ Judgment Wenches spawn chance.
 
 *Judgment Wench* - `20%`
 
-### Poser Hotkeys
+### Nemesis PCEA
 
-**Hotkeys**:
+Animation Pack(s)
 
-Make sure to use the *Enable/Disable All Hotkeys* button when you're not using this pose mod! It is important that *Hotkey Status* says `Hotkeys are Disabled`. If you see `Hotkeys are Enabled` exit the MCM and press the hotkey for *Enable/Disable All Hotkeys*.
+(activate either `0Female` or `1Male` depending on your gender)
+
+### Normal Attack Stamina Consuption
+
+*Stamina Consumption* - `10%`
 
 ### Quick Light
 
 (Brightness can be adjusted to whatever you like)
 
 *Brightness* - `Wide`
-
-(Personal preference, I like to disable the light key and just use `E`.)
-
-*Set light key* - `ESC`
-
-*Long press time for activate key* - `1.5s`
 
 ### Sacrosanct Vampires
 
@@ -1064,29 +1063,13 @@ SWF Version Checking
 
 *Auto Save Count* - `5 Slots`
 
-*Delay Before Exit Game* - `7 Seconds` (might be set higher if you have a slow drive)
+### The Ultimate Dodge Mod
 
-### Storm Lightning
+Player Settings
 
-**Presets**:
+(Set the sneak key in the game settings to the key you want to doge with and set the sneak key here to the key you want to sneak with :5head:)
 
-Click `Realistic`
-
-**Advanced**:
-
-*Compatibility Mode* - `Enabled`
-
-### TK Dodge
-
-Control Settings
-
-*Dodge Key* - `V` (set this to whatever you like)
-
-*Double Tap input* - `Disable` (personal preference)
-
-Other Settings
-
-*Stamina Cost* - `7.0` (choose something between `5.0` and `10.0`)
+*Sneak Key* - `Ctrl`
 
 ### Ultimate Combat
 
@@ -1098,11 +1081,17 @@ Stagger
 
 *Player Stagger* - `Disabled`
 
-Locational Damage
+**NPC Setting**:
 
-*Locational Damage Sound* - `Disabled`
+NPC
 
-*Locational Damage Effect* - `Disabled`
+*Dodge* - `Disable`
+
+### VioLens
+
+Melee
+
+*Player Killmove Immunity* - `Enable`
 
 ### WetFunction Redux
 
@@ -1120,21 +1109,11 @@ Disable everything except `Body (specular)`
 
 **Dynamic Combat**:
 
-*Disable Slow at 0 Stamina* - `Enabled`
+*Disable Dynamic Combat* - `Enable`
 
-*Disable Swimming Stamina Cost* - `Enabled`
+Attacks of Opportunity
 
-*Disable Bow Interrupts* - `Enabled`
-
-**Stamina Costs**:
-
-*Bow Attacks Cost* - `0 Stamina`
-
-*Disable Pulled / Held Bow Stamina Cost* - `Enabled`
-
-**Timed Block**:
-
-*Disable Timed Block* - `Enabled`
+*Disable Penalties vs. Massive Targets* - `Enable`
 
 ### XPMSE
 
@@ -1225,6 +1204,76 @@ Click `Mod Status - Disabled`
 Close the MCM and wait for the message `Defeat: Installed` and reopen the MCM.
 
 Click `Import settings`.
+
+### Devious Devices (MCM)
+
+**Devices**:
+
+(select your difficulty here, I recommend going with _Questioning_)
+
+*Disable Lock Jam* - `Enabled`
+
+### Deviously Helpless
+
+**Features**:
+
+Scene options
+
+*Attackers steal keys* - `Disabled`
+
+**Restraints equipping**:
+
+*Enemy item chance* - `10%`
+
+*Restrictive item change* - `20%`
+
+*Allow enemy blindfolds* - `Disabled`
+
+*Allow enemy boots* - `Disabled`
+
+**Triggers**:
+
+ZaZ Animation pack
+
+*Arm cuffs* - `Enabled`
+
+*Leg cuffs* - `Enabled`
+
+### Devious Device Helpers
+
+**Basic Settings**:
+
+Feature Enables
+
+*No keys consumed at end of play time* - `Enabled`
+
+Where follower may ask to tie player
+
+(disable everything except `Player Homes`)
+
+How often to ask player
+
+*Minimum days to wait* - `2 Days`
+
+Duration of play sessions
+
+*Maximum hours to play* - `1.5 Hours`
+
+### Cursed Loot
+
+**Debug**:
+
+(click *Import Settings* or disable the mod with *Shut down all functions*)
+
+### SLA Monitor Widget
+
+**Widget Looks**:
+
+Widget position
+
+*Horizontal anchor* - `Left`
+
+*Vertical anchor* - `Center`
 
 ### Spell Research
 
