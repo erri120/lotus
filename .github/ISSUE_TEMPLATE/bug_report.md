@@ -24,3 +24,6 @@ If applicable, add screenshots to help explain your problem. I highly recommend 
 **Modlist version**
 
 **Did you add any additional mods?**
+
+**Save file**
+In some cases it's useful to upload and link a save file so I can quickly jump into the game and check the bug. You don't need to do this in most cases but problems with quests or scripts can be better debugged with a save file before it happened.
