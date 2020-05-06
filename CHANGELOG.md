@@ -29,6 +29,8 @@ The 0.3 launch has been huge and you guys quickly found some bugs. This and the 
 - Fixed [Issue #65](https://github.com/erri120/lotus/issues/65)
 - Fixed [Issue #63](https://github.com/erri120/lotus/issues/63)
 - Fixed [Issue #60](https://github.com/erri120/lotus/issues/60)
+- Disabled some RaceMenu presets that were not working correctly
+- Fixed [Issue #66](https://github.com/erri120/lotus/issues/66) by replacing the EVW BSA with the Loose version
 
 ## 0.3.0
 
