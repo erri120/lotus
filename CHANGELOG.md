@@ -25,7 +25,10 @@ The 0.3 launch has been huge and you guys quickly found some bugs. This and the 
 - Updated [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619) to 1.0.15
 - Fixed [Issue #62](https://github.com/erri120/lotus/issues/62)
 - Removed a lot of unused and duplicate BodySlide files
-- Disabled WetFunctionRedux until further notice
+- Fixed wrong texture name for WetFunctionRedux
+- Fixed [Issue #65](https://github.com/erri120/lotus/issues/65)
+- Fixed [Issue #63](https://github.com/erri120/lotus/issues/63)
+- Fixed [Issue #60](https://github.com/erri120/lotus/issues/60)
 
 ## 0.3.0
 
