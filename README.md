@@ -291,6 +291,8 @@ You can find the config files in the MO2 folder: `MO2/LOOT Config Files`. I reco
 
 #### Build BodySlide files
 
+I except you to have some knowledge on how to use BodySlide before continuing. Check the mod page for more info: [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)
+
 As the amount of outfits and BS files grew in this modlist, I made the decision to *not* build and include the meshes. This made the resulting modlist file smaller and installation quicker. You should build the outfits in BodySlide with your preset of choice.
 
 ## Updating
@@ -588,6 +590,8 @@ Next I'm gonna take a page out of [SkyRem](https://www.nexusmods.com/skyrimspeci
 
 Anyway, INEZ reworks the encounter zones, LORA overhauls the Loot and is a replacement to [MLU](https://www.nexusmods.com/skyrimspecialedition/mods/3058/?) and EVE + [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) add more spice and complexity to the economy and trading system.
 
+The updated version of [Dynamic Equipment Manager SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21937), [Dynamic Equipment Manager SKSE Updated](https://www.nexusmods.com/skyrimspecialedition/mods/34407) automatically equips and unequips ammo, helmets and shields. Check the config file you don't want some of those features.
+
 Links:
 
 - [Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/32211) by [tjhm4](https://www.nexusmods.com/skyrimspecialedition/users/822500)
@@ -595,6 +599,7 @@ Links:
 - [Evolving Value Economy (SkyRem - Eve)](https://www.nexusmods.com/skyrimspecialedition/mods/26325) by [tjhm4](https://www.nexusmods.com/skyrimspecialedition/users/822500)
 - [Loot Overhaul - Rarity and Abundancy (SkyRem - Lora)](https://www.nexusmods.com/skyrimspecialedition/mods/26732) by [tjhm4](https://www.nexusmods.com/skyrimspecialedition/users/822500)
 - [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) by [kryptopyr](https://www.nexusmods.com/skyrimspecialedition/users/4291352)
+- [Dynamic Equipment Manager SKSE Updated](https://www.nexusmods.com/skyrimspecialedition/mods/34407) original by [Ryan](https://www.nexusmods.com/skyrimspecialedition/users/5687342) updated by [dukethedropkicker](https://www.nexusmods.com/skyrimspecialedition/users/58293366)
 
 ### Wench Mods
 
@@ -1329,11 +1334,11 @@ New animations can be easily added depending on the category. You have to differ
 
 [SLAL](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/) or _Sexlab Animation Loader_ requires special animations. You should only install additional Sexlab animations if those are made for SLAL.
 
-Simply install them and re-run FNIS. If the animations come with an ESP, than you will have to jump into xEdit or zEdit and find out what the ESP adds/changes. Most ESPs of animations simply add animations objects and do not change any vanilla records. These ESPs can be loaded anywhere in the loadorder.
+Simply install them and re-run [FNIS+Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/issues/98#issuecomment-605507558). If the animations come with an ESP, than you will have to jump into xEdit or zEdit and find out what the ESP adds/changes. Most ESPs of animations simply add animations objects and do not change any vanilla records. These ESPs can be loaded anywhere in the loadorder.
 
 #### Normal Animations
 
-Simply install the new animations and re-run FNIS. You might want to take a look at [FNIS PCEA2](https://www.nexusmods.com/skyrimspecialedition/mods/13281) if you want those new animations to be player exclusive.
+Simply install the new animations and re-run [FNIS+Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/issues/98#issuecomment-605507558). You might want to take a look at [Nemesis PCEA2](https://www.nexusmods.com/skyrimspecialedition/mods/31667) if you want those new animations to be player exclusive.
 
 ### Pose Mods
 

@@ -1,5 +1,6 @@
 # Changelog
 
+- [0.3.1](#031)
 - [0.3.0](#030)
 - [0.2.2](#022)
 - [0.2.1](#021)
@@ -9,6 +10,19 @@
 - [0.1.0](#010)
 - [0.0.2](#002)
 - [0.0.1: Initial Release](#001-initial-release)
+
+## 0.3.1
+
+**Released at:** ``
+
+**Info**:
+
+The 0.3 launch has been huge and you guys quickly found some bugs. This and the following updates will hopefully address most of them and focus on fixing and updating rather than adding.
+
+**Changes**:
+
+- Added missing BodySlide files for ZaZ
+- Updated [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619) to 1.0.15
 
 ## 0.3.0
 
