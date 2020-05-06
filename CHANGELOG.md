@@ -17,13 +17,15 @@
 
 **Info**:
 
-The 0.3 launch has been huge and you guys quickly found some bugs. This and the following updates will hopefully address most of them and focus on fixing and updating rather than adding.
+The 0.3 launch has been huge and you guys quickly found some bugs. This and the following updates will hopefully address most of them and focus on fixing and updating rather than adding. I've changed some BodySlide related stuff so I recommend yeeting the contents of your BodySlide Output folder and rebuilding the outfits.
 
 **Changes**:
 
 - Added missing BodySlide files for ZaZ
 - Updated [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619) to 1.0.15
 - Fixed [Issue #62](https://github.com/erri120/lotus/issues/62)
+- Removed a lot of unused and duplicate BodySlide files
+- Disabled WetFunctionRedux until further notice
 
 ## 0.3.0
 
