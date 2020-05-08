@@ -997,7 +997,7 @@ Hotkeyed Abilities
 
 Ondeath Summon Chance
 
-*Forgotten Wench Spawn* - `10% Chance`
+*Forgotten Wench Spawn* - `5% Chance`
 
 ### Growl Werebeasts
 
@@ -1011,9 +1011,9 @@ Ondeath Summon Chance
 
 Summon Undead Wench Spell
 
-*Draugrs* - `15%`
+*Draugrs* - `10%`
 
-*Dragon Priests* - `25%`
+*Dragon Priests* - `15%`
 
 ### Judgment Wenches
 
@@ -1021,7 +1021,7 @@ Summon Undead Wench Spell
 
 Judgment Wenches spawn chance.
 
-*Judgment Wench* - `20%`
+*Judgment Wench* - `10%`
 
 ### Nemesis PCEA
 

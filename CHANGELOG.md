@@ -32,12 +32,13 @@ The 0.3 launch has been huge and you guys quickly found some bugs. This and the 
 - Disabled some RaceMenu presets that were not working correctly
 - Fixed [Issue #66](https://github.com/erri120/lotus/issues/66) by replacing the EVW BSA with the Loose version
 - Updated [Serana Dialogue Add-On Amorous Adventures Patch](https://www.nexusmods.com/skyrimspecialedition/mods/32161/?tab=files) to 3.0
-- Updated [ABC](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to 1.55
+- Updated [ABC](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to 1.56
 - Fixed [Issue #68](https://github.com/erri120/lotus/issues/68)
+- Fixed [Issue #74](https://github.com/erri120/lotus/issues/74)
 
 ## 0.3.0
 
-**Released at:** `00.04.2020`
+**Released at:** `05.05.2020`
 
 **Info**:
 
