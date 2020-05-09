@@ -35,6 +35,9 @@ The 0.3 launch has been huge and you guys quickly found some bugs. This and the 
 - Updated [ABC](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to 1.56
 - Fixed [Issue #68](https://github.com/erri120/lotus/issues/68)
 - Fixed [Issue #74](https://github.com/erri120/lotus/issues/74)
+- Updated [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) to 0.3.13
+- Updated [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076/) to 2.6.6
+- Updated [The Men of Winter](https://www.nexusmods.com/skyrimspecialedition/mods/10902?tab=files) to 5.3
 
 ## 0.3.0
 
