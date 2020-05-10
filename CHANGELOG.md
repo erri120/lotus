@@ -19,6 +19,8 @@
 
 The 0.3 launch has been huge and you guys quickly found some bugs. This and the following updates will hopefully address most of them and focus on fixing and updating rather than adding. I've changed some BodySlide related stuff so I recommend yeeting the contents of your BodySlide Output folder and rebuilding the outfits. I've also updated the DCL config so go into the MCM and load the config again.
 
+Make sure to disable `Expressive Facegen Morphs SE` in MO2, forgot to disable that mod.
+
 **Changes**:
 
 - Added missing BodySlide files for ZaZ
@@ -41,7 +43,6 @@ The 0.3 launch has been huge and you guys quickly found some bugs. This and the 
 - Updated [Majestic Mountains - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files) to 3.10
 - Updated [Better Dynamic Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/20102?tab=files) to 9
 - Updated [moreHUD SE](https://www.nexusmods.com/skyrimspecialedition/mods/12688?tab=files) to 3.7.9
-- Added [Expressive Facegen Morphs SE](https://www.nexusmods.com/skyrimspecialedition/mods/35785)
 - Fixed [Issue #77](https://github.com/erri120/lotus/issues/77)
 
 ## 0.3.0
