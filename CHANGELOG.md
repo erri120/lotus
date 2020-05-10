@@ -13,7 +13,7 @@
 
 ## 0.3.1
 
-**Released at:** ``
+**Released at:** `10.05.2020`
 
 **Info**:
 
@@ -38,6 +38,10 @@ The 0.3 launch has been huge and you guys quickly found some bugs. This and the 
 - Updated [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) to 0.3.13
 - Updated [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076/) to 2.6.6
 - Updated [The Men of Winter](https://www.nexusmods.com/skyrimspecialedition/mods/10902?tab=files) to 5.3
+- Updated [Majestic Mountains - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files) to 3.10
+- Updated [Better Dynamic Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/20102?tab=files) to 9
+- Updated [moreHUD SE](https://www.nexusmods.com/skyrimspecialedition/mods/12688?tab=files) to 3.7.9
+- Added [Expressive Facegen Morphs SE](https://www.nexusmods.com/skyrimspecialedition/mods/35785)
 
 ## 0.3.0
 
