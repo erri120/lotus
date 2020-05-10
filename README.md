@@ -253,6 +253,8 @@ The download and installation process can take a very long time depending on you
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you loose no progress.
 
+**DO NOT CONTACT MOD AUTHORS DIRECTLY**.
+
 **Could not download x**:
 
 If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait till I update the Modlist.
