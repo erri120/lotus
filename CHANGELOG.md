@@ -17,7 +17,7 @@
 
 **Info**:
 
-The 0.3 launch has been huge and you guys quickly found some bugs. This and the following updates will hopefully address most of them and focus on fixing and updating rather than adding. I've changed some BodySlide related stuff so I recommend yeeting the contents of your BodySlide Output folder and rebuilding the outfits.
+The 0.3 launch has been huge and you guys quickly found some bugs. This and the following updates will hopefully address most of them and focus on fixing and updating rather than adding. I've changed some BodySlide related stuff so I recommend yeeting the contents of your BodySlide Output folder and rebuilding the outfits. I've also updated the DCL config so go into the MCM and load the config again.
 
 **Changes**:
 
@@ -42,6 +42,7 @@ The 0.3 launch has been huge and you guys quickly found some bugs. This and the 
 - Updated [Better Dynamic Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/20102?tab=files) to 9
 - Updated [moreHUD SE](https://www.nexusmods.com/skyrimspecialedition/mods/12688?tab=files) to 3.7.9
 - Added [Expressive Facegen Morphs SE](https://www.nexusmods.com/skyrimspecialedition/mods/35785)
+- Fixed [Issue #77](https://github.com/erri120/lotus/issues/77)
 
 ## 0.3.0
 
