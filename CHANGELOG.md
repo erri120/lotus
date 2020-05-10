@@ -1,5 +1,6 @@
 # Changelog
 
+- [0.3.2](#032)
 - [0.3.1](#031)
 - [0.3.0](#030)
 - [0.2.2](#022)
@@ -10,6 +11,19 @@
 - [0.1.0](#010)
 - [0.0.2](#002)
 - [0.0.1: Initial Release](#001-initial-release)
+
+## 0.3.2
+
+**Released at:** `10.05.2020`
+
+**Info**:
+
+Quick dead link hotfix.
+
+**Changes**:
+
+- Updated [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files) to 0.3.14
+- Updated [Loot Overhaul - Rarity and Abundance (SkyRem - Lora)](https://www.nexusmods.com/skyrimspecialedition/mods/26732/?tab=files) to 2.0.1
 
 ## 0.3.1
 
