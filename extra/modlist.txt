@@ -31,11 +31,12 @@
 +User Submitted Content
 +DCL AA fix by cacophony
 +DCL NavMesh fix by Umgak
++ZaZ BreastRopeExtreme fix
 +ESPs by erri120
 -OTHERS_separator
 -Felisja - Bodyslide Preset CBBE
-+The Witcher 3 High Poly Presets
-+A Delicate Face - Female Nord Racemenu Preset
+-The Witcher 3 High Poly Presets
+-A Delicate Face - Female Nord Racemenu Preset
 +A Huge RaceMenu Preset Collection
 -Ultimate Fantasy Body (Bodyslide Preset) (CBBE 3BBB)
 -The Legendary Booty Body - 50 Plus CBBE SE Bodyslide Presets
@@ -57,6 +58,7 @@
 +Cathedral Weathers - Audio Overhaul Patch for Skyrim SE patch
 +Where in Special Edition am I
 +AddItemMenu - Ultimate Mod Explorer
+-Review Studio MCM
 -MISC_separator
 -Poses - Merged
 -Shocky Pose Pack SE
@@ -149,6 +151,7 @@
 +Superior Lore-Friendly Hair - HD textures
 -CHARACTER MINOR_separator
 -SOS - Merged
+-Expressive Facegen Morphs SE
 +Expressive Facial Animation -Male Edition-
 +Expressive Facial Animation -Female Edition-
 +Schlongs of Skyrim SE HDT-SMP files
@@ -178,7 +181,7 @@
 +06F - EVW SE - V4.0 - Optional Level List Patch - Breton Forsworn Only
 +06 - EVW SE - V3.0 - Optional Level List Patch - No Beast Stormcloak Guards
 +04 - EVW SE - V4.0 - Uncut Optional
-+Enemy Variations Wenches
++Enemy Variations Wenches (Loose)
 -Enemy Variations_separator
 +NPC Retexture - Merged
 +MBWS NPC Replacer Karliah and Vex by Ria
@@ -188,6 +191,7 @@
 +Moolgogi Elisif Replacer
 +Moolgogi's Jordis Replacer
 +GK Housecarl Replacer SE
++GK Follower Core Files Physics Fix
 +GK Follower Core File SE CBBE
 +GK Follower SE Core File
 +Lady Miraak - Special Edition
@@ -531,6 +535,7 @@
 +Babo Human SE
 +Babo Creature SE
 -SL Animations_separator
+-DD anims for DAR
 +Devious Devices Helpers SE
 +DibellaSisterhood+Sisters_SE
 +Deviously Helpless SE (converted by Roggvir)
