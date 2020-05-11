@@ -1,5 +1,6 @@
 # Changelog
 
+- [0.3.3](#033)
 - [0.3.2](#032)
 - [0.3.1](#031)
 - [0.3.0](#030)
@@ -11,6 +12,23 @@
 - [0.1.0](#010)
 - [0.0.2](#002)
 - [0.0.1: Initial Release](#001-initial-release)
+
+## 0.3.3
+
+**Released at:** ``
+
+**Info**:
+
+Another dead link update. Also added 3 new dope outfits.
+
+**Changes**:
+
+- Updated [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174/?tab=files) to 1.37
+- Updated [Loot Overhaul - Rarity and Abundance (SkyRem - Lora)](https://www.nexusmods.com/skyrimspecialedition/mods/26732/?tab=files) to 2.0.3
+- Added [[SE] Dint999's BDO Arethel & Heled SMP 3BA](https://www.loverslab.com/files/file/12828-se-dint999s-bdo-arethel-heled-smp-3ba/)
+- Added [[SE] Team Tal's DM BDOR Kibelius SMP 3BA](https://www.loverslab.com/files/file/12827-se-team-tals-dm-bdor-kibelius-smp-3ba/)
+- Added [[SE] Team TAL's DM BDOR Lephria SMP 3BA](https://www.loverslab.com/files/file/12825-se-team-tals-dm-bdor-lephria-smp-3ba/)
+- Fixed [Issue #71](https://github.com/erri120/lotus/issues/71)
 
 ## 0.3.2
 
