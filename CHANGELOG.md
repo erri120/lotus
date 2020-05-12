@@ -29,6 +29,9 @@ Another dead link update. Also added 3 new dope outfits.
 - Added [[SE] Team Tal's DM BDOR Kibelius SMP 3BA](https://www.loverslab.com/files/file/12827-se-team-tals-dm-bdor-kibelius-smp-3ba/)
 - Added [[SE] Team TAL's DM BDOR Lephria SMP 3BA](https://www.loverslab.com/files/file/12825-se-team-tals-dm-bdor-lephria-smp-3ba/)
 - Fixed [Issue #71](https://github.com/erri120/lotus/issues/71)
+- Updated [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files) to 0.3.15
+- Updated [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161/?tab=files) to 1.0
+- Updated [Special Perks from Questing (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/29402?tab=files) to 1.2
 
 ## 0.3.2
 
