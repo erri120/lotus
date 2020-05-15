@@ -316,7 +316,7 @@ This section contains information about some of the most important mods in this 
 You know this would be first, didn't you...
 [SexLab Framework](https://www.loverslab.com/topic/91861-sexlab-framework-se-163-beta-8-november-22nd-2019/) is the core of all installed LL mods. Do note that this is a **beta build**. [SLAL](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/) or _SexLab Animation Loader_ and [SexLab Aroused Redux](https://www.loverslab.com/files/file/5482-sexlab-aroused-redux-sse-version-29/) are included as well.
 
-Since we don't judge your fetishes, I have included [Creature Framework](https://www.loverslab.com/files/file/5462-creature-framework-se/) and [More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/).
+Since we don't judge your fetishes, I have included [Creature Framework](https://www.loverslab.com/files/file/5462-creature-framework-se/) and [More Nasty Critters](https://www.loverslab.com/files/file/4130-more-nasty-critters-slal-edition/).
 
 [ZAZ](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/) is a requirement for other mods so you get that and the [ZAZ 8.0+ CBBE HDT Rev3](https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I) version.
 
@@ -326,7 +326,7 @@ Links:
 - [SexLab Animation Loader SSE](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/) by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
 - [SexLab Aroused Redux SSE Version](https://www.loverslab.com/files/file/5482-sexlab-aroused-redux-sse-version-29/) by [fishburger67](https://www.loverslab.com/profile/441678-fishburger67/)
 - [Creature Framework SE](https://www.loverslab.com/files/file/5462-creature-framework-se/) original by [Ep1cL3w7z](https://www.loverslab.com/profile/67752-ep1cl3w7z/)
-- [More Nasty Critters Special Edition](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/) original by [MadMansGun](https://www.loverslab.com/profile/71862-madmansgun/)
+- [More Nasty Critters Special Edition](https://www.loverslab.com/files/file/4130-more-nasty-critters-slal-edition/) by [MadMansGun](https://www.loverslab.com/profile/71862-madmansgun/)
 - [ZAZ Animation Packs for SE](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
 - [ZAZ 8.0+ CBBE HDT Rev3](https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
 
@@ -586,11 +586,11 @@ These mods do not really fit in the other categories and but are still important
 
 Starting with a mod you don't even see in MO2: [Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/32211) which is a zEdit patcher that delevels enemies based on what faction they are part of. I will tweak this patcher based on feedback I receive and my own testing so it may be a bit unbalanced at the moment.
 
-Next I'm gonna take a page out of [SkyRem](https://www.nexusmods.com/skyrimspecialedition/mods/26789) by [DrPharmDawg](https://www.nexusmods.com/skyrimspecialedition/users/19562249) ([Patreon](https://www.patreon.com/user?u=16576878)) and use [Improved NPC Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/27103), [Evolving Value Economy](https://www.nexusmods.com/skyrimspecialedition/mods/26325) and [Loot Overhaul - Rarity and Abundancy](https://www.nexusmods.com/skyrimspecialedition/mods/26732).
+Next I'm gonna take a page out of [SkyRem](https://www.nexusmods.com/skyrimspecialedition/mods/26789) by [DrPharmDawg](https://www.nexusmods.com/skyrimspecialedition/users/19562249) ([Patreon](https://www.patreon.com/user?u=16576878)) and use [Improved NPC Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/27103) and [Evolving Value Economy](https://www.nexusmods.com/skyrimspecialedition/mods/26325).
 
 (Sidenote: I love how every mod in Skyrim needs to have some sort of acronym in their title for no reason at all)
 
-Anyway, INEZ reworks the encounter zones, LORA overhauls the Loot and is a replacement to [MLU](https://www.nexusmods.com/skyrimspecialedition/mods/3058/?) and EVE + [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) add more spice and complexity to the economy and trading system.
+Anyway, INEZ reworks the encounter zones and EVE + [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) add more spice and complexity to the economy and trading system.
 
 The updated version of [Dynamic Equipment Manager SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21937), [Dynamic Equipment Manager SKSE Updated](https://www.nexusmods.com/skyrimspecialedition/mods/34407) automatically equips and unequips ammo, helmets and shields. Check the config file you don't want some of those features.
 
@@ -599,7 +599,6 @@ Links:
 - [Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/32211) by [tjhm4](https://www.nexusmods.com/skyrimspecialedition/users/822500)
 - [Improved NPC Encounter Zones (SkyRem - Inez)](https://www.nexusmods.com/skyrimspecialedition/mods/27103) by [DrPharmDawg](https://www.nexusmods.com/skyrimspecialedition/users/19562249) by [tjhm4](https://www.nexusmods.com/skyrimspecialedition/users/822500)
 - [Evolving Value Economy (SkyRem - Eve)](https://www.nexusmods.com/skyrimspecialedition/mods/26325) by [tjhm4](https://www.nexusmods.com/skyrimspecialedition/users/822500)
-- [Loot Overhaul - Rarity and Abundancy (SkyRem - Lora)](https://www.nexusmods.com/skyrimspecialedition/mods/26732) by [tjhm4](https://www.nexusmods.com/skyrimspecialedition/users/822500)
 - [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) by [kryptopyr](https://www.nexusmods.com/skyrimspecialedition/users/4291352)
 - [Dynamic Equipment Manager SKSE Updated](https://www.nexusmods.com/skyrimspecialedition/mods/34407) original by [Ryan](https://www.nexusmods.com/skyrimspecialedition/users/5687342) updated by [dukethedropkicker](https://www.nexusmods.com/skyrimspecialedition/users/58293366)
 

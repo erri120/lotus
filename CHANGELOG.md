@@ -24,7 +24,7 @@ Another dead link update. Also added 3 new dope outfits.
 **Changes**:
 
 - Updated [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174/?tab=files) to 1.37
-- Updated [Loot Overhaul - Rarity and Abundance (SkyRem - Lora)](https://www.nexusmods.com/skyrimspecialedition/mods/26732/?tab=files) to 2.0.3
+- Removed [Loot Overhaul - Rarity and Abundance (SkyRem - Lora)](https://www.nexusmods.com/skyrimspecialedition/mods/26732/?tab=files)
 - Added [[SE] Dint999's BDO Arethel & Heled SMP 3BA](https://www.loverslab.com/files/file/12828-se-dint999s-bdo-arethel-heled-smp-3ba/)
 - Added [[SE] Team Tal's DM BDOR Kibelius SMP 3BA](https://www.loverslab.com/files/file/12827-se-team-tals-dm-bdor-kibelius-smp-3ba/)
 - Added [[SE] Team TAL's DM BDOR Lephria SMP 3BA](https://www.loverslab.com/files/file/12825-se-team-tals-dm-bdor-lephria-smp-3ba/)
@@ -35,6 +35,10 @@ Another dead link update. Also added 3 new dope outfits.
 - Updated [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files) to 5.2.0
 - Fixed [Issue #55](https://github.com/erri120/lotus/issues/55)
 - Added [Audio Overhaul and Immersive Sounds Patch Redux](https://www.nexusmods.com/skyrimspecialedition/mods/35906?tab=description)
+- Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files) to 2.1.7
+- Added [Quick Loot RE and Hook Share SSE 1.5.97 Unofficial Update for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/35951?tab=files)
+- Updated [Animated Beast's Cocks(ABC) For users LE / SE 1.58V](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to 1.58
+- Updated [More Nasty Critters](https://www.loverslab.com/files/file/4130-more-nasty-critters-slal-edition/) to 12.07
 
 ## 0.3.2
 
