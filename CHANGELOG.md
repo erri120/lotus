@@ -15,7 +15,7 @@
 
 ## 0.3.3
 
-**Released at:** ``
+**Released at:** `16.05.2020`
 
 **Info**:
 
