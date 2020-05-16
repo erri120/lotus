@@ -34,6 +34,7 @@
 +ZaZ BreastRopeExtreme fix
 +ESPs by erri120
 -OTHERS_separator
++BodySlide Preset by JanosTran
 -Felisja - Bodyslide Preset CBBE
 -The Witcher 3 High Poly Presets
 -A Delicate Face - Female Nord Racemenu Preset
@@ -102,6 +103,9 @@
 +DX Cassandra Frost Witch Outfit - UNP
 +DX Cassandra Apocrypha Robes - UNP
 -DX OUTFITS_separator
++[SE] DM BDOR Lephria by Team TAL
++DM BDOR Kibelius by Team TAL
++[SE] Dint999 BDO Arethel+Heled SMP CBBE 3BA
 +Chevaleresse II Armor - SSE CBBE BodySlide
 +yurica chevaleresse II Armor SMP SE
 +Undies - CBBE 3BBB (3BA) Bodyslides
@@ -237,6 +241,7 @@
 +Relationship Dialogue Overhaul - RDO SE
 +Cuyima Interesting NPCs SE
 +Interesting NPCs (3DNPC) character Zora Fairchild's voice boosted
++Interesting NPCs SE - Maids II - Deception Patches Patch
 +Interesting NPCs 3DNPC SE - BSAs
 +DIVERSE SKYRIM SSE
 +Critters Ain't Snitches - Animal and Monster Crime Reporting Fix
@@ -462,10 +467,10 @@
 +Smithing Perks Overhaul SE
 +Adamant - A Perk Overhaul
 -SKILLS, PERKS and MORE_separator
++Quick Loot RE and Hook Share SSE 1.5.97 Unofficial Update for SKSE Plugins
 +Honed Metal Voiced
 +Honed Metal - SSE
 +Dynamic Equipment Manager SKSE Updated
-+Loot Overhaul - Rarity and Abundancy (SkyRem - Lora)
 +Trade and Barter
 +Evolving Value Economy (SkyRem - Eve)
 +Improved NPC Encounter Zones (SkyRem - Inez)
@@ -492,6 +497,7 @@
 -himika's lock on (stradivuckos updated version) SSE
 +Nether's Follower Framework
 -COMBAT_separator
++AIM FIX - total control over the crosshair for archery and magic
 +Immersive First Person View
 +Better FaceLight and Conversation Redux
 -Improved Camera
@@ -545,7 +551,8 @@
 -DD_separator
 +EstrusForSkyrimSE_VR
 +BakaFactory Animated Beasts Cocks
-+MoreNastyCritters_v12_06A
++More Nasty Critters
+-MoreNastyCritters_v12_06A
 -Creature Framework SE
 +SexLabAroused Redux V28b SSE Modified by BakaFactory(2020 04 05))
 -SexLabAroused Redux V28b SSE Modified by BakaFactory
@@ -628,7 +635,8 @@
 +Dreams and Nightmares Music Mod
 +Talkative Dragons Audio Replacer
 +Talkative Dragons
-+Immersive Sounds Compendium Synergy Patch
++Audio Overhaul and Immersive Sounds Patch Redux
+-Immersive Sounds Compendium Synergy Patch
 +Immersive Sounds - Compendium
 +Audio Overhaul for Skyrim SE
 +Unofficial High Definition Audio Project
