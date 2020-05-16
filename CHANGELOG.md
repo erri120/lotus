@@ -29,7 +29,7 @@ Another dead link update. Also added 3 new dope outfits.
 - Added [[SE] Team Tal's DM BDOR Kibelius SMP 3BA](https://www.loverslab.com/files/file/12827-se-team-tals-dm-bdor-kibelius-smp-3ba/)
 - Added [[SE] Team TAL's DM BDOR Lephria SMP 3BA](https://www.loverslab.com/files/file/12825-se-team-tals-dm-bdor-lephria-smp-3ba/)
 - Fixed [Issue #71](https://github.com/erri120/lotus/issues/71)
-- Updated [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files) to 0.4
+- Updated [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files) to 0.4.1
 - Updated [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161/?tab=files) to 1.0
 - Updated [Special Perks from Questing (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/29402?tab=files) to 1.2
 - Updated [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files) to 5.2.0
@@ -39,6 +39,8 @@ Another dead link update. Also added 3 new dope outfits.
 - Added [Quick Loot RE and Hook Share SSE 1.5.97 Unofficial Update for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/35951?tab=files)
 - Updated [Animated Beast's Cocks(ABC) For users LE / SE 1.58V](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to 1.58
 - Updated [More Nasty Critters](https://www.loverslab.com/files/file/4130-more-nasty-critters-slal-edition/) to 12.07
+- Added [AIM FIX - total control over the crosshair for archery and magic](https://www.nexusmods.com/skyrimspecialedition/mods/18524)
+- Updated [SSE CreationKit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) to 2.8
 
 ## 0.3.2
 
