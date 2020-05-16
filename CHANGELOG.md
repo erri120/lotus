@@ -19,7 +19,7 @@
 
 **Info**:
 
-Another dead link update. Also added 3 new dope outfits.
+Mostly dead links update and fixes.
 
 **Changes**:
 
@@ -41,6 +41,7 @@ Another dead link update. Also added 3 new dope outfits.
 - Updated [More Nasty Critters](https://www.loverslab.com/files/file/4130-more-nasty-critters-slal-edition/) to 12.07
 - Added [AIM FIX - total control over the crosshair for archery and magic](https://www.nexusmods.com/skyrimspecialedition/mods/18524)
 - Updated [SSE CreationKit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) to 2.8
+- Disabled enemy releveler esp
 
 ## 0.3.2
 
