@@ -1,5 +1,6 @@
 # Changelog
 
+- [0.3.4](#034)
 - [0.3.3](#033)
 - [0.3.2](#032)
 - [0.3.1](#031)
@@ -12,6 +13,22 @@
 - [0.1.0](#010)
 - [0.0.2](#002)
 - [0.0.1: Initial Release](#001-initial-release)
+
+## 0.3.4
+
+**Released at:** `2020`
+
+**Info**:
+
+**Changes**:
+
+- Updated [SexLab Solutions - Revisited SE](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/) to 1.1.4.1
+- Updated [The Book Of Sex SE](https://www.loverslab.com/files/file/10091-the-book-of-sex-se/) to 1.1
+- Added [HD Reworked Dragons Collection 4K](https://www.nexusmods.com/skyrimspecialedition/mods/36038)
+- Removed Bellyaches HD Dragon Replacer Pack (SE)
+- Removed Alduin's Imprefvicticious and Chapper's Demonic Retexture mashup
+- Removed Paarthurnax DragonSkin by DarkDukla
+- Replaced Silent Horizon with [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082)
 
 ## 0.3.3
 

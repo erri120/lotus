@@ -55,7 +55,7 @@
   - [Outfit Mods](#outfit-mods)
   - [Weapon Mods](#weapon-mods)
   - [Poses](#poses)
-  - [ENB: Silent Horizon](#enb-silent-horizon)
+  - [ENB: PI-CHO ENB](#enb-pi-cho-enb)
 - [Creating your Character](#creating-your-character)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [3PCO - 3rd Person Camera Overhaul](#3pco---3rd-person-camera-overhaul)
@@ -864,14 +864,15 @@ Links:
 - [GomaPero Poses SE](https://www.loverslab.com/files/file/4917-gomapero-poses-se/) original by [GomaPero](https://twitter.com/GomaPeroPero), converted by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
 - [Shocky's Poses Pack SE 1.0.0](https://www.loverslab.com/files/file/5134-shockys-poses-pack-se/) original by [Shocky](https://www.loverslab.com/profile/150878-shocky/), converted by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
 
-### ENB: Silent Horizon
+### ENB: PI-CHO ENB
 
-ENBs for Special Edition never really convinced me. [SnowFall Weathers](https://www.nexusmods.com/skyrim/mods/79335) singlehandedly made me stay with Oldrim for 3 years since it came out. I choose [Silent Horizon](https://www.nexusmods.com/skyrimspecialedition/mods/21543) for this Modlist, mainly because of its performance and set of features. It is also compatible with [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791), the weather mod of this list.
+ENBs for Special Edition never really convinced me. [SnowFall Weathers](https://www.nexusmods.com/skyrim/mods/79335) singlehandedly made me stay with Oldrim for 3 years since it came out. I choose [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082?tab=files), a modified version of [Silent Horizon](https://www.nexusmods.com/skyrimspecialedition/mods/21543), for this Modlist, mainly because of its performance and set of features. It is also compatible with [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791), the weather mod of this list.
 
 If you have a Titan V and more FPS than you need, check the [ENB](#enb) section for ENBs you can swap to.
 
 Links:
 
+- [PI-CHO ENB for Cathedral and Obsidian v Silent Horizon Custom ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082) by [HaeVakSa](https://www.nexusmods.com/skyrimspecialedition/users/87944743)
 - [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) by [LonelyKitsune](https://www.nexusmods.com/skyrimspecialedition/users/49767351)
 
 ## Creating your Character
@@ -1369,6 +1370,7 @@ Other ENBs you can use (not tested, experience may vary):
 
 ENBs that work with Cathedral Weathers:
 
+- [PI-CHO ENB for Cathedral and Obsidian v Silent Horizon Custom ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082)
 - [Silent Horizon](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 - [Ljoss - Semi-realistic performance preset with Nighteye and ENB Light support](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
 
@@ -1390,7 +1392,7 @@ My Setup:
 
 ### Tweaking the ENB
 
-This should always be the first thing you tweak. Disabling the ENB entirely can give you anything from 20 to >70 FPS. The ENB this Modlist comes with (see [ENB: Silent Horizon](#enb-silent-horizon)) is rather performance friendly. Open the ENB GUI using `Right Shift + Enter` (`Right Shift` is under the `Enter` key). This will open up the ENB GUI where you can enable and disable certain effects in the left panel.
+This should always be the first thing you tweak. Disabling the ENB entirely can give you anything from 20 to >70 FPS. The ENB this Modlist comes with (see [ENB](#enb-pi-cho-enb)) is rather performance friendly. Open the ENB GUI using `Right Shift + Enter` (`Right Shift` is under the `Enter` key). This will open up the ENB GUI where you can enable and disable certain effects in the left panel.
 
 - `Bloom`: Can give you up to 3 FPS, will make light sources less bright
 - `DepthOfField`: Can give you up to 10 FPS, disabled by default and not really suited for gameplay
