@@ -1,5 +1,7 @@
 # Lotus
 
+**THIS MODLIST IS NOT INSTALLABLE ATM**
+
 - [Preamble](#preamble)
   - [Wabbajack](#wabbajack)
   - [Kinks](#kinks)
